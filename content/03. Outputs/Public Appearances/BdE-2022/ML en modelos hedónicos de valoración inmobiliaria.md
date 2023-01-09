@@ -4,10 +4,10 @@ tags:
 - talk
 ---
 
-![])
+![[bde.png]]
 
 Event: Inteligencia Artificial Aplicada a Servicios Financieros
-event_url: 
+date: 17/06/2022 '2022-06-17'
 location: Banco de España
 
 summary: Presentación de paper sobre modelos hedónicos

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/03. Outputs/Public Appearances/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md",
+                "file": "content/03. Outputs/Public Appearances/Cruzando-datos-2022/Cruzando-datos-2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/03. Outputs/Public Appearances/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md",
+                "file": "content/03. Outputs/Public Appearances/Cruzando-datos-2022/Cruzando-datos-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/03. Outputs/Public Appearances/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md",
+                "file": "content/03. Outputs/Public Appearances/Cruzando-datos-2022/Cruzando-datos-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/03. Outputs/Public Appearances/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md"
+                "file": "content/03. Outputs/Public Appearances/Cruzando-datos-2022/Cruzando-datos-2022.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4c545069cda7849",
+  "active": "cb6216e7830ea7fe",
   "lastOpenFiles": [
-    "content/03. Outputs/Public Appearances/BdE-2022/bde.png",
+    "content/03. Outputs/Public Appearances/carto-2021/carto-2021.md",
+    "content/03. Outputs/Public Appearances/business-applications-DS-uam/business-applications-DS-uam.png",
+    "content/03. Outputs/Public Appearances/business-applications-DS-uam/business-applications-DS-uam.md",
+    "content/03. Outputs/Public Appearances/buscando-vocaciones/Buscando Vocaciones.md",
     "content/03. Outputs/Public Appearances/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md",
+    "content/03. Outputs/Public Appearances/BdE-2022/bde.png",
     "content/notes/philosophy.md",
     "content/notes/obsidian.md",
     "content/notes/ignore notes.md",
-    "content/notes/hosting.md",
-    "content/notes/docker.md",
-    "content/notes/custom Domain.md",
-    "content/notes/config.md",
-    "content/03. Outputs/Public Appearances/Public Appearances.md"
+    "content/notes/hosting.md"
   ]
 }
