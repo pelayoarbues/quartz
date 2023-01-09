@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b815e739e8d23252",
+        "id": "a632fc2abec872d0",
         "type": "tabs",
         "children": [
           {
-            "id": "f868c4038181ca20",
+            "id": "a4c545069cda7849",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/03. Outputs/Public Appearances/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "screenshot.png",
+                "file": "content/03. Outputs/Public Appearances/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "screenshot.png",
+                "file": "content/03. Outputs/Public Appearances/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "screenshot.png"
+                "file": "content/03. Outputs/Public Appearances/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md"
               }
             }
           }
@@ -142,10 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb6216e7830ea7fe",
+  "active": "a4c545069cda7849",
   "lastOpenFiles": [
-    "content/01. Slip-box/202211141711 - Short term and long term metrics.md",
-    "content/01. Slip-box/202202011102 - By-products of multiple processes.md",
-    "content/01. Slip-box/000 01. Slip-box.md"
+    "content/03. Outputs/Public Appearances/BdE-2022/bde.png",
+    "content/03. Outputs/Public Appearances/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md",
+    "content/notes/philosophy.md",
+    "content/notes/obsidian.md",
+    "content/notes/ignore notes.md",
+    "content/notes/hosting.md",
+    "content/notes/docker.md",
+    "content/notes/custom Domain.md",
+    "content/notes/config.md",
+    "content/03. Outputs/Public Appearances/Public Appearances.md"
   ]
 }
