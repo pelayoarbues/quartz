@@ -11,8 +11,12 @@
             "id": "ef8ef182f360be2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/01. Slip-box/202211141711 - Short term and long term metrics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/01. Slip-box/202211141711 - Short term and long term metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/01. Slip-box/202211141711 - Short term and long term metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/01. Slip-box/202211141711 - Short term and long term metrics.md"
+              }
             }
           }
         ]
@@ -139,5 +147,8 @@
     }
   },
   "active": "ef8ef182f360be2e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "content/01. Slip-box/202202011102 - By-products of multiple processes.md",
+    "content/01. Slip-box/000 01. Slip-box.md"
+  ]
 }
