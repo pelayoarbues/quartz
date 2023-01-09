@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dde0c040efe80db8",
+        "id": "b815e739e8d23252",
         "type": "tabs",
         "children": [
           {
-            "id": "ef8ef182f360be2e",
+            "id": "f868c4038181ca20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/01. Slip-box/202211141711 - Short term and long term metrics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/01. Slip-box/202211141711 - Short term and long term metrics.md",
+                "file": "screenshot.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/01. Slip-box/202211141711 - Short term and long term metrics.md",
+                "file": "screenshot.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/01. Slip-box/202211141711 - Short term and long term metrics.md"
+                "file": "screenshot.png"
               }
             }
           }
@@ -146,8 +142,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef8ef182f360be2e",
+  "active": "cb6216e7830ea7fe",
   "lastOpenFiles": [
+    "content/01. Slip-box/202211141711 - Short term and long term metrics.md",
     "content/01. Slip-box/202202011102 - By-products of multiple processes.md",
     "content/01. Slip-box/000 01. Slip-box.md"
   ]
