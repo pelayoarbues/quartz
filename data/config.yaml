@@ -1,4 +1,4 @@
-name: Pelayo Arbués
+name: 🧠 Pelayo Arbués
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -18,12 +18,15 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Pelayo Arbués personal site, public second brain and digital garden.
 page_title:
-  "🪴 Pelayo Arbues digital brain"
+  "🧠 Pelayo Arbués public Second Bain organized as a Digital Garden"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/pelayoarbues
+  - link_name: Mastodon
+    link: https://sigmoid.social/@pelayoarbues
+  - link_name: Flickr
+    link: https://www.flickr.com/photos/wonderfulhorriblelife/
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/pelayoarbues
