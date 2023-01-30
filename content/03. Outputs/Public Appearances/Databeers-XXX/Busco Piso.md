@@ -1,28 +1,28 @@
 ---
-title: Automatic Valuation of Spanish Cadastre
+title: 
 
-event: SDSC21
+event: Data Beers XXX
 event_url: https://databeers.tumblr.com/post/187436855446/databeers-madrid-xxx-2019-09-19-1900
 
-location: Online - Session
+location: Google Campus Madrid
 
-summary: Talk at Spatial Data Science Conference 2021 by Carto
-abstract: Leveraging the historical data in Idealista, Open Street Maps data, and machine learning models we automate real estate appraisal of 25 million residential properties in Spain.
+summary: My talk “Busco Pisco” for Databeers XXX.
+abstract: My talk “Busco Pisco” was selected as one of the top Databeers talks and got me an invitation to speak again at the special event for the 30th Databeers edition.
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-10-28T19:00:00Z'
+date: '2019-09-19T19:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2021-10-28T19:00:00Z'
+publishDate: '2019-09-19T19:00:00Z'
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: ''
@@ -32,7 +32,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://youtu.be/C9nnqlBN6WM'
+url_video: 'https://youtu.be/wYb3tdiEr4I?t=3582'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

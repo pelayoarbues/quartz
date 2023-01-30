@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a632fc2abec872d0",
+        "id": "21e02cdc4091cfea",
         "type": "tabs",
         "children": [
           {
-            "id": "a4c545069cda7849",
+            "id": "2cdf1045bceb47db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/03. Outputs/Public Appearances/Cruzando-datos-2022/Cruzando-datos-2022.md",
+                "file": "content/03. Outputs/Public Appearances/carto-2021/Automatic Valuation of Spanish Cadastre.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "054cca83f219b396",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/03. Outputs/Public Appearances/Cruzando-datos-2022/Cruzando-datos-2022.md",
+                "file": "content/03. Outputs/Public Appearances/carto-2021/Automatic Valuation of Spanish Cadastre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/03. Outputs/Public Appearances/Cruzando-datos-2022/Cruzando-datos-2022.md",
+                "file": "content/03. Outputs/Public Appearances/carto-2021/Automatic Valuation of Spanish Cadastre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/03. Outputs/Public Appearances/Cruzando-datos-2022/Cruzando-datos-2022.md"
+                "file": "content/03. Outputs/Public Appearances/carto-2021/Automatic Valuation of Spanish Cadastre.md"
               }
             }
           }
@@ -157,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "054cca83f219b396",
+  "active": "2cdf1045bceb47db",
   "lastOpenFiles": [
-    "content/03. Outputs/Public Appearances/carto-2021/carto-2021.md",
-    "content/03. Outputs/Public Appearances/business-applications-DS-uam/business-applications-DS-uam.png",
-    "content/03. Outputs/Public Appearances/business-applications-DS-uam/business-applications-DS-uam.md",
+    "content/03. Outputs/Public Appearances/Public Appearances.md",
+    "content/03. Outputs/Public Appearances/carto-2021/Automatic Valuation of Spanish Cadastre.md",
+    "content/_index.md",
     "content/03. Outputs/Public Appearances/buscando-vocaciones/Buscando Vocaciones.md",
     "content/03. Outputs/Public Appearances/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md",
-    "content/03. Outputs/Public Appearances/BdE-2022/bde.png",
-    "content/notes/philosophy.md",
-    "content/notes/obsidian.md",
-    "content/notes/ignore notes.md",
-    "content/notes/hosting.md"
+    "content/03. Outputs/Public Appearances/Cruzando-datos-2022/Cruzando-datos-2022.md",
+    "content/03. Outputs/Public Appearances/Databeers-XXX/Busco Piso.md",
+    "content/03. Outputs/Public Appearances/business-applications-DS-uam/business-applications-DS-uam.png",
+    "content/03. Outputs/Public Appearances/business-applications-DS-uam/business-applications-DS-uam.md",
+    "content/03. Outputs/Public Appearances/BdE-2022/bde.png"
   ]
 }
