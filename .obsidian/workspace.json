@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "054cca83f219b396",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb6216e7830ea7fe",
+  "active": "054cca83f219b396",
   "lastOpenFiles": [
     "content/03. Outputs/Public Appearances/carto-2021/carto-2021.md",
     "content/03. Outputs/Public Appearances/business-applications-DS-uam/business-applications-DS-uam.png",
