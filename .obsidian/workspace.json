@@ -11,12 +11,8 @@
             "id": "2cdf1045bceb47db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/03. Outputs/Public Appearances/carto-2021/Automatic Valuation of Spanish Cadastre.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 608.5
   },
   "right": {
     "id": "badd388a51a3839f",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/03. Outputs/Public Appearances/carto-2021/Automatic Valuation of Spanish Cadastre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/03. Outputs/Public Appearances/carto-2021/Automatic Valuation of Spanish Cadastre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/03. Outputs/Public Appearances/carto-2021/Automatic Valuation of Spanish Cadastre.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,15 +140,15 @@
   },
   "active": "2cdf1045bceb47db",
   "lastOpenFiles": [
-    "content/03. Outputs/Public Appearances/Public Appearances.md",
+    "content/01. Slip-box/202209061709 - Improvements in product development processes at idealista.md",
     "content/03. Outputs/Public Appearances/carto-2021/Automatic Valuation of Spanish Cadastre.md",
+    "content/03. Outputs/Public Appearances/Public Appearances.md",
     "content/_index.md",
     "content/03. Outputs/Public Appearances/buscando-vocaciones/Buscando Vocaciones.md",
     "content/03. Outputs/Public Appearances/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md",
     "content/03. Outputs/Public Appearances/Cruzando-datos-2022/Cruzando-datos-2022.md",
     "content/03. Outputs/Public Appearances/Databeers-XXX/Busco Piso.md",
     "content/03. Outputs/Public Appearances/business-applications-DS-uam/business-applications-DS-uam.png",
-    "content/03. Outputs/Public Appearances/business-applications-DS-uam/business-applications-DS-uam.md",
-    "content/03. Outputs/Public Appearances/BdE-2022/bde.png"
+    "content/03. Outputs/Public Appearances/business-applications-DS-uam/business-applications-DS-uam.md"
   ]
 }
