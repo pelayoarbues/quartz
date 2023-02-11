@@ -3,9 +3,19 @@ title: Pelayo Arbués
 enableToc: false
 ---
 
-Hi there!
+Hi folks!
 
-I am Pelayo Arbués. I am Head of Data Science at idealista. Previously, I worked as an Applied Economics researcher on various projects at the University of Oviedo. During three of those years, my main focus was to write a Ph.D. in Transport Economics, Spatial Econometrics, and Regional Science. In 2015 I left Academia to pursue a career in Data Science. Initially, I worked for a small startup in the Telecommunications sector and then moved to a consultancy firm where I successfully developed a Recommender System for a large retail company. Currently, I lead the Data Science initiative for idealista, the leading real estate portal in Southern Europe.
+I'm Pelayo Arbués, currently based in Gijón and Madrid, Spain, and I'm the Head of Data Science at idealista, the leading real estate online marketplace in Southern Europe. With 8 years of experience in the industry, I am known for being able to effectively incorporate advanced analytics in products and for increasing awareness of the practical application of advanced analytics.
+
+My academic background is in economics, with a Ph.D. in Transport Economics and regional science. I've worked as a researcher in academia and held past positions as a Senior Data Scientist at BBVA Next and Lead Data Scientist at Weplan.
+
+I'm passionate about problem-solving and love being a manager because it allows me to tackle various challenges related to strategy, processes, and people. My proudest achievements include developing a recommender system with a small team at a large retail company and raising a high-performance team at idealista.
+
+My biggest dream is to apply my skills and experience to help address human challenges, and I aspire to be known for leading a team that works with high ethics and can deliver outstanding solutions.
+
+Outside of work, my hobbies include taking analog street photographs, reading, and spending quality time with my family. I love learning about creative processes, management, and philosophy.
+
+Want help with something? You can find me on all social media channels @pelayoarbues
 
 
 ## Outputs
