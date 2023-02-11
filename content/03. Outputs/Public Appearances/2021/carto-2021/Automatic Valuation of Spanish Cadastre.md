@@ -4,7 +4,7 @@ tags:
 - talk
 ---
 
-![[carto-2021.jpg]]
+![carto-2021](03.%20Outputs/Public%20Appearances/2021/carto-2021/carto-2021.jpg)
 
 title: Automatic Valuation of Spanish Cadastre
 

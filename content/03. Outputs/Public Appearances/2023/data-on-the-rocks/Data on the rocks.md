@@ -4,7 +4,7 @@ tags:
 - #talk
 ---
 
-![[data-on-the-rocks.jpg]]
+![data-on-the-rocks](03.%20Outputs/Public%20Appearances/2023/data-on-the-rocks/data-on-the-rocks.jpg)
 
 event: Data on the Rocks
 event_url: https://dataontherocks.com/
