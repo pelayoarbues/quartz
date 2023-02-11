@@ -1,3 +1,8 @@
+---
+title: "Public Appearances"
+---
+
+# Public Appearances
 
 ## 2023
 - [Data on the rocks](03.%20Outputs/Public%20Appearances/2023/data-on-the-rocks/Data%20on%20the%20rocks.md)
