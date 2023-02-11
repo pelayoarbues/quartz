@@ -1,3 +1,4 @@
+# Public Appearances
 
 ## 2023
 - [[Data on the rocks]]

@@ -18,5 +18,5 @@ Outside of work, my hobbies include taking analog street photographs, reading, a
 Want help with something? You can find me on all social media channels @pelayoarbues
 
 ## Outputs
-- [Public Appearances](Public%20Appearances.md)
+- [Public Appearances](appearances.md)
 - [[Research Papers]]
