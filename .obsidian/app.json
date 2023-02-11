@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "showInlineTitle": false,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "newFileLocation": "folder"
 }

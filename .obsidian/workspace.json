@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "79bbbd034c3e6dc1",
+        "id": "af8034adcbfa8562",
         "type": "tabs",
         "children": [
           {
-            "id": "dccb69206abe13a1",
+            "id": "ca683dfa9507047c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/03. Outputs/Public Appearances/2023/data-on-the-rocks/Data on the rocks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/03. Outputs/Public Appearances/2023/data-on-the-rocks/Data on the rocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/03. Outputs/Public Appearances/2023/data-on-the-rocks/Data on the rocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/03. Outputs/Public Appearances/2023/data-on-the-rocks/Data on the rocks.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dccb69206abe13a1",
+  "active": "ca683dfa9507047c",
   "lastOpenFiles": [
-    "content/03. Outputs/Public Appearances/appearances.md",
-    "content/_index.md",
-    "content/01. Slip-box/000 01. Slip-box.md",
-    "content/01. Slip-box/202202011102 - Career advice on skill acquisition.md",
-    "content/01. Slip-box/202202011102 - By-products of multiple processes.md",
-    "content/templates/post.md",
-    "content/notes/setup.md",
-    "().md",
+    "content/03. Outputs/Public Appearances/2023/data-on-the-rocks/data-on-the-rocks.jpg",
+    "content/notes/hosting.md",
+    "content/notes/ignore notes.md",
     "content/notes/editing.md",
-    "content/notes/docker.md"
+    "content/notes/custom Domain.md",
+    "content/notes/CJK + Latex Support (测试).md",
+    "content/notes/callouts.md",
+    "content/03. Outputs/Public Appearances/2021/carto-2021/Automatic Valuation of Spanish Cadastre.md",
+    "content/03. Outputs/Public Appearances/appearances.md",
+    "content/03. Outputs/Public Appearances/2023/data-on-the-rocks/Data on the rocks.md"
   ]
 }
