@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/03. Outputs/Public Appearances/2019/Databeers-XXX/Busco Piso.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 608.5
+    "width": 407.5
   },
   "right": {
     "id": "badd388a51a3839f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/03. Outputs/Public Appearances/2019/Databeers-XXX/Busco Piso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/03. Outputs/Public Appearances/2019/Databeers-XXX/Busco Piso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/03. Outputs/Public Appearances/2019/Databeers-XXX/Busco Piso.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dccb69206abe13a1",
+  "active": "cb6216e7830ea7fe",
   "lastOpenFiles": [
-    "README.md",
+    "content/03. Outputs/Public Appearances/2021/buscando-vocaciones/Buscando Vocaciones.md",
     "content/_index.md",
+    "README.md",
     "content/01. Slip-box/202209061709 - Improvements in product development processes at idealista.md",
-    "content/03. Outputs/Public Appearances/carto-2021/Automatic Valuation of Spanish Cadastre.md",
+    "content/03. Outputs/Public Appearances/2021/carto-2021/Automatic Valuation of Spanish Cadastre.md",
     "content/03. Outputs/Public Appearances/Public Appearances.md",
-    "content/03. Outputs/Public Appearances/buscando-vocaciones/Buscando Vocaciones.md",
-    "content/03. Outputs/Public Appearances/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md",
-    "content/03. Outputs/Public Appearances/Cruzando-datos-2022/Cruzando-datos-2022.md",
-    "content/03. Outputs/Public Appearances/Databeers-XXX/Busco Piso.md",
-    "content/03. Outputs/Public Appearances/business-applications-DS-uam/business-applications-DS-uam.png"
+    "content/03. Outputs/Public Appearances/2022/BdE-2022/ML en modelos hedónicos de valoración inmobiliaria.md",
+    "content/03. Outputs/Public Appearances/2022/Cruzando-datos-2022/Cruzando-datos-2022.md",
+    "content/03. Outputs/Public Appearances/2019/Databeers-XXX/Busco Piso.md",
+    "content/03. Outputs/Public Appearances/2021/business-applications-DS-uam/business-applications-DS-uam.png"
   ]
 }
