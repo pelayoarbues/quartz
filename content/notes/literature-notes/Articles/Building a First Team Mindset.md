@@ -1,6 +1,6 @@
 ---
 author: [[attack-gecko.net]]
-title: "Building a First Team Mindset"
+title: "'Building a First Team Mindset'"
 tags: 
 - articles
 - literature-note

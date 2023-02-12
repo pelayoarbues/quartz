@@ -1,6 +1,6 @@
 ---
 author: [[Allie Volpe]]
-title: "Want to Improve Your Memory? Try These Unexpected Tips."
+title: "'Want to Improve Your Memory? Try These Unexpected Tips.'"
 tags: 
 - articles
 - literature-note

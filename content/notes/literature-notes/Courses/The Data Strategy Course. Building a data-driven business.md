@@ -17,7 +17,7 @@ tags:
 **Tags**:  #triage
 ***
 
-Data Strategy helps you identify a manageable strategic us e case. What business want to achieve in which data can help business suceed.
+Data Strategy helps you identify a manageable strategic use case. What business want to achieve in which data can help business suceed.
 
 5 strategic use case areas:
 1. How data can help everyone in an organisation make better and faster decisions

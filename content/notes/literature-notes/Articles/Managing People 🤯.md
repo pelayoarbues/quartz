@@ -1,6 +1,6 @@
 ---
 author: [[Andreas Klinger]]
-title: "Managing People 🤯"
+title: "'Managing People 🤯'"
 tags: 
 - articles
 - literature-note

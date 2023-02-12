@@ -1,6 +1,6 @@
 ---
 author: [[Richard H. Thaler]]
-title: "Misbehaving"
+title: "'Misbehaving'"
 tags: 
 - books
 - literature-note

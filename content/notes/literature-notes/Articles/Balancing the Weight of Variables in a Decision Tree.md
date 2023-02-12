@@ -1,6 +1,6 @@
 ---
 author: [[BBVA AI Factory]]
-title: "Balancing the Weight of Variables in a Decision Tree"
+title: "'Balancing the Weight of Variables in a Decision Tree'"
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,6 @@
 ---
 author: [[Gema Fernández-Avilés y José-María Montero]]
-title: "Ciencia De Datos Con R"
+title: "'Ciencia De Datos Con R'"
 tags: 
 - articles
 - literature-note

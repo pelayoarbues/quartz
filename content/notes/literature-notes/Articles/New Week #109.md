@@ -1,6 +1,6 @@
 ---
 author: [[David Mattin]]
-title: "New Week #109"
+title: "'New Week #109'"
 tags: 
 - articles
 - literature-note

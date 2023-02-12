@@ -1,6 +1,6 @@
 ---
 author: [[lethain.com]]
-title: "Sizing Engineering Teams."
+title: "'Sizing Engineering Teams.'"
 tags: 
 - articles
 - literature-note

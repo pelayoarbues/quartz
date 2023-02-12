@@ -1,6 +1,6 @@
 ---
 author: [[Walter Isaacson ]]
-title: "Leonardo Da Vinci"
+title: "'Leonardo Da Vinci'"
 tags: 
 - books
 - literature-note

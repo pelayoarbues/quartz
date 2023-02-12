@@ -1,6 +1,6 @@
 ---
 author: [[Dan Harris]]
-title: "10% Happier"
+title: "'10% Happier'"
 tags: 
 - books
 - literature-note

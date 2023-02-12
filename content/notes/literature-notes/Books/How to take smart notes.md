@@ -1,5 +1,5 @@
 ---
-title: How to take smart notes
+title: "How to take smart notes"
 Date: 2022-01-12
 tags: 
 - books

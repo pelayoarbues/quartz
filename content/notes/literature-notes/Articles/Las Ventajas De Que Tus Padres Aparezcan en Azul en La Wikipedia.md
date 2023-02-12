@@ -1,6 +1,6 @@
 ---
 author: [[Antonio Ortiz]]
-title: "Las Ventajas De Que Tus Padres Aparezcan en Azul en La Wikipedia"
+title: "'Las Ventajas De Que Tus Padres Aparezcan en Azul en La Wikipedia'"
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,6 @@
 ---
 author: [[Misbah Uddin]]
-title: "Platform Products for Machine Learning"
+title: "'Platform Products for Machine Learning'"
 tags: 
 - articles
 - literature-note

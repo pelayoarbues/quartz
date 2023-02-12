@@ -1,6 +1,6 @@
 ---
 author: [[lethain.com]]
-title: "Running an Engineering Reorg"
+title: "'Running an Engineering Reorg'"
 tags: 
 - articles
 - literature-note

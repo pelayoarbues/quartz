@@ -64,6 +64,7 @@ tags:
 - [Want to Improve Your Memory Try These Unexpected Tips.](./Want%20to%20Improve%20Your%20Memory%20Try%20These%20Unexpected%20Tips..md)
 - [What Are Word and Sentence Embeddings](./What%20Are%20Word%20and%20Sentence%20Embeddings.md)
 - [What I Do Before a Data Science Project to Ensure Success](./What%20I%20Do%20Before%20a%20Data%20Science%20Project%20to%20Ensure%20Success.md)
+- [What Is Data as a Product Really](./What%20Is%20Data%20as%20a%20Product%20Really.md)
 - [Why Is “Data Scientist” Such a Controversial Title](./Why%20Is%20%E2%80%9CData%20Scientist%E2%80%9D%20Such%20a%20Controversial%20Title.md)
 - [WolframAlpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT](./WolframAlpha%20as%20the%20Way%20to%20Bring%20Computational%20Knowledge%20Superpowers%20to%20ChatGPT.md)
 - [Writing Strategies and Visions.](./Writing%20Strategies%20and%20Visions..md)

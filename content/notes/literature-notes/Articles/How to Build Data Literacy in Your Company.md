@@ -1,6 +1,6 @@
 ---
 author: [[Sara Brown]]
-title: "How to Build Data Literacy in Your Company"
+title: "'How to Build Data Literacy in Your Company'"
 tags: 
 - articles
 - literature-note

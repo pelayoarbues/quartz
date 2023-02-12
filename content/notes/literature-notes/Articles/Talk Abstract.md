@@ -1,6 +1,6 @@
 ---
 author: [[No Idea Blog]]
-title: "Talk Abstract:"
+title: "'Talk Abstract:'"
 tags: 
 - articles
 - literature-note

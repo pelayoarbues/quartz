@@ -1,6 +1,6 @@
 ---
 author: [[Paige Berry]]
-title: "Share Your Data Insights to Engage Your Colleagues"
+title: "'Share Your Data Insights to Engage Your Colleagues'"
 tags: 
 - articles
 - literature-note
