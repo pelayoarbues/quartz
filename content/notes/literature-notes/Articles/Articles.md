@@ -1,66 +1,64 @@
 %% Begin Waypoint %%
-- [[¿Por Qué Los Salarios Son Más Altos en Las Ciudades Grandes La Importancia Del Poder De Monopsonio en El Mercado Laboral Español]]
-- [[1 La Mayoría De Las Empresas Confunden Eficiencia Operativa Con...]]
-- [[3-2-1 Healthy Self-Esteem, How to Build an Exercise Habit, and Improving by 1%]]
-- [[2022 Recap Every Random Idea I Had]]
-- [[Balancing the Weight of Variables in a Decision Tree]]
-- [[BBRR Programa investigo]]
-- [[Benzodiacepinas La Adicción Camuflada Del Consumo De Ansiolíticos en España]]
-- [[Beware the Data Science Pin Factory The Power of the Full-Stack Data Science Generalist and the Perils of Division of Labor Through Function]]
-- [[Brain Food Listening to Win]]
-- [[Building a First Team Mindset]]
-- [[Ciencia De Datos Con R]]
-- [[Create Capacity Rather Than Capture It.]]
-- [[Data as a Product vs Data Products. What Are the Differences]]
-- [[Data Scientists Work Alone and That's Bad]]
-- [[Dear Stakeholder]]
-- [[Directly Responsible Individuals]]
-- [[Do Data Teams Have Product-Market Fit]]
-- [[Elbows of Data]]
-- [[Engineers Shouldn’t Write ETL A Guide to Building a High Functioning Data Science Department]]
-- [[Feature Engineering for Personalized Search]]
-- [[Focus Time for Developers and Everybody Else]]
-- [[From Data to Product]]
-- [[Guides  Work on What Matters]]
-- [[Handling Mislabeled Tabular Data to Improve Your XGBoost Model]]
-- [[How CEOs Can Lead a Data-Driven Culture]]
-- [[How to Build Data Literacy in Your Company]]
-- [[How to Go Get Your Next Job in Tech]]
-- [[How to Write Better With the Why, What, How Framework]]
-- [[In 2009, a Man Asked Ted Kaczynski if Nuclear Weapons...]]
-- [[Joshua Angrist – Econometrics Is the Original Data Science]]
-- [[Las Ventajas De Que Tus Padres Aparezcan en Azul en La Wikipedia]]
-- [[Make Your Peers Your First Team.]]
-- [[Managing People 🤯]]
-- [[Managing the First Year]]
-- [[Mechanisms for Effective Machine Learning Projects]]
-- [[New Week #109]]
-- [[Platform Products for Machine Learning]]
-- [[Reminiscing The Retreat to Comforting Work.]]
-- [[Run Your Data Team Like a Product Team]]
-- [[Running an Engineering Reorg]]
-- [[Setting Engineering Org Values.]]
-- [[Shape-Up]]
-- [[Share Your Data Insights to Engage Your Colleagues]]
-- [[Should You Measure the Value of a Data Team]]
-- [[Simpson's Paradox and Existential Terror]]
-- [[Sizing Engineering Teams.]]
-- [[Staying on the Path to High Performing Teams.]]
-- [[Talk Abstract]]
-- [[Team Topology for Machine Learning]]
-- [[The Art of Pushback for Data Product Managers and Leaders]]
-- [[The Hidden Costs of Complexity in Data Science]]
-- [[The Illustrated Transformer]]
-- [[Too Many Meetings Is Not Your Problem]]
-- [[Transformer Models An Introduction and Catalog]]
-- [[Visualizing a Neural Machine Translation Model]]
-- [[Want to Improve Your Memory Try These Unexpected Tips.]]
-- [[What Are Word and Sentence Embeddings]]
-- [[What I Do Before a Data Science Project to Ensure Success]]
-- [[What Is Data as a Product Really]]
-- [[Why Is “Data Scientist” Such a Controversial Title]]
-- [[WolframAlpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT]]
-- [[Writing Strategies and Visions.]]
-- [[Your Estimates Suck]]
+- [¿Por Qué Los Salarios Son Más Altos en Las Ciudades Grandes La Importancia Del Poder De Monopsonio en El Mercado Laboral Español](./%C2%BFPor%20Qu%C3%A9%20Los%20Salarios%20Son%20M%C3%A1s%20Altos%20en%20Las%20Ciudades%20Grandes%20La%20Importancia%20Del%20Poder%20De%20Monopsonio%20en%20El%20Mercado%20Laboral%20Espa%C3%B1ol.md)
+- [1 La Mayoría De Las Empresas Confunden Eficiencia Operativa Con...](./1%20La%20Mayor%C3%ADa%20De%20Las%20Empresas%20Confunden%20Eficiencia%20Operativa%20Con....md)
+- [3-2-1 Healthy Self-Esteem, How to Build an Exercise Habit, and Improving by 1%](./3-2-1%20Healthy%20Self-Esteem,%20How%20to%20Build%20an%20Exercise%20Habit,%20and%20Improving%20by%201%25.md)
+- [2022 Recap Every Random Idea I Had](./2022%20Recap%20Every%20Random%20Idea%20I%20Had.md)
+- [Balancing the Weight of Variables in a Decision Tree](./Balancing%20the%20Weight%20of%20Variables%20in%20a%20Decision%20Tree.md)
+- [BBRR Programa investigo](./BBRR%20Programa%20investigo.md)
+- [Benzodiacepinas La Adicción Camuflada Del Consumo De Ansiolíticos en España](./Benzodiacepinas%20La%20Adicci%C3%B3n%20Camuflada%20Del%20Consumo%20De%20Ansiol%C3%ADticos%20en%20Espa%C3%B1a.md)
+- [Beware the Data Science Pin Factory The Power of the Full-Stack Data Science Generalist and the Perils of Division of Labor Through Function](./Beware%20the%20Data%20Science%20Pin%20Factory%20The%20Power%20of%20the%20Full-Stack%20Data%20Science%20Generalist%20and%20the%20Perils%20of%20Division%20of%20Labor%20Through%20Function.md)
+- [Brain Food Listening to Win](./Brain%20Food%20Listening%20to%20Win.md)
+- [Building a First Team Mindset](./Building%20a%20First%20Team%20Mindset.md)
+- [Ciencia De Datos Con R](./Ciencia%20De%20Datos%20Con%20R.md)
+- [Create Capacity Rather Than Capture It.](./Create%20Capacity%20Rather%20Than%20Capture%20It..md)
+- [Data as a Product vs Data Products. What Are the Differences](./Data%20as%20a%20Product%20vs%20Data%20Products.%20What%20Are%20the%20Differences.md)
+- [Data Scientists Work Alone and That's Bad](./Data%20Scientists%20Work%20Alone%20and%20That's%20Bad.md)
+- [Dear Stakeholder](./Dear%20Stakeholder.md)
+- [Directly Responsible Individuals](./Directly%20Responsible%20Individuals.md)
+- [Do Data Teams Have Product-Market Fit](./Do%20Data%20Teams%20Have%20Product-Market%20Fit.md)
+- [Elbows of Data](./Elbows%20of%20Data.md)
+- [Engineers Shouldn’t Write ETL A Guide to Building a High Functioning Data Science Department](./Engineers%20Shouldn%E2%80%99t%20Write%20ETL%20A%20Guide%20to%20Building%20a%20High%20Functioning%20Data%20Science%20Department.md)
+- [Feature Engineering for Personalized Search](./Feature%20Engineering%20for%20Personalized%20Search.md)
+- [Focus Time for Developers and Everybody Else](./Focus%20Time%20for%20Developers%20and%20Everybody%20Else.md)
+- [From Data to Product](./From%20Data%20to%20Product.md)
+- [Guides  Work on What Matters](./Guides%20%20Work%20on%20What%20Matters.md)
+- [Handling Mislabeled Tabular Data to Improve Your XGBoost Model](./Handling%20Mislabeled%20Tabular%20Data%20to%20Improve%20Your%20XGBoost%20Model.md)
+- [How CEOs Can Lead a Data-Driven Culture](./How%20CEOs%20Can%20Lead%20a%20Data-Driven%20Culture.md)
+- [How to Build Data Literacy in Your Company](./How%20to%20Build%20Data%20Literacy%20in%20Your%20Company.md)
+- [How to Go Get Your Next Job in Tech](./How%20to%20Go%20Get%20Your%20Next%20Job%20in%20Tech.md)
+- [How to Write Better With the Why, What, How Framework](./How%20to%20Write%20Better%20With%20the%20Why,%20What,%20How%20Framework.md)
+- [In 2009, a Man Asked Ted Kaczynski if Nuclear Weapons...](./In%202009,%20a%20Man%20Asked%20Ted%20Kaczynski%20if%20Nuclear%20Weapons....md)
+- [Joshua Angrist – Econometrics Is the Original Data Science](./Joshua%20Angrist%20%E2%80%93%20Econometrics%20Is%20the%20Original%20Data%20Science.md)
+- [Las Ventajas De Que Tus Padres Aparezcan en Azul en La Wikipedia](./Las%20Ventajas%20De%20Que%20Tus%20Padres%20Aparezcan%20en%20Azul%20en%20La%20Wikipedia.md)
+- [Make Your Peers Your First Team.](./Make%20Your%20Peers%20Your%20First%20Team..md)
+- [Managing People 🤯](./Managing%20People%20%F0%9F%A4%AF.md)
+- [Managing the First Year](./Managing%20the%20First%20Year.md)
+- [Mechanisms for Effective Machine Learning Projects](./Mechanisms%20for%20Effective%20Machine%20Learning%20Projects.md)
+- [New Week #109](./New%20Week%20#109.md)
+- [Platform Products for Machine Learning](./Platform%20Products%20for%20Machine%20Learning.md)
+- [Reminiscing The Retreat to Comforting Work.](./Reminiscing%20The%20Retreat%20to%20Comforting%20Work..md)
+- [Run Your Data Team Like a Product Team](./Run%20Your%20Data%20Team%20Like%20a%20Product%20Team.md)
+- [Running an Engineering Reorg](./Running%20an%20Engineering%20Reorg.md)
+- [Setting Engineering Org Values.](./Setting%20Engineering%20Org%20Values..md)
+- [Shape-Up](./Shape-Up.md)
+- [Share Your Data Insights to Engage Your Colleagues](./Share%20Your%20Data%20Insights%20to%20Engage%20Your%20Colleagues.md)
+- [Should You Measure the Value of a Data Team](./Should%20You%20Measure%20the%20Value%20of%20a%20Data%20Team.md)
+- [Simpson's Paradox and Existential Terror](./Simpson's%20Paradox%20and%20Existential%20Terror.md)
+- [Sizing Engineering Teams.](./Sizing%20Engineering%20Teams..md)
+- [Staying on the Path to High Performing Teams.](./Staying%20on%20the%20Path%20to%20High%20Performing%20Teams..md)
+- [Talk Abstract](./Talk%20Abstract.md)
+- [Team Topology for Machine Learning](./Team%20Topology%20for%20Machine%20Learning.md)
+- [The Art of Pushback for Data Product Managers and Leaders](./The%20Art%20of%20Pushback%20for%20Data%20Product%20Managers%20and%20Leaders.md)
+- [The Hidden Costs of Complexity in Data Science](./The%20Hidden%20Costs%20of%20Complexity%20in%20Data%20Science.md)
+- [The Illustrated Transformer](./The%20Illustrated%20Transformer.md)
+- [Too Many Meetings Is Not Your Problem](./Too%20Many%20Meetings%20Is%20Not%20Your%20Problem.md)
+- [Transformer Models An Introduction and Catalog](./Transformer%20Models%20An%20Introduction%20and%20Catalog.md)
+- [Visualizing a Neural Machine Translation Model](./Visualizing%20a%20Neural%20Machine%20Translation%20Model.md)
+- [Want to Improve Your Memory Try These Unexpected Tips.](./Want%20to%20Improve%20Your%20Memory%20Try%20These%20Unexpected%20Tips..md)
+- [What Are Word and Sentence Embeddings](./What%20Are%20Word%20and%20Sentence%20Embeddings.md)
+- [What I Do Before a Data Science Project to Ensure Success](./What%20I%20Do%20Before%20a%20Data%20Science%20Project%20to%20Ensure%20Success.md)
+- [WolframAlpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT](./WolframAlpha%20as%20the%20Way%20to%20Bring%20Computational%20Knowledge%20Superpowers%20to%20ChatGPT.md)
+- [Writing Strategies and Visions.](./Writing%20Strategies%20and%20Visions..md)
+- [Your Estimates Suck](./Your%20Estimates%20Suck.md)
 
 %% End Waypoint %%
