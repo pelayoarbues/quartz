@@ -1,3 +1,10 @@
+---
+title: "Books"
+tags:
+- MOC
+---
+
+
 %% Begin Waypoint %%
 - [[10% Happier]]
 - [[Data for All]]

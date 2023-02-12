@@ -1,3 +1,10 @@
+---
+title: "Articles"
+tags:
+- MOC
+---
+
+
 %% Begin Waypoint %%
 - [¿Por Qué Los Salarios Son Más Altos en Las Ciudades Grandes La Importancia Del Poder De Monopsonio en El Mercado Laboral Español](./%C2%BFPor%20Qu%C3%A9%20Los%20Salarios%20Son%20M%C3%A1s%20Altos%20en%20Las%20Ciudades%20Grandes%20La%20Importancia%20Del%20Poder%20De%20Monopsonio%20en%20El%20Mercado%20Laboral%20Espa%C3%B1ol.md)
 - [1 La Mayoría De Las Empresas Confunden Eficiencia Operativa Con...](./1%20La%20Mayor%C3%ADa%20De%20Las%20Empresas%20Confunden%20Eficiencia%20Operativa%20Con....md)
