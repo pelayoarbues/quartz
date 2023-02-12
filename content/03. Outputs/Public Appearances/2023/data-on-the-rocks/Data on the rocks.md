@@ -1,7 +1,7 @@
 ---
 title: "Lecciones Aprendidas haciendo productos de datos"
 tags:
-- #talk
+- talk
 ---
 
 ![data-on-the-rocks](03.%20Outputs/Public%20Appearances/2023/data-on-the-rocks/data-on-the-rocks.jpg)
