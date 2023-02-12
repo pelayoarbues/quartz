@@ -57,6 +57,8 @@
 - [[Want to Improve Your Memory Try These Unexpected Tips.]]
 - [[What Are Word and Sentence Embeddings]]
 - [[What I Do Before a Data Science Project to Ensure Success]]
+- [[What Is Data as a Product Really]]
+- [[Why Is “Data Scientist” Such a Controversial Title]]
 - [[WolframAlpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT]]
 - [[Writing Strategies and Visions.]]
 - [[Your Estimates Suck]]
