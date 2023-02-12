@@ -1,6 +1,6 @@
 ---
 author: [[lethain.com]]
-title: 'Writing Strategies and Visions.'
+title: ''Writing Strategies and Visions.''
 tags: 
 - articles
 - literature-note

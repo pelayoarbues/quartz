@@ -1,6 +1,6 @@
 ---
 author: [[Benn Stancil]]
-title: 'Do Data Teams Have Product-Market Fit?'
+title: ''Do Data Teams Have Product-Market Fit?''
 tags: 
 - articles
 - literature-note

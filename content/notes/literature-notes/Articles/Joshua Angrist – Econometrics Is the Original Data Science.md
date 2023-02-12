@@ -1,6 +1,6 @@
 ---
 author: [[Rajk College for Advanced Studies]]
-title: 'Joshua Angrist – Econometrics Is the Original Data Science'
+title: ''Joshua Angrist – Econometrics Is the Original Data Science''
 tags: 
 - articles
 - literature-note

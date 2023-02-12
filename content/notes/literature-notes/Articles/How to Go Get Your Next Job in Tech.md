@@ -1,6 +1,6 @@
 ---
 author: [[Ian McAllister]]
-title: 'How to Go Get Your Next Job in Tech'
+title: ''How to Go Get Your Next Job in Tech''
 tags: 
 - articles
 - literature-note

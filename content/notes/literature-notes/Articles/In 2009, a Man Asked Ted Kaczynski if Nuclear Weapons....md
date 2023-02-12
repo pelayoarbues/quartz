@@ -1,6 +1,6 @@
 ---
 author: [[Forrest]]
-title: 'In 2009, a Man Asked Ted Kaczynski if Nuclear Weapons...'
+title: ''In 2009, a Man Asked Ted Kaczynski if Nuclear Weapons...''
 tags: 
 - articles
 - literature-note

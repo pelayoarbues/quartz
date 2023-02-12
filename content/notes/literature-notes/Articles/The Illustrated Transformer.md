@@ -1,6 +1,6 @@
 ---
 author: [[Jay Alammar]]
-title: 'The Illustrated Transformer'
+title: ''The Illustrated Transformer''
 tags: 
 - articles
 - literature-note

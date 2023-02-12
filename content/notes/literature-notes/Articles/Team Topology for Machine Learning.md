@@ -1,6 +1,6 @@
 ---
 author: [[Misbah Uddin]]
-title: 'Team Topology for Machine Learning'
+title: ''Team Topology for Machine Learning''
 tags: 
 - articles
 - literature-note

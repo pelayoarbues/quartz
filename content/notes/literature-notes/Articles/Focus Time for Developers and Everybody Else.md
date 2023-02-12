@@ -1,6 +1,6 @@
 ---
 author: [[kore-nordmann.de]]
-title: 'Focus Time for Developers and Everybody Else'
+title: ''Focus Time for Developers and Everybody Else''
 tags: 
 - articles
 - literature-note

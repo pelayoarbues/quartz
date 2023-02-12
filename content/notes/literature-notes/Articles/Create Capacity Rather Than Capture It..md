@@ -1,6 +1,6 @@
 ---
 author: [[lethain.com]]
-title: 'Create Capacity Rather Than Capture It.'
+title: ''Create Capacity Rather Than Capture It.''
 tags: 
 - articles
 - literature-note

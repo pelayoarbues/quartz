@@ -1,6 +1,6 @@
 ---
 author: [[stitchfix.com]]
-title: 'Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department'
+title: ''Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department''
 tags: 
 - articles
 - literature-note
