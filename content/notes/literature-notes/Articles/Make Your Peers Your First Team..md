@@ -1,6 +1,6 @@
 ---
 author: [[lethain.com]]
-title: "'Make Your Peers Your First Team.'"
+title: 'Make Your Peers Your First Team.'
 tags: 
 - articles
 - literature-note

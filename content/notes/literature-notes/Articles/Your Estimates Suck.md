@@ -1,6 +1,6 @@
 ---
 author: [[hey.com]]
-title: "'Your Estimates Suck'"
+title: 'Your Estimates Suck'
 tags: 
 - articles
 - literature-note

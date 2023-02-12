@@ -1,6 +1,6 @@
 ---
 author: [[Eric Weber]]
-title: "'From Data to Product'"
+title: 'From Data to Product'
 tags: 
 - articles
 - literature-note

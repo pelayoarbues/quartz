@@ -1,6 +1,6 @@
 ---
 author: [[Ethan Rosenthal]]
-title: "'Data Scientists Work Alone and That's Bad'"
+title: 'Data Scientists Work Alone and That's Bad'
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,6 @@
 ---
 author: [[lethain.com]]
-title: "'Staying on the Path to High Performing Teams.'"
+title: 'Staying on the Path to High Performing Teams.'
 tags: 
 - articles
 - literature-note

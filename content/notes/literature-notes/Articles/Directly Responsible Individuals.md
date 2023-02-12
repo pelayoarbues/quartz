@@ -1,6 +1,6 @@
 ---
 author: [[Matthew Mamet]]
-title: "'Directly Responsible Individuals'"
+title: 'Directly Responsible Individuals'
 tags: 
 - articles
 - literature-note

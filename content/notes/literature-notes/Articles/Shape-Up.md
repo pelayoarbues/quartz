@@ -1,6 +1,6 @@
 ---
 author: [[basecamp.com]]
-title: "'Shape-Up'"
+title: 'Shape-Up'
 tags: 
 - articles
 - literature-note

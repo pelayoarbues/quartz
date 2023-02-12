@@ -1,6 +1,6 @@
 ---
 author: [[AI, software, tech, and people, not in that order... by X]]
-title: "'Transformer Models: An Introduction and Catalog'"
+title: 'Transformer Models: An Introduction and Catalog'
 tags: 
 - articles
 - literature-note

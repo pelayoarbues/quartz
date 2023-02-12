@@ -1,6 +1,6 @@
 ---
 author: [[FS (Farnam Street)]]
-title: "'Brain Food: Listening to Win'"
+title: 'Brain Food: Listening to Win'
 tags: 
 - articles
 - literature-note

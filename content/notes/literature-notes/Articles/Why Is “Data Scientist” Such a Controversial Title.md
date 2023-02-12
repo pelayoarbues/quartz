@@ -1,6 +1,6 @@
 ---
 author: [[Emily Thompson]]
-title: "'Why Is “Data Scientist” Such a Controversial Title?'"
+title: 'Why Is “Data Scientist” Such a Controversial Title?'
 tags: 
 - articles
 - literature-note

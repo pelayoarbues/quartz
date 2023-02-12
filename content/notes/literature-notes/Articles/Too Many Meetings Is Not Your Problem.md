@@ -1,6 +1,6 @@
 ---
 author: [[Judd Antin]]
-title: "'Too Many Meetings Is Not Your Problem'"
+title: 'Too Many Meetings Is Not Your Problem'
 tags: 
 - articles
 - literature-note

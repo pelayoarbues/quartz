@@ -1,6 +1,6 @@
 ---
 author: [[Nick Parsons]]
-title: "'Feature Engineering for Personalized Search'"
+title: 'Feature Engineering for Personalized Search'
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,6 @@
 ---
 author: [[David Jayatillake]]
-title: "'Dear Stakeholder'"
+title: 'Dear Stakeholder'
 tags: 
 - articles
 - literature-note

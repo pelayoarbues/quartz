@@ -1,6 +1,6 @@
 ---
 author: [[lethain.com]]
-title: "'Setting Engineering Org Values.'"
+title: 'Setting Engineering Org Values.'
 tags: 
 - articles
 - literature-note

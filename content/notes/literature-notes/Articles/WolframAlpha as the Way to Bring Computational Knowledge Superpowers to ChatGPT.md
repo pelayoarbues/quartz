@@ -1,6 +1,6 @@
 ---
 author: [[stephenwolfram.com]]
-title: "'Wolfram|Alpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT'"
+title: 'Wolfram|Alpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT'
 tags: 
 - articles
 - literature-note

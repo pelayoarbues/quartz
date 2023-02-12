@@ -1,6 +1,6 @@
 ---
 author: [[Luis Serrano]]
-title: "'What Are Word and Sentence Embeddings?'"
+title: 'What Are Word and Sentence Embeddings?'
 tags: 
 - articles
 - literature-note

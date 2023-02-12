@@ -1,6 +1,6 @@
 ---
 author: [[Chris Mauck]]
-title: "'Handling Mislabeled Tabular Data to Improve Your XGBoost Model'"
+title: 'Handling Mislabeled Tabular Data to Improve Your XGBoost Model'
 tags: 
 - articles
 - literature-note
