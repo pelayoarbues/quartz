@@ -1,6 +1,8 @@
 ---
-title: Pelayo Arbués
+title: "Home"
 enableToc: false
+tags:
+- MOC
 ---
 
 Hi folks!
@@ -18,8 +20,8 @@ Outside of work, my hobbies include taking analog street photographs, reading, a
 Want help with something? You can find me on all social media channels @pelayoarbues
 
 ## Stuff I do
-- [Learning](03.%20Outputs/learning.md)
-- [Writing](03.%20Outputs/writing.md)
+- [Learning](notes/notes.md)
+- [Writing](writing.md)
 - [Talks and Interviews](appearances/appearances.md)
 - [Research](research/research.md)
 - Photography
