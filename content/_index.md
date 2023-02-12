@@ -20,6 +20,6 @@ Want help with something? You can find me on all social media channels @pelayoar
 ## Stuff I do
 - [Learning](03.%20Outputs/learning.md)
 - [Writing](03.%20Outputs/writing.md)
-- [Talks and Interviews](03.%20Outputs/Public%20Appearances/appearances.md)
-- [Research](03.%20Outputs/Research/research.md)
+- [Talks and Interviews](appearances/appearances.md)
+- [Research](research/research.md)
 - Photography
