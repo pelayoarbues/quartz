@@ -18,6 +18,5 @@ This Map Of Content is a door to what I am currently reading, listening and payi
 	- **[[Documentaries]]**
 	- **[[Podcasts]]**
 	- **[[Talks]]**
-	- **[[Tweets]]**
 
 %% End Waypoint %%
