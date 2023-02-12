@@ -1,6 +1,5 @@
 %% Begin Waypoint %%
 - [[¿Por Qué Los Salarios Son Más Altos en Las Ciudades Grandes La Importancia Del Poder De Monopsonio en El Mercado Laboral Español]]
-- [[1 La Mayoría De Las Empresas Confunden Eficiencia Operativa Con...]]
 - [[3-2-1 Healthy Self-Esteem, How to Build an Exercise Habit, and Improving by 1%]]
 - [[2022 Recap Every Random Idea I Had]]
 - [[Balancing the Weight of Variables in a Decision Tree]]
