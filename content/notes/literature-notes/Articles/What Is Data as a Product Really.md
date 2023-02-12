@@ -1,6 +1,6 @@
 ---
 author: [[Parker Rogers]]
-title: "'What Is "Data as a Product" Really?'"
+title: "''What Is "Data as a Product" Really?''"
 tags: 
 - articles
 - literature-note
