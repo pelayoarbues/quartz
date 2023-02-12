@@ -4,7 +4,7 @@ tags:
 - talk
 ---
 
-![[bde.png]]
+![bde](03.%20Outputs/Public%20Appearances/2022/BdE-2022/bde.png)
 
 
 - **Event name**: Inteligencia Artificial Aplicada a Servicios Financieros

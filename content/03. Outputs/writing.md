@@ -8,6 +8,8 @@ tags:
 
 # Writing
 
+![digital_garden_midjouney](03.%20Outputs/digital_garden_midjouney.png)
+
 Welcome to my digital garden. It is a personal website where I can share my thoughts, ideas, and knowledge in an interconnected and non-linear way. Unlike a traditional blog or website, a digital garden is designed to be ever-evolving and growing, with the content being constantly updated and interconnected through hyperlinks, allowing for a more fluid and organic way of organizing and sharing information. You can find a great introduction to digital Gardens in this post by [Joel Hooks](https://joelhooks.com/digital-garden)
 
 You can find the following notes in this garden:
