@@ -22,3 +22,4 @@ Want help with something? You can find me on all social media channels @pelayoar
 - [Writing](03.%20Outputs/writing.md)
 - [Talks and Interviews](03.%20Outputs/Public%20Appearances/appearances.md)
 - [Research](03.%20Outputs/Research/research.md)
+- Photography
