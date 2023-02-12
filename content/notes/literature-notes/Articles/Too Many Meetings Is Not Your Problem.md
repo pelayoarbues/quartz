@@ -4,7 +4,6 @@ title: "Too Many Meetings Is Not Your Problem"
 tags: 
 - articles
 - literature-note
-URL: https://medium.com/onebigthought/too-many-meetings-is-not-your-problem-7eafa7ae477c
 ---
 # Too Many Meetings Is Not Your Problem
 

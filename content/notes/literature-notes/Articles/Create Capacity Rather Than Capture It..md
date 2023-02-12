@@ -4,7 +4,6 @@ title: "Create Capacity Rather Than Capture It."
 tags: 
 - articles
 - literature-note
-URL: https://lethain.com/create-capacity/
 ---
 # Create Capacity Rather Than Capture It.
 

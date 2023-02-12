@@ -4,7 +4,6 @@ title: "Wolfram|Alpha as the Way to Bring Computational Knowledge Superpowers to
 tags: 
 - articles
 - literature-note
-URL: https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/
 ---
 # Wolfram|Alpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT
 

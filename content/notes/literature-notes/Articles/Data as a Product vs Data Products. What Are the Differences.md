@@ -4,7 +4,6 @@ title: "Data as a Product vs Data Products. What Are the Differences?"
 tags: 
 - articles
 - literature-note
-URL: https://towardsdatascience.com/data-as-a-product-vs-data-products-what-are-the-differences-b43ddbb0f123
 ---
 # Data as a Product vs Data Products. What Are the Differences?
 

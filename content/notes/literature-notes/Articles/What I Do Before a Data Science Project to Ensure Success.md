@@ -4,7 +4,6 @@ title: "What I Do Before a Data Science Project to Ensure Success"
 tags: 
 - articles
 - literature-note
-URL: https://eugeneyan.com/writing/what-i-do-before-a-data-science-project-to-ensure-success/#first-draw-the-map-to-the-destination-one-pager
 ---
 # What I Do Before a Data Science Project to Ensure Success
 

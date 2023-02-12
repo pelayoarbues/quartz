@@ -4,7 +4,6 @@ title: "In 2009, a Man Asked Ted Kaczynski if Nuclear Weapons..."
 tags: 
 - articles
 - literature-note
-URL: https://twitter.com/Foz89107323/status/1619052988496023557
 ---
 # In 2009, a Man Asked Ted Kaczynski if Nuclear Weapons...
 

@@ -4,7 +4,6 @@ title: "Sizing Engineering Teams."
 tags: 
 - articles
 - literature-note
-URL: https://lethain.com/sizing-engineering-teams/
 ---
 # Sizing Engineering Teams.
 

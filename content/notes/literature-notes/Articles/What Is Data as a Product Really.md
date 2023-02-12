@@ -4,7 +4,6 @@ title: "What Is "Data as a Product" Really?"
 tags: 
 - articles
 - literature-note
-URL: https://www.getcensus.com/blog/what-does-data-as-a-product-really-mean
 ---
 # What Is "Data as a Product" Really?
 

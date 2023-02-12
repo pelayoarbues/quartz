@@ -4,7 +4,6 @@ title: "Handling Mislabeled Tabular Data to Improve Your XGBoost Model"
 tags: 
 - articles
 - literature-note
-URL: https://pub.towardsai.net/handling-mislabeled-tabular-data-to-improve-your-xgboost-model-fbe051f4a6a6
 ---
 # Handling Mislabeled Tabular Data to Improve Your XGBoost Model
 

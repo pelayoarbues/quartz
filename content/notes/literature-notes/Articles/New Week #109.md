@@ -4,7 +4,6 @@ title: "New Week #109"
 tags: 
 - articles
 - literature-note
-URL: https://newworldsamehumans.substack.com/p/new-week-109
 ---
 # New Week #109
 

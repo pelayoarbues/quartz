@@ -4,7 +4,6 @@ title: "Directly Responsible Individuals"
 tags: 
 - articles
 - literature-note
-URL: https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4
 ---
 # Directly Responsible Individuals
 

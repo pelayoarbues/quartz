@@ -4,7 +4,6 @@ title: "Transformer Models: An Introduction and Catalog"
 tags: 
 - articles
 - literature-note
-URL: https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/
 ---
 # Transformer Models: An Introduction and Catalog
 

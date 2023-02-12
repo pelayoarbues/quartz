@@ -4,7 +4,6 @@ title: "The Hidden Costs of Complexity in Data Science"
 tags: 
 - articles
 - literature-note
-URL: https://towardsdatascience.com/the-hidden-costs-of-complexity-in-data-science-6b5958117bfb
 ---
 # The Hidden Costs of Complexity in Data Science
 

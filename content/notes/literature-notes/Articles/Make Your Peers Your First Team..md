@@ -4,7 +4,6 @@ title: "Make Your Peers Your First Team."
 tags: 
 - articles
 - literature-note
-URL: https://lethain.com/first-team/
 ---
 # Make Your Peers Your First Team.
 

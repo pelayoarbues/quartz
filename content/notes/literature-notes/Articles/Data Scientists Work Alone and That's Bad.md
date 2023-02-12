@@ -4,7 +4,6 @@ title: "Data Scientists Work Alone and That's Bad"
 tags: 
 - articles
 - literature-note
-URL: https://www.ethanrosenthal.com/2023/01/10/data-scientists-alone/
 ---
 # Data Scientists Work Alone and That's Bad
 

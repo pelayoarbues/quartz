@@ -4,7 +4,6 @@ title: "Platform Products for Machine Learning"
 tags: 
 - articles
 - literature-note
-URL: https://towardsdatascience.com/platform-products-for-machine-learning-3d3749443d2
 ---
 # Platform Products for Machine Learning
 

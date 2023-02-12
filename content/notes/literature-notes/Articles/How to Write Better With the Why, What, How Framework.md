@@ -4,7 +4,6 @@ title: "How to Write Better With the Why, What, How Framework"
 tags: 
 - articles
 - literature-note
-URL: https://eugeneyan.com/writing/writing-docs-why-what-how/
 ---
 # How to Write Better With the Why, What, How Framework
 

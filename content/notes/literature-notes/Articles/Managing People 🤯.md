@@ -4,7 +4,6 @@ title: "Managing People 🤯"
 tags: 
 - articles
 - literature-note
-URL: https://klinger.io/posts/managing-people-%F0%9F%A4%AF
 ---
 # Managing People 🤯
 

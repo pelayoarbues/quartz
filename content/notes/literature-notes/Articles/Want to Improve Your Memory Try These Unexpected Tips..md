@@ -4,7 +4,6 @@ title: "Want to Improve Your Memory? Try These Unexpected Tips."
 tags: 
 - articles
 - literature-note
-URL: https://www.vox.com/even-better/23537229/improve-your-memory-concentration-tips
 ---
 # Want to Improve Your Memory? Try These Unexpected Tips.
 

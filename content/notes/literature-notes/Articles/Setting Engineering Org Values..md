@@ -4,7 +4,6 @@ title: "Setting Engineering Org Values."
 tags: 
 - articles
 - literature-note
-URL: https://techleaddigest.net/link/14576/web
 ---
 # Setting Engineering Org Values.
 

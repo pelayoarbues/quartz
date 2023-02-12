@@ -4,7 +4,6 @@ title: "The Illustrated Transformer"
 tags: 
 - articles
 - literature-note
-URL: https://jalammar.github.io/illustrated-transformer/
 ---
 # The Illustrated Transformer
 

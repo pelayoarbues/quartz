@@ -4,7 +4,6 @@ title: "Managing the First Year"
 tags: 
 - articles
 - literature-note
-URL: https://alexkgold.space/mfy.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_369
 ---
 # Managing the First Year
 

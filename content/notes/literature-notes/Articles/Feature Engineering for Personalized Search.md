@@ -4,7 +4,6 @@ title: "Feature Engineering for Personalized Search"
 tags: 
 - articles
 - literature-note
-URL: https://fennel.ai/blog/feature-engineering-for-personalized-search/
 ---
 # Feature Engineering for Personalized Search
 

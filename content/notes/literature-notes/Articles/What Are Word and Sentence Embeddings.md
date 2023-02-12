@@ -4,7 +4,6 @@ title: "What Are Word and Sentence Embeddings?"
 tags: 
 - articles
 - literature-note
-URL: https://txt.cohere.ai/sentence-word-embeddings/?utm_source=twitter&utm_medium=paidsocial&utm_campaign=contentpromotion_retargeting_site&twclid=21m5p3ikfn1n6k1x1nhi1ul8ty
 ---
 # What Are Word and Sentence Embeddings?
 

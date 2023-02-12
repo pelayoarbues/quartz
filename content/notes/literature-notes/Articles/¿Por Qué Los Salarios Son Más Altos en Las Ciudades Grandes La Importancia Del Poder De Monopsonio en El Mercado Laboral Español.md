@@ -4,7 +4,6 @@ title: "¿Por Qué Los Salarios Son Más Altos en Las Ciudades Grandes? La Impor
 tags: 
 - articles
 - literature-note
-URL: https://nadaesgratis.es/admin/por-que-los-salarios-son-mas-altos-en-las-ciudades-grandes-la-importancia-del-poder-de-monopsonio-en-el-mercado-laboral-espanol
 ---
 # ¿Por Qué Los Salarios Son Más Altos en Las Ciudades Grandes? La Importancia Del Poder De Monopsonio en El Mercado Laboral Español
 

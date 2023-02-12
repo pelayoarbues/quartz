@@ -4,7 +4,6 @@ title: "Building a First Team Mindset"
 tags: 
 - articles
 - literature-note
-URL: https://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/
 ---
 # Building a First Team Mindset
 

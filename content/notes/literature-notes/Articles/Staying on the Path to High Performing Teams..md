@@ -4,7 +4,6 @@ title: "Staying on the Path to High Performing Teams."
 tags: 
 - articles
 - literature-note
-URL: https://lethain.com/durably-excellent-teams/
 ---
 # Staying on the Path to High Performing Teams.
 

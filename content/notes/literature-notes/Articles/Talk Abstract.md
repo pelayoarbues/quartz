@@ -4,7 +4,6 @@ title: "Talk Abstract:"
 tags: 
 - articles
 - literature-note
-URL: https://noidea.dog/glue
 ---
 # Talk Abstract:
 

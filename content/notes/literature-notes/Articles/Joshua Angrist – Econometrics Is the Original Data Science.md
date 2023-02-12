@@ -4,7 +4,6 @@ title: "Joshua Angrist – Econometrics Is the Original Data Science"
 tags: 
 - articles
 - literature-note
-URL: https://www.youtube.com/watch?v=T24j8XTcpe0
 ---
 # Joshua Angrist – Econometrics Is the Original Data Science
 

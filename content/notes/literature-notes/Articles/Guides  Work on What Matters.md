@@ -4,7 +4,6 @@ title: "Guides / Work on What Matters"
 tags: 
 - articles
 - literature-note
-URL: https://staffeng.com/guides/work-on-what-matters
 ---
 # Guides / Work on What Matters
 

@@ -4,7 +4,6 @@ title: "Focus Time for Developers and Everybody Else"
 tags: 
 - articles
 - literature-note
-URL: https://techleaddigest.net/link/14579/web
 ---
 # Focus Time for Developers and Everybody Else
 

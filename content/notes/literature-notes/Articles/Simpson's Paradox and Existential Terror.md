@@ -4,7 +4,6 @@ title: "Simpson's Paradox and Existential Terror"
 tags: 
 - articles
 - literature-note
-URL: https://wildetruth.substack.com/p/simpsons-paradox-and-existential
 ---
 # Simpson's Paradox and Existential Terror
 

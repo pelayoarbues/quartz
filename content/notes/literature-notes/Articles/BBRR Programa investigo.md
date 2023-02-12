@@ -4,7 +4,6 @@ title: "BBRR Programa investigo"
 tags: 
 - articles
 - literature-note
-URL: https://readwise.io/reader/document_raw_content/28917847
 ---
 # BBRR Programa investigo
 

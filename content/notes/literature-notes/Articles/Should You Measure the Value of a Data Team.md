@@ -4,7 +4,6 @@ title: "Should You Measure the Value of a Data Team?"
 tags: 
 - articles
 - literature-note
-URL: https://medium.com/the-prefect-blog/should-you-measure-the-value-of-a-data-team-95c447f28d4a
 ---
 # Should You Measure the Value of a Data Team?
 

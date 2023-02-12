@@ -4,7 +4,6 @@ title: "How to Build Data Literacy in Your Company"
 tags: 
 - articles
 - literature-note
-URL: https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-data-literacy-your-company
 ---
 # How to Build Data Literacy in Your Company
 

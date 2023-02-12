@@ -4,7 +4,6 @@ title: "Beware the Data Science Pin Factory: The Power of the Full-Stack Data Sc
 tags: 
 - articles
 - literature-note
-URL: https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/
 ---
 # Beware the Data Science Pin Factory: The Power of the Full-Stack Data Science Generalist and the Perils of Division of Labor Through Function
 

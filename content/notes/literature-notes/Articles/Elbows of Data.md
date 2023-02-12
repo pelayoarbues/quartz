@@ -4,7 +4,6 @@ title: "Elbows of Data"
 tags: 
 - articles
 - literature-note
-URL: https://wrongbutuseful.substack.com/p/elbows-of-data
 ---
 # Elbows of Data
 

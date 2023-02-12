@@ -4,7 +4,6 @@ title: "From Data to Product"
 tags: 
 - articles
 - literature-note
-URL: https://ericdataproduct.substack.com
 ---
 # From Data to Product
 

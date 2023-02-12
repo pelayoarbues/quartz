@@ -4,7 +4,6 @@ title: "Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning 
 tags: 
 - articles
 - literature-note
-URL: https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/
 ---
 # Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department
 

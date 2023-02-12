@@ -4,7 +4,6 @@ title: "Do Data Teams Have Product-Market Fit?"
 tags: 
 - articles
 - literature-note
-URL: https://benn.substack.com/p/data-teams-product-market-fit?utm_source=substack&utm_medium=email
 ---
 # Do Data Teams Have Product-Market Fit?
 

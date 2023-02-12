@@ -4,7 +4,6 @@ title: "Visualizing a Neural Machine Translation Model"
 tags: 
 - articles
 - literature-note
-URL: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 ---
 # Visualizing a Neural Machine Translation Model
 

@@ -4,7 +4,6 @@ title: "Reminiscing: The Retreat to Comforting Work."
 tags: 
 - articles
 - literature-note
-URL: https://lethain.com/reminiscing/
 ---
 # Reminiscing: The Retreat to Comforting Work.
 

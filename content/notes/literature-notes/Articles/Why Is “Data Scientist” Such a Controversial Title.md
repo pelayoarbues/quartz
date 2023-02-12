@@ -4,7 +4,6 @@ title: "Why Is “Data Scientist” Such a Controversial Title?"
 tags: 
 - articles
 - literature-note
-URL: https://scientistemily.substack.com/p/save-data-science?utm_campaign=Data_Elixir&utm_source=Data_Elixir_366
 ---
 # Why Is “Data Scientist” Such a Controversial Title?
 

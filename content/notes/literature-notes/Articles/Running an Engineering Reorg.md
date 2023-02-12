@@ -4,7 +4,6 @@ title: "Running an Engineering Reorg"
 tags: 
 - articles
 - literature-note
-URL: https://lethain.com/running-an-engineering-reorg/
 ---
 # Running an Engineering Reorg
 

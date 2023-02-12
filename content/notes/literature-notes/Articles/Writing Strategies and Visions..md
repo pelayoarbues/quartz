@@ -4,7 +4,6 @@ title: "Writing Strategies and Visions."
 tags: 
 - articles
 - literature-note
-URL: https://lethain.com/strategies-visions/
 ---
 # Writing Strategies and Visions.
 

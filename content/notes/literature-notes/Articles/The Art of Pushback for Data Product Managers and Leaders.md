@@ -4,7 +4,6 @@ title: "The Art of Pushback for Data Product Managers and Leaders"
 tags: 
 - articles
 - literature-note
-URL: https://vinvashishta.substack.com/p/the-art-of-pushback-for-data-product
 ---
 # The Art of Pushback for Data Product Managers and Leaders
 

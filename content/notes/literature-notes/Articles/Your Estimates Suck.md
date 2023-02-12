@@ -4,7 +4,6 @@ title: "Your Estimates Suck"
 tags: 
 - articles
 - literature-note
-URL: https://world.hey.com/dhh/your-estimates-suck-2b9f8445
 ---
 # Your Estimates Suck
 

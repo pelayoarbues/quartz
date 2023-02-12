@@ -4,7 +4,6 @@ title: "Benzodiacepinas: La Adicción Camuflada Del Consumo De Ansiolíticos en 
 tags: 
 - articles
 - literature-note
-URL: https://www.nationalgeographic.es/ciencia/2022/12/benzodiacepinas-la-adiccion-camuflada-del-consumo-de-ansioliticos-en-espana
 ---
 # Benzodiacepinas: La Adicción Camuflada Del Consumo De Ansiolíticos en España
 

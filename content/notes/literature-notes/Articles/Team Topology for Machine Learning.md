@@ -4,7 +4,6 @@ title: "Team Topology for Machine Learning"
 tags: 
 - articles
 - literature-note
-URL: https://towardsdatascience.com/team-topology-for-machine-learning-45bddba626e3
 ---
 # Team Topology for Machine Learning
 

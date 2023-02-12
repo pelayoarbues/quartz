@@ -4,7 +4,6 @@ title: "Run Your Data Team Like a Product Team"
 tags: 
 - articles
 - literature-note
-URL: https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/
 ---
 # Run Your Data Team Like a Product Team
 

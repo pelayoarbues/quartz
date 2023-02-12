@@ -4,7 +4,6 @@ title: "Share Your Data Insights to Engage Your Colleagues"
 tags: 
 - articles
 - literature-note
-URL: https://locallyoptimistic.com/post/share-your-data-insights-to-engage-your-colleagues/
 ---
 # Share Your Data Insights to Engage Your Colleagues
 

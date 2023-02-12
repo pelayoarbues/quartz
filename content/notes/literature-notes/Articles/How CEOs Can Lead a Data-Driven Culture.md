@@ -5,7 +5,6 @@ title: "How CEOs Can Lead a Data-Driven Culture"
 tags: 
 - articles
 - literature-note
-URL: https://hbr.org/2020/03/how-ceos-can-lead-a-data-driven-culture
 ---
 # How CEOs Can Lead a Data-Driven Culture
 

@@ -4,7 +4,6 @@ title: "Ciencia De Datos Con R"
 tags: 
 - articles
 - literature-note
-URL: https://readwise.io/reader/document_raw_content/29455725
 ---
 # Ciencia De Datos Con R
 

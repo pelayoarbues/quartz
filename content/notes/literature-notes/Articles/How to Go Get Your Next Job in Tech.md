@@ -4,7 +4,6 @@ title: "How to Go Get Your Next Job in Tech"
 tags: 
 - articles
 - literature-note
-URL: https://ianmcallister.substack.com/p/how-to-go-get-your-next-job-in-tech
 ---
 # How to Go Get Your Next Job in Tech
 

@@ -4,7 +4,6 @@ title: "Balancing the Weight of Variables in a Decision Tree"
 tags: 
 - articles
 - literature-note
-URL: https://www.bbvaaifactory.com/balancing-the-weight-of-variables-in-a-decision-tree/
 ---
 # Balancing the Weight of Variables in a Decision Tree
 

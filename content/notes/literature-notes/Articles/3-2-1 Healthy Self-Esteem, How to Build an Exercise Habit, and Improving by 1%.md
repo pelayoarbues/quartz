@@ -4,7 +4,6 @@ title: "3-2-1: Healthy Self-Esteem, How to Build an Exercise Habit, and Improvin
 tags: 
 - articles
 - literature-note
-URL: https://jamesclear.com/3-2-1/january-26-2023
 ---
 # 3-2-1: Healthy Self-Esteem, How to Build an Exercise Habit, and Improving by 1%
 

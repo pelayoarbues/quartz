@@ -4,7 +4,6 @@ title: "2022 Recap: Every Random Idea I Had"
 tags: 
 - articles
 - literature-note
-URL: https://pedram.substack.com/i/93416609/on-talking-about-the-work
 ---
 # 2022 Recap: Every Random Idea I Had
 

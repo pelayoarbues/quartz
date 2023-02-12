@@ -4,7 +4,6 @@ title: "Shape-Up"
 tags: 
 - articles
 - literature-note
-URL: https://basecamp.com/shapeup/shape-up.pdf
 ---
 # Shape-Up
 

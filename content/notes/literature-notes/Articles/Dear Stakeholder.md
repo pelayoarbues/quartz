@@ -4,7 +4,6 @@ title: "Dear Stakeholder"
 tags: 
 - articles
 - literature-note
-URL: https://davidsj.substack.com/p/dear-stakeholder
 ---
 # Dear Stakeholder
 
