@@ -1,5 +1,4 @@
 %% Begin Waypoint %%
-- [[1 La Mayoría De Las Emp...]]
 - [[ChatGPT Is the Future....]]
 - [[Clever (And Easy!) Trick...]]
 - [[Excited to Introduce 💠 𝗭...]]
@@ -13,6 +12,5 @@
 - [[Large Models Are Expensi...]]
 - [[Machine Learning Notes...]]
 - [[OpenAI’s New Embedding M...]]
-- [[Tweets From Forrest]]
 
 %% End Waypoint %%
