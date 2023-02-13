@@ -9,6 +9,8 @@ I love learning.
 
 This Map Of Content is a door to what I am currently reading, listening and paying attention.
 
+
+
 %% Begin Waypoint %%
 - **literature-notes**
 	- **[Articles](./literature-notes/Articles/Articles.md)**
@@ -19,5 +21,3 @@ This Map Of Content is a door to what I am currently reading, listening and payi
 	- **[Talks](./literature-notes/Talks/Talks.md)**
 
 %% End Waypoint %%
-
-
