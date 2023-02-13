@@ -20,7 +20,7 @@ Outside of work, my hobbies include taking analog street photographs, reading, a
 Want help with something? You can find me on all social media channels @pelayoarbues
 
 ## Stuff I do
-- [Learning](notes/notes.md)
+
 - [Writing](writing.md)
 - [Talks and Interviews](appearances/appearances.md)
 - [Research](research/research.md)

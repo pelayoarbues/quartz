@@ -7,9 +7,6 @@ tags:
 - literature-note
 ---
 
-```
-
-```
 
 ***
 **Author**: [[ ]]  [[Christine Doig-Cardet]]
