@@ -9,8 +9,8 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
-enableGitHubEdit: true
+enableRecentNotes: true
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 search:
@@ -20,7 +20,7 @@ search:
 description:
   Pelayo Arbués personal site, public second brain and digital garden.
 page_title:
-  "🧠 Pelayo Arbués"
+  "Pelayo Arbués"
 links:
   - link_name: Twitter
     link: https://twitter.com/pelayoarbues
