@@ -1,11 +1,11 @@
 name: Pelayo Arbués
-enableToc: true
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
-enableCallouts: true
+enableCallouts: false
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true

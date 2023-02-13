@@ -205,8 +205,7 @@ const displayResults = (term, finalResults, extractHighlight = false) => {
         } else {
           return resultToHTML(result)
         }
-      }
-      )
+      })
       .join("\n")
     if (LATEX_ENABLED) {
       renderMathInElement(results, {
