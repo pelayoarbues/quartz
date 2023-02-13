@@ -1,5 +1,5 @@
 ---
-title: Pelayo Arbués
+title: "Pelayo Arbués"
 enableToc: false
 tags:
 - MOC
