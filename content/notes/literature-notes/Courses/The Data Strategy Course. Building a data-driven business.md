@@ -8,8 +8,8 @@ tags:
 ---
 
 ***
-- **Author**: [[ ]]  [Bernard Marr]
-- **Source**: [[ ]]  [[The Data Strategy Course: Building a Data-driven Business | Udemy](https://www.udemy.com/course/the-data-strategy-course-building-a-data-driven-business/)]
+- **Author**: [Bernard Marr]
+- **Source**: [[The Data Strategy Course: Building a Data-driven Business | Udemy](https://www.udemy.com/course/the-data-strategy-course-building-a-data-driven-business/)]
 - **Tags**:  #triage
 ***
 
