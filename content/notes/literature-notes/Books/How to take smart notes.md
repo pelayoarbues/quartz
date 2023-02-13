@@ -12,7 +12,6 @@ It presents a note taking workflow aimed to support effective writing
 
 ***
 **Author**: [Sönke Ahrens]  
-**Source**: [How to take smart notes]  
 **Tags**:  #productivity #writing #learning
 ***
 

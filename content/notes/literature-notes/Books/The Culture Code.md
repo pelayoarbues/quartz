@@ -12,8 +12,8 @@ tags:
 ```
 
 ***
-**Author**: [[ ]]  [Daniel Coyle]
-**Source**: [[ ]]  https://danielcoyle.com/the-culture-code/
+**Author**:  [Daniel Coyle]
+**Source**:  https://danielcoyle.com/the-culture-code/
 **Tags**:  #triage
 ***
 

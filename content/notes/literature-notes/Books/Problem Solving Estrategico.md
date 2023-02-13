@@ -13,7 +13,6 @@ Propone afrontar la resolución de problemas de manera sistemática siguiendo un
 
 ***
 **Author**: [Giorgio Nardone]
-**Source**: [[ ]]  
 **Tags**:  #books
 ***
 

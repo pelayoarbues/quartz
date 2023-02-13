@@ -13,9 +13,8 @@ Culture is an enabler for all initiatives. In order to change culture you need t
 ```
 
 ***
-**Author**: [[ ]]  
-**Source**: [[ ]]  https://open.spotify.com/episode/6GsIPCSEZ3l6AVAf29EqVU?si=244c1ef2dea9432a
-**Tags**:  #triage
+**Author**: [[Dr Larry Senn]]
+**Source**:  https://open.spotify.com/episode/6GsIPCSEZ3l6AVAf29EqVU?si=244c1ef2dea9432a
 ***
 
 1st phd thesis on corporate culture (1969), first culture shaping consultancy firm (1978). 

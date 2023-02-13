@@ -13,7 +13,6 @@ The speed and interdependence of current environment creates complexity. An opti
 
 ***
 **Author**: [Stanley McChrystal]  
-**Source**: [[ ]]  
 **Tags**:  #triage
 ***
 

@@ -11,8 +11,8 @@ Managing stakeholders is one of the most important functions a DS manager is inv
 ```
 
 ***
-**Author**: [[ ]]  Katie Bauer
-**Source**: [[ ]] https://go.beondeck.com/ds-managers-guide-recording?_hsmi=218258143&_hsenc=p2ANqtz-8xUKjnRrFRnMKXYOa_BtCF8Ium1XyH3Qb1dweJ8TqRgQwnnHDsmcxDH2DrwffgwqhUFQbewrCKTE_qzUr3LiqUk_cI5w 
+**Author**: [[Katie Bauer]] 
+**Source**: https://go.beondeck.com/ds-managers-guide-recording?_hsmi=218258143&_hsenc=p2ANqtz-8xUKjnRrFRnMKXYOa_BtCF8Ium1XyH3Qb1dweJ8TqRgQwnnHDsmcxDH2DrwffgwqhUFQbewrCKTE_qzUr3LiqUk_cI5w
 **Tags**:  #triage
 ***
 

@@ -12,9 +12,8 @@ Good strategy is problem solving tha identifies the major obstacle, creates a gu
 ```
 
 ***
-**Author**: [[ ]]  [Richard Rumelt]
-**Source**: [[ ]]  
-**Tags**:  #triage
+**Author**: [Richard Rumelt]
+
 ***
 # Introduction
 

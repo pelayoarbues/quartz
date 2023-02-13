@@ -12,9 +12,7 @@ In order to succeed manage your energy by eating and doing exercise, hack your b
 ```
 
 ***
-**Author**: [[ ]]  [Scott Adams]
-**Source**: [[ ]]  
-**Tags**:  #books 
+**Author**:  [Scott Adams]
 ***
 
 # Introduction

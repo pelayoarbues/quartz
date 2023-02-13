@@ -12,9 +12,7 @@ Disney's Light and Magic show portraits the beginning and evolution of George Lu
 ```
 
 ***
-**Author**: [[ ]]  
-**Source**: [[ ]]  
-**Tags**:  #triage
+**Source**: [[Disney]]  
 ***
 
 
