@@ -13,5 +13,6 @@ This is a door to what I am currently learning. Lately I have been using [Reader
 - [Articles](https://pelayoarbues.github.io/tags/articles/)
 - [Books](https://pelayoarbues.github.io/tags/books)
 - [Courses](https://pelayoarbues.github.io/tags/course/)
+- [Talks](https://pelayoarbues.github.io/tags/talk/)
 - [Documentaries](https://pelayoarbues.github.io/tags/documentary/)
 - [Podcast](https://pelayoarbues.github.io/tags/podcast)

@@ -29,7 +29,7 @@ Como mejoramos la toma de decisiones en cuanto a un producto? A medida que vamos
 - Investigación. User research, preguntamos a los usuarios
 - Observación. Observamos a los usuarios, vemos qué hacen realmente. Cuidado que dicen != hacen
 - Experimentación. Experimentación online. Permite obtener la mejor experiencia genérica. 
-- Personalización
+- Personalización.
 
 ![[Pasted image 20221104140413.png]]
 
