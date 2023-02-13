@@ -1,7 +1,7 @@
 ---
 title: "Lecciones Aprendidas haciendo productos de datos"
 tags:
-- talk
+- speaking
 ---
 
 ![Busco Piso](appearances/2019/Databeers-XXX/Busco%20Piso.jpg)

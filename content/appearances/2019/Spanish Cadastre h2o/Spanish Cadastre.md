@@ -1,7 +1,7 @@
 ---
 title: "Boosting Spanish Cadastre with Machine Learning"
 tags:
-- talk
+- speaking
 ---
 
 ![Spanish Cadastre](appearances/2019/Spanish%20Cadastre%20h2o/Spanish%20Cadastre.jpg)

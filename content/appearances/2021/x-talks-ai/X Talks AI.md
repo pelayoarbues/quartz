@@ -1,7 +1,7 @@
 ---
 title: "Interview at podcast xTalks.AI"
 tags:
-- talk
+- speaking
 - podcast
 ---
 

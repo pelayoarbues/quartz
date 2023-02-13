@@ -1,7 +1,7 @@
 ---
 title: "ML en modelos hedónicos de valoración inmobiliaria"
 tags:
-- talk
+- speaking
 ---
 
 ![bde](appearances/2022/BdE-2022/bde.png)

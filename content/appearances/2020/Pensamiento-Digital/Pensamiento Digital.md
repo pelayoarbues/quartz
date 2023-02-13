@@ -1,7 +1,7 @@
 ---
 title: "Podcast Pensamiento Digital"
 tags:
-- talk
+- speaking
 - podcast
 ---
 

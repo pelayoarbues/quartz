@@ -1,7 +1,7 @@
 ---
 title: "Data Science Sin Humo"
 tags:
-- talk
+- speaking
 ---
 
 ![nuclio-data-sin-humo](appearances/2022/nuclio-data-science-sin-humo/nuclio-data-sin-humo.jpg)

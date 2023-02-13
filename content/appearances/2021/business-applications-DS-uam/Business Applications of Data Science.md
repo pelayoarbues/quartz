@@ -1,7 +1,7 @@
 ---
 title: "Business Applications of Data Science"
 tags:
-- talk
+- speaking
 ---
 
 ![business-applications-DS-uam](appearances/2021/business-applications-DS-uam/business-applications-DS-uam.png)

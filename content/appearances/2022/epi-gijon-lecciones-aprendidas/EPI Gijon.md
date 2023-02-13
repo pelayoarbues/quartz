@@ -1,7 +1,7 @@
 ---
 title: "Lecciones aprendidas haciendo Ciencia de Datos"
 tags:
-- talk
+- speaking
 ---
 
 

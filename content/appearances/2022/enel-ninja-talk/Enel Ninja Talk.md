@@ -1,7 +1,7 @@
 ---
 title: "Está la casa de mis sueños sobrevalorada o es un chollo"
 tags:
-- talk
+- speaking
 ---
 
 ![enel-ninja-talk](appearances/2022/enel-ninja-talk/enel-ninja-talk.png)

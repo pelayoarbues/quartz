@@ -1,7 +1,7 @@
 ---
 title: "Lecciones Aprendidas haciendo productos de datos"
 tags:
-- talk
+- speaking
 ---
 ![Spatial Autocorrelation](appearances/2020/Spatial%20Autocorrelation/Spatial%20Autocorrelation.png)
 

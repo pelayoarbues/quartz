@@ -1,7 +1,7 @@
 ---
 title: "Using location Data to create amazing user experiences online"
 tags:
-- talk
+- speaking
 ---
 
 ![geoawesomeness](appearances/2022/geoawesomeness/geoawesomeness.png)

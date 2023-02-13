@@ -1,7 +1,7 @@
 ---
 title: "Data Science beyond the Hype"
 tags:
-- talk
+- speaking
 ---
 
 ![Data Science Beyond the hype](appearances/2021/nova-ds-beyond-the-hype/Data%20Science%20Beyond%20the%20hype.jpg)

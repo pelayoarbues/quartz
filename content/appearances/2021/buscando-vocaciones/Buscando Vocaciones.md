@@ -1,7 +1,7 @@
 ---
 title: "Buscando Vocaciones"
 tags:
-- talk
+- speaking
 ---
 
 ![[appearances/2021/buscando-vocaciones/buscando-vocaciones.png]]

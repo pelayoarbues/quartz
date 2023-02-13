@@ -1,7 +1,7 @@
 ---
 title: "Datos cruzados"
 tags:
-- talk
+- speaking
 ---
 
 ![Datos-Cruzados](appearances/2022/Cruzando-datos-2022/Datos-Cruzados.png)

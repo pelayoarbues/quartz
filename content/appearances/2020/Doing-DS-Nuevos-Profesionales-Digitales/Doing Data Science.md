@@ -1,7 +1,7 @@
 ---
 title: "Doing Data Science: Lessons Learned"
 tags:
-- talk
+- speaking
 ---
 
 ![Doing DS](appearances/2020/Doing-DS-Nuevos-Profesionales-Digitales/Doing%20DS.jpg)

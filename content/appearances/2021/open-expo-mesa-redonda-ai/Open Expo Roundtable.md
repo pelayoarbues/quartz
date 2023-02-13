@@ -1,7 +1,7 @@
 ---
 title: "El futuro inmediato (y real) de la Inteligencia Artificial"
 tags:
-- talk
+- speaking
 - panel
 ---
 
