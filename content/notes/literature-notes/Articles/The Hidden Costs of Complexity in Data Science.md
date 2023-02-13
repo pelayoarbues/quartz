@@ -1,6 +1,6 @@
 ---
 author: [[Chris Walsh]]
-title: ''The Hidden Costs of Complexity in Data Science''
+title: "The Hidden Costs of Complexity in Data Science"
 tags: 
 - articles
 - literature-note

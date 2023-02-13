@@ -1,6 +1,6 @@
 ---
 author: [[alexkgold.space]]
-title: ''Managing the First Year''
+title: "Managing the First Year"
 tags: 
 - articles
 - literature-note

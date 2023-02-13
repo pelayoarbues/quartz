@@ -1,6 +1,6 @@
 ---
 author: [[Eugene Yan]]
-title: ''How to Write Better With the Why, What, How Framework''
+title: "How to Write Better With the Why, What, How Framework"
 tags: 
 - articles
 - literature-note

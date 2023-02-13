@@ -1,6 +1,6 @@
 ---
 author: [[Vera Wilde]]
-title: ''Simpson's Paradox and Existential Terror''
+title: "Simpson&#39;s Paradox and Existential Terror"
 tags: 
 - articles
 - literature-note

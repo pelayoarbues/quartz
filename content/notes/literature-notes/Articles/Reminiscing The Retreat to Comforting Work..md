@@ -1,6 +1,6 @@
 ---
 author: [[lethain.com]]
-title: ''Reminiscing: The Retreat to Comforting Work.''
+title: "Reminiscing: The Retreat to Comforting Work."
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,6 @@
 ---
 author: [[3-2-1 Thursday newsletter - James Clear]]
-title: ''3-2-1: Healthy Self-Esteem, How to Build an Exercise Habit, and Improving by 1%''
+title: "3-2-1: Healthy Self-Esteem, How to Build an Exercise Habit, and Improving by 1%"
 tags: 
 - articles
 - literature-note

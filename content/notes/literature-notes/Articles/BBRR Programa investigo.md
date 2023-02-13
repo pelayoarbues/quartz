@@ -1,6 +1,6 @@
 ---
 author: [[MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL]]
-title: ''BBRR Programa investigo''
+title: "BBRR Programa investigo"
 tags: 
 - articles
 - literature-note

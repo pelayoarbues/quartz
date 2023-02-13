@@ -1,6 +1,6 @@
 ---
 author: [[eugeneyan.com]]
-title: ''What I Do Before a Data Science Project to Ensure Success''
+title: "What I Do Before a Data Science Project to Ensure Success"
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,6 @@
 ---
 author: [[Katie Bauer]]
-title: ''Elbows of Data''
+title: "Elbows of Data"
 tags: 
 - articles
 - literature-note

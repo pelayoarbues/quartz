@@ -1,6 +1,6 @@
 ---
 author: [[Jay Alammar]]
-title: ''Visualizing a Neural Machine Translation Model''
+title: "Visualizing a Neural Machine Translation Model"
 tags: 
 - articles
 - literature-note

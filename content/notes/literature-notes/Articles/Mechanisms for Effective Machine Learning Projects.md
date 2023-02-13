@@ -1,6 +1,6 @@
 ---
 author: [[Eugene Yan]]
-title: ''Mechanisms for Effective Machine Learning Projects''
+title: "Mechanisms for Effective Machine Learning Projects"
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,6 @@
 ---
 author: [[Anna Geller]]
-title: ''Should You Measure the Value of a Data Team?''
+title: "Should You Measure the Value of a Data Team?"
 tags: 
 - articles
 - literature-note
