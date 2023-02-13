@@ -7,11 +7,11 @@ tags:
 
 I love learning. 
 
-This Map Of Content is a door to what I am currently reading, listening and paying attention. Let's try a MOC with hashtags
+This is a door to what I am currently learning. Lately I have been using [Reader by Readwise](https://readwise.io/read) quite a lot. It allows me to read, highlight and take notes of almost anything.  It has a great integration with Obsidian that allows me t
 
 
-- #articles
-- #books
-- #course  
-- #documetary 
-- #podcast 
+- [Articles](https://pelayoarbues.github.io/tags/articles/)
+- [Books](https://pelayoarbues.github.io/tags/books)
+- [Courses](https://pelayoarbues.github.io/tags/course/)
+- [Documentaries](https://pelayoarbues.github.io/tags/documentary/)
+- [Podcast](https://pelayoarbues.github.io/tags/podcast)
