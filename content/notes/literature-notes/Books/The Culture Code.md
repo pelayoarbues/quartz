@@ -12,9 +12,9 @@ tags:
 ```
 
 ***
-**Author**:  [Daniel Coyle]
-**Source**:  https://danielcoyle.com/the-culture-code/
-**Tags**:  #triage
+- **Author**:  [Daniel Coyle]
+- **Source**:  https://danielcoyle.com/the-culture-code/
+- **Tags**:  #triage
 ***
 
 # Build safety 

@@ -12,7 +12,7 @@ Disney's Light and Magic show portraits the beginning and evolution of George Lu
 ```
 
 ***
-**Source**: [[Disney]]  
+- **Source**: [[Disney]]  
 ***
 
 

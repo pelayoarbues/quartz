@@ -1,6 +1,6 @@
 ---
 author: [[Sharon Salzberg]]
-title: "'Real Happiness'"
+title: "Real Happiness"
 tags: 
 - books
 - literature-note

@@ -11,8 +11,8 @@ It presents a note taking workflow aimed to support effective writing
 ```
 
 ***
-**Author**: [Sönke Ahrens]  
-**Tags**:  #productivity #writing #learning
+- **Author**: [Sönke Ahrens]  
+- **Tags**:  #productivity #writing #learning
 ***
 
 

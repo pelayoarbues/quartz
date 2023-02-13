@@ -1,6 +1,6 @@
 ---
 author: [[Prof. Mark Williams]]
-title: "'Mindfulness'"
+title: "Mindfulness"
 tags: 
 - books
 - literature-note

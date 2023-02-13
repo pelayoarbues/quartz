@@ -12,8 +12,8 @@ Propone afrontar la resolución de problemas de manera sistemática siguiendo un
 ```
 
 ***
-**Author**: [Giorgio Nardone]
-**Tags**:  #books
+- **Author**: [Giorgio Nardone]
+- **Tags**:  #books
 ***
 
 # 1. Si hay un problema también hay una solución

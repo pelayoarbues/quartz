@@ -7,14 +7,10 @@ tags:
 - literature-note
 ---
 
-```
-
-```
-
 ***
-**Author**: [[ ]]  [Bernard Marr]
-**Source**: [[ ]]  [[The Data Strategy Course: Building a Data-driven Business | Udemy](https://www.udemy.com/course/the-data-strategy-course-building-a-data-driven-business/)]
-**Tags**:  #triage
+- **Author**: [[ ]]  [Bernard Marr]
+- **Source**: [[ ]]  [[The Data Strategy Course: Building a Data-driven Business | Udemy](https://www.udemy.com/course/the-data-strategy-course-building-a-data-driven-business/)]
+- **Tags**:  #triage
 ***
 
 Data Strategy helps you identify a manageable strategic use case. What business want to achieve in which data can help business suceed.

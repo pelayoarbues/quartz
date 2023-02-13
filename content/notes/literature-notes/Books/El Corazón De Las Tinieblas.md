@@ -1,6 +1,6 @@
 ---
 author: [[Joseph Conrad]]
-title: "'El Corazón De Las Tinieblas'"
+title: "El Corazón De Las Tinieblas"
 tags: 
 - books
 - literature-note

@@ -9,8 +9,8 @@ tags:
 
 
 ***
-**Author**:  [[Christine Doig-Cardet]]
-**Source**:  [Garaje de ideas - Design, Dev, Data & Growth - Shopify Plus Partner on LinkedIn: ⚡️ Creando experiencias personalizadas con ciencia de datos | 53 comments](https://www.linkedin.com/video/live/urn:li:ugcPost:6910288614576795648/)
+- **Author**:  [[Christine Doig-Cardet]]
+- **Source**:  [Garaje de ideas - Design, Dev, Data & Growth - Shopify Plus Partner on LinkedIn: ⚡️ Creando experiencias personalizadas con ciencia de datos | 53 comments](https://www.linkedin.com/video/live/urn:li:ugcPost:6910288614576795648/)
 ***
 
 

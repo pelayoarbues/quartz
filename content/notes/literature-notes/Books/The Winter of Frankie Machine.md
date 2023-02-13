@@ -1,6 +1,6 @@
 ---
 author: [[Don Winslow]]
-title: "'The Winter of Frankie Machine'"
+title: "The Winter of Frankie Machine"
 tags: 
 - books
 - literature-note
