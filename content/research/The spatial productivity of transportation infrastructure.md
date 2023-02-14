@@ -20,4 +20,4 @@ Transportation infrastructure services may cause an impact on the economy of the
 
 
 **DOI:** [https://doi.org/10.1016/j.tra.2015.03.010](https://doi.org/10.1016/j.tra.2015.03.010 "Persistent link using digital object identifier")
-PDF: [2015-The_spatial_productivity_of_transportation_infrastructure](research/pdfs/2015-The_spatial_productivity_of_transportation_infrastructure.pdf)
+**PDF**: ![2015-The_spatial_productivity_of_transportation_infrastructure](research/pdfs/2015-The_spatial_productivity_of_transportation_infrastructure.pdf)
