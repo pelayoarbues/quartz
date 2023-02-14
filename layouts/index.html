@@ -11,7 +11,7 @@
         <div class="writing-sidebar">
             <div class="delay t-3">
                 <h2>Recent Writing</h2>
-                {{$writing := where .Site.RegularPages "Section" "slipbox" }}
+                {{$writing := where .Site.RegularPages "Section" "writing" }}
                 <ul class="delay stagger">
                     {{range first 3 $writing }}
                     <li>
@@ -27,11 +27,11 @@
                     </li>
                     {{end}}
                 </ul>
-                <a href="/slipbox">See {{sub (len $writing) 3}} more →</a>
+                <a href="/writing">See {{sub (len $writing) 3}} more →</a>
             </div>
             <div class="delay t-4">
                 <h2>Recent Notes</h2>
-                {{$notes := where .Site.RegularPages "Section" "fleeting"}}
+                {{$notes := where .Site.RegularPages "Section" "notes"}}
                 <ul class="delay stagger">
                     {{range first 2 $notes }}
                     <li>
@@ -47,7 +47,7 @@
                     </li>
                     {{end}}
                 </ul>
-                <a href="/fleeting">See {{sub (len $notes) 2}} more →</a>
+                <a href="/notes">See {{sub (len $notes) 2}} more →</a>
             </div>
         </div>
         <article>
