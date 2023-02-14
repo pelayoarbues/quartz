@@ -1,7 +1,7 @@
 
 
 ---
-title: Writing
+title: "Writing"
 tags:
 - MOC
 ---
@@ -13,14 +13,7 @@ tags:
 Welcome to my digital garden. It is a personal website where I can share my thoughts, ideas, and knowledge in an interconnected and non-linear way. Unlike a traditional blog or website, a digital garden is designed to be ever-evolving and growing, with the content being constantly updated and interconnected through hyperlinks, allowing for a more fluid and organic way of organizing and sharing information. You can find a great introduction to digital Gardens in this post by [Joel Hooks](https://joelhooks.com/digital-garden)
 
 You can find the following notes in this garden:
-1.  Fleeting notes: These are notes that capture passing thoughts or ideas, often written quickly and informally. They may not be fully formed or well-developed, but can serve as a starting point for further exploration or reflection.
-
-2.  Seed notes: Similar to fleeting notes, seed notes are small ideas that can be expanded upon in the future. They may be a single word or phrase that captures an idea, concept, or inspiration.
-
-3.  Literature notes: These are notes that capture ideas or insights from books, articles, or other written works. They may summarize key points, highlight important quotes, or provide personal reflections on the content.
-
-4.  Project notes: These are notes that capture ideas, plans, or progress related to a particular project or endeavor. They may include brainstorming sessions, to-do lists, or progress updates.
-
-5.  Meta notes: These are notes that reflect on the process of note-taking and organizing within the digital garden itself. They may provide insights or tips on how to use the garden effectively, or reflect on the value of note-taking and reflection in general.
-
-6.  Evergreen notes: These are notes that focus on fundamental concepts or principles, and are designed to remain relevant and useful over time. They may include definitions of key concepts, explanations of fundamental principles or theories, summaries of important books or articles, guides or tutorials on how to do something, or lists of resources or tools that are useful for a particular purpose.
+1. Fleeting notes: These are brief notes taken when encountering new information. They are meant to be taken quickly, in the moment, and should be kept as short as possible. Fleeting notes serve as a reminder of the idea or information, and are meant to be processed later.
+2. Permanent notes: These are more detailed notes that have been processed from the fleeting notes. Permanent notes should focus on a single idea or concept, and be written in the note-taker's own words. They should be organized in a way that makes sense to the note-taker, and linked to other relevant notes in the Zettelkasten system. The goal is to create a network of interconnected ideas that can be easily accessed and used for future writing or research.
+3. Literature notes: These are notes that capture ideas or insights from books, articles, or other written works. They may summarize key points, highlight important quotes, or provide personal reflections on the content.
+4.  Writings: The result of assembling permantent and literatute notes, writing a draft based on those ideas which is finally reviewd, corrected and polished.
