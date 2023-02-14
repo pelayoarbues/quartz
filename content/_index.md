@@ -20,7 +20,7 @@ Want help with something? You can find me on all social media channels @pelayoar
 
 ## Stuff I do
 
-- [Writing](writing.md)
+- [Writing](writing/digital-garden.md)
 - [Talks and Interviews](appearances/appearances.md)
 - [Research](research/research.md)
 - [Learning](literature-notes/literature-notes.md)

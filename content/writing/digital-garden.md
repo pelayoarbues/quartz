@@ -1,12 +1,10 @@
 
 
 ---
-title: "Writing"
+title: "Digital Garden"
 tags:
 - MOC
 ---
-
-# Digital Garden
 
 ![digital_garden_midjouney](attachments/digital_garden_midjouney.png)
 
