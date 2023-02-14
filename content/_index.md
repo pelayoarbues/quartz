@@ -23,5 +23,5 @@ Want help with something? You can find me on all social media channels @pelayoar
 - [Writing](writing.md)
 - [Talks and Interviews](appearances/appearances.md)
 - [Research](research/research.md)
-- [Learning](notes/notes.md)
-- Photography
+- [Learning](literature-notes/literature-notes.md)
+- [Photography](photography/photography.md)
