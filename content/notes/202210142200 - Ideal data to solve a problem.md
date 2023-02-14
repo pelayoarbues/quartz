@@ -1,5 +1,5 @@
 ---
-title: "202210142200 Ideal data to solve a problem"
+title: "202210142200 - Ideal data to solve a problem"
 Date: 2022-10-14
 tags: 
 - permanent-note 
