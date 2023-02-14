@@ -1,5 +1,5 @@
 ---
-title: "Lecciones Aprendidas haciendo productos de datos"
+title: "Spatial Autocorrelation is everywhere"
 tags:
 - speaking
 ---
