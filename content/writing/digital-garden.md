@@ -17,5 +17,5 @@ You can find the following notes in this garden:
 4.  Writings: The result of assembling permanent and literature notes, writing a draft based on those ideas which is finally reviewed, corrected and polished
 	- [Agile for Data Science](writing/Agile%20for%20Data%20Science.md)
 	- [Buscas tu primer empleo de Ciencia de Datos](writing/Buscas%20tu%20primer%20empleo%20de%20Ciencia%20de%20Datos.md)
-	- [Como contratar DS y no desesperar en el intento](writing/Como%20contratar%20DS%20y%20no%20desesperar%20en%20el%20intento.md)
+	- [Cómo contratar DS y no desesperar en el intento](writing/Como%20contratar%20DS%20y%20no%20desesperar%20en%20el%20intento.md)
 	- [The Rational Company](writing/The%20Rational%20Company.md)

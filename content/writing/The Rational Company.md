@@ -1,6 +1,6 @@
 
 ---
-title: The Rational Company
+title: "The Rational Company"
 Date: 2022-10-17
 tags: 
 - permanent-note
