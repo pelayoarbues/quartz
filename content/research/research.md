@@ -4,10 +4,12 @@ tags:
 - MOC
 ---
 
+I worked as an applied economist in the Academia since 2007 until 2014. 
+
 [The spatial productivity of transportation infrastructure](research/The%20spatial%20productivity%20of%20transportation%20infrastructure.md)
 
-[Determinants of ground transport modal choice in long-distance trips in Spain](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=WaC-GcIAAAAJ&citation_for_view=WaC-GcIAAAAJ:ZeXyd9-uunAC)
+[A Stochastic Frontier Analysis Approach for Estimating Energy Demand](research/A%20Stochastic%20Frontier%20Analysis%20Approach%20for%20Estimating%20Energy%20Demand.md)
 
-[A stochastic frontier analysis approach for estimating energy demand and efficiency in the transport sector of Latin America and the Caribbean](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=WaC-GcIAAAAJ&citation_for_view=WaC-GcIAAAAJ:-f6ydRqryjwC)
+[Determinants of ground transport modal choice in long-distance trips in Spain](research/Determinants%20of%20ground%20transport%20modal%20choice%20in%20long-distance%20trips%20in%20Spain.md)
 
-[A dynamic approach to road freight flows modeling in Spain](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=WaC-GcIAAAAJ&citation_for_view=WaC-GcIAAAAJ:7PzlFSSx8tAC)
+[The spatial productivity of transportation infrastructure](research/The%20spatial%20productivity%20of%20transportation%20infrastructure.md)
