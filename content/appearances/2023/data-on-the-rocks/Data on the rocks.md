@@ -13,5 +13,3 @@ tags:
 
 **Summary**: En esta charla comparto lecciones aprendidas haciendo productos de datos relacionadas con la importancia de la calidad del dato, cómo integrar distintos perfiles en el diseño y desarrollo de estos productos, y qué dificultades tienen los usuarios para entender las funcionalidades basadas en algoritmos avanzados. 
 
-[TakeAways prepared by Garaje de ideas](appearances/2023/data-on-the-rocks/TakeAway%20DOTRs%20-%20Lecciones%20aprendidas%20haciendo%20productos%20de%20datos.pdf)
-

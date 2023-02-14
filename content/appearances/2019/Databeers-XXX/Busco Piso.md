@@ -8,7 +8,7 @@ tags:
 
 
 - **Event name**: Databeers XXX
-- **URLs**: [Event](https://databeers.tumblr.com/post/187436855446/databeers-madrid-xxx-2019-09-19-1900) [Video](https://youtu.be/wYb3tdiEr4I?t=3582) 
+- **URLs**: [Event](https://databeers.tumblr.com/post/187436855446/databeers-madrid-xxx-2019-09-19-1900) | [Video](https://youtu.be/wYb3tdiEr4I?t=3582) 
 - **Date**: 2019-09-19
 - **Location**: Google Campus
 

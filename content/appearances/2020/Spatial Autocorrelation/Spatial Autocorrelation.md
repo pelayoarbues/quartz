@@ -6,7 +6,7 @@ tags:
 ![Spatial Autocorrelation](appearances/2020/Spatial%20Autocorrelation/Spatial%20Autocorrelation.png)
 
 - **Event name**: XI Jornadas de Usuarios de R
-- **URLs**: [Event](http://r-es.org/XIjuR/) [Slides](https://docs.google.com/presentation/d/13NMMeQkvK2imWemUTkHGb32ddJjLM-ad_rGG8kClhNU/edit?usp=sharing)
+- **URLs**: [Event](http://r-es.org/XIjuR/)  | [Slides](https://docs.google.com/presentation/d/13NMMeQkvK2imWemUTkHGb32ddJjLM-ad_rGG8kClhNU/edit?usp=sharing)
 - **Date**: 2020-02-20
 - **Location**: UNED - Madrid
 
