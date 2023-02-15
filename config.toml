@@ -12,8 +12,12 @@ enableGitInfo = true
 
 [outputs]
     page = ["HTML"]
-    home = ["HTML", "RSS"]
+    home = ["HTML"]
     section = ["HTML","RSS"]
+
+[author]
+name = "Pelayo Arbués"
+location = "Madrid, Spain"
 
 [markup]
     [markup.tableOfContents]
