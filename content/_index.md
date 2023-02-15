@@ -14,13 +14,13 @@ I'm passionate about problem-solving and love being a manager because it allows 
 
 My biggest dream is to apply my skills and experience to help address human challenges, and I aspire to be known for leading a team that works with high ethics and can deliver outstanding solutions.
 
-Outside of work, my hobbies include taking analog street photographs, reading, and spending quality time with my family. I love learning about creative processes, management, and philosophy. You can learn about my [current priorities here](writing/now.md). 
+Outside of work, my hobbies include taking analog street photographs, reading, and spending quality time with my family. I love learning about creative processes, management, and philosophy. You can learn about my [current priorities here](now.md). 
 
 Want help with something? You can find me on all social media channels @pelayoarbues
 
 ## Stuff I do
 
-- [Writing for learning](writing/digital-garden.md)
+- [Writing for learning](digital-garden.md)
 - [Talks, Interviews and Podcast participation](appearances/appearances.md)
 - [Research](research/research.md)
 - [Photography](photography/photography.md)
