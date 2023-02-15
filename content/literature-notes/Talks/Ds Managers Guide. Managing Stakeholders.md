@@ -38,6 +38,6 @@ Managing stakeholders is one of the most important functions a DS manager is inv
 				- Packages them well. If you do this it is really important to contextualise. Be a sumellier, build taste with easy wines, then move to more complex wines. Give people things that you know they like, show them gradually what it is possible. 
 				- Don't overindex on this. Use it judiciously.
 			- Set a good example, then be willing to let go. Show them how it is to use well data, but don't try to be always the mediator. Let them work and explore the data, make mistakes and let it go.
-![[Pasted image 20220722093303.png]]
+![[Reference-System/Resources/attachments/Pasted image 20220722093303.png]]
 
 

@@ -14,15 +14,15 @@ tags:
 ***
 
 
-![[Pasted image 20221104135859.png]]
+![[Reference-System/Resources/attachments/Pasted image 20221104135859.png]]
 
-![[Pasted image 20221104135910.png]]
+![[Reference-System/Resources/attachments/Pasted image 20221104135910.png]]
 
-![[Pasted image 20221104135928.png]]
+![[Reference-System/Resources/attachments/Pasted image 20221104135928.png]]
 
-![[Pasted image 20221104140001.png]]
+![[Reference-System/Resources/attachments/Pasted image 20221104140001.png]]
 
-![[Pasted image 20221104140015.png]]
+![[Reference-System/Resources/attachments/Pasted image 20221104140015.png]]
 
 Como mejoramos la toma de decisiones en cuanto a un producto? A medida que vamos hacia abajo tenemos más complejidad, pero esto no asegura tener mejores decisiones así que hay que estudiar qué decisiones tenemos que tomar y cómo estudiarlas. 
 - Experiencia, buscamos info, vemos qué se hace en la industria, intuiciones pasadas
@@ -31,10 +31,10 @@ Como mejoramos la toma de decisiones en cuanto a un producto? A medida que vamos
 - Experimentación. Experimentación online. Permite obtener la mejor experiencia genérica. 
 - Personalización.
 
-![[Pasted image 20221104140413.png]]
+![[Reference-System/Resources/attachments/Pasted image 20221104140413.png]]
 
 
-![[Pasted image 20221104141959.png]]
+![[Reference-System/Resources/attachments/Pasted image 20221104141959.png]]
 
 Un pequeño proyecto de diseño podemos tener efectos en el producto y la experiencia del producto en general
 
