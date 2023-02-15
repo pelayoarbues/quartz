@@ -14,16 +14,10 @@
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <!-- Social Tags -->
-  <meta property="og:url" content="https://jzhao.xyz" />
-  <meta property="og:title" content="{{ .Scratch.Get "title" | humanize }}" />
-  <meta property="og:description" content="{{ .Scratch.Get "description" }}" />
-  <meta property="og:image" content="https://jzhao.xyz/res/og-card.png" />
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:creator" content="@_jzhao">
-  <meta name="twitter:title" content="{{ .Scratch.Get "title" }}">
-  <meta name="twitter:description" content="{{ .Scratch.Get "description" }}" />
-  <meta name="twitter:image" content="https://jzhao.xyz/res/og-card.png" />
+  <!-- RSS feed -->
+  {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
 
 
   <!-- HTML Favicon -->
