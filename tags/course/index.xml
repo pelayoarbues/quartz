@@ -1,1 +1,566 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>course on</title><link>https://pelayoarbues.github.io/tags/course/</link><description>Recent content in course on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pelayoarbues.github.io/tags/course/index.xml" rel="self" type="application/rss+xml"/><item><title>The Data Strategy Course. Building a data-driven business</title><link>https://pelayoarbues.github.io/literature-notes/Courses/The-Data-Strategy-Course.-Building-a-data-driven-business/</link><pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/literature-notes/Courses/The-Data-Strategy-Course.-Building-a-data-driven-business/</guid><description>Author: [Bernard Marr] Source: [ The Data Strategy Course: Building a Data-driven Business | Udemy] Tags: #triage Data Strategy helps you identify a manageable strategic use case.</description></item><item><title>A Roadmap for Creating a Data Literacy Program</title><link>https://pelayoarbues.github.io/literature-notes/Articles/A-Roadmap-for-Creating-a-Data-Literacy-Program/</link><pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/literature-notes/Articles/A-Roadmap-for-Creating-a-Data-Literacy-Program/</guid><description>1 A Data Literacy program trains employees to embrace and leverage data across organization but takes time, effort and the support of C-level management and HR is fundamental.</description></item><item><title>A Roadmap for Creating a Data Literacy Program</title><link>https://pelayoarbues.github.io/literature-notes/Courses/A-Roadmap-for-Creating-a-Data-Literacy-Program/</link><pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/literature-notes/Courses/A-Roadmap-for-Creating-a-Data-Literacy-Program/</guid><description>1 A Data Literacy program trains employees to embrace and leverage data across organization but takes time, effort and the support of C-level management and HR is fundamental.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>course on</title><link>https://pelayoarbues.github.io/tags/course/</link><description>Recent content in course on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pelayoarbues.github.io/tags/course/index.xml" rel="self" type="application/rss+xml"/><item><title>The Data Strategy Course. Building a data-driven business</title><link>https://pelayoarbues.github.io/literature-notes/Courses/The-Data-Strategy-Course.-Building-a-data-driven-business/</link><pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/literature-notes/Courses/The-Data-Strategy-Course.-Building-a-data-driven-business/</guid><description>&lt;hr>
+&lt;ul>
+&lt;li>&lt;strong>Author&lt;/strong>: [Bernard Marr]&lt;/li>
+&lt;li>&lt;strong>Source&lt;/strong>: [
+&lt;a href="https://www.udemy.com/course/the-data-strategy-course-building-a-data-driven-business/" rel="noopener">The Data Strategy Course: Building a Data-driven Business | Udemy&lt;/a>]&lt;/li>
+&lt;li>&lt;strong>Tags&lt;/strong>: #triage&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>Data Strategy helps you identify a manageable strategic use case. What business want to achieve in which data can help business suceed.&lt;/p>
+&lt;p>5 strategic use case areas:&lt;/p>
+&lt;ol>
+&lt;li>How data can help everyone in an organisation make better and faster decisions&lt;/li>
+&lt;li>Using data to gain customer and market insights. Understand your customers &amp;gt; successful in markets&lt;/li>
+&lt;li>Smarter products and services. Personalisation.&lt;/li>
+&lt;li>Using data to improve and automate the way a business operates&lt;/li>
+&lt;li>Data monetisation. Turning data into income.&lt;/li>
+&lt;/ol>
+&lt;p>Create a strong business case for using data.&lt;/p>
+&lt;h1 id="1-data-driven-decision-making">1. Data driven decision making&lt;/h1>
+&lt;p>Two key elements:&lt;/p>
+&lt;ol>
+&lt;li>Self-service. A company gives more people access to more data so they can answer their business questions.&lt;/li>
+&lt;li>Curated dashboards. Idenbtify and communicate the strategic data sets and metrics. Identify information needs.
+&lt;ol>
+&lt;li>identify Key business questions
+&lt;ol>
+&lt;li>Analyse strategy and goals&lt;/li>
+&lt;li>For each goal define questions that need answering
+3.Identify metrics or data sets to answer those questions&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ol>
+&lt;p>The right data leads to smarter decisions.&lt;/p>
+&lt;p>Common pitfalls:&lt;/p>
+&lt;ul>
+&lt;li>Dont give executives access to self service tools with the hope that they will find their own answers&lt;/li>
+&lt;li>Dont put irrelevant or badly visualised data into dashboards or reports&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Drowning in data while thirsting for insights&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="challenges-related-to-self-service-data-exploration">Challenges related to self service data exploration&lt;/h3>
+&lt;p>Creating data cubes and connecting it with a data viz tool does not ensure data-driven decision making&lt;/p>
+&lt;p>Working with data and setting up a firms data infrastructure&lt;/p>
+&lt;p>Leadership should promote data driven decision making. Build the right culture of delegated decision making
+Ensure an improved data literacy. Training and emphasis on developing data-related skills&lt;/p>
+&lt;p>Provide the right tools to your employees. Once the tools are in place, additionatl training and support is required. Data café in Walmart or data translators between business and analytics teams.&lt;/p>
+&lt;p>Provide access to the right quality data. Use single source of truth, invest in master data management, conduct data audits.&lt;/p>
+&lt;h3 id="asking-key-business-questions-first">Asking key business questions first&lt;/h3>
+&lt;blockquote>
+&lt;p>Good questions outrank easy answers. Paul Samuelson&lt;/p>
+&lt;/blockquote>
+&lt;p>Data driven decision making starts by defining the questions that need to be answered. Then we need to define how to use data to answer the questions in an informed way&lt;/p>
+&lt;p>&lt;code>Key Business Questions&lt;/code> capture business information needs and are the biggest unaswered questions or what managers need to know about their organisation. Focus our attention on the questions that really matter and provide guidance for collecting meaningful and relevant data.&lt;/p>
+&lt;p>The power of clear Key Business Questions.&lt;/p>
+&lt;ul>
+&lt;li>Telecom wanted to know most profitable customers and profitability over the long run. Rephrased as CLTV. How loyal are profitable customers. Churn rates.&lt;/li>
+&lt;/ul>
+&lt;p>Good questions lead to good answers.&lt;/p>
+&lt;h4 id="how-do-you-develop-good-business-questions">How do you develop good business questions?&lt;/h4>
+&lt;ol>
+&lt;li>Start with strategy. Clarify strategic objectives and start developing KBQs. The fewer KBQs the better.&lt;/li>
+&lt;li>Engage people in the KBQ design. List &amp;gt; subject matter experts &amp;gt;&lt;/li>
+&lt;li>Try to phrase your KBQs as open questions. Open up the dialogue.&lt;/li>
+&lt;li>Focus your KBQs on the present and the future.&lt;/li>
+&lt;li>Keep your KBQs short and clear.&lt;/li>
+&lt;li>Refine your KBQs by using them.&lt;/li>
+&lt;/ol>
+&lt;h3 id="give-people-access-to-data">Give people access to data&lt;/h3>
+&lt;p>You democratise data driven decision making. Avoid analytics team bottleneck.&lt;/p>
+&lt;h3 id="curating-the-most-important-data-insights">Curating the most important data insights&lt;/h3>
+&lt;p>For the most strategic data needs we need curated dashboards. A well design dashboard helps monitoring the key business goals.
+Remember not everyone can read graphs. Include text based descriptions.
+It allows companies to control narrative and data storytelling.&lt;/p>
+&lt;h1 id="2-using-data-to-understand-your-customers">2. Using data to understand your customers&lt;/h1>
+&lt;p>Data allows companies to understand their customers and the market conditions they are operating in.&lt;/p>
+&lt;p>Intuitions, past experiences, knowledge passed down through previous generations. Getting big catch depends more on luch than on facts.&lt;/p>
+&lt;p>A butcher shop in London using beacons to track pedestrian inflow and testing different signs.&lt;/p>
+&lt;p>Netflix everything they do is based on data and AI. Content creation, recommendations. Autogenerate thumbnails. Streaming optimization. Post production and editing.&lt;/p>
+&lt;p>Amazon. Recommendations. Income level. 360 degree customers.&lt;/p>
+&lt;h3 id="real-time-data-to-understand-customers">Real time data to understand customers&lt;/h3>
+&lt;p>Importance of real time data in Covid.&lt;/p>
+&lt;h1 id="3-using-data-to-provide-more-intelligent-services">3. Using data to provide more intelligent services&lt;/h1>
+&lt;p>3 wayts busiensser are delivering a better servbice through data and AI&lt;/p>
+&lt;ol>
+&lt;li>Delivering a highly personalised offering. The more understainding of the customers the more you can fill their needs. Stitchfix.
+&lt;ul>
+&lt;li>Engangement&lt;/li>
+&lt;li>Factors encouraging engagement&lt;/li>
+&lt;li>A major business trend. Customer expect more intelligent services.&lt;/li>
+&lt;li>Netflix, Amazon, Stitch Fix&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Giving customers more value. Making customers life easier better.&lt;/li>
+&lt;li>Predicting customers needs. Anticipatory shipping by Amazon. Predictive maintenance needs by Kone.
+The most successful service providers of the future will use data and AI to provide thoughtful solutions.&lt;/li>
+&lt;/ol>
+&lt;p>Huge benefits of smart products&lt;/p>
+&lt;ol>
+&lt;li>Making customers lives easier. IoT. Thermostat. More efficient, more automated, more responsive&lt;/li>
+&lt;li>Building better products. Better understanding of your customers. Better product design.&lt;/li>
+&lt;li>Responging to customers needs more quickly. Google&amp;rsquo;s micromoments&lt;/li>
+&lt;li>Adding new revenue streams. Crossover between smart products and smart services.&lt;/li>
+&lt;/ol>
+&lt;h1 id="4-using-data-to-improve-your-business-processes">4. Using data to improve your business processes&lt;/h1>
+&lt;p>Make business more efficient more streamline, more cost effective and better coping with changing business needs&lt;/p>
+&lt;ol>
+&lt;li>Improving meetings. AI and data cant eliminate meeting just yet. Schedule appointments, catpure highlight and actions. EVA assistant and Sonia&lt;/li>
+&lt;li>Enhancing sales and marketing.
+&lt;ol>
+&lt;li>Predict customers most likely to generate more revenue. Most likely to&lt;/li>
+&lt;li>Chatbots&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Assesing and improving customer service
+&lt;ol>
+&lt;li>Judge quality of customers calls&lt;/li>
+&lt;li>Detect problematic customer service&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Improving product development processes
+&lt;ul>
+&lt;li>Generative design to generate multiple designs from a single idea&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Automatic content generation. Writing industry articles and reports.&lt;/li>
+&lt;li>Automatic content generation. Writing industry articles and reports.&lt;/li>
+&lt;li>Enhanding the manufacture process
+&lt;ul>
+&lt;li>Collarbotive robots (Cobots)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Refining recruitment
+&lt;ul>
+&lt;li>pymetrics&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h1 id="5-monetising-your-data">5. Monetising your data&lt;/h1>
+&lt;p>Main approaches to data monetization
+1. Create extra value for your organizaction from data
+2. Sell data to your customers or other interested third parties.
+- It can be a by product. Visa
+- Cosmose Ai. Anonymized mobile phone data.&lt;/p>
+&lt;ul>
+&lt;li>Ask the right questions first before collecting datra with the idea of selling it.&lt;/li>
+&lt;/ul>
+&lt;p>Create distinct commercial units charged with the topic of data monetization. Benefit of saving other divisions strategic focus and complete responsability to the dedicated unit.&lt;/p>
+&lt;h2 id="shotspotter-case-study">Shotspotter case study&lt;/h2>
+&lt;p>Monitors the soundscape of a city. The sound data is interpretted by algorithms and it helps locating gun shots. It sells the data to police office. Real time gun usage in neighborhoods.&lt;/p>
+&lt;h1 id="defining-data-use-cases">Defining data use cases&lt;/h1>
+&lt;h2 id="1-identifying-data-use-case">1. Identifying data use case&lt;/h2>
+&lt;p>You have to link data use case to business strategy to ensure data delivers maximum value for your business.
+Looking what your business is trying to achieve, identify potential solutions through the use of data.
+Dont limit yourself to a small number of use cases at this stage, we will be narrowing down options in the second step. Now we need to explore the many ways in which data could help your organization.&lt;/p>
+&lt;p>Can come from any of the discussed areas:&lt;/p>
+&lt;ol>
+&lt;li>How data can help everyone in an organisation make better and faster decisions&lt;/li>
+&lt;li>Using data to gain customer and market insights. Understand your customers &amp;gt; successful in markets&lt;/li>
+&lt;li>Smarter products and services. Personalisation.&lt;/li>
+&lt;li>Using data to improve and automate the way a business operates&lt;/li>
+&lt;li>Data monetisation. Turning data into income.&lt;/li>
+&lt;/ol>
+&lt;h2 id="link-to-a-strategic-goal">Link to a strategic goal&lt;/h2>
+&lt;p>It is vital to link each use case to a business strategic goal. If you cannot question yourself if it is really worth the expense.&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">How would this use of data help the busienss achieve its objectives, grow and prosper?
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>Template for each use case:&lt;/p>
+&lt;h3 id="data-objective">Data objective&lt;/h3>
+&lt;h3 id="measure-of-success-or-kpis">Measure of success or KPIs&lt;/h3>
+&lt;p>Which business metrics we can track progress.&lt;/p>
+&lt;h3 id="business-ownership">Business ownership&lt;/h3>
+&lt;p>Who in the business would be responsible and assume overall ownership of the project.&lt;/p>
+&lt;h3 id="users-and-data-customers">Users and data customers&lt;/h3>
+&lt;p>Learning from the insights&lt;/p>
+&lt;h3 id="required-data">Required data&lt;/h3>
+&lt;p>Structured data, unstructured data. Internal and external data.&lt;/p>
+&lt;h3 id="data-governance">Data governance&lt;/h3>
+&lt;p>Keep data safe and who owns it.&lt;/p>
+&lt;h3 id="data-analysis">Data analysis&lt;/h3>
+&lt;p>Turn data to insights&lt;/p>
+&lt;h3 id="technology">Technology&lt;/h3>
+&lt;p>Identifying which software and hardware to use&lt;/p>
+&lt;h3 id="skills-and-capacity">Skills and capacity&lt;/h3>
+&lt;p>Do we need to train in house, use in house people or outsource?&lt;/p>
+&lt;h3 id="implimentation-and-change-management">Implimentation and change management&lt;/h3>
+&lt;p>Anticipate road blocks&lt;/p>
+&lt;h2 id="2-prioritize-use-case">2. Prioritize use case&lt;/h2>
+&lt;p>Don-t be tempted to prioritize more than 2 or 3.&lt;/p>
+&lt;p>Lookg for quick wins, short-term smaller data projects. Demonstrate people the value of data, win people over and saw the seeds for bigger projects.&lt;/p>
+&lt;p>Identify and prioritizing data use cases should be done at least yearly but better each quarter.&lt;/p>
+&lt;p>Look for common themes, complementarities and overlaps in terms of data requirements, data govbernance, tech, skills and technology. Address them holistically.&lt;/p>
+&lt;h1 id="sourcing-and-collecting-data">Sourcing and collecting data&lt;/h1>
+&lt;p>How to collect the right data?&lt;/p>
+&lt;p>The art is automated as much as possible. Find the right type of data that fits your needs.&lt;/p>
+&lt;p>Different types of data:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Structured&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Unstructured&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Internal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>External&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Find the best combination to get the most useful insights for your business&lt;/p>
+&lt;h2 id="structured-vs-unstructured">Structured vs unstructured&lt;/h2>
+&lt;p>Structured is organised data, can be put in tabular form easily.
+Unstructured, unorganised data, cannot be put in tabular form easily. 80-90%.&lt;/p>
+&lt;p>Semi-structured have some elements of structure (metadata) for instance photo metadata.&lt;/p>
+&lt;h2 id="internal-vs-external">Internal vs external&lt;/h2>
+&lt;p>Internal data: Owned or collected by the organization. Useful in the long run and it is useful advantage. Usually cheap or free to access.
+External data: A third party data. All information which exists outsiede. Publicly availabe or pivately owned by 3rd parties. Data brokers. Paid in most cases, less control of the quality, less reliable for strategically important and business critical insights. Ponder the risks and benefits from external data.&lt;/p>
+&lt;p>Usually companies rely too much on internal data, can biased perspective. The sweet spot usually requires a mix of internal and external data.&lt;/p>
+&lt;h2 id="types-of-data">Types of data&lt;/h2>
+&lt;p>Digial trace of what we do, how owte&lt;/p>
+&lt;ul>
+&lt;li>Activity data&lt;/li>
+&lt;li>Conversation data&lt;/li>
+&lt;li>Photo data&lt;/li>
+&lt;li>Video data&lt;/li>
+&lt;li>Sensor data&lt;/li>
+&lt;/ul>
+&lt;h2 id="meta-data">Meta data&lt;/h2>
+&lt;p>Data that describes other data. Metadata summarises data about p. Helps IT systems uncover what they are looking for.
+Gives a competitive advantage
+Not prioritised right now&lt;/p>
+&lt;p>Metadata management structure. Drives digital asset management. Allows analysts to unlock meaning in Big data.&lt;/p>
+&lt;h2 id="the-importance-of-real-time">The importance of real time&lt;/h2>
+&lt;p>Streaming data and analytics. Competitive edge on competitors.&lt;/p>
+&lt;p>Dynamic data that is generated continously from a variety of sources. It allows real time insights, better decision making and more personalized customer services.&lt;/p>
+&lt;p>Streaming analytics analytics while the data is in the stream, not when it has been stored. It allows proactivity, proactivity and agility.&lt;/p>
+&lt;p>Use cases examples:&lt;/p>
+&lt;ul>
+&lt;li>Maintenance, identify issues in real time&lt;/li>
+&lt;li>Health care&lt;/li>
+&lt;li>Retail&lt;/li>
+&lt;li>Social media&lt;/li>
+&lt;li>Finance&lt;/li>
+&lt;li>Energy&lt;/li>
+&lt;/ul>
+&lt;h2 id="gathering-internal-data">Gathering internal data&lt;/h2>
+&lt;p>Once we have identified the data you need already exists. If it is not available are we able to collect it internally?&lt;/p>
+&lt;p>Collect conversation data.
+Text-based conversations.
+Surveys
+Photo and video data
+Transaction data, very easy to access and analyse.
+Financial data&lt;/p>
+&lt;p>Sensors can be incorporated into almost anything.&lt;/p>
+&lt;h2 id="accessing-external-data">Accessing external data&lt;/h2>
+&lt;p>Data as a business commodity. Even very specific data is being collected and sold.
+Can be acquiered for free from government datasets, social media platforms, google trends, weather data.&lt;/p>
+&lt;h2 id="sources-of-external-data">Sources of external data&lt;/h2>
+&lt;p>World bank, IMF, ML archive&amp;hellip;&lt;/p>
+&lt;h2 id="when-the-data-you-want-does-not-exist">When the data you want does not exist&lt;/h2>
+&lt;p>You will have to find a away to generate and collect it. It might be the source of a competitive advantage.
+Sprigg mobile test centers with IoT to measure soil conditions.&lt;/p>
+&lt;h1 id="data-governance-ethics-and-trust">Data governance, ethics and trust&lt;/h1>
+&lt;p>Instead of becoming a valuable asset it can become a liability. Legal and result compliance
+Regulations are being introduced.&lt;/p>
+&lt;p>ORganizations need to be careful with:
+Data ownership
+Own data that is essential to your business. Own or not own? It it easy to own internal data, but with external data can create future problems for your business.&lt;/p>
+&lt;p>How do i ensure the correct rights are in place.&lt;/p>
+&lt;p>Include your legal team when dealing with data privacy.&lt;/p>
+&lt;p>Case study Royal Bank. Personoly give some real value back to customers and deliver value back to them. Develop trust to give value to customers. A core element in the data strategy. Ensure customers that the data isnt used against them.&lt;/p>
+&lt;h1 id="building-the-dasta-competencies-in-your-organisation">Building the dasta competencies in your organisation&lt;/h1>
+&lt;h2 id="skills-shortage">Skills shortage&lt;/h2>
+&lt;p>Supply of capable DS is low
+More data related programs in the market
+Poor definition of the job role&lt;/p>
+&lt;h2 id="building-internal-skills-and-competencies">Building internal skills and competencies&lt;/h2>
+&lt;p>Hire data professionals and help them grow.
+Identify individuals inside organization.&lt;/p>
+&lt;h2 id="outsourcing-your-data-analysis">Outsourcing your data analysis&lt;/h2>
+&lt;p>Hire external services if&lt;/p>
+&lt;ul>
+&lt;li>Unable to hire at decent price&lt;/li>
+&lt;li>No SMEs in house
+Focus on skills transfers from consultants to the team.&lt;/li>
+&lt;/ul>
+&lt;h2 id="leadership-challenges">Leadership challenges&lt;/h2>
+&lt;p>A good leader is aware of the intelligence revolution and understandce its importance.
+A business leader appraches data analysis and AI strategically and not technically
+Identifies how to bes use AI and data analysis in their business
+FInds a strategic sponsor for AI and data analysis initiatives.&lt;/p>
+&lt;p>Chief AI Officer.&lt;/p>
+&lt;ul>
+&lt;li>Sets the vision for using AI&lt;/li>
+&lt;li>Educates about the importance of AI&lt;/li>
+&lt;li>Places the ethical frameworks for AI usage&lt;/li>
+&lt;li>Builds the right skills, capacity and tech infrastructure&lt;/li>
+&lt;li>Oversees execution and delivery&lt;/li>
+&lt;li>Manages stakeholders&lt;/li>
+&lt;/ul>
+&lt;h1 id="executing-and-revisiting-your-strategy">Executing and revisiting your strategy&lt;/h1>
+&lt;p>The execution of a firm&amp;rsquo;s data strategy needs to start at the top. The senior leadership team needs to have buy-in and if that happens, everyone else will follow. It usually creates a top down ripple effect where the importance of data as a core asset is understood.&lt;/p>
+&lt;p>Attitudes that kill the data strategy in its inception:&lt;/p>
+&lt;ul>
+&lt;li>We are not a data company. Every business is a data business.&lt;/li>
+&lt;li>Working with data and implementing a data strategy in practice is too expensive.&lt;/li>
+&lt;li>We already have more data than we need.&lt;/li>
+&lt;li>Everyone else is already ahead of us.&lt;/li>
+&lt;li>Our customers aren&amp;rsquo;t interested.&lt;/li>
+&lt;/ul>
+&lt;p>Education and concrete examples of the industry you are operating in usually works great to achieve sponsors.&lt;/p>
+&lt;h2 id="why-data-strategies-fail">Why data strategies fail&lt;/h2>
+&lt;p>Data strategy needs to be in sync with the goal of the company.&lt;/p>
+&lt;ul>
+&lt;li>Lack of communication&lt;/li>
+&lt;li>Staff engangement&lt;/li>
+&lt;li>Lack of communications between teams. ==End-to-end process owners==&lt;/li>
+&lt;li>Lack of specialized workforce&lt;/li>
+&lt;/ul>
+&lt;p>What you need in general to prevent these issues is good communication and a high level of buy-in across the organization.&lt;/p>
+&lt;h2 id="creating-a-data-culture">Creating a data culture&lt;/h2>
+&lt;p>Building a robust data culture means getting people on board with the firm&amp;rsquo;s data strategy.&lt;/p>
+&lt;p>There is a culture shift for many organizations to go from relying exclusively on their intuition and insticts but on decisions that are justified with data and facts.&lt;/p>
+&lt;p>One proven way to establish a strong data culture is to involve some of the brightest employees during the process of forming a data strategy and implementing it.&lt;/p>
+&lt;p>If one of your primary aims is to use data to understand your customers better, then it makes sense to involve the head of marketing and key marketing personnel.&lt;/p>
+&lt;p>It is important that a firm&amp;rsquo;s leadership team make an effort to engage people in their company&amp;rsquo;s data strategy underlining how will improve the business.&lt;/p>
+&lt;p>It is a great idea to showcase examples and studies from other companies to demonstrate how data helped a company in practice, and examples that are from your own industry are even better.&lt;/p>
+&lt;p>Negativity can be contagious. If people on your team or even worse, entire teams become skeptical and pessimistic, try to understand what problems they have in their work and explain how data can be helpful to make their job easier.&lt;/p>
+&lt;p>Build trust, be transparent.&lt;/p>
+&lt;h2 id="revisiting-the-data-strategy">Revisiting the data strategy&lt;/h2>
+&lt;p>Review it periodically.&lt;/p>
+&lt;ol>
+&lt;li>Do you have different business needs? The faster industry changes, the more often we should review our data strategy.&lt;/li>
+&lt;li>Has technology evolved?&lt;/li>
+&lt;/ol>
+&lt;h1 id="using-data-for-good">Using data for good&lt;/h1>
+&lt;p>Opportunity to tackle the greatest challenges.&lt;/p></description></item><item><title>A Roadmap for Creating a Data Literacy Program</title><link>https://pelayoarbues.github.io/literature-notes/Articles/A-Roadmap-for-Creating-a-Data-Literacy-Program/</link><pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/literature-notes/Articles/A-Roadmap-for-Creating-a-Data-Literacy-Program/</guid><description>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">A Data Literacy program trains employees to embrace and leverage data across organization but takes time, effort and the support of C-level management and HR is fundamental.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;hr>
+&lt;p>&lt;strong>Author&lt;/strong>: [[ Matt Cowell]]&lt;br>
+&lt;strong>Source&lt;/strong>:
+&lt;a href="https://quanthub.com/data-literacy-program/" rel="noopener">A Roadmap for Creating a Data Literacy Program -&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h1 id="why">Why&lt;/h1>
+&lt;p>In order to become data driven we need to provide data and technology (supply) and also develop a scientist mindset in employees across the organization (demand side)&lt;/p>
+&lt;p>The main hurdle to become data driven is not technology, it is people, processes and chttps://towardsdatascience.com/platform-products-for-machine-learning-3d3749443d2ulture.&lt;/p>
+&lt;p>Extracting insights and value from data to solve business problems and identify oopportunities is not a responsability only for the data science team. Data literate users can embrace and leverage data across the organization.&lt;/p>
+&lt;h1 id="what">What&lt;/h1>
+&lt;p>Success in data-driven culture and data science initiatives comes down to people. People = HR. The data literacy program is the bridge between data driven culture and business functions.&lt;/p>
+&lt;p>Data literacy goals:&lt;/p>
+&lt;ul>
+&lt;li>Employees are able to critical think and analyse using data&lt;/li>
+&lt;li>Make data-based decisions instead of intuition ones&lt;/li>
+&lt;li>Communicate ideas relying on data to improve products or operations&lt;/li>
+&lt;li>Understand data visualizations&lt;/li>
+&lt;/ul>
+&lt;p>The skills needed by employees are critical and analytical thinking using data. In particular:&lt;/p>
+&lt;ol>
+&lt;li>Data Concepts and applications: high level issues and challenges associated with data and data ethics and security&lt;/li>
+&lt;li>Data access and collection: Ability to access and find information in multiple data soruces. Employees should be able to find sources and understand how data has been collected in those assessing the trustworthiness of that data.&lt;/li>
+&lt;li>Data management: Ability to organize and make sense of multiple types of data&lt;/li>
+&lt;li>Data relevancy: Be able to prioritize the use of data&lt;/li>
+&lt;li>Data driven inquiry: Be able to identify business problems and pose the correct questions which might be answered using basic data analysis.&lt;/li>
+&lt;li>Data tools: Common data analysis tools and techniques&lt;/li>
+&lt;li>Data Communication: Employes should be able to read and produce communications with data. &lt;strong>Basics of data visualization&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;h1 id="how">How&lt;/h1>
+&lt;h2 id="roadmap">Roadmap&lt;/h2>
+&lt;ol start="0">
+&lt;li>
+&lt;p>Create data vision and roadmap
+Identify areas of business where data is critical.
+Management and HR communicate why data maters. This provides context to employees on why they need to upskill. C level support is a necessary condition for achieving a data driven company.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Data literacy vision
+Vision must include desirable skills, abilities and level of data savviness for different business units.
+Questions:&lt;/p>
+&lt;ul>
+&lt;li>Do we need EVERYONE to have a data language understanding?&lt;/li>
+&lt;li>Certain roles in operations or strategic planning require a comparative analysis level of understanding?&lt;/li>
+&lt;li>Which roles has a higher priority in data literacy upskilling?&lt;/li>
+&lt;li>How data-driven we should be at different levels?&lt;/li>
+&lt;/ul>
+&lt;p>We need to build a framework to achieve data literacy goals, measure progress and move forward:&lt;/p>
+&lt;ul>
+&lt;li>Decide skills required by whom&lt;/li>
+&lt;li>How to measure skills development&lt;/li>
+&lt;li>Which decisions need to be data-driven&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Design a plan to achieve data literacy goals
+Roll out to the entire organization or starting with a pilot?
+Identify data evangelists, quickly upskill them and share results and iterate.
+HR decide what formats are best and budgets and resources needed.
+Decisions on access to data, automation tools and what level of data literacy they should have before providing access to tools and databases.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Assess workforce data skills
+Workforces are highly diverse, important not to treat everyone the same.
+Basic foundations needed by everyone, HR should determine how to assess baseline skills.
+These assessments should start during hiring processs for new employees.
+Skill mapping should also asses employee level of interest.&lt;/p>
+&lt;p>&lt;strong>Assessment should be efficient and consistent&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Create individual and team data literacy learning development plans
+HR identifies and tracks areas of improvement in data literacy education
+Once HR and managers have identified gaps in data skills, HR construct learning programs
+Include a program where to find data related to their role, governance rules, data ethics, tools used&amp;hellip;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Create data literacy delivery modules
+Delivery should be execute with different levels: from beginner, introductory to self-service data science.
+Introductory courses should make sure everyone on the same page of data concepts, ethics and potential uses.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Aditional learning modules specific by business unit (People Analytics for HR, design with data).&lt;/p>
+&lt;p>Delivery methods:&lt;/p>
+&lt;ul>
+&lt;li>Webinars&lt;/li>
+&lt;li>Meet-ups&lt;/li>
+&lt;li>in-serveice with data science teams&lt;/li>
+&lt;li>Mentoring&lt;/li>
+&lt;li>Project-based learning.&lt;/li>
+&lt;/ul>
+&lt;ol start="6">
+&lt;li>
+&lt;p>Provide ooportunities to practice and reward data literacy skills
+Opportunities to use and experiment with data.
+use of data visualizations in every day work.
+Be able to feel comfortable reaching out the data science team
+Promote culture of curiosity and critical thinking&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Track, measure, rinse and repeat
+We need to periodically assess improvements in data literacy and adjust the program to support new needs&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Business leaders must allow employees to invest time to become data literatre&lt;/p></description></item><item><title>A Roadmap for Creating a Data Literacy Program</title><link>https://pelayoarbues.github.io/literature-notes/Courses/A-Roadmap-for-Creating-a-Data-Literacy-Program/</link><pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/literature-notes/Courses/A-Roadmap-for-Creating-a-Data-Literacy-Program/</guid><description>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">A Data Literacy program trains employees to embrace and leverage data across organization but takes time, effort and the support of C-level management and HR is fundamental.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;hr>
+&lt;p>&lt;strong>Author&lt;/strong>: [[ Matt Cowell]]&lt;br>
+&lt;strong>Source&lt;/strong>: [[pelayoarbues/02.Reference-System/_Sources/Data/Strategy/Data Culture/A Roadmap for Creating a Data Literacy Program]]&lt;br>
+&lt;strong>Tags&lt;/strong>: #dataculture&lt;/p>
+&lt;hr>
+&lt;h1 id="why">Why&lt;/h1>
+&lt;p>In order to become data driven we need to provide data and technology (supply) and also develop a scientist mindset in employees across the organization (demand side)&lt;/p>
+&lt;p>The main hurdle to become data driven is not technology, it is people, processes and chttps://towardsdatascience.com/platform-products-for-machine-learning-3d3749443d2ulture.&lt;/p>
+&lt;p>Extracting insights and value from data to solve business problems and identify oopportunities is not a responsability only for the data science team. Data literate users can embrace and leverage data across the organization.&lt;/p>
+&lt;h1 id="what">What&lt;/h1>
+&lt;p>Success in data-driven culture and data science initiatives comes down to people. People = HR. The data literacy program is the bridge between data driven culture and business functions.&lt;/p>
+&lt;p>Data literacy goals:&lt;/p>
+&lt;ul>
+&lt;li>Employees are able to critical think and analyse using data&lt;/li>
+&lt;li>Make data-based decisions instead of intuition ones&lt;/li>
+&lt;li>Communicate ideas relying on data to improve products or operations&lt;/li>
+&lt;li>Understand data visualizations&lt;/li>
+&lt;/ul>
+&lt;p>The skills needed by employees are critical and analytical thinking using data. In particular:&lt;/p>
+&lt;ol>
+&lt;li>Data Concepts and applications: high level issues and challenges associated with data and data ethics and security&lt;/li>
+&lt;li>Data access and collection: Ability to access and find information in multiple data soruces. Employees should be able to find sources and understand how data has been collected in those assessing the trustworthiness of that data.&lt;/li>
+&lt;li>Data management: Ability to organize and make sense of multiple types of data&lt;/li>
+&lt;li>Data relevancy: Be able to prioritize the use of data&lt;/li>
+&lt;li>Data driven inquiry: Be able to identify business problems and pose the correct questions which might be answered using basic data analysis.&lt;/li>
+&lt;li>Data tools: Common data analysis tools and techniques&lt;/li>
+&lt;li>Data Communication: Employes should be able to read and produce communications with data. &lt;strong>Basics of data visualization&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;h1 id="how">How&lt;/h1>
+&lt;h2 id="roadmap">Roadmap&lt;/h2>
+&lt;ol start="0">
+&lt;li>
+&lt;p>Create data vision and roadmap
+Identify areas of business where data is critical.
+Management and HR communicate why data maters. This provides context to employees on why they need to upskill. C level support is a necessary condition for achieving a data driven company.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Data literacy vision
+Vision must include desirable skills, abilities and level of data savviness for different business units.
+Questions:&lt;/p>
+&lt;ul>
+&lt;li>Do we need EVERYONE to have a data language understanding?&lt;/li>
+&lt;li>Certain roles in operations or strategic planning require a comparative analysis level of understanding?&lt;/li>
+&lt;li>Which roles has a higher priority in data literacy upskilling?&lt;/li>
+&lt;li>How data-driven we should be at different levels?&lt;/li>
+&lt;/ul>
+&lt;p>We need to build a framework to achieve data literacy goals, measure progress and move forward:&lt;/p>
+&lt;ul>
+&lt;li>Decide skills required by whom&lt;/li>
+&lt;li>How to measure skills development&lt;/li>
+&lt;li>Which decisions need to be data-driven&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Design a plan to achieve data literacy goals
+Roll out to the entire organization or starting with a pilot?
+Identify data evangelists, quickly upskill them and share results and iterate.
+HR decide what formats are best and budgets and resources needed.
+Decisions on access to data, automation tools and what level of data literacy they should have before providing access to tools and databases.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Assess workforce data skills
+Workforces are highly diverse, important not to treat everyone the same.
+Basic foundations needed by everyone, HR should determine how to assess baseline skills.
+These assessments should start during hiring processs for new employees.
+Skill mapping should also asses employee level of interest.&lt;/p>
+&lt;p>&lt;strong>Assessment should be efficient and consistent&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Create individual and team data literacy learning development plans
+HR identifies and tracks areas of improvement in data literacy education
+Once HR and managers have identified gaps in data skills, HR construct learning programs
+Include a program where to find data related to their role, governance rules, data ethics, tools used&amp;hellip;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Create data literacy delivery modules
+Delivery should be execute with different levels: from beginner, introductory to self-service data science.
+Introductory courses should make sure everyone on the same page of data concepts, ethics and potential uses.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Aditional learning modules specific by business unit (People Analytics for HR, design with data).&lt;/p>
+&lt;p>Delivery methods:&lt;/p>
+&lt;ul>
+&lt;li>Webinars&lt;/li>
+&lt;li>Meet-ups&lt;/li>
+&lt;li>in-serveice with data science teams&lt;/li>
+&lt;li>Mentoring&lt;/li>
+&lt;li>Project-based learning.&lt;/li>
+&lt;/ul>
+&lt;ol start="6">
+&lt;li>
+&lt;p>Provide ooportunities to practice and reward data literacy skills
+Opportunities to use and experiment with data.
+use of data visualizations in every day work.
+Be able to feel comfortable reaching out the data science team
+Promote culture of curiosity and critical thinking&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Track, measure, rinse and repeat
+We need to periodically assess improvements in data literacy and adjust the program to support new needs&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Business leaders must allow employees to invest time to become data literatre&lt;/p></description></item></channel></rss>
