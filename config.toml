@@ -1,4 +1,5 @@
 baseURL = "https://pelayoarbues.github.io/"
+title = 'Pelayo Arbués'
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
