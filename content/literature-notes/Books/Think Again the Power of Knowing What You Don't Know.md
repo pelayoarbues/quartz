@@ -14,6 +14,21 @@ tags:
 - Full Title: Think Again the Power of Knowing What You Don't Know
 - Category: #books
 
+## Summary
+
+In a world that is constantly changing, it's essential to rethink our beliefs and assumptions to adapt. The book highlights the dangers of the first-instinct fallacy, where we cling onto old views instead of grappling with new ones, and emphasizes the importance of questioning our beliefs to prevent our ways of thinking from becoming habits that weigh us down. The author explains the concept of being in scientist mode, which involves leading with questions and puzzles, testing hypotheses, and discovering knowledge. Additionally, the book explores the cycles of rethinking, which involve intellectual humility, questioning, curiosity, and discovery.
+
+I really liked the concept of ==confident humility==. A sweet spot between armchair quarterback syndrome (cuñadismo) and impostor syndrome:
+
+> You can be confident in your ability to achieve a goal in the future while maintaining the humility to question whether you have the right tools in the present.
+
+The author also highlights the importance of being aware of cognitive biases, cultivating a growth mindset, and seeking out diverse perspectives. By being aware of our cognitive biases, we can overcome them and think more critically. Cultivating a growth mindset can help us approach challenges with a willingness to learn and grow, and seeking out diverse perspectives can broaden our understanding of the world and challenge our assumptions.
+
+The book also emphasizes the value of task conflict, which can be beneficial when it brings diversity of thought, preventing us from getting trapped in overconfidence cycles. The author suggests forming a challenge network, a group of people who will help activate rethinking cycles by pushing us to be humble about our expertise, doubt our knowledge, and be curious about new perspectives.
+
+Overall, the book emphasizes the importance of staying curious, humble, and open-minded, and the benefits of being wrong. By updating our beliefs frequently, admitting when we're wrong, and seeking out diverse perspectives, we can become better thinkers and more effective problem-solvers.
+
+
 ## Highlights
 - When a trio of psychologists conducted a comprehensive review of thirty-three studies, they found that in every one, the majority of answer revisions were from wrong to right. This phenomenon is known as the first-instinct fallacy. (Location 112)
 - we often prefer the ease of hanging on to old views over the difficulty of grappling with new ones. (Location 124)
@@ -25,71 +40,63 @@ tags:
 - The accelerating pace of change means that we need to question our beliefs more readily than ever before. (Location 284)
 - This is not an easy task. As we sit with our beliefs, they tend to become more extreme and more entrenched. I’m (Location 285)
 - when it comes to our own knowledge and opinions, we often favor feeling right over being right. (Location 295)
-- As we think and talk, we often slip into the mindsets of three different professions: preachers, prosecutors, and politicians. In each of these modes, we take on a particular identity and use a distinct set of tools. We go into preacher mode when our sacred beliefs are in jeopardy: we deliver sermons to protect and promote our ideals. We enter prosecutor mode when we recognize flaws in other people’s reasoning: we marshal arguments to prove them wrong and win our case. We shift into politician mode when we’re seeking to win over an audience: we campaign and lobby for the approval of our constituents. The risk is that we become so wrapped up in preaching that we’re right, prosecuting others who are wrong, and politicking for support that we don’t bother to rethink our own views. (Location 305)
+- As we think and talk, we often slip into the ==mindsets of three different professions: preachers, prosecutors, and politicians.== In each of these modes, we take on a particular identity and use a distinct set of tools. We go into preacher mode when our sacred beliefs are in jeopardy: we deliver sermons to protect and promote our ideals. We enter prosecutor mode when we recognize flaws in other people’s reasoning: we marshal arguments to prove them wrong and win our case. We shift into politician mode when we’re seeking to win over an audience: we campaign and lobby for the approval of our constituents. The risk is that we become so wrapped up in preaching that we’re right, prosecuting others who are wrong, and politicking for support that we don’t bother to rethink our own views. (Location 305)
 - If you’re a scientist by trade, rethinking is fundamental to your profession. You’re paid to be constantly aware of the limits of your understanding. You’re expected to doubt what you know, be curious about what you don’t know, and update your views based on new data. In (Location 322)
 - We move into scientist mode when we’re searching for the truth: we run experiments to test hypotheses and discover knowledge. Scientific tools aren’t reserved for people with white coats and beakers, and using (Location 327)
 - to view startups through a scientist’s goggles. From that perspective, their strategy is a theory, customer interviews help to develop hypotheses, and their minimum viable product and prototype are experiments to test those hypotheses. Their task is to rigorously measure the results and make decisions based on whether their hypotheses are supported or refuted. (Location 336)
 - the smarter you are, the more you might struggle to update your beliefs. (Location 382)
 - The better you are at crunching numbers, the more spectacularly you fail at analyzing patterns that contradict your views. (Location 386)
-- My favorite bias is the “I’m not biased” bias, in which people believe they’re more objective than others. It turns out that smart people are more likely to fall into this trap. The brighter you are, the harder it can be to see your own limitations. Being good at thinking can make you worse at rethinking. (Location 393)
+- ==My favorite bias is the “I’m not biased” bias, in which people believe they’re more objective than others. It turns out that smart people are more likely to fall into this trap. The brighter you are, the harder it can be to see your own limitations==. Being good at thinking can make you worse at rethinking. (Location 393)
 - in scientist mode, we refuse to let our ideas become ideologies. We don’t start with answers or solutions; we lead with questions and puzzles. We don’t preach from intuition; we teach from evidence. We don’t just have healthy skepticism about other people’s arguments; we dare to disagree with our own arguments. (Location 395)
 - In preacher mode, changing our minds is a mark of moral weakness; in scientist mode, it’s a sign of intellectual integrity. In prosecutor mode, allowing ourselves to be persuaded is admitting defeat; in scientist mode, it’s a step toward the truth. In politician mode, we flip-flop in response to carrots and sticks; in scientist mode, we shift in the face of sharper logic and stronger data. (Location 400)
-- the purpose of learning isn’t to affirm our beliefs; it’s to evolve our beliefs. (Location 408)
+- ==the purpose of learning isn’t to affirm our beliefs; it’s to evolve our beliefs==. (Location 408)
 - the process of rethinking, I’ve found that it often unfolds in a cycle. It starts with intellectual humility— knowing what we don’t know. (Location 423)
 - Recognizing our shortcomings opens the door to doubt. As we question our current understanding, we become curious about what information we’re missing. That search leads us to new discoveries, which in turn maintain our humility by reinforcing how much we still have to learn. (Location 426)
-- If knowledge is power, knowing what we don’t know is wisdom. (Location 428)
-- Scientific (Location 429)
-- In (Location 454)
-- when people are resistant to change, it helps to reinforce what will stay the same. Visions for change are more compelling when they include visions of continuity. Although our strategy might evolve, our identity will endure. (Location 462)
+- ==If knowledge is power, knowing what we don’t know is wisdom==. (Location 428)
+- ==when people are resistant to change, it helps to reinforce what will stay the same. Visions for change are more compelling when they include visions of continuity==. Although our strategy might evolve, our identity will endure. (Location 462)
 - Anton’s syndrome— a deficit of self-awareness in which a person is oblivious to a physical disability but otherwise doing fairly well cognitively. (Location 505)
 - The opposite of armchair quarterback syndrome is impostor syndrome, where competence exceeds confidence. (Location 544)
 - According to what’s now known as the Dunning-Kruger effect, it’s when we lack competence that we’re most likely to be brimming with overconfidence. (Location 559)
-- It’s (Location 616)
 - It’s when we progress from novice to amateur that we become overconfident. (Location 618)
 - As we gain experience, we lose some of our humility. (Location 627)
 - You can be confident in your ability to achieve a goal in the future while maintaining the humility to question whether you have the right tools in the present. That’s the sweet spot of confidence. (Location 646)
 - We become blinded by arrogance when we’re utterly convinced of our strengths and our strategies. We get paralyzed by doubt when we lack conviction in both. (Location 648)
 - What we want to attain is confident humility: having faith in our capability while appreciating that we may not have the right solution or even be addressing the right problem. That gives us enough doubt to reexamine our old knowledge and enough confidence to pursue new insights. (Location 650)
-- When (Location 652)
-- the most productive and innovative teams aren’t run by leaders who are confident or humble. The most effective leaders score high in both confidence and humility. Although they have faith in their strengths, they’re also keenly aware of their weaknesses. (Location 668)
-- THE (Location 673)
+- ==the most productive and innovative teams aren’t run by leaders who are confident or humble. The most effective leaders score high in both confidence and humility. Although they have faith in their strengths, they’re also keenly aware of their weaknesses.== (Location 668)
 - we still have a lot to learn about when impostor syndrome is beneficial versus when it’s detrimental. Still, it leaves me wondering if we’ve been misjudging impostor syndrome by seeing it solely as a disorder. (Location 695)
-- When (Location 697)
 - When our impostor fears crop up, the usual advice is to ignore them— give ourselves the benefit of the doubt. Instead, we might be better off embracing those fears, (Location 698)
 - impostor is that it can motivate us to work harder. (Location 700)
 - When we feel like impostors, we think we have something to prove. Impostors may be the last to jump in, but they may also be the last to bail out. (Location 705)
 - impostor thoughts can motivate us to work smarter. When we don’t believe we’re going to win, we have nothing to lose by rethinking our strategy. (Location 706)
-- feeling like an impostor can make us better learners. Having some doubts about our knowledge and skills takes us off a pedestal, encouraging us to seek out insights from others. (Location 708)
+- ==feeling like an impostor can make us better learners. Having some doubts about our knowledge and skills takes us off a pedestal, encouraging us to seek out insights from others. ==(Location 708)
 - Plenty of evidence suggests that confidence is just as often the result of progress as the cause of it. (Location 720)
 - sociologist Murray Davis argued that when ideas survive, it’s not because they’re true— it’s because they’re interesting. What makes an idea interesting is that it challenges our weakly held opinions. (Location 797)
 - Neuroscientists find that when our core beliefs are challenged, it can trigger the amygdala, the primitive “lizard brain” that breezes right past cool rationality and activates a hot fight-or-flight response. The anger and fear are visceral: it feels as if we’ve been punched in the mind. The totalitarian ego comes to the rescue with mental armor. (Location 818)
 - Discovering I was wrong felt joyful because it meant I’d learned something. (Location 845)
 - Attachment. That’s what keeps us from recognizing when our opinions are off the mark and rethinking them. To unlock the joy of being wrong, we need to detach. (Location 849)
-- two kinds of detachment are especially useful: detaching your present from your past and detaching your opinions from your identity. (Location 850)
-- Most of us are accustomed to defining ourselves in terms of our beliefs, ideas, and ideologies. This can become a problem when it prevents us from changing our minds as the world changes and knowledge evolves. (Location 864)
-- Who you are should be a question of what you value, not what you believe. (Location 868)
+- ==two kinds of detachment are especially useful: detaching your present from your past and detaching your opinions from your identity. ==(Location 850)
+- ==Most of us are accustomed to defining ourselves in terms of our beliefs, ideas, and ideologies. This can become a problem when it prevents us from changing our minds as the world changes and knowledge evolves.== (Location 864)
+- ==Who you are should be a question of what you value, not what you believe.== (Location 868)
 - The single most important driver of forecasters’ success was how often they updated their beliefs. (Location 909)
 - If being wrong repeatedly leads us to the right answer, the experience of being wrong itself can become joyful. (Location 932)
 - I consider all of my opinions tentative. When the facts change, I change my opinions.” (Location 948)
 - Research suggests that identifying even a single reason why we might be wrong can be enough to curb overconfidence. (Location 949)
 - “Accept the fact that you’re going to be wrong,” Jean-Pierre advises. “Try to disprove yourself. When you’re wrong, it’s not something to be depressed about. Say, ‘Hey, I discovered something!’” (Location 953)
-- If we’re insecure, we make fun of others. If we’re comfortable being wrong, we’re not afraid to poke fun at ourselves. Laughing at ourselves reminds us that although we might take our decisions seriously, we don’t have to take ourselves too seriously. Research suggests that the more frequently we make fun of ourselves, the happier we tend to be.* (Location 965)
+- If we’re insecure, we make fun of others. If we’re comfortable being wrong, we’re not afraid to poke fun at ourselves. L==aughing at ourselves reminds us that although we might take our decisions seriously, we don’t have to take ourselves too seriously. Research suggests that the more frequently we make fun of ourselves, the happier we tend to be.== (Location 965)
 - I’ve noticed a paradox in great scientists and superforecasters: the reason they’re so comfortable being wrong is that they’re terrified of being wrong. What sets them apart is the time horizon. They’re determined to reach the correct answer in the long run, and they know that means they have to be open to stumbling, backtracking, and rerouting in the short run. (Location 971)
 - When you form an opinion, ask yourself what would have to happen to prove it false. Then keep track of your views so you can see when you were right, when you were wrong, and how your thinking has evolved. (Location 980)
 - Psychologists find that admitting we were wrong doesn’t make us look less competent. It’s a display of honesty and a willingness to learn. (Location 990)
 - The teams that performed poorly started with more relationship conflict than task conflict. They entered into personal feuds early on and were so busy disliking one another that they didn’t feel comfortable challenging one another. It took months for many of the teams to make real headway on their relationship issues, and by the time they did manage to debate key decisions, it was often too late to rethink their directions. (Location 1047)
-- What (Location 1050)
-- All (Location 1055)
 - relationship conflict is generally bad for performance, but some task conflict can be beneficial: it’s been linked to higher creativity and smarter choices. (Location 1057)
 - Task conflict can be constructive when it brings diversity of thought, preventing us from getting trapped in overconfidence cycles. It can help us stay humble, surface doubts, and make us curious about what we might be missing. (Location 1063)
 - Kids whose parents clash constructively feel more emotionally safe in elementary school, and over the next few years they actually demonstrate more helpfulness and compassion toward their classmates. (Location 1068)
-- a challenge network, a group of people we trust to point out our blind spots and help us overcome our weaknesses. Their role is to activate rethinking cycles by pushing us to be humble about our expertise, doubt our knowledge, and be curious about new perspectives. (Location 1107)
-- The ideal members of a challenge network are disagreeable, because they’re fearless about questioning the way things have always been done and holding us accountable for thinking again. (Location 1109)
+- ==a challenge network, a group of people we trust to point out our blind spots and help us overcome our weaknesses. Their role is to activate rethinking cycles by pushing us to be humble about our expertise, doubt our knowledge, and be curious about new perspectives.== (Location 1107)
+- ==The ideal members of a challenge network are disagreeable, because they’re fearless about questioning the way things have always been done and holding us accountable for thinking again. ==(Location 1109)
 - I’ve watched too many leaders shield themselves from task conflict. As they gain power, they tune out boat-rockers and listen to bootlickers. (Location 1134)
 - We learn more from people who challenge our thought process than those who affirm our conclusions. Strong leaders engage their critics and make themselves stronger. (Location 1139)
 - In science, a challenge network is often a cornerstone of the peer-review process. We submit articles anonymously, and they’re reviewed blindly by independent experts. (Location 1148)
-- looking for disagreeable people who are givers, not takers. Disagreeable givers often make the best critics: their intent is to elevate the work, not feed their own egos. They don’t criticize because they’re insecure; they challenge because they care. They dish out tough love.* (Location 1152)
-- a good fight club. The first rule: avoiding an argument is bad manners. Silence disrespects the value of your views and our ability to have a civil disagreement. (Location 1157)
+- looking for disagreeable people who are givers, not takers. ==Disagreeable givers often make the best critics: their intent is to elevate the work, not feed their own egos. They don’t criticize because they’re insecure; they challenge because they care. They dish out tough love.== (Location 1152)
+- ==a good fight club. The first rule: avoiding an argument is bad manners.== Silence disrespects the value of your views and our ability to have a civil disagreement. (Location 1157)
 - They don’t disagree just for the sake of it; they disagree because they care. “Whether you disagree loudly, or quietly yet persistently put forward a different perspective,” Nicole explains, “we come together to support the common goal of excellence— of making great films.” (Location 1181)
 - Agreeableness is about seeking social harmony, not cognitive consensus. (Location 1185)
 - when I argue with someone, it’s not a display of disrespect— it’s a sign of respect. It means I value their views enough to contest them. If their opinions didn’t matter to me, I wouldn’t bother. (Location 1187)
