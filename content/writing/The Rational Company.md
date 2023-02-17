@@ -15,7 +15,10 @@ Better decision making might require open minded profesionals, eager to adopt a 
 
 In the absence of enough data, beliefs based on experience and expert knowledge can provide a competitive advantage.  important it is for companies to have experts on their team who can rely on intuition and experience when making decisions based on insufficient information. 
 
-**Strategies purely based on mathematical rationality without a qualitative understanding of decision-making and human behaviour tend to underperform.** [What is Decision Intelligence#The trouble with your brain](https://towardsdatascience.com/introduction-to-decision-intelligence-5d147ddab767)
+> [!quote]
+
+> Strategies purely based on mathematical rationality without a qualitative understanding of decision-making and human behaviour tend to underperform
+              [Cassie Kozyrkov  What is Decision Intelligence](https://towardsdatascience.com/introduction-to-decision-intelligence-5d147ddab767)
 
 Blindly trusting data and statistics without verifying their validity is also a risk, as it could lead to incorrect decisions being made. By using Bayesian reasoning techniques, businesses can mitigate these risks and optimise their operations accordingly.
 
