@@ -7,7 +7,7 @@ tags:
 - management
 ---
 
-In the past years many companies have claimed to be adopting processes that allows them to be more intensively driven by data. Although most of these companies focus on the technology and tools used, we could assume that what they are trying to do is to improve their decision making processes. We could say that they try to become rational.
+In the past years many companies have claimed to be adopting processes that allows them to be more intensively driven by data. Although most of these compawnies focus on the technology and tools used, we could assume that what they are trying to do is to improve their decision making processes. We could say that they try to become rational.
 
 Rationality is about more than just forming true beliefs – it's also about making decisions that help you achieve your goals. Decision making is the ability to make sound, rational decisions based on the available information. This process begins with understanding what it is that the company wants to achieve – its north star goal. Once this is clear, the company can start collecting relevant data and expertise to inform its decisions. Finally, creating a culture of lifelong learning will ensure that the company continues to get better at making decisions over time.
 
