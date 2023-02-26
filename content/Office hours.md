@@ -4,7 +4,7 @@ title:  "Office hours"
 Date: 2023-02-25
 ---
 
-_tl;dr - if you want to talk to me you can mail me at gonzalezpelayo[at]gmail. 
+*tl;dr - if you want to talk to me you can mail me at gonzalezpelayo[at]gmail.*
 
 In June 2020, I began dedicating an hour of my week to speaking with strangers. I enjoy meeting new people and missed attending events, and I believed that I could use my experience to help others. Throughout my life, I've been fortunate enough to receive guidance and support from [people who mentored me](notes/202302251202%20-%20Mentors%20and%20me.md) without expecting anything in return. I wanted to give back to society by offering the same kindness.
 
