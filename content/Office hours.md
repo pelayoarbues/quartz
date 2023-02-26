@@ -10,8 +10,6 @@ In June 2020, I began dedicating an hour of my week to speaking with strangers. 
 
 Initially, I wasn't certain if anyone would be interested in speaking with me. However, to my surprise, within a few days, I received over 20 requests from people who wished to speak with me. I had to create a process to manage the requests.
 
-[Me offering office hours publicly](https://twitter.com/pelayoarbues/status/1272618802073780226?s=20)
-
 {{< tweet user="pelayoarbues" id="1272618802073780226" >}}
 
 Since then, up until the beginning of 2023, I've had over 60 conversations with people I've never met. Most of these individuals wished to discuss one of the following topics:
