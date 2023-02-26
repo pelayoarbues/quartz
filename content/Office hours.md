@@ -12,6 +12,8 @@ Initially, I wasn't certain if anyone would be interested in speaking with me. H
 
 [Me offering office hours publicly](https://twitter.com/pelayoarbues/status/1272618802073780226?s=20)
 
+{{< tweet user="pelayoarbues" id="1272618802073780226" >}}
+
 Since then, up until the beginning of 2023, I've had over 60 conversations with people I've never met. Most of these individuals wished to discuss one of the following topics:
 -   Career advice: Which fields of study are best for becoming a data professional, what the data roles market is like, how to create a strategy for landing a data job, recommendations for companies/sectors, and how to move from a technical role to management.
 -   Team management: The difficulties of expanding a team, explaining the ROI to the board, selecting battles to fight, and more.
