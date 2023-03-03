@@ -14,7 +14,7 @@
 &lt;ul>
 &lt;li>Inability to reproduce the code and get the same results in a research paper as part of my thesis. I learnt the importance of using version control, saving intermediate results and managing development environment dependencies well.&lt;/li>
 &lt;li>Negative valuations in a production property valuation model. Yes, I could do that! That was a big relief for the people in my team. I learned the importance of model monitoring, how to analyse model behaviour when inputs take extreme values, and how to be wary of tree models.&lt;/li>
-&lt;li>Putting the engineering team in a sweat. DBScan, developing a clustering algorithm without thinking about the production release and availability of the library in Spark. As a consultant, I was asked to solve a problem and didn&amp;rsquo;t ask about the technical context, volumetrics or anything else.&lt;/li>
+&lt;li>Putting the engineering team in a sweat. I had to cluster users&amp;rsquo; geolocations and thought DBScan was a good fit. I did not think about the production release and availability of the library in Spark. As a consultant, I was asked to solve a problem and didn&amp;rsquo;t ask about the technical context, volumetrics or anything else.&lt;/li>
 &lt;li>Business intrusion. In more than one project, I didn&amp;rsquo;t know how to deal with business constraints. We delivered data of dubious quality, which reduced our credibility, and also created a huge technical debt because we were not allowed to version the reports, so you had to carry one of them around with you historically.&lt;/li>
 &lt;/ul>
 &lt;p>Top management failures:&lt;/p>
