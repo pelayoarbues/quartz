@@ -10,7 +10,7 @@ tags:
 
 In this post, I'm going to share my workflow for sharing my notes on my personal website.
 
-![Digital-Garden](00.Inbox/attachments/Digital-Garden.png)
+![Digital-Garden](notes/attachments/Digital-Garden.png)
 My workflow relies on two key elements:
 -   A personal vault where I write and store all my notes.
 -   A public vault used for sharing the public view of my digital garden.
