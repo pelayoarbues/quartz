@@ -22,7 +22,7 @@ I wrote this post a while ago, but I recently discovered the concept of the [fai
 Top DS Failures:
 - Inability to reproduce the code and get the same results in a research paper as part of my thesis. I learnt the importance of using version control, saving intermediate results and managing development environment dependencies well.
 - Negative valuations in a production property valuation model. Yes, I could do that! That was a big relief for the people in my team. I learned the importance of model monitoring, how to analyse model behaviour when inputs take extreme values, and how to be wary of tree models.
-- Putting the engineering team in a sweat. DBScan, developing a clustering algorithm without thinking about the production release and availability of the library in Spark. As a consultant, I was asked to solve a problem and didn't ask about the technical context, volumetrics or anything else.
+- Putting the engineering team in a sweat. I had to cluster users' geolocations and thought DBScan was a good fit. I did not think about the production release and availability of the library in Spark. As a consultant, I was asked to solve a problem and didn't ask about the technical context, volumetrics or anything else.
 - Business intrusion. In more than one project, I didn't know how to deal with business constraints. We delivered data of dubious quality, which reduced our credibility, and also created a huge technical debt because we were not allowed to version the reports, so you had to carry one of them around with you historically.
 
 
