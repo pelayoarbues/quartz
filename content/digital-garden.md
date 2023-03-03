@@ -17,6 +17,7 @@ I write to think, to learn, to manage my time, and to [solve problems](notes/202
 	- [Buscas tu primer empleo de Ciencia de Datos](writing/Buscas%20tu%20primer%20empleo%20de%20Ciencia%20de%20Datos.md)
 	- [Cómo contratar DS y no desesperar en el intento](writing/Como%20contratar%20DS%20y%20no%20desesperar%20en%20el%20intento.md)
 	- [The Rational Company](writing/The%20Rational%20Company.md)
+	- [My failure resume](writing/My%20failure%20resume.md)
 
 ---
 

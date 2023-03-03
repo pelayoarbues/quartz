@@ -10,8 +10,8 @@ tags: literature-note
 ```
 
 ***
-**Author**: [[ ]]  [Jike Chong], [Cathy Chang]
-**Source**: [[ ]]  
+**Author**: [Jike Chong], [Cathy Chang]
+**Source**: [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science)
 **Tags**:  #triage
 ***
 
