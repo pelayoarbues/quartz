@@ -12,8 +12,8 @@ Un jefe tiene que tener visión e inspirar. Para eso puede ser un flipao algunas
 ```
 
 ***
-**Author**: [[ ]]  [[Mario Lopez]]
-**Source**: [[ ]]  [[T3chFest]]
+**Author**: [[Mario Lopez]]
+**Source**: [[T3chFest]]
 **Tags**: 
 ***
 
