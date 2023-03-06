@@ -1,4 +1,10 @@
-# Good Data Analysis
+---
+title: "Good Data Analysis"
+Date: 2023-03-06
+tags: 
+- learning
+- resources
+---
 
 Competence: Data Science Workflow
 Level: Foundation

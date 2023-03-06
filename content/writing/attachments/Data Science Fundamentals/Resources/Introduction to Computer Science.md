@@ -1,4 +1,10 @@
-# Introduction to Computer Science
+---
+title: "Introduction to Computer Science"
+Date: 2023-03-06
+tags: 
+- learning
+- resources
+---
 
 Competence: Tools of the Trade
 Level: Recommended

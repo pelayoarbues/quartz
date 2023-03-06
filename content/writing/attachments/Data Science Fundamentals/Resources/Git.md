@@ -1,3 +1,12 @@
+---
+title: "Time Series Analysis"
+Date: 2023-03-06
+tags: 
+- learning
+- resources
+---
+
+
 # Git
 
 Competence: Tools of the Trade

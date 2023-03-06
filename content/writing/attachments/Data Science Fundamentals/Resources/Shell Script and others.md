@@ -1,4 +1,10 @@
-# Shell Script and others
+---
+title: "Shell Script and others"
+Date: 2023-03-06
+tags: 
+- learning
+- resources
+---
 
 Competence: Tools of the Trade
 Level: Foundation

@@ -1,4 +1,10 @@
-# Numerical optimization
+---
+title: "Numerical optimization"
+Date: 2023-03-06
+tags: 
+- learning
+- resources
+---
 
 Competence: Maths
 Level: Recommended

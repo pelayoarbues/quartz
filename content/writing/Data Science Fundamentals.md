@@ -29,29 +29,32 @@ There are two levels:
 - Foundation flagged contents are essential to be mastered by Data Scientists.
 - Recommended items are highly useful resources but may not be essential for very junior DS.
 
-|Competence|Name|Level|
-|:----|:----|:----|
-|Maths|[Linear Algebra](writing/attachments/Data%20Science%20Fundamentals/Resources/Linear%20Algebra.md)|Foundation|
-|Maths|[Statistical Learning](writing/attachments/Data%20Science%20Fundamentals/Resources/Statistical%20Learning.md)|Foundation|
-|Maths|[Statistics 101 Probability](writing/attachments/Data%20Science%20Fundamentals/Resources/Statistics%20101%20Probability.md)|Foundation|
-|Maths|[Numerical optimization ](writing/attachments/Data%20Science%20Fundamentals/Resources/Numerical%20optimization%20.md)|Recommended|
-|Maths|[Time Series Analysis](writing/attachments/Data%20Science%20Fundamentals/Resources/Time%20Series%20Analysis.md)|Recommended|
-|Maths|[Machine Learning 101](writing/attachments/Data%20Science%20Fundamentals/Resources/Machine%20Learning%20101.md)|Recommended|
-|Communication|[Communicate with impact](writing/attachments/Data%20Science%20Fundamentals/Resources/Communicate%20with%20impact.md)|Foundation|
-|Communication|[Technical Writing](writing/attachments/Data%20Science%20Fundamentals/Resources/Technical%20Writing.md)|Foundation|
-|Communication|[Data Visualization](writing/attachments/Data%20Science%20Fundamentals/Resources/Data%20Visualization.md)|Foundation|
-|Data Science Workflow|[Good Data Analysis](writing/attachments/Data%20Science%20Fundamentals/Resources/Good%20Data%20Analysis.md)|Foundation|
-|Data Science Workflow|[[The Data Science Process]]|Foundation|
-|Data Science Workflow|[A B Testing](writing/attachments/Data%20Science%20Fundamentals/Resources/A%20B%20Testing.md)|Recommended|
-|Data Science Workflow|[The Ultimate Guide to Deploying ML Models](writing/attachments/Data%20Science%20Fundamentals/Resources/The%20Ultimate%20Guide%20to%20Deploying%20ML%20Models.md)|Recommended|
-|Data Science Workflow|[Rules of ML](writing/attachments/Data%20Science%20Fundamentals/Resources/Rules%20of%20ML.md)|Recommended|
-|Tools of the Trade|[SQL](writing/attachments/Data%20Science%20Fundamentals/Resources/SQL.md)|Foundation|
-|Tools of the Trade|[Programming Language](writing/attachments/Data%20Science%20Fundamentals/Resources/Programming%20Language.md)|Foundation|
-|Tools of the Trade|[Shell Script and others](writing/attachments/Data%20Science%20Fundamentals/Resources/Shell%20Script%20and%20others.md)|Foundation|
-|Tools of the Trade|[Git](writing/attachments/Data%20Science%20Fundamentals/Resources/Git.md)|Foundation|
-|Tools of the Trade|[Introduction to Computer Science](writing/attachments/Data%20Science%20Fundamentals/Resources/Introduction%20to%20Computer%20Science.md)|Recommended|
-|Business Understanding|[Oh Oh](writing/attachments/Data%20Science%20Fundamentals/Resources/Oh%20Oh.md)|Foundation|
-|Ethics|[Data Science Ethics](writing/attachments/Data%20Science%20Fundamentals/Resources/Data%20Science%20Ethics.md)|Foundation|
+📌 Hover over any item and click `⤢ OPEN` to obtain additional info like a link to videos, books and other materials.
+
+| Competence             | Name                                                                                                                                                              | Level       |
+|:---------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------- |:----------- |
+| Maths                  | [Linear Algebra](writing/attachments/Data%20Science%20Fundamentals/Resources/Linear%20Algebra.md)                                                                 | Foundation  |
+| Maths                  | [Statistical Learning](writing/attachments/Data%20Science%20Fundamentals/Resources/Statistical%20Learning.md)                                                     | Foundation  |
+| Maths                  | [Statistics 101 Probability](writing/attachments/Data%20Science%20Fundamentals/Resources/Statistics%20101%20Probability.md)                                       | Foundation  |
+| Maths                  | [Numerical optimization ](writing/attachments/Data%20Science%20Fundamentals/Resources/Numerical%20optimization%20.md)                                             | Recommended |
+| Maths                  | [Time Series Analysis](writing/attachments/Data%20Science%20Fundamentals/Resources/Time%20Series%20Analysis.md)                                                   | Recommended |
+| Maths                  | [Machine Learning 101](writing/attachments/Data%20Science%20Fundamentals/Resources/Machine%20Learning%20101.md)                                                   | Recommended |
+| Communication          | [Communicate with impact](writing/attachments/Data%20Science%20Fundamentals/Resources/Communicate%20with%20impact.md)                                             | Foundation  |
+| Communication          | [Technical Writing](writing/attachments/Data%20Science%20Fundamentals/Resources/Technical%20Writing.md)                                                           | Foundation  |
+| Communication          | [Data Visualization](writing/attachments/Data%20Science%20Fundamentals/Resources/Data%20Visualization.md)                                                         | Foundation  |
+| Data Science Workflow  | [Good Data Analysis](writing/attachments/Data%20Science%20Fundamentals/Resources/Good%20Data%20Analysis.md)                                                       | Foundation  |
+| Data Science Workflow  | [The Data Science Process](writing/attachments/Data%20Science%20Fundamentals/Resources/The%20Data%20Science%20Process.md)                                         | Foundation  |
+| Data Science Workflow  | [A B Testing](writing/attachments/Data%20Science%20Fundamentals/Resources/A%20B%20Testing.md)                                                                     | Recommended |
+| Data Science Workflow  | Causal Analysis WIP                                                       | Recommended |                                                                    
+| Data Science Workflow  | [The Ultimate Guide to Deploying ML Models](writing/attachments/Data%20Science%20Fundamentals/Resources/The%20Ultimate%20Guide%20to%20Deploying%20ML%20Models.md) | Recommended |
+| Data Science Workflow  | [Rules of ML](writing/attachments/Data%20Science%20Fundamentals/Resources/Rules%20of%20ML.md)                                                                     | Recommended |
+| Tools of the Trade     | [SQL](writing/attachments/Data%20Science%20Fundamentals/Resources/SQL.md)                                                                                         | Foundation  |
+| Tools of the Trade     | [Programming Language](writing/attachments/Data%20Science%20Fundamentals/Resources/Programming%20Language.md)                                                     | Foundation  |
+| Tools of the Trade     | [Shell Script and others](writing/attachments/Data%20Science%20Fundamentals/Resources/Shell%20Script%20and%20others.md)                                           | Foundation  |
+| Tools of the Trade     | [Git](writing/attachments/Data%20Science%20Fundamentals/Resources/Git.md)                                                                                         | Foundation  |
+| Tools of the Trade     | [Introduction to Computer Science](writing/attachments/Data%20Science%20Fundamentals/Resources/Introduction%20to%20Computer%20Science.md)                         | Recommended |
+| Business Understanding | [Oh Oh](writing/attachments/Data%20Science%20Fundamentals/Resources/Oh%20Oh.md)                                                                                   | Foundation  |
+| Ethics                 | [Data Science Ethics](writing/attachments/Data%20Science%20Fundamentals/Resources/Data%20Science%20Ethics.md)                                                     | Foundation  |
 
 
 📫 If you have any suggestion do not hesitate to contact me via twitter at @pelayoarbues. 
