@@ -36,7 +36,7 @@ There are two levels:
 | Maths                  | [Linear Algebra](writing/attachments/Data%20Science%20Fundamentals/Resources/Linear%20Algebra.md)                                                                 | Foundation  |
 | Maths                  | [Statistical Learning](writing/attachments/Data%20Science%20Fundamentals/Resources/Statistical%20Learning.md)                                                     | Foundation  |
 | Maths                  | [Statistics 101 Probability](writing/attachments/Data%20Science%20Fundamentals/Resources/Statistics%20101%20Probability.md)                                       | Foundation  |
-| Maths                  | [Numerical optimization ](writing/attachments/Data%20Science%20Fundamentals/Resources/Numerical%20optimization%20.md)                                             | Recommended |
+| Maths                  | [Numerical optimization](writing/attachments/Data%20Science%20Fundamentals/Resources/Numerical%20optimization%20.md)                                             | Recommended |
 | Maths                  | [Time Series Analysis](writing/attachments/Data%20Science%20Fundamentals/Resources/Time%20Series%20Analysis.md)                                                   | Recommended |
 | Maths                  | [Machine Learning 101](writing/attachments/Data%20Science%20Fundamentals/Resources/Machine%20Learning%20101.md)                                                   | Recommended |
 | Communication          | [Communicate with impact](writing/attachments/Data%20Science%20Fundamentals/Resources/Communicate%20with%20impact.md)                                             | Foundation  |
