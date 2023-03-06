@@ -13,7 +13,7 @@ Initially, I wasn't certain if anyone would be interested in speaking with me. H
 {{< tweet user="pelayoarbues" id="1272618802073780226" >}}
 
 Since then, up until the beginning of 2023, I've had over 60 conversations with people I've never met. Most of these individuals wished to discuss one of the following topics:
--   Career advice: Which fields of study are best for becoming a data professional, what the data roles market is like, how to create a strategy for landing a data job, recommendations for companies/sectors, and how to move from a technical role to management.
+-   Career advice: [What to study to become a data professional](writing/Data%20Science%20Fundamentals.md), the data roles market, how to build a strategy to land a data job, recommendations about companies/sectors, moving to management from a technical role...
 -   Team management: The difficulties of expanding a team, explaining the ROI to the board, selecting battles to fight, and more.
 -   Data product management: How to uncover opportunities, working with other roles, managing data projects, and more.
 -   Data strategy: Advice on establishing or expanding a data team, when to hire the first data scientist, how to locate data scientists, selecting which projects to work on, and more.
