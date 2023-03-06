@@ -1,44 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pelayo Arbues</title><link>https://pelayoarbues.github.io/research/</link><description> Pelayo Arbues writings and notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://pelayoarbues.github.io/research/index.xml" rel="self" type="application/rss+xml"/><item><title>A/B Testing</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/A-B-Testing/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/A-B-Testing/</guid><description>&lt;p>Competence: Data Science Workflow
-Level: Recommended&lt;/p>
-&lt;p>Online controlled experiments are at the core of data driven companies. Although it may sound that A/B testing is fairly simple this is far from truth. You can get some foundations by reading the following wonderful book:&lt;/p>
-&lt;p>
-&lt;a href="https://www.goodreads.com/book/show/51635906-trustworthy-online-controlled-experiments" rel="noopener">Trustworthy Online Controlled Experiments&lt;/a>&lt;/p>
-&lt;p>Or via this free course in Udacity:&lt;/p>
-&lt;p>
-&lt;a href="https://www.udacity.com/course/ab-testing--ud257" rel="noopener">A/B Testing&lt;/a>&lt;/p></description></item><item><title>Business Understanding</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Oh-Oh/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Oh-Oh/</guid><description>&lt;p>Competence: Business Understanding
-Level: Foundation&lt;/p>
-&lt;p>I guess this is one of the most difficult topics to teach and learn without being actually working at a company. And I also guess that you can only gain domain expertise in a sector by working on it.&lt;/p>
-&lt;p>I am afraid that I have only found bullshit content in this regard. I will keep on searching and keep you updated.&lt;/p>
-&lt;p>Meanwhile, if you are going to an interview or you have just recently started working on a new sector, make yourself a favor and start reading about data projects made by similar companies and read some general news about the industry. It will help you understand what fellow DS in similar businesses are trying to optimize 😉&lt;/p></description></item><item><title>Communicate with impact</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Communicate-with-impact/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Communicate-with-impact/</guid><description>&lt;p>Competence: Communication
-Level: Foundation&lt;/p>
-&lt;p>Not every Data Scientist aims to lead a team or a project, but if at any time you feel like you are not listenned to in meetings or find yourself struggling to have your ideas accepted, it might be because you are not being able to communicate effectively.&lt;/p>
-&lt;p>As any other skill, you aren&amp;rsquo;t supposed to be born with this one, so you can build it by working on it:&lt;/p>
-&lt;p>
-&lt;a href="https://www.coursera.org/learn/communicate-with-impact" rel="noopener">Storytelling and influencing: Communicate with impact&lt;/a>&lt;/p>
-&lt;p>Course contents:&lt;/p>
-&lt;h2 id="the-necessary-art-of-persuasion-understanding-what-matters-to-your-audience">&lt;strong>The necessary art of persuasion: Understanding what matters to your audience&lt;/strong>&lt;/h2>
-&lt;p>At the heart of persuasive communications is a solid understanding of your audience and what they find appealing. This week you will learn the basic theory of persuasive communication, including models of information processing, motivational appeals, message acceptance, fast and slow decision making and rules of effective human interactions.&lt;/p>
-&lt;h2 id="telling-your-story-developing-a-dramatic-narrative">&lt;strong>Telling your story: Developing a dramatic narrative&lt;/strong>&lt;/h2>
-&lt;p>Effective storytelling starts with developing persuasive content, and then structuring a dramatic narrative that will spark the imagination. In week 2, you will learn how to apply storytelling principles like shaping the beginning, building the middle, and making the ending powerful. You will learn how to find the winning idea for your story, colour it with emotions, and use metaphors to quickly connect concepts in people’s minds.&lt;/p>
-&lt;h2 id="connecting-with-people-developing-authenticity-and-building-rapport">&lt;strong>Connecting with people: Developing authenticity and building rapport&lt;/strong>&lt;/h2>
-&lt;p>Developing rapport and trust is a crucial aspect of persuasion, in fact, it crucial for any form of supportive human interactions. Often times, this means being able to read a situation and adapt the approach accordingly. In week 3, you will learn how to speak authentically, and how to quickly build and maintain rapport. The means by which this can be accomplished include the use of verbal and non-verbal cues and the techniques of matching and mirroring the body language and vocal qualities of the other person.&lt;/p>
-&lt;h2 id="talk-the-talk-creating-impressions-and-guiding-influential-conversations">&lt;strong>Talk the talk: Creating impressions and guiding influential conversations&lt;/strong>&lt;/h2>
-&lt;p>Group meetings can create lasting impressions, which is why it important that they are well run. But, more often than not, such meetings are unproductive. Stress and tension in meetings are also common. In week 4, you will learn how to lead influential group conversation by planning an effective meeting, be aware of the do’s and don’ts in meeting, avoid groupthink, and how to make better decisions. You will also learn the power of impression management.&lt;/p>
-&lt;h2 id="painful-truth-dealing-with-objections-and-overcoming-resistance">&lt;strong>Painful truth: Dealing with objections and overcoming resistance&lt;/strong>&lt;/h2>
-&lt;p>Not all conversations are positive. Some are painful but necessary, like handling objections and overcoming resistance. In week 5, you will learn how to prepare for stressful conversations and deal with objections.You will understand the nature of the objections, why people make them, and then how to reduce their resistance, and defend your proposals against these objections.&lt;/p>
-&lt;h2 id="winning-over-hearts-and-minds-how-to-pitch-a-brilliant-idea">&lt;strong>Winning over hearts and minds: How to pitch a brilliant idea&lt;/strong>&lt;/h2></description></item><item><title>Data Science Ethics</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Data-Science-Ethics/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Data-Science-Ethics/</guid><description>&lt;p>Competence: Ethics
-Level: Foundation&lt;/p>
-&lt;p>
-&lt;a href="https://weaponsofmathdestructionbook.com/" rel="noopener">Weapons of math destruction&lt;/a>&lt;/p>
-&lt;hr>
-&lt;p>&amp;ldquo;What are the ethical considerations regarding the privacy and control of consumer information and big data, especially in the aftermath of recent large-scale data breaches?&lt;/p>
-&lt;p>This course provides a framework to analyze these concerns as you examine the ethical and privacy implications of collecting and managing big data. Explore the broader impact of the data science field on modern society and the principles of fairness, accountability and transparency as you gain a deeper understanding of the importance of a shared set of ethical values. You will examine the need for voluntary disclosure when leveraging metadata to inform basic algorithms and/or complex artificial intelligence systems while also learning best practices for responsible data management, understanding the significance of the Fair Information Practices Principles Act and the laws concerning the &amp;ldquo;right to be forgotten.&amp;rdquo;
-This course will help you answer questions such as who owns data, how do we value privacy, how to receive informed consent and what it means to be fair.
-Data scientists and anyone beginning to use or expand their use of data will benefit from this course.&amp;rdquo;&lt;/p>
-&lt;p>
-&lt;a href="https://www.coursera.org/learn/data-science-ethics#syllabus" rel="noopener">Data Science Ethics&lt;/a>&lt;/p>
-&lt;p>
-&lt;a href="https://betaandbit.github.io/RML/" rel="noopener">The Hitchhiker&amp;rsquo;s Guide to Responsible Machine Learning&lt;/a>&lt;/p></description></item><item><title>Data Science Fundamentals</title><link>https://pelayoarbues.github.io/writing/Data-Science-Fundamentals/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/Data-Science-Fundamentals/</guid><description>&lt;p>&lt;em>Data Science Fundamentals&lt;/em> is a collection of selected resources aimed at providing a solid background for aspiring and junior Data Scientists. The objective is to create a list as small and powerful as possible. There are thousands of sources out there and it is sometimes difficult to focus on what&amp;rsquo;s important.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pelayo Arbues</title><link>https://pelayoarbues.github.io/research/</link><description> Pelayo Arbues writings and notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://pelayoarbues.github.io/research/index.xml" rel="self" type="application/rss+xml"/><item><title>Data Science Fundamentals</title><link>https://pelayoarbues.github.io/writing/Data-Science-Fundamentals/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/Data-Science-Fundamentals/</guid><description>&lt;p>&lt;em>Data Science Fundamentals&lt;/em> is a collection of selected resources aimed at providing a solid background for aspiring and junior Data Scientists. The objective is to create a list as small and powerful as possible. There are thousands of sources out there and it is sometimes difficult to focus on what&amp;rsquo;s important.&lt;/p>
 &lt;p>I am afraid to say that there is no shortcut to becoming a professional Data Scientist. I don&amp;rsquo;t believe in one-month bootcamps and I find that most MS programs miss some key topics. They are usually too focused on technology and ML/DL algorithms, and often forget about other important things such as communicating results or providing a broad picture of the role of a data scientist in a project.&lt;/p>
 &lt;p>My main motivation is to create a comprehensive list of resources that will allow future Data Scientists to gain a deep knowledge of a few core competencies from which they can build up their careers. If you have a strong background in any of these competencies, you may still find some other useful stuff on the list. The list is alive, I want to keep it short so I could replace one course if I find something better. Competences should remain mostly the same.&lt;/p>
 &lt;p>The core competencies covered are:&lt;/p>
@@ -70,193 +30,198 @@ Data scientists and anyone beginning to use or expand their use of data will ben
 &lt;td style="text-align:left">Maths&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Linear-Algebra/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Linear-Algebra/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Linear-Algebra/">Linear Algebra&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Linear-Algebra/">Linear Algebra&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Maths&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Statistical-Learning/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Statistical-Learning/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Statistical-Learning/">Statistical Learning&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Statistical-Learning/">Statistical Learning&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Maths&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Statistics-101-Probability/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Statistics-101-Probability/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Statistics-101-Probability/">Statistics 101 Probability&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Statistics-101-Probability/">Statistics 101 Probability&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Maths&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-rel="noopener" class="internal-link broken"
-data-src="writing/attachments/Data%20Science%20Fundamentals/Resources/Numerical%20optimization%20">Numerical optimization&lt;/a>&lt;/td>
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Numerical-Optimization/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Numerical-Optimization/">Numerical Optimization&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Recommended&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Maths&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Time-Series-Analysis/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Time-Series-Analysis/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Time-Series-Analysis/">Time Series Analysis&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Time-Series-Analysis/">Time Series Analysis&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Recommended&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Maths&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Machine-Learning-101/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Machine-Learning-101/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Machine-Learning-101/">Machine Learning 101&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Machine-Learning-101/">Machine Learning 101&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Recommended&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Communication&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Communicate-with-impact/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Communicate-with-impact/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Communicate-with-impact/">Communicate with impact&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Communicate-with-impact/">Communicate with impact&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Communication&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Technical-Writing/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Technical-Writing/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Technical-Writing/">Technical Writing&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Technical-Writing/">Technical Writing&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Communication&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Data-Visualization/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Data-Visualization/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Data-Visualization/">Data Visualization&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Data-Visualization/">Data Visualization&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Data Science Workflow&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Good-Data-Analysis/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Good-Data-Analysis/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Good-Data-Analysis/">Good Data Analysis&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Good-Data-Analysis/">Good Data Analysis&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Data Science Workflow&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/The-Data-Science-Process/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/The-Data-Science-Process/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/The-Data-Science-Process/">The Data Science Process&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/The-Data-Science-Process/">The Data Science Process&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Data Science Workflow&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/A-B-Testing/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/A-B-Testing/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/A-B-Testing/">A B Testing&lt;/a>&lt;/td>
-&lt;td style="text-align:left">Recommended&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:left">Data Science Workflow&lt;/td>
-&lt;td style="text-align:left">Causal Analysis WIP&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/A-B-Testing/">A B Testing&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Recommended&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Data Science Workflow&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/The-Ultimate-Guide-to-Deploying-ML-Models/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Causal-Analysis/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/The-Ultimate-Guide-to-Deploying-ML-Models/">The Ultimate Guide to Deploying ML Models&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Causal-Analysis/">Causal Analysis&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Recommended&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Data Science Workflow&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Rules-of-ML/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/The-Ultimate-Guide-to-Deploying-ML-Models/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Rules-of-ML/">Rules of ML&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/The-Ultimate-Guide-to-Deploying-ML-Models/">The Ultimate Guide to Deploying ML Models&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Recommended&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Data Science Workflow&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Rules-of-ML/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Rules-of-ML/">Rules of ML&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Recommended&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Tools of the Trade&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/SQL/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/SQL/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/SQL/">SQL&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/SQL/">SQL&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Tools of the Trade&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Programming-Language/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Programming-Language/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Programming-Language/">Programming Language&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Programming-Language/">Programming Language&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Tools of the Trade&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Shell-Script-and-others/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Shell-Script-and-others/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Shell-Script-and-others/">Shell Script and others&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Shell-Script-and-others/">Shell Script and others&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Tools of the Trade&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Git/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Git/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Git/">Git&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Git/">Git&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Tools of the Trade&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Introduction-to-Computer-Science/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Introduction-to-Computer-Science/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Introduction-to-Computer-Science/">Introduction to Computer Science&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Introduction-to-Computer-Science/">Introduction to Computer Science&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Recommended&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Business Understanding&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Oh-Oh/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Oh-Oh/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Oh-Oh/">Oh Oh&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Oh-Oh/">Oh Oh&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Ethics&lt;/td>
 &lt;td style="text-align:left">
 &lt;a
-href="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Data-Science-Ethics/"
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Data-Science-Ethics/"
 rel="noopener" class="internal-link"
-data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Data-Science-Ethics/">Data Science Ethics&lt;/a>&lt;/td>
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Data-Science-Ethics/">Data Science Ethics&lt;/a>&lt;/td>
 &lt;td style="text-align:left">Foundation&lt;/td>
 &lt;/tr>
 &lt;/tbody>
@@ -264,162 +229,7 @@ data-src="https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundam
 &lt;p>📫 If you have any suggestion do not hesitate to contact me via twitter at @pelayoarbues.&lt;/p>
 &lt;p>&lt;strong>DISCLAIMERS&lt;/strong>&lt;/p>
 &lt;p>I have a preference to learn by reading books but I have tried to include video materials when there are a good alternatives.&lt;/p>
-&lt;p>In this list you might be missing some popular techniques such as Deep Learning, NLP and others. In my experience, these tools are not essential in a common project in a common company in a common industry. Besides being niche methods, it is quite unlikely that a newcomer will be handed one of this cool projects while more senior Data Scientists are usually doing unglamorous stuff and desperately willing to land a project in which to use any of these.&lt;/p></description></item><item><title>Data Visualization</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Data-Visualization/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Data-Visualization/</guid><description>&lt;p>Competence: Communication
-Level: Foundation&lt;/p>
-&lt;p>Some might argue that The Visual Display of Quantitative Information (Tufte, E. R., 1983) might be the place to start. If you prefer a course, this one is pretty exhaustive although I would skip D3 lessons:&lt;/p>
-&lt;p>
-&lt;a href="https://www.coursera.org/specializations/information-visualization#courses" rel="noopener">Information Visualization | Coursera&lt;/a>&lt;/p>
-&lt;p>This book deals with mostly all relevant topics on data visualization:&lt;/p>
-&lt;p>
-&lt;a href="https://serialmentor.com/dataviz/" rel="noopener">https://serialmentor.com/dataviz/&lt;/a>&lt;/p>
-&lt;p>
-&lt;a href="https://socviz.co/index.html#preface" rel="noopener">Data Visualization&lt;/a>&lt;/p></description></item><item><title>Good Data Analysis</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Good-Data-Analysis/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Good-Data-Analysis/</guid><description>&lt;p>Competence: Data Science Workflow
-Level: Foundation&lt;/p>
-&lt;p>&amp;ldquo;Deriving truth and insight from a pile of data is a powerful but error-prone job. The best data analysts and data-minded engineers develop a reputation for making credible pronouncements from data. But what are they doing that gives them credibility? I often hear adjectives like &lt;em>careful&lt;/em> and &lt;em>methodical&lt;/em>, but what do the most careful and methodical analysts actually do?&lt;/p>
-&lt;p>This is not a trivial question, especially given the type of data that we regularly gather at Google. Not only do we typically work with very large data sets, but those data sets are extremely rich. That is, each row of data typically has many, many attributes. When you combine this with the temporal sequences of events for a given user, there are an enormous number of ways of looking at the data. Contrast this with a typical academic psychology experiment where it&amp;rsquo;s trivial for the researcher to look at every single data point. The problems posed by our large, high-dimensional data sets are very different from those encountered throughout most of the history of scientific work.&lt;/p>
-&lt;p>This document summarizes the ideas and techniques that careful, methodical analysts use on large, high-dimensional data sets. Although this document focuses on data from logs and experimental analysis, many of these techniques are more widely applicable.&amp;rdquo;&lt;/p>
-&lt;p>
-&lt;a href="https://developers.google.com/machine-learning/guides/good-data-analysis" rel="noopener">Good Data Analysis | ML Universal Guides | Google Developers&lt;/a>&lt;/p>
-&lt;p>Contents:&lt;/p>
-&lt;p>
-&lt;img src="https://pelayoarbues.github.io//writing/attachments/Data%20Science%20Fundamentals/Resources/attachments/Untitled.png" width="auto" alt="Good%20Data%20Analysis%2004a423dcc28d4a1382ce02b7a80e0403/Untitled.png" />&lt;/p></description></item><item><title>Introduction to Computer Science</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Introduction-to-Computer-Science/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Introduction-to-Computer-Science/</guid><description>&lt;p>Competence: Tools of the Trade
-Level: Recommended&lt;/p>
-&lt;p>Forget about your Python/R preferences , this course is focused on computational thinking.&lt;/p>
-&lt;p>
-&lt;a href="https://www.edx.org/es/course/introduction-to-computer-science-and-programming-7" rel="noopener">Introduction to Computer Science and Programming Using Python&lt;/a>&lt;/p>
-&lt;p>What you will learn:&lt;/p>
-&lt;ul>
-&lt;li>A Notion of computation&lt;/li>
-&lt;li>The Python programming language&lt;/li>
-&lt;li>Some simple algorithms&lt;/li>
-&lt;li>Testing and debugging&lt;/li>
-&lt;li>An informal introduction to algorithmic complexity&lt;/li>
-&lt;li>Data structuresAnother introductory course:&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;a href="https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0" rel="noopener">CS50: Introduction to Computer Science&lt;/a>&lt;/p></description></item><item><title>Linear Algebra</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Linear-Algebra/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Linear-Algebra/</guid><description>&lt;p>Competence: Maths
-Level: Foundation&lt;/p>
-&lt;p>Many Data Science techniques are applications of Linear Algebra, so it is important to dust off your knowledge in this topic.&lt;/p>
-&lt;p>
-&lt;a href="https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/" rel="noopener">A 2020 Vision of Linear Algebra&lt;/a>&lt;/p>
-&lt;p>
-&lt;a href="https://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf" rel="noopener">Linear Algebra Done Wrong&lt;/a>&lt;/p>
-&lt;p>&amp;ldquo;It supposed to be a first linear algebra course for mathematically advanced students. It is intended for a student who, while not yet very familiar with abstract reasoning, is willing to study more rigorous mathematics than what is presented in a “cookbook style” calculus type course&amp;rdquo;&lt;/p>
-&lt;hr>
-&lt;p>&amp;ldquo;In this course on Linear Algebra we look at what linear algebra is and how it relates to vectors and matrices. Then we look through what vectors and matrices are and how to work with them, including the knotty problem of eigenvalues and eigenvectors, and how to use these to solve problems. Finally we look at how to use these to do fun things with datasets - like how to rotate images of faces and how to extract eigenvectors to look at how the Pagerank algorithm works.&lt;/p>
-&lt;p>Since we&amp;rsquo;re aiming at data-driven applications, we&amp;rsquo;ll be implementing some of these ideas in code, not just on pencil and paper. Towards the end of the course, you&amp;rsquo;ll write code blocks and encounter Jupyter notebooks in Python, but don&amp;rsquo;t worry, these will be quite short, focussed on the concepts, and will guide you through if you’ve not coded before.&amp;rdquo;&lt;/p>
-&lt;p>
-&lt;a href="https://www.coursera.org/learn/linear-algebra-machine-learning#syllabus" rel="noopener">Mathematics for Machine Learning: Linear Algebra&lt;/a>&lt;/p></description></item><item><title>Machine Learning 101</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Machine-Learning-101/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Machine-Learning-101/</guid><description>&lt;p>Competence: Maths
-Level: Recommended&lt;/p>
-&lt;p>If you could only take a Machine Learning course, this should be the one:&lt;/p>
-&lt;p>
-&lt;a href="https://es.coursera.org/learn/machine-learning" rel="noopener">Aprendizaje Automático&lt;/a>&lt;/p></description></item><item><title>Numerical optimization</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Numerical-optimization-/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Numerical-optimization-/</guid><description>&lt;p>Competence: Maths
-Level: Recommended&lt;/p>
-&lt;p>I am still looking for the adequate Mathematical Optimization materiasl. In the meantime, you can take a look at Numerical Optimization:&lt;/p>
-&lt;p>
-&lt;a href="https://link.springer.com/book/10.1007/978-0-387-40065-5" rel="noopener">Numerical Optimization&lt;/a>&lt;/p></description></item><item><title>Programming Language</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Programming-Language/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Programming-Language/</guid><description>&lt;p>Competence: Tools of the Trade
-Level: Foundation&lt;/p>
-&lt;p>R/Python choose your favourite flavor:&lt;/p>
-&lt;ul>
-&lt;li>R:
-&lt;a href="https://www.coursera.org/specializations/data-science-foundations-r#courses" rel="noopener">https://www.coursera.org/specializations/data-science-foundations-r#courses&lt;/a>&lt;/li>
-&lt;li>Python:
-&lt;a href="https://www.coursera.org/specializations/data-science-python" rel="noopener">https://www.coursera.org/specializations/data-science-python&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>In case you are not programming savy I also encourage you to learn good practices in programming. You can do it in parallel while you learn Data science libraries:&lt;/p>
-&lt;p>
-&lt;a href="https://github.com/ubarredo/LearnPythonTheHardWay" rel="noopener">https://github.com/ubarredo/LearnPythonTheHardWay&lt;/a>&lt;/p>
-&lt;p>
-&lt;a href="https://refactoring.guru/design-patterns" rel="noopener">Design Patterns&lt;/a>&lt;/p></description></item><item><title>Rules of ML</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Rules-of-ML/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Rules-of-ML/</guid><description>&lt;p>Competence: Data Science Workflow
-Level: Recommended&lt;/p>
-&lt;p>This is pure gold:&lt;/p>
-&lt;p>
-&lt;a href="https://developers.google.com/machine-learning/guides/rules-of-ml" rel="noopener">Rules of Machine Learning: | ML Universal Guides | Google Developers&lt;/a>&lt;/p>
-&lt;p>It includes greatest hits such as:&lt;/p>
-&lt;p>
-&lt;img src="https://pelayoarbues.github.io//writing/attachments/Data%20Science%20Fundamentals/Resources/attachments/Untitled%201.png" width="auto" alt="Rules%20of%20ML%20ca06b5c936054ee38a53ecec7bbdbe6e/Untitled.png" />&lt;/p>
-&lt;p>
-&lt;img src="https://pelayoarbues.github.io//writing/attachments/Data%20Science%20Fundamentals/Resources/attachments/Untitled%201%201.png" width="auto" alt="Rules%20of%20ML%20ca06b5c936054ee38a53ecec7bbdbe6e/Untitled%201.png" />&lt;/p></description></item><item><title>Shell Script and others</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Shell-Script-and-others/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Shell-Script-and-others/</guid><description>&lt;p>Competence: Tools of the Trade
-Level: Foundation&lt;/p>
-&lt;p>Shell scripting might be daunting even for Computer Scientists as it is stated in&lt;/p>
-&lt;p>
-&lt;a href="https://missing.csail.mit.edu/about/" rel="noopener">https://missing.csail.mit.edu/about/&lt;/a>&lt;/p>
-&lt;p>Lectures&lt;/p>
-&lt;p>
-&lt;a href="https://missing.csail.mit.edu/2020/" rel="noopener">2020 Lectures&lt;/a>&lt;/p></description></item><item><title>SQL</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/SQL/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/SQL/</guid><description>&lt;p>Competence: Tools of the Trade
-Level: Foundation&lt;/p>
-&lt;p>Great introduction to relational databases, relational algebra and SQL. It will teach something like the 110% SQL you will ever need if you are a common Data Scientist:&lt;/p>
-&lt;p>
-&lt;a href="https://www.edx.org/course/databases-5-sql" rel="noopener">https://www.edx.org/course/databases-5-sql&lt;/a>&lt;/p></description></item><item><title>Statistical Learning</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Statistical-Learning/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Statistical-Learning/</guid><description>&lt;p>Competence: Maths
-Level: Foundation&lt;/p>
-&lt;p>This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).&lt;/p>
-&lt;p>This is not a math-heavy class, so we try and describe the methods without heavy reliance on formulas and complex mathematics. We focus on what we consider to be the important elements of modern data analysis. Computing is done in R. There are lectures devoted to R, giving tutorials from the ground up, and progressing with more detailed sessions that implement the techniques in each chapter.&lt;/p>
-&lt;p>Lectures:
-&lt;a href="https://www.edx.org/course/statistical-learning" rel="noopener">Statistical Learning&lt;/a>&lt;/p>
-&lt;p>Book:
-&lt;a href="http://faculty.marshall.usc.edu/gareth-james/ISL/" rel="noopener">Introduction to Statistical Learning&lt;/a>&lt;/p></description></item><item><title>Statistics 101: Probability</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Statistics-101-Probability/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Statistics-101-Probability/</guid><description>&lt;p>Competence: Maths
-Level: Foundation&lt;/p>
-&lt;p>Every aspiring Data Scientist should get started by getting a solid background in Statistics. There are two books that can work as great 101 materials:&lt;/p>
-&lt;ul>
-&lt;li>Introduction to Probability by Joe Blitzstein and Jessica Hwang. It is now available at
-&lt;a href="http://probabilitybook.net/" rel="noopener">http://probabilitybook.net&lt;/a>, with
-&lt;a href="https://projects.iq.harvard.edu/stat110/youtube" rel="noopener">videos&lt;/a> and other
-&lt;a href="https://projects.iq.harvard.edu/stat110" rel="noopener">resources&lt;/a>.&lt;/li>
-&lt;li>
-&lt;a href="http://bio5495.wustl.edu/Probability/Readings/DeGroot4thEdition.pdf" rel="noopener">Probability and Statistics by Morris H. DeGroot and Mark J. Schervish&lt;/a>. It is called the Bible by some stats teachers.&lt;/li>
-&lt;/ul></description></item><item><title>Technical Writing</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Technical-Writing/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Technical-Writing/</guid><description>&lt;p>Competence: Communication
-Level: Foundation&lt;/p>
-&lt;p>We are constantly writing.:&lt;/p>
-&lt;ul>
-&lt;li>emails&lt;/li>
-&lt;li>project proposals&lt;/li>
-&lt;li>chats&lt;/li>
-&lt;li>documentation&lt;/li>
-&lt;li>&amp;hellip;&lt;/li>
-&lt;/ul>
-&lt;p>Google provides a short course that might help you writing technical texts:&lt;/p>
-&lt;p>
-&lt;a href="https://developers.google.com/tech-writing?hl=es" rel="noopener">Technical Writing | Google Developers&lt;/a>&lt;/p>
-&lt;p>
-&lt;a href="https://developers.google.com/tech-writing/one/active-voice" rel="noopener">Active voice vs. passive voice | Technical Writing | Google Developers&lt;/a>&lt;/p>
-&lt;p>The documentation system covers 4 different purposes:&lt;/p>
-&lt;p>
-&lt;a href="https://documentation.divio.com/" rel="noopener">https://documentation.divio.com/&lt;/a>&lt;/p></description></item><item><title>The Data Science Process</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/The-Data-Science-Process/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/The-Data-Science-Process/</guid><description>&lt;p>Competence: Data Science Workflow
-Level: Foundation&lt;/p>
-&lt;p>&amp;ldquo;The book emphasizes machine learning, but is unique in the number of chapters it devotes to topics such as the role of the data scientist in projects, managing results, and even designing presentations. In addition to working out how to code up models, the book shares how to collaborate with diverse teams, how to translate business goals into metrics, and how to organize work and reports.&amp;rdquo; - Jeremy Howard&lt;/p>
-&lt;p>You rarely find those topics in other books or courses and they are core to understand the role of a data scientist in a project. The book focuses on the usage of R for data science and it is a good book. If you are not into R, you can stick to the first chapter which includes:&lt;/p>
-&lt;ul>
-&lt;li>Defining data science&lt;/li>
-&lt;li>Defining data science project roles&lt;/li>
-&lt;li>Understanding the stages of a data science project&lt;/li>
-&lt;li>Setting expectations for a new data science project&lt;/li>
-&lt;/ul>
-&lt;p>
-&lt;a href="https://livebook.manning.com/book/practical-data-science-with-r-second-edition/chapter-1?origin=product-toc" rel="noopener">Data Science with R&lt;/a>&lt;/p>
-&lt;h3 id="full-stack-deep-learning">Full stack Deep Learning&lt;/h3>
-&lt;p>Although the title includes the words Deep Learning, the fundamentals are mostly common to any Data-based project:&lt;/p>
-&lt;p>
-&lt;a href="https://course.fullstackdeeplearning.com/" rel="noopener">https://course.fullstackdeeplearning.com/&lt;/a>&lt;/p>
-&lt;p>
-&lt;a href="https://pair.withgoogle.com/guidebook/patterns/how-do-i-explain-my-ai-system" rel="noopener">People + AI Guidebook&lt;/a>&lt;/p></description></item><item><title>The Ultimate Guide to Deploying ML Models</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/The-Ultimate-Guide-to-Deploying-ML-Models/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/The-Ultimate-Guide-to-Deploying-ML-Models/</guid><description>&lt;p>Competence: Data Science Workflow
-Level: Recommended&lt;/p>
-&lt;blockquote>
-&lt;p>&amp;ldquo;No machine learning model is valuable, unless it’s deployed to production.&amp;rdquo; – Luigi Patruno&lt;/p>
-&lt;/blockquote>
-&lt;p>Machine learning models can only generate value for organizations when the insights from those models are delivered to end users. Who the end user is can vary: recommender systems in e-commerce suggest products to shoppers while advertisement click predictions feed software systems that serve ads. But either way ML projects can only be successful &lt;em>after&lt;/em> a model has been deployed and its predictions are being served.&lt;/p>
-&lt;p>
-&lt;a href="https://mlinproduction.com/deploying-machine-learning-models/" rel="noopener">https://mlinproduction.com/deploying-machine-learning-models/&lt;/a>&lt;/p></description></item><item><title>Time Series Analysis</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Git/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Git/</guid><description>&lt;h1 id="git">Git&lt;/h1>
-&lt;p>Competence: Tools of the Trade
-Level: Foundation&lt;/p>
-&lt;p>Use version control since the very beginning of your projects to avoid surprises:&lt;/p>
-&lt;p>
-&lt;a href="https://rogerdudler.github.io/git-guide/" rel="noopener">https://rogerdudler.github.io/git-guide/&lt;/a>&lt;/p></description></item><item><title>Time Series Analysis</title><link>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Time-Series-Analysis/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/attachments/Data-Science-Fundamentals/Resources/Time-Series-Analysis/</guid><description>&lt;p>Competence: Maths
-Level: Recommended&lt;/p>
-&lt;p>Many programs forget about time series analysis and forecasting.&lt;/p>
-&lt;p>Time series Chapter in
-&lt;a href="https://spu.fem.uniag.sk/cvicenia/ksov/obtulovic/Mana%C5%BE.-%C5%A1tatistika-a-ekonometria/EconometricsGREENE.pdf" rel="noopener">Greene&amp;rsquo;s Econometric handbook&lt;/a> might be a good starting point.&lt;/p>
-&lt;p>
-&lt;a href="https://sisis.rz.htw-berlin.de/inh2007/12357004.pdf" rel="noopener">Time series handbook&lt;/a>&lt;/p></description></item><item><title>My failure resume</title><link>https://pelayoarbues.github.io/writing/My-failure-resume/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/My-failure-resume/</guid><description>&lt;p>
+&lt;p>In this list you might be missing some popular techniques such as Deep Learning, NLP and others. In my experience, these tools are not essential in a common project in a common company in a common industry. Besides being niche methods, it is quite unlikely that a newcomer will be handed one of this cool projects while more senior Data Scientists are usually doing unglamorous stuff and desperately willing to land a project in which to use any of these.&lt;/p></description></item><item><title>My failure resume</title><link>https://pelayoarbues.github.io/writing/My-failure-resume/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/My-failure-resume/</guid><description>&lt;p>
 &lt;img src="https://pelayoarbues.github.io//writing/attachments/plant-midjourney.png" width="auto" alt="" />&lt;/p>
 &lt;p>I&amp;rsquo;m a little brother, so I learned to lose as soon as I learned to crawl. I played in a youth futsal team and there was one year when we lost ALL our games. This over-exposure to defeat made me realise that I don&amp;rsquo;t need to win to be happy, but I do need a context that allows me to chase victory.&lt;/p>
 &lt;blockquote>
