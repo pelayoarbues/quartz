@@ -29,8 +29,6 @@ There are two levels:
 - Foundation flagged contents are essential to be mastered by Data Scientists.
 - Recommended items are highly useful resources but may not be essential for very junior DS.
 
-📌 Hover over any item and click `⤢ OPEN` to obtain additional info like a link to videos, books and other materials.
-
 | Competence             | Name                                                                                                                                                              | Level       |
 |:---------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------- |:----------- |
 | Maths                  | [Linear Algebra](attachments/Data%20Science%20Fundamentals/Resources/Linear%20Algebra.md)                                                                 | Foundation  |
