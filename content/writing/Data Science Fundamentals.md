@@ -7,6 +7,8 @@ tags:
 - career
 ---
 
+![](writing/attachments/ebookplants.png)
+
 *Data Science Fundamentals* is a collection of selected resources aimed at providing a solid background for aspiring and junior Data Scientists. The objective is to create a list as small and powerful as possible. There are thousands of sources out there and it is sometimes difficult to focus on what's important.
 
 I am afraid to say that there is no shortcut to becoming a professional Data Scientist. I don't believe in one-month bootcamps and I find that most MS programs miss some key topics. They are usually too focused on technology and ML/DL algorithms, and often forget about other important things such as communicating results or providing a broad picture of the role of a data scientist in a project.
