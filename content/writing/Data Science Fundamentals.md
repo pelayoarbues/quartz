@@ -22,7 +22,7 @@ The core competencies covered are:
 - Business understanding: You will be working in a particular sector and you need to understand this context. And also the different roles in business. Also try to get an idea of why the project is important for the different departments of the company, how it will be impacting customers and Profit & Loss account.
 - Ethics: A great power comes with a great responsability. And although maybe your power is limited in scope at the beginning of your career, everyone working with data should be aware of issues such as data privacy, data ownership, anonimity, fairness and biases.
 
-# Resources
+## Resources
 
 There are two levels: 
 
