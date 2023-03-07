@@ -43,7 +43,7 @@ There are two levels:
 | Data Science Workflow  | [Good Data Analysis](attachments/Data%20Science%20Fundamentals/Resources/Good%20Data%20Analysis.md)                                                       | Foundation  |
 | Data Science Workflow  | [The Data Science Process](attachments/Data%20Science%20Fundamentals/Resources/The%20Data%20Science%20Process.md)                                         | Foundation  |
 | Data Science Workflow  | [A B Testing](attachments/Data%20Science%20Fundamentals/Resources/A%20B%20Testing.md)                                                                     | Recommended |
-| Data Science Workflow  | [Causal Analysis](attachments/Data%20Science%20Fundamentals/Resources/Causal%20Analysis.md)                                                       | Recommended |                                                                    
+| Data Science Workflow  | [Causal Inference](attachments/Data%20Science%20Fundamentals/Resources/Causal%20Inference.md)                                                       | Recommended |                                                                    
 | Data Science Workflow  | [The Ultimate Guide to Deploying ML Models](attachments/Data%20Science%20Fundamentals/Resources/The%20Ultimate%20Guide%20to%20Deploying%20ML%20Models.md) | Recommended |
 | Data Science Workflow  | [Rules of ML](attachments/Data%20Science%20Fundamentals/Resources/Rules%20of%20ML.md)                                                                     | Recommended |
 | Tools of the Trade     | [SQL](attachments/Data%20Science%20Fundamentals/Resources/SQL.md)                                                                                         | Foundation  |
