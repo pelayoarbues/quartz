@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pelayo Arbues</title><link>https://pelayoarbues.github.io/tags/communication/</link><description> Pelayo Arbues writings and notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pelayoarbues.github.io/tags/communication/index.xml" rel="self" type="application/rss+xml"/><item><title>Data Science Fundamentals</title><link>https://pelayoarbues.github.io/writing/Data-Science-Fundamentals/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/Data-Science-Fundamentals/</guid><description>&lt;p>
+&lt;img src="https://pelayoarbues.github.io//writing/attachments/ebookplants.png" width="auto" alt="" />&lt;/p>
+&lt;p>&lt;em>Data Science Fundamentals&lt;/em> is a collection of selected resources aimed at providing a solid background for aspiring and junior Data Scientists. The objective is to create a list as small and powerful as possible. There are thousands of sources out there and it is sometimes difficult to focus on what&amp;rsquo;s important.&lt;/p>
+&lt;p>I am afraid to say that there is no shortcut to becoming a professional Data Scientist. I don&amp;rsquo;t believe in one-month bootcamps and I find that most MS programs miss some key topics. They are usually too focused on technology and ML/DL algorithms, and often forget about other important things such as communicating results or providing a broad picture of the role of a data scientist in a project.&lt;/p>
+&lt;p>My main motivation is to create a comprehensive list of resources that will allow future Data Scientists to gain a deep knowledge of a few core competencies from which they can build up their careers. If you have a strong background in any of these competencies, you may still find some other useful stuff on the list. The list is alive, I want to keep it short so I could replace one course if I find something better. Competences should remain mostly the same.&lt;/p>
+&lt;p>The core competencies covered are:&lt;/p>
+&lt;ul>
+&lt;li>Maths foundation: It is impossible to be successful doing a Data Science project without a solid understanding of Probability, Statistics and Linear Algebra. Machine learning might be useful to solve certain problems, but what you will always be using is statistics and algebra as a fundamental and general framework. It is the most time consuming competence to work on, but it will pay off.&lt;/li>
+&lt;li>Communication skills: You won&amp;rsquo;t be working in isolation so you will need to show results, explain processes to non-technical audiences or write project proposals. Or you might just need a colleague to help you with something and you will need to explain it as clearly as possible via email or instant message. Learn to talk. Learn to write.&lt;/li>
+&lt;li>Data Science Workflow: Understand the iterative process in data science. The importance of understanding business problems. Help businesses ask the right questions to solve a problem. Identify the role of data scientists in a project.&lt;/li>
+&lt;li>Tools of the trade: You will need git, shell scripting and SQL. And a programming language. Remember that these are just tools to solve problems. Nothing else. I do not recommend learning lots of languages and tools. Stick to a shell, SQL and R/Python, and once you feel comfortable with those you can move forward and learn something else.&lt;/li>
+&lt;li>Business understanding: You will be working in a particular sector and you need to understand this context. And also the different roles in business. Also try to get an idea of why the project is important for the different departments of the company, how it will be impacting customers and Profit &amp;amp; Loss account.&lt;/li>
+&lt;li>Ethics: A great power comes with a great responsability. And although maybe your power is limited in scope at the beginning of your career, everyone working with data should be aware of issues such as data privacy, data ownership, anonimity, fairness and biases.&lt;/li>
+&lt;/ul>
+&lt;h2 id="resources">Resources&lt;/h2>
+&lt;p>There are two levels:&lt;/p>
+&lt;ul>
+&lt;li>Foundation flagged contents are essential to be mastered by Data Scientists.&lt;/li>
+&lt;li>Recommended items are highly useful resources but may not be essential for very junior DS.&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">Competence&lt;/th>
+&lt;th style="text-align:left">Name&lt;/th>
+&lt;th style="text-align:left">Level&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">Maths&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Linear-Algebra/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Linear-Algebra/">Linear Algebra&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Maths&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Statistical-Learning/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Statistical-Learning/">Statistical Learning&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Maths&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Statistics-101-Probability/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Statistics-101-Probability/">Statistics 101 Probability&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Maths&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Numerical-Optimization/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Numerical-Optimization/">Numerical Optimization&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Recommended&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Maths&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Time-Series-Analysis/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Time-Series-Analysis/">Time Series Analysis&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Recommended&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Maths&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Machine-Learning-101/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Machine-Learning-101/">Machine Learning 101&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Recommended&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Communication&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Communicate-with-impact/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Communicate-with-impact/">Communicate with impact&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Communication&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Technical-Writing/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Technical-Writing/">Technical Writing&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Communication&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Data-Visualization/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Data-Visualization/">Data Visualization&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Data Science Workflow&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Good-Data-Analysis/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Good-Data-Analysis/">Good Data Analysis&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Data Science Workflow&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/The-Data-Science-Process/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/The-Data-Science-Process/">The Data Science Process&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Data Science Workflow&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/A-B-Testing/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/A-B-Testing/">A B Testing&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Recommended&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Data Science Workflow&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Causal-Inference/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Causal-Inference/">Causal Inference&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Recommended&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Data Science Workflow&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/The-Ultimate-Guide-to-Deploying-ML-Models/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/The-Ultimate-Guide-to-Deploying-ML-Models/">The Ultimate Guide to Deploying ML Models&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Recommended&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Data Science Workflow&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Rules-of-ML/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Rules-of-ML/">Rules of ML&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Recommended&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Tools of the Trade&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/SQL/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/SQL/">SQL&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Tools of the Trade&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Programming-Language/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Programming-Language/">Programming Language&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Tools of the Trade&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Shell-Script-and-others/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Shell-Script-and-others/">Shell Script and others&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Tools of the Trade&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Git/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Git/">Git&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Tools of the Trade&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Introduction-to-Computer-Science/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Introduction-to-Computer-Science/">Introduction to Computer Science&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Recommended&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Business Understanding&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Oh-Oh/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Oh-Oh/">Oh Oh&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">Ethics&lt;/td>
+&lt;td style="text-align:left">
+&lt;a
+href="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Data-Science-Ethics/"
+rel="noopener" class="internal-link"
+data-src="https://pelayoarbues.github.io/attachments/Data-Science-Fundamentals/Resources/Data-Science-Ethics/">Data Science Ethics&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Foundation&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>📫 If you have any suggestion do not hesitate to contact me via twitter at @pelayoarbues.&lt;/p>
+&lt;p>&lt;strong>DISCLAIMERS&lt;/strong>&lt;/p>
+&lt;p>I have a preference to learn by reading books but I have tried to include video materials when there are a good alternatives.&lt;/p>
+&lt;p>In this list you might be missing some popular techniques such as Deep Learning, NLP and others. In my experience, these tools are not essential in a common project in a common company in a common industry. Besides being niche methods, it is quite unlikely that a newcomer will be handed one of this cool projects while more senior Data Scientists are usually doing unglamorous stuff and desperately willing to land a project in which to use any of these.&lt;/p></description></item><item><title>My failure resume</title><link>https://pelayoarbues.github.io/writing/My-failure-resume/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/My-failure-resume/</guid><description>&lt;p>
+&lt;img src="https://pelayoarbues.github.io//writing/attachments/plant-midjourney.png" width="auto" alt="" />&lt;/p>
+&lt;p>I&amp;rsquo;m a little brother, so I learned to lose as soon as I learned to crawl. I played in a youth futsal team and there was one year when we lost ALL our games. This over-exposure to defeat made me realise that I don&amp;rsquo;t need to win to be happy, but I do need a context that allows me to chase victory.&lt;/p>
+&lt;blockquote>
+&lt;p>Don&amp;rsquo;t take yourself too seriously.&lt;/p>
+&lt;/blockquote>
+&lt;p>I have never taken myself too seriously. This way of thinking has made me very aware of my failures. I used to be aware of them and I didn&amp;rsquo;t hide them, but I didn&amp;rsquo;t broadcast them either. Now I&amp;rsquo;m at a stage where I think I have to be proud of those failures. Maybe it&amp;rsquo;s because I&amp;rsquo;ve started listening to punk again, maybe it&amp;rsquo;s because I reject the false perfection that&amp;rsquo;s on display on social networks. Punk is, after all, a cultural response to the social context, so maybe the two are very much linked.&lt;/p>
+&lt;blockquote>
+&lt;p>LinkedIn, you are a very powerful professional tool, but social networking dynamics suck.&lt;/p>
+&lt;/blockquote>
+&lt;p>I wrote this post a while ago, but I recently discovered the concept of the
+&lt;a href="https://jzhao.xyz/posts/a-failure-resume/" rel="noopener">failure resume&lt;/a>, so I&amp;rsquo;ve changed the title from My biggest fuck-ups to My Failure Resume, and I&amp;rsquo;m going to start with my most resounding failures both as a data scientist and in my most recent management position. Here they are:&lt;/p>
+&lt;p>Top DS Failures:&lt;/p>
+&lt;ul>
+&lt;li>Inability to reproduce the code and get the same results in a research paper as part of my thesis. I learnt the importance of using version control, saving intermediate results and managing development environment dependencies well.&lt;/li>
+&lt;li>Negative valuations in a production property valuation model. Yes, I could do that! That was a big relief for the people in my team. I learned the importance of model monitoring, how to analyse model behaviour when inputs take extreme values, and how to be wary of tree models.&lt;/li>
+&lt;li>Putting the engineering team in a sweat. I had to cluster users&amp;rsquo; geolocations and thought DBScan was a good fit. I did not think about the production release and availability of the library in Spark. As a consultant, I was asked to solve a problem and didn&amp;rsquo;t ask about the technical context, volumetrics or anything else.&lt;/li>
+&lt;li>Business intrusion. In more than one project, I didn&amp;rsquo;t know how to deal with business constraints. We delivered data of dubious quality, which reduced our credibility, and also created a huge technical debt because we were not allowed to version the reports, so you had to carry one of them around with you historically.&lt;/li>
+&lt;/ul>
+&lt;p>Top management failures:&lt;/p>
+&lt;ul>
+&lt;li>Giving too much responsibility without enough support. Asking junior people in certain roles to take on responsibility without giving them enough support. Setting them up for failure almost by design.&lt;/li>
+&lt;li>Not making sure they got the message. One of the most important things you can do as a manager is to give feedback. On a number of occasions I have sinned by not making sure that the message I was sending was fully understood.&lt;/li>
+&lt;li>I make jokes when I shouldn&amp;rsquo;t. Sometimes I&amp;rsquo;ve been a loudmouth and made team jokes that didn&amp;rsquo;t go down well with certain people.&lt;/li>
+&lt;/ul>
+&lt;p>This is my CV of mistakes so far, I&amp;rsquo;m sure I&amp;rsquo;ll soon be able to add more &lt;code>medals&lt;/code> to wear on my lapel.&lt;/p></description></item><item><title>The Rational Company</title><link>https://pelayoarbues.github.io/writing/The-Rational-Company/</link><pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/The-Rational-Company/</guid><description>&lt;p>In the past years many companies have claimed to be adopting processes that allows them to be more intensively driven by data. Although most of these companies focus on the technology and tools used, we could assume that what they are trying to do is to improve their decision making processes. We could say that they try to become rational.&lt;/p>
+&lt;p>Rationality is about more than just forming true beliefs – it&amp;rsquo;s also about making decisions that help you achieve your goals. Decision making is the ability to make sound, rational decisions based on the available information. This process begins with understanding what it is that the company wants to achieve – its north star goal. Once this is clear, the company can start collecting relevant data and expertise to inform its decisions. Finally, creating a culture of lifelong learning will ensure that the company continues to get better at making decisions over time.&lt;/p>
+&lt;p>Better decision making might require open minded profesionals, eager to adopt a bayesian-style culture where prior beliefs are constantly updated by new facts and evidence. Being willing to change our minds when new evidence arises is important for making smart decisions – after all, if we’re always sticking to our original ideas, chances are we won’t be taking advantage of all the potential options out there. All of these qualities together – being open-minded and thinking critically about information, as well as being willing to alter our beliefs in light of new data – make for better decision making overall.&lt;/p>
+&lt;p>In the absence of enough data, beliefs based on experience and expert knowledge can provide a competitive advantage. It is important for companies to have experts on their team who can rely on intuition and experience when making decisions based on insufficient information.&lt;/p>
+&lt;blockquote>
+&lt;p>Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society.&lt;/p>
+&lt;p>- Cassie Kozyrkov,
+&lt;a href="https://towardsdatascience.com/introduction-to-decision-intelligence-5d147ddab767" rel="noopener">What is Decision Intelligence&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>Blindly trusting data and statistics without verifying their validity is also a risk, as it could lead to incorrect decisions being made. By using Bayesian reasoning techniques, businesses can mitigate these risks and optimise their operations accordingly.&lt;/p></description></item><item><title>Como contratar DS y no desesperar en el intento</title><link>https://pelayoarbues.github.io/writing/Como-contratar-DS-y-no-desesperar-en-el-intento/</link><pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/Como-contratar-DS-y-no-desesperar-en-el-intento/</guid><description>&lt;p>A raíz de la anterior publicación en el blog sobre cómo conseguir un primer empleo de Data Scientist recibí bastantes preguntas de managers con dudas sobre cómo afrontar el proceso de contratación. En este artículo comparto unas notas rápidas que pueden servir para analizar si el proceso que lideras es todo lo racional que debería.&lt;/p>
+&lt;p>Antes de empezar un pequeño aviso: Desde que me incorporé al mundo del dato en el sector privado hace unos 7 años he participado de manera activa en la contratación de unos 15 perfiles de Data Scientist (DS), así que tampoco tengo un historial enorme de contrataciones.&lt;/p>
+&lt;h2 id="fortalezasdebilidades-del-equipo-y-diversidad">Fortalezas/debilidades del equipo y diversidad&lt;/h2>
+&lt;p>Lo habitual es que los equipos de DS tengan menos personal del necesario para afrontar los proyectos. En esta circunstancia es tentador pescar rápidamente a la primera persona que aparezca y que sea suficientemente buena, esté disponible y con ganas.&lt;/p>
+&lt;p>Si lo haces así, posiblemente estés obviando que esa persona no es exactamente lo que necesitas. Como dice
+&lt;a href="https://twitter.com/joulee" rel="noopener">Julie Zhuo&lt;/a>, autora de
+&lt;a href="https://fellow.app/blog/management/julie-zhuo-the-making-of-a-manager/" rel="noopener">The Making of a Manager&lt;/a>, es como cuando tienes hambre para cenar: cualquier cosa te puede valer, pero seguramente si hubieses planificado tu cena comerías algo mejor.&lt;/p>
+&lt;blockquote>
+&lt;p>Analiza necesidades presentes y futuras&lt;/p>
+&lt;/blockquote>
+&lt;p>Para eso te tienes que tomar tu tiempo para identificar qué proyectos hay a la vista, qué líneas se abrirán en el futuro, en qué habilidades el equipo es fuerte/débil y qué personalidades y experiencias añaden diversidad a la hora de afrontar problemas.&lt;/p>
+&lt;p>Si haces este ejercicio es posible que te des cuenta de que no necesitas un DS, que lo que en realidad necesitas es un Data Engineer (o dos). O que quizás ya tienes suficientes economistas varones blancos. O que necesitas una DS que sea más ingeniera (
+&lt;a href="https://medium.com/@jamesdensmore/there-are-two-types-of-data-scientists-and-two-types-of-problems-to-solve-a149a0148e64" rel="noopener">Tipo B&lt;/a>) que analista (Tipo A).&lt;/p>
+&lt;h2 id="haz-del-proceso-de-selección-algo-memorable">Haz del proceso de selección algo memorable&lt;/h2>
+&lt;p>Intenta hacer el proceso de selección que te gustaría hacer a tí. Si cuentas con alguien de RRHH, forma una alianza con la recruiter en la que ella aportará su experiencia sobre selección y cómo tratar de una forma efectiva a cada persona y tú aportarás conocimiento técnico de las necesidades a cubrir.&lt;/p>
+&lt;p>Escribe con cariño la descripción del puesto. Una vez identificado qué necesitas es hora de escribirlo para llamar la atención de candidatos. No hay que confundir este llamar la atención con venderles humo, sino que se identifiquen con el rol. Además una buena descripción del puesto por escrito le permitirá a tu recruitir tener suficiente información para que consiga hacer un filtrado más efectivo.
+&lt;a href="https://twitter.com/pelayoarbues/status/1273864002473517056?s=20&amp;amp;t=Ed2hTBGHS9I0IVefG0XExg" rel="noopener">Me repito mucho&lt;/a> pero el rol de DS no está bien definido así que al menos trata que en tu descripción de la posición quede claro qué funciones esperas que cubran.&lt;/p>
+&lt;p>&lt;strong>Pasa un cuestionario para que lo envíen junto al CV&lt;/strong>. Pregunta por conocimiento en tecnologías, formas de trabajo y experiencia con ellas. Insiste en qué partes del pipeline de un proyecto de DS ha tenido experiencia: obteniendo información, limpiando, modelizando y MLOps.&lt;/p>
+&lt;p>Además es importante saber cómo se ha relacionado con otros grupos de interés: traduciendo necesidades de negocio a características del análisis, integración con otros sistemas y relación con otros equipos de ingeniería. En la mayoría de las ocasiones los proyectos de DS fracasan por malos enganches entre equipos y funciones, así que tener experiencia en estas situaciones puede ser muy valioso para tu equipo.&lt;/p>
+&lt;p>Entrevista. En la entrevista insiste una y otra vez en describir el puesto y pregunta mucho al candidato sobre cómo ve la posición y cómo encajaría según su formación y experiencia para ver si realmente entiende qué está buscando la empresa.&lt;/p>
+&lt;p>Por ejemplo puedes contar que el equipo está haciendo la transición de trabajar de modo artesano (cada persona lleva un pipeline completo de un proyecto) a un modo factoría en el que cada perfil se especializa en aquellas funciones en las que estamos más preparados. Si el equipo está atravesando un proceso así o estás en uno u otro lado los candidatos tienen que saberlo.&lt;/p>
+&lt;blockquote>
+&lt;p>Da contexto sobre cómo la empresa usa el dato&lt;/p>
+&lt;/blockquote>
+&lt;p>En la entrevista es importante hablar de cómo es la organización de la empresa y qué papel creemos que nuestro equipo juega en ella y el recorrido que tiene por delante. Es importante describir si el equipo está
+&lt;a href="https://mikkeldengsoe.substack.com/p/data-team-structure-embedded-or-centralised?" rel="noopener">centralizado o descentralizado&lt;/a>, comentar el grado de madurez de la empresa a la hora de tomar decisiones basadas en datos, el papel que juegan los científicos de datos en los procesos de desarrollo de producto o si el CDO tiene capacidad de influir en las decisiones del Consejo de Dirección.&lt;/p>
+&lt;blockquote>
+&lt;p>Esperamos que la candidata nos haga muchas preguntas.&lt;/p>
+&lt;/blockquote>
+&lt;p>Eso para nosotros es muy buena señal. Parte del trabajo de DS es ayudar a otros equipos a hacerse las preguntas correctas, así que es un buen indicador de cómo se va a desenvolver en la resolución de problemas poco definidos.&lt;/p>
+&lt;p>&lt;strong>Prueba técnica&lt;/strong> Diseñamos una prueba para cada posición. Si entre tus funciones principales no va a estar la modelización no tiene sentido que te pidamos hacer un modelo en la prueba. En algunos puestos preferimos ver cómo tratas unos datos (cómo manejas outliers y missings), flujo de trabajo, si sacas conclusiones en base a la evidencia o la intuición, si sigues un proceso formal de inferencia, si usas buenas prácticas de desarrollo de software…&lt;/p>
+&lt;p>Para la prueba técnica siempre he trabajado poniendo deadlines no estrictos, siendo flexibles en la fecha de entrega. Bastante es que los candidatos que están trabajando dediquen sus horas de tiempo libre a hacer una prueba como para ser muy rígido con los plazos.&lt;/p>
+&lt;p>&lt;strong>Selección&lt;/strong> Para afrontar la decisión de contratar, partimos de haber estructurado toda la información de los candidatos de la forma más eficiente posible y valorado cada uno de los aspectos que habíamos identificado como claves para el puesto. Para ellos es importante definir qué indicadores se van a valorar y tratar de guiar la puntuación de la manera más estándar posible.&lt;/p>
+&lt;p>Sobre la selección propiamente dicha: Habitualmente suele haber una convergencia de opiniones en los rankings de candidatos, pero aquí siempre hay una cuestión que me ronda: Se tiene que ir a consenso o se tiene que apostar por la persona con la que alguien del equipo realmente desea trabajar?&lt;/p>
+&lt;p>&lt;strong>Da feedback a los candidatos&lt;/strong>. Notifica a todos los candidatos la decisión sobre su candidatura. Además a aquellos que han avanzado hasta las entrevistas técnicas envíales feedback sobre cómo han realizado el proceso. Lo lógico sería que si vuelves a abrir posiciones en los meses siguientes tires de aquellas personas que han quedado top en el ranking pero no has contratado. Siempre y cuando sigan encajando en las necesidades que has identificado en los primeros pasos del proceso. El mundo del dato es muy pequeño, no quemes puentes innecesariamente.&lt;/p>
+&lt;p>Un último apunte sobre el proceso, involucra a otros miembros del equipo. Tanto en el perfilado explícito de lo que necesitamos como en el propio proceso de selección. Te servirá para ganar perspectiva, el equipo ganará en diversidad y a ell@s para ganar experiencia en algo que algún día será su responsabilidad.&lt;/p>
+&lt;h2 id="optimiza-la-búsqueda">Optimiza la búsqueda&lt;/h2>
+&lt;p>En el pasado siempre me ha funcionado bastante bien hacer una búsqueda segmentada a través del mailing que algunas organizaciones ponen a disposición de las empresas para anunciar sus posiciones:
+&lt;a href="https://www.spain-ai.com/" rel="noopener">Spain AI&lt;/a>,
+&lt;a href="http://r-es.org/quenes-somos/" rel="noopener">Comunidad de R Hispano&lt;/a> o
+&lt;a href="http://madrid.pyladies.com/" rel="noopener">Pyladies&lt;/a> son algunos ejemplos.&lt;/p>
+&lt;blockquote>
+&lt;p>Segmenta la búsqueda y usa tu red de contactos&lt;/p>
+&lt;/blockquote>
+&lt;p>Usa tu red de contactos. Tira mucho de amigos y excompañeros en cuyo criterio confias plenamente para obtener recomendaciones. Si buscamos un perfil muy junior puedes pedir recomendaciones a colegas profesores de escuelas de formación.&lt;/p>
+&lt;p>Una última nota. Que la gente quiera venir a trabajar a tu empresa pasa porque tengas buenas condiciones laborales, proyectos atractivos, acceso razonable a datos y espacio para crecer laboralmente. Para señalizar que tu equipo/departamento cumple estas condiciones funciona muy bien difundir tu trabajo de forma honrada en eventos y escribiendo posts en el blog corporativo.&lt;/p>
+&lt;p>El mercado de perfiles de datos está muy loco, así que espero que tanto si estás en un lado o en otro estas notas te sirvan.&lt;/p></description></item><item><title>Buscas tu primer empleo de Ciencia de Datos?</title><link>https://pelayoarbues.github.io/writing/Buscas-tu-primer-empleo-de-Ciencia-de-Datos/</link><pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/Buscas-tu-primer-empleo-de-Ciencia-de-Datos/</guid><description>&lt;p>Desde junio de 2020 cada semana trato de tener una conversación con personas desconocidas que me contactan para charlar conmigo sobre distintos temas relacionados con el mundo de los datos. La mayoría de las charlas son con perfiles junior que no tienen claro cómo empezar/formarse o que quieren empezar/hacer la transición a un puesto de Ciencia de datos.&lt;/p>
+&lt;p>Estas conversaciones me aportan mucho pero sobre todo me han ayudado a ser más sensible a la distinta velocidad a la que va el mercado de Data Scientists según la experiencia del candidato. Según testimonios sacados de estas conversaciones, y de otras mantenidas con gente de mi red, entre los años 2015 y 2019 un Data Scientist sin apenas experiencia lograba encontrar y aterrizar en posiciones abiertas sin mucha dificultad. A partir de ese año empiezo a observar que el proceso de entrar a un primer empleo comienza a ser algo más difícil. Esto se debe principalmente a la proliferación de formaciones en Data Science que han dado lugar a una bolsa grande de aspirantes que compiten de manera intensa por su primera posición.&lt;/p>
+&lt;p>Así, en 2022 nos encontramos en una situación en la que los candidatos noveles a posiciones de Data Scientist no encuentran empleo tan rápidamente como esperaban. Desde las escuelas de formación se bombardea a los alumnos (clientes) con cifras sobre la falta de perfiles de datos y los altos sueldos que se ganan en el oficio. Esto es cierto, pero sólo en parte, ya que esa falta de perfiles actualmente se refiere a perfiles con cierta experiencia (sobre todo en cuanto a poner soluciones en producción y con impacto en el negocio) o perfiles muy especializados (expertos en NLP, bioestadística o Computer Vision)&lt;/p>
+&lt;blockquote>
+&lt;p>No eres tú, es el mercado.&lt;/p>
+&lt;/blockquote>
+&lt;p>En muchas de esas conversaciones hablamos de esa frustración que provoca este desencuentro entre las expectativas del candidato y su experiencia en el proceso de búsqueda de empleo. Una de los primeros mensajes que envío es el mismo que he desarrollado en los parrafos anteriores: no eres tú, es el mercado. Creo que es importante que la persona entienda que pese a los cantos de sirena de abundancia de empleo y sueldo para estos perfiles, le toca competir con muchos otros en su misma situación y que no es tanto una cuestión de si valgo/no valgo para este trabajo.&lt;/p>
+&lt;p>Y a partir de entender esta realidad el siguiente paso que aconsejo en esa situación es construir una estrategia. A lo que me refiero es que esa búsqueda de primer empleo puedes orientarla de determinadas maneras. Una estrategia puede ser aplicar a todo lo que lleve el título relacionado con Data Science. Una estrategia alternativa puede ser optimizar tu búsqueda aplicando únicamente a aquello que creas que mejor se ajusta a tu perfil y expectativas.&lt;/p>
+&lt;blockquote>
+&lt;p>Aplicar a todos los puestos de Data Scientist puede no ser tu estrategia óptima&lt;/p>
+&lt;/blockquote>
+&lt;p>La mayoría de las personas con las que hablo siguen la estrategia de disparar a todo lo que se mueve. No tiene porque ser mala estrategia a corto plazo, pero si no te funciona rápido puedes acabar sepultado en pruebas técnicas y procesos eternos con todo el estrés que conlleva. Creo que es importante que los candidatos se enfrenten al proceso de búsqueda con una estrategia explícita y de esa manera poder evaluarla y ajustarla a las valoraciones que reciban. Una estrategia tipo que suelo plantear, a modo de ejemplo es la siguiente:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Análisis de fortalezas/debilidades&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;p>El primer paso es muy evidente pero no todo el mundo lo hace. Quizás lo más importante sea dedicar cierta reflexión de las condiciones iniciales de las que se parte. Si su formación/experiencia es Ciencias Sociales (hello my fellow economists) posiblemente sea razonablemente fuerte en análisis de datos, pensamiento analítico, modelización, estadística y causalidad. Para aquellos candidatos que vienen de carreras más técnicas/posiciones de ingeniería es muy posible que su fuerte sea conocimiento de algoritmos, computación, eficiencia de código, buenas prácticas en desarrollo de software y conocimientos de tecnología. Simplificando mucho entre estos dos tipos de perfiles podríamos asumir en términos generales que las fortalezas de uno son las debilidades del otro, aunque lo cierto es que cada persona tiene que hacer este análisis de manera cruda sobre su propio perfil. Y cuando digo cruda me refiero a que si has dado una clase de SQL, una introducción a la estadística o un modulo de Deep Learning no te puedes considerar experto en esas herramientas.&lt;/p>
+&lt;ol start="2">
+&lt;li>&lt;strong>Búsqueda de posiciones que mejor se ajusten a tus fortalezas/debilidades&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;p>Una vez tengas claras las capacidades/carencias que tienes, toca identificar las oportunidades laborales. Aquí lo primero a tener en cuenta es que Data Science es un
+&lt;a href="https://scientistemily.substack.com/p/save-data-science?s=w" rel="noopener">término paraguas&lt;/a>. Esto significa que la gente cuando dice Data Science se refiere a a multitud de posiciones y además su significado no es estándar. Dentro de Data Science puedes encontrar puestos cercanos a Data Engineer, Data Analyst, ML Engineer, DataOps y cada empresa tiene su propia definición. Una manera de maximizar tu probabilidad de encontrar un primer puesto es orientarte hacia aquellos que más se ajustan a tus habilidades. ¿Suena razonable, no? La mala noticia es que, además de no diferenciar en el nombre la posición, las descripciones de las ofertas en Data Science parecen haber sido fotocopiadas unas de otras. Aunque haya poca señal en la descripción, el aspirante siempre puede minar algo de información y lo mismo ocurre durante las primeras etapas del proceso. En esas primeras entrevistas con RRHH o la persona responsable del proceso, hay que ser muy proactivo en tratar de discernir qué tipo de funciones está la empresa tratando de cubrir. En esta búsqueda de posiciones hay que considerar que, si nuestro objetivo es acabar alcanzando una posición de Data Scientist, podemos llegar a ese puesto pasando primero por una posición cercana. Así suelo recomendar a la gente con formación y experiencia menos técnica que intenten primero encontrar posiciones de Data Analysts o posiciones tituladas de Data Science pero con más contenido de Analítica de datos. Como Data Analyst es muy probable que estes mucho menos expuesto a problemas ingenieriles pero vas a estar mucho más pegado al negocio lo cual puede ser una experiencia fundamental en él exito de tu carrera en el mundo de los datos. Los perfiles más ingenieriles pueden comenzar como Data Engineers y esto les va a permitir ganar mucha autonomía en la preparación del dato para futuros proyectos de Ciencia de Datos. Lo que quiero decir es que dar un rodeo puede ser una buena manera de alcanzar el objetivo y que además puede suponer una experiencia muy enriquecedora para los candidatos, así que es una opción a tener en cuenta en la estrategia. Además una vez que estás dentro es posible que surjan oportunidades para que participes en proyectos de los que te apetece hacer.&lt;/p>
+&lt;ol start="3">
+&lt;li>&lt;strong>Exhibición de tus habilidades en el proceso de selección y autocrítica&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;p>Por último, una vez ya en el proceso de selección hay que saber demostrar tus fortalezas. Así ante una prueba o entrevista técnica los perfiles más analíticos deberían demostrar sus habilidades en pensamiento crítico, visualización de datos y cómo hacer útil el análisis para el negocio. Para ser más concreto, de este tipo de perfiles me espero que trabajen muy bien el dato que se les pase haga un EDA exhaustivo, identifiquen problemas en la calidad del dato y hagan una buena discusión acerca de los valores faltantes y atípicos. Por su parte los perfiles más técnicos deberán demostrar su capacidad para desarrollar librerías que puedan ser reutilizables por otros DS o en otros proyectos, aplicando buenas prácticas en el desarrollo del software y teniendo en cuenta temas como la complejidad computacional y la eficiencia del código.&lt;/p>
+&lt;p>Con este ejemplo de estrategia lo único que pretendo es indicar a los candidatos que es importante que
+&lt;a href="https://elpeoncoronado.com/problem-solving-estrategico/" rel="noopener">analicen sus condiciones, las soluciones que han intentado y no han funcionado y que replanteen sus objetivos&lt;/a>. Vamos, nada que no esté ya inventado. A lo largo de mi carrera he aplicado estrategias diferentes. Así cuando hice la transición del mundo académico a la industria mis primeros intentos consistían en tirar a todo lo que se movía. Mi estrategia buscaba aprender cómo eran los procesos de selección y qué solían buscar las empresas. En el camino coseché sonoros rechazos en empresas en las que me hubiera encantado trabajar, pero creo que en todos los procesos aprendí algo que me ayudó a mejorar en siguientes oportunidades. Según voy desenmascarando mis carencias en el propio puesto de trabajo busco nuevas posiciones que me permiten crecer en aquellos aspectos en los que tengo maś recorrido.&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Goals are for Losers&amp;rdquo; - Scott Adams.&lt;/p>
+&lt;/blockquote>
+&lt;p>Al final, como dice
+&lt;a href="https://www.scottadamssays.com/goals-vs-systems/" rel="noopener">Scott Adams&lt;/a> es mejor tener sistemas a ponerse objetivos, y mi sistema consiste en exponerme a trabajos y funciones que no se hacer
+&lt;a href="https://www.samuelthomasdavies.com/the-power-of-yet/" rel="noopener">todavía&lt;/a> y que me resultan estimulantes. Si todavía no has logrado conseguir tu primer empleo de DS espero que estas reflexiones te sirvan para no desesperar y para darle una pensada a tu proceso de búsqueda.&lt;/p></description></item><item><title>Agile for Data Science</title><link>https://pelayoarbues.github.io/writing/Agile-for-Data-Science/</link><pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate><guid>https://pelayoarbues.github.io/writing/Agile-for-Data-Science/</guid><description>&lt;p>My experience working with agile methodologies in Data Science projects is quite bitter. It did not work for small companies. Neither did it for the larger ones starting their journey in advanced analytics. In both environments, Data Scientists usually work on more than one project at a time (They can even be considered
+&lt;a href="https://publish.obsidian.md/dr-mario/pages/%F0%9F%97%A3%EF%B8%8F&amp;#43;Down&amp;#43;with&amp;#43;Data&amp;#43;Science" rel="noopener">floor sweepers&lt;/a>, but that is another story). In that situation, if a project running in agile has no fully dedicated team the whole system crumbles, but that is not specific to Data Science.&lt;/p>
+&lt;p>
+&lt;img src="https://pelayoarbues.github.io//writing/attachments/pelayo_workers_in_front_of_a_wall_full_of_post-it_in_an_office.png" width="auto" alt="" />&lt;/p>
+&lt;p>In this writing, I follow this great
+&lt;a href="https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/" rel="noopener">post by Eugene Yan&lt;/a> to keep the discussion going.&lt;/p>
+&lt;p>Data Science is not engineering, although lots can be learned from
+&lt;a href="https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/" rel="noopener">engineering good practices&lt;/a>. There are a few characteristics of Data Science that makes it quite difficult to run under agile:&lt;/p>
+&lt;ul>
+&lt;li>Not well-defined problems: Usually Product Owners, Product Managers (PMs) come with ill-defined problems. Similar objectives can be achieved with different data and very different techniques. It might be something really specific like I need to query this data, but the ultimate objective of that query is something quite different, and it is not clear even in PMs&amp;rsquo; brains. It is usually not even clear what data to use as a similar concept can be approached from different data perspectives. Retrieving the data and running an adequacy assessment might be time-consuming and also an iterative process. In these preliminary steps, you have to reach a problem definition.&lt;/li>
+&lt;li>The science: unknown paths to be taken, difficulty to estimate the time to be spent in the different steps from one project vs another. Only a few times does the data speak by itself and you do not need to really deep dive into the details. Usually, you need time to grasp the quality and fit of the data to solve the question. The question, goal, and paths taken usually evolve as the analysis is running, so you need to change the scope. Although you have a well-defined DS workflow and process, the amount of effort at each step may vary between projects.&lt;/li>
+&lt;li>Research question: Related to the science it is the idea that Agile ceremonies push you to make a bet and put your efforts to solve a goal. Agile is supposed to be a methodology that allows you to pivot from one particular topic to other, so you should be able to move forward easily. The truth is that maybe the data indicates that the current goal is unfeasible and pushes you to a very different scenario. In my experience Agile lacks of general perspective and as Fabien Girardin says in this tweet, it does not help you asking if you are asking the wrong question.&lt;/li>
+&lt;/ul>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">I can see why Agile works for many. It does not for my work on data. My problem is that Agile so neatly packages things that it&amp;#39;s easy to lose sight of the bigger questions. It gives individuals the autonomy to decide on their work, but not to challenge if this is the wrong work.&lt;/p>&amp;mdash; Fabien Girardin (@fabiengirardin) &lt;a href="https://twitter.com/fabiengirardin/status/1526806791157317632?ref_src=twsrc%5Etfw">May 18, 2022&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;ul>
+&lt;li>Deliverables: Data Science is not engineering. For a PM it may be natural to think that if they can ask a software engineer for a new feature, she can do the same to a Data Scientist. Sometimes DS deliverables are difficult to be defined in advance during sprint planning. A successful DS deliverable might be an analysis or discovery that works as input for the next step in the DS workflow. It is quite likely that this output does not fit the definition of something usable for the end-user and that may be reported upwards. Sometimes a DS deliverable might be something as discouraging as data quality issues.&lt;/li>
+&lt;li>It hurdles DS innovation. Data Science has a really large potential of transforming companies. DS can optimize the company&amp;rsquo;s performance by tweaking processes. These sorts of tasks are important but lead to incremental improvements, not exponential changes. Innovation may happen when DS follows data trails without a clear purpose.&lt;/li>
+&lt;/ul>
+&lt;p>What I like about agile&lt;/p>
+&lt;ul>
+&lt;li>Clear priorities with deliverables: A desirable skill of Data Scientists is curiosity. However, DS should know when to tame their curiosity and when they have to chase it even if it leads them to rabbit holes. Sprint planning and execution create an environment that ensures the DS is focused on delivering specific outcomes.&lt;/li>
+&lt;li>Short deadlines: A short deadline keeps your feet on the ground and pushes you to use the most simple techniques. Moreover, having a time budget helps you define feasible solutions.&lt;/li>
+&lt;li>Deliverables focused on the ultimate objective. Reminds me of a problem-solving technique of the
+&lt;a href="https://giorgionardone.com/en/strategic-logic-and-problem-solving/" rel="noopener">climber&amp;rsquo;s technique&lt;/a>. This technique allows you to untangle a complex problem and set micro objectives that you can go solving.&lt;/li>
+&lt;/ul>
+&lt;p>Managing Data Science projects is difficult because of the complicated nature of data challenges, the innate curiosity of Data Scientists, and the usual lack of a mature data culture in the company. Experiment and be flexible and try to accommodate the method to the project and the people involved. Don&amp;rsquo;t fall in love with a methodology, tweak it to make it work for you.&lt;/p>
+&lt;p>Andrew Ng take on the differences between ML systems and software systems in its newsletter The batch:
+&amp;ldquo;We don’t know how accurate the system will be in advance.
+We might need a costly initial data collection phase.
+After getting the initial dataset, we might come back and ask for more data or better data. Moreover, we might ask for this over and over.
+After we’ve built a prototype that runs accurately in the lab, it might not run as well in production because of data drift or concept drift.
+Even after we’ve built an accurate production system, its performance might get worse over time for no obvious reason. We might need help monitoring the system and, if its performance degrades over time, invest further to fix it.
+A system might exhibit biases that are hard to detect.
+It might be hard to figure out why the system gave a particular output. We didn’t explicitly program it to do that! &amp;quot;&amp;rdquo;&lt;/p></description></item></channel></rss>
