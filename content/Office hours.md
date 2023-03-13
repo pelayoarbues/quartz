@@ -4,8 +4,6 @@ title:  "Office hours"
 Date: 2023-02-25
 ---
 
-*tl;dr - if you want to talk to me you can mail me at gonzalezpelayo[at]gmail.*
-
 In June 2020, I began dedicating an hour of my week to speaking with strangers. I enjoy meeting new people and missed attending events, and I believed that I could use my experience to help others. Throughout my life, I've been fortunate enough to receive guidance and support from [people who mentored me](notes/202302251202%20-%20Mentors%20and%20me.md) without expecting anything in return. I wanted to give back to society by offering the same kindness.
 
 Initially, I wasn't certain if anyone would be interested in speaking with me. However, to my surprise, within a few days, I received over 20 requests from people who wished to speak with me. I had to create a process to manage the requests.
@@ -31,7 +29,6 @@ If you would like to meet, you can check the calendar below to see if there are 
 
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/pelayoarbues/mentoring" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/pelayoarbues/mentoring?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
-
