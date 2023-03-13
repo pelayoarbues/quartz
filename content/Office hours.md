@@ -25,7 +25,7 @@ Things I do not offer:
 -   Recommending you for a role without knowing you.
 
 
-If you would like to meet, you can check the calendar below to see if there are any dates available. If you cannot find a free slot, you can also try to reach me and ask me anything via the social networking message at the bottom of this page. 
+If you would like to meet, you can check the calendar below to see if there are any dates available. If you cannot find a free slot, you can also try to reach me and ask me anything via the social networks links at the bottom of this page. 
 
 
 <!-- Calendly inline widget begin -->
