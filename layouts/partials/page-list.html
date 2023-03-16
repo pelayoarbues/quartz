@@ -10,8 +10,7 @@
             </div>
             <div class="spacer"></div>
             <ul class="tags">
-                {{ $tags := .GetTerms "tags" }}
-                {{ range $tags | reverse }}
+                {{ range (.GetTerms "tags") }}
                 <li><a href="{{ .Permalink }}">{{ .LinkTitle | title}}</a></li>
                 {{ end }}
             </ul>
