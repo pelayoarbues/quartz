@@ -4,7 +4,9 @@ tags:
 - MOC
 ---
 
-I worked as an applied economist in the Academia since 2007 until 2014. 
+I worked as an applied economist in the Academia since 2007 until 2014. At the moment I am trying to publish new research in different real estate topics.
+
+[Using machine learning to identify spatial market segments. A reproducible study of major Spanish markets](research/Using%20machine%20learning%20to%20identify%20spatial%20market%20segments.%20A%20reproducible%20study%20of%20major%20Spanish%20markets.md)
 
 [The spatial productivity of transportation infrastructure](research/The%20spatial%20productivity%20of%20transportation%20infrastructure.md)
 
