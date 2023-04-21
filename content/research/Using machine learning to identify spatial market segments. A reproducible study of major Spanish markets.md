@@ -1,5 +1,5 @@
 ---
-title: "T# Using machine learning to identify spatial market segments. A reproducible study of major Spanish markets"
+title: "Using machine learning to identify spatial market segments. A reproducible study of major Spanish markets"
 Date: 2023-04-13
 tags:
 - writing
