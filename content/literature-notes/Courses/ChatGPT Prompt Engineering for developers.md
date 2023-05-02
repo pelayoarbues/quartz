@@ -12,9 +12,8 @@ A very introductory course. It provides two key guidelines that are quite intere
 ```
 
 ***
-**Author**: Deeplearning.ai
-**Source**: [DLAI - Learning Platform Prototype](https://learn.deeplearning.ai/chatgpt-prompt-eng/)
-**Tags**:
+- **Author**: Deeplearning.ai
+- **Source**: [DLAI - Learning Platform Prototype](https://learn.deeplearning.ai/chatgpt-prompt-eng/)
 
 ***
 # My notes
