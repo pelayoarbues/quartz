@@ -3,6 +3,7 @@ title: "Public Appearances"
 ---
 
 ## 2023
+- [Inteligencia Artificial, smart cities y uso de datos](appearances/2023/luce-gijon/luce-gijon.md)
 - [De Economistas a Data Scientists](appearances/2023/de-economistas-a-ds/de-economistas-a-ds.md)
 - [El impacto de la IA](appearances/2023/mesa-redonda-ai/mesa-redonda-ai.md)
 - [Data on the rocks](appearances/2023/data-on-the-rocks/Data%20on%20the%20rocks.md)
