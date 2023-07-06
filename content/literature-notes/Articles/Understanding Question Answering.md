@@ -26,3 +26,6 @@ tags:
 ## New highlights added March 10, 2023 at 11:55 PM
 - The reader model then takes in the most similar contexts and the question to provide a span selection of the answer. ([View Highlight](https://read.readwise.io/read/01gv6rnk0zmja2htbsgg8zm7v7))
 - We use this system to answer more abstract questions that don’t require exact answers. The system returns answers that are more suggestions or opinions, not direct. ([View Highlight](https://read.readwise.io/read/01gv6rn3ccfbj2hwa98y7gzjmk))
+## New highlights added July 3, 2023 at 11:21 AM
+- For open-domain QA, the models are not restricted to a specific domain. The texts are retrieved from sources such as books, the internet, Wikipedia, tables, graphs, knowledge bases, etc. ([View Highlight](https://read.readwise.io/read/01h4ddfv24a1se54c9b1v73w9t))
+- In closed-book QA, the model responds to questions without being explicitly given a context because it has learned some information encoded into its parameters during training. ([View Highlight](https://read.readwise.io/read/01h4ddgb4z50p27g5xapaehv9c))

@@ -22,3 +22,6 @@ tags:
 - We can decompose the process of finding answers to given questions into two stages,
   1. Find the related context in an external repository of knowledge;
   2. Process the retrieved context to *extract* an answer. ([View Highlight](https://read.readwise.io/read/01gyzfkdhf556f2sbv3kk1n13b))
+## New highlights added July 3, 2023 at 11:21 AM
+- The “open-domain” part refers to the lack of the relevant context for any arbitrarily asked factual question. In the above case, the model only takes as the input the question but no article about “why Einstein didn’t win a Nobel Prize for the theory of relativity” is provided, where the term “the law of the photoelectric effect” is likely mentioned. In the case when both the question and the context are provided, the task is known as **Reading comprehension (RC)**. ([View Highlight](https://read.readwise.io/read/01h4de6x41kj2hkbsbnms0zjby))
+- An ODQA model may work with or without *access to an external source of knowledge* (e.g. Wikipedia) and these two conditions are referred to as *open-book* or *closed-book* question answering, respectively. ([View Highlight](https://read.readwise.io/read/01h4de77jpe3r4yhbt1781d77z))
