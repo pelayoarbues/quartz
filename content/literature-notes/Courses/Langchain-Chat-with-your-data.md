@@ -89,7 +89,9 @@ A text splitting often uses sentences or other delimiters to keep related text t
 
 # Vectorstore and embeddings
 
+## Failure modes
 
+This seems great, and basic similarity search will get you 80% of the way there very easily. But there are some failure modes that can creep up. Notice that we're getting duplicate chunks (because of the duplicate `MachineLearning-Lecture01.pdf` in the index). Semantic search fetches all similar documents, but does not enforce diversity.
 
 --- 
 
