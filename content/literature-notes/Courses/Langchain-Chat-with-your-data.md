@@ -13,8 +13,8 @@ The course covers how to use langchain to chat with your data.
 ```
 
 ***
-**Author**: Andrew Ng
-**Source**: [DLAI - Learning Platform Beta](https://learn.deeplearning.ai/langchain-chat-with-your-data)
+- **Author**: Andrew Ng, Harrison Chase
+- **Source**: [DLAI - Learning Platform Beta](https://learn.deeplearning.ai/langchain-chat-with-your-data)
 ***
 
 This course is not focused on Langchain functioning, for that you can check the course titled LangChain for LLM Application Development
@@ -128,6 +128,10 @@ You can concatenated the retrieved documents with stuff or if the retrieved docu
 
 ![](literature-notes/Courses/attachments/Pasted%20image%2020230713172549.png)
 
+
+# Chat
+
+Allows user to ask follow up questions and the chat will be able to add that information to context. You can add memory including chat history as a list of messages.
 
 --- 
 
