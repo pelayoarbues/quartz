@@ -12,7 +12,7 @@ tags:
 ## Metadata
 - Author: [[Praveen Seshadri]]
 - Full Title: The Maze Is in the Mouse
-- Category: #articles
+- Document Note: The author reflects on how Google, once a great company, has lost its way due to lack of self-awareness and an organizational lack of desire to change anything. There is a collective delusion among Googlers that the company is exceptional and it is suggested that the company should lead with a commitment to their mission, winnow layers of middle management, treat employees as individuals, encourage teams to make and keep promises to customers, and strive to make the world a better place.
 - URL: https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a
 
 ## Highlights
@@ -24,7 +24,6 @@ tags:
 - although every individual is well intentioned, the system has its own dynamic. And in this system, nothing is worth fighting for. ([View Highlight](https://read.readwise.io/read/01gse17229xwg1nqgrbdmaw9t9))
 - Within Google, there is a collective delusion that the company is exceptional. And as is the case in all such delusions, the deluded ones are just mortals standing on the shoulders of the truly exceptional people who went before them and created an environment of wild success. Eventually, the exceptional environment starts to fade, but the lingering delusion has abolished humility among the mere mortals who remain. ([View Highlight](https://read.readwise.io/read/01gse18362sm85khy9kxmt81pc))
 - The problem and negative impact lies in the manager ranks and intensifies at the director level and higher. Hiring interviews at this level are entirely subjective and the quality of the interviewers matters. ([View Highlight](https://read.readwise.io/read/01gse1dcj53r8x4psv3m42ehdr))
-## New highlights added February 16, 2023 at 11:36 PM
 - The flip side of hiring is talent management and retention. From what I saw at Google Cloud, they could do a lot better identifying and nurturing talent, moving talent to the best fit roles, and overall optimizing the people already in the company. Instead, the pattern seems to be wait till someone is unhappy and leaves, then just open a req to replace them. Minimal effort to steer people to alternative roles and maximize talent. Such a waste. ([View Highlight](https://read.readwise.io/read/01gse2hrg9ybw2ahmj0eser5ns))
 - Google can no longer seek success by avoiding risk. The path forward has to start with culture change and that has to start at the very top. ([View Highlight](https://read.readwise.io/read/01gse2my4h4sbpbdwnd3486b50))
 - Define ambitious causes that you will collectively fight for. ([View Highlight](https://read.readwise.io/read/01gse2ptk1578m2r00np75xkg1))

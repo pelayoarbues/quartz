@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Jason Fried (jason@hey.com)]]
 - Full Title: On Hiring, Rehiring, and One Question to Answer Them All
-- Category: #articles
 - URL: https://world.hey.com/jason/on-hiring-rehiring-and-one-question-to-answer-them-all-5db97bcb
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[newrelic.com]]
 - Full Title: Apdex: Measure user satisfaction
-- Category: #articles
 - URL: https://docs.newrelic.com/docs/apm/new-relic-apm/apdex/apdex-measure-user-satisfaction/
 
 ## Highlights

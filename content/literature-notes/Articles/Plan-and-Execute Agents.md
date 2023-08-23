@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[LangChain]]
 - Full Title: Plan-and-Execute Agents
-- Category: #articles
 - URL: https://blog.langchain.dev/plan-and-execute-agents/
 
 ## Highlights

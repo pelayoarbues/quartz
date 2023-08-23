@@ -7,12 +7,11 @@ tags:
 ---
 # Data Alone Is Not Enough
 
-![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff44753bd-811b-4693-bdd2-73f9fb0c3c0e_960x540.jpeg)
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpu_HHprGKE.jpeg)
 
 ## Metadata
 - Author: [[Emilie Schario]]
 - Full Title: Data Alone Is Not Enough
-- Category: #articles
 - URL: https://helloturbine.substack.com/p/data-alone-is-not-enough
 
 ## Highlights

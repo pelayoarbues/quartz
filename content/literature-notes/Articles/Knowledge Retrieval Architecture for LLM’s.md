@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Matt Boegner]]
 - Full Title: Knowledge Retrieval Architecture for LLM’s
-- Category: #articles
 - URL: https://mattboegner.com/knowledge-retrieval-architecture-for-llms/
 
 ## Highlights

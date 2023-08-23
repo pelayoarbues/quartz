@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[readwise.io]]
 - Full Title: Direct Preference Optimization: Your language model is secretly a reward model
-- Category: #articles
 - URL: https://readwise.io/reader/document_raw_content/58089842
 
 ## Highlights

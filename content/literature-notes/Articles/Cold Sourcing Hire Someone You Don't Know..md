@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[lethain.com]]
 - Full Title: Cold Sourcing: Hire Someone You Don't Know.
-- Category: #articles
 - URL: https://lethain.com/cold-sourcing/
 
 ## Highlights

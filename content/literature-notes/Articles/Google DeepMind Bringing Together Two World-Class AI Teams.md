@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Sundar Pichai]]
 - Full Title: Google DeepMind: Bringing Together Two World-Class AI Teams
-- Category: #articles
 - URL: https://blog.google/technology/ai/april-ai-update/
 
 ## Highlights

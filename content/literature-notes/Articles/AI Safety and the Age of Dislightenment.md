@@ -12,7 +12,7 @@ tags:
 ## Metadata
 - Author: [[Jeremy Howard]]
 - Full Title: AI Safety and the Age of Dislightenment
-- Category: #articles
+- Document Note: The article argues that proposals to regulate AI through model licensing and surveillance are likely to be ineffective and may concentrate power in unsustainable ways. Instead, the author suggests an approach that advocates for openness, humility, and broad consultation to develop better responses that align with principles and values. This could include supporting open-source model development to ensure that the most powerful AI models are available to everyone and that society can work together to understand and counter potential harms. The article concludes by warning that restricting access to open-source models could endanger public knowledge about the function of AI.
 - URL: https://www.fast.ai/posts/2023-11-07-dislightenment.html
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Sahil Bloom's Curiosity Chronicle]]
 - Full Title: How to Become a Time Billionaire
-- Category: #articles
 
 ## Highlights
 - To me, being a “Time Billionaire” isn’t necessarily about having the actual time, but about the awareness of the precious nature of the time you do have. It is about embracing the shortness of life and finding joy in ordinary daily moments of beauty. ([View Highlight](https://read.readwise.io/read/01gyzf63pf6989axvxrfeq1agp))

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[sawyerh.com]]
 - Full Title: The Knowledge-Creating Company
-- Category: #articles
 - URL: https://highlights.sawyerh.com/volumes/HLY2cJsnGDkTHLqAQiVV
 
 ## Highlights
@@ -26,5 +25,4 @@ tags:
 - Making personal knowledge available to others is the central activity of the knowledge-creating company. It takes place continuously and at all levels of the organization. ([View Highlight](https://read.readwise.io/read/01h525m90m6j2b1k0qy1fa9247))
 - Teams play a central role in the knowledge-creating company because they provide a shared context where individuals can interact with each other and engage in the constant dialogue on which effective reflection depends. Team members create new points of view through dialogue and discussion. They pool their information and examine it from various angles. ([View Highlight](https://read.readwise.io/read/01h525pa5yswjma4e0vtdnm5cz))
 - When people’s rhythms are out of sync, quarrels occur and it’s hard to bring people together,” acknowledges a deputy manager for advanced technology development at Canon. “Yet if a group’s rhythms are completely in unison from the beginning, it’s also difficult to achieve good results.” ([View Highlight](https://read.readwise.io/read/01h525nv48654yrz6g16zr151r))
-## New highlights added July 11, 2023 at 12:53 PM
 - The more holistic approach to knowledge at many Japanese companies is also founded on another fundamental insight. A company is not a machine but a living organism. Much like an individual, it can have a collective sense of identity and fundamental purpose. This is the organizational equivalent of self-knowledge—a shared understanding of what the company stands for, where it is going, what kind of world it wants to live in, and, most important, how to make that world a reality ([View Highlight](https://read.readwise.io/read/01h525pz33fretzr684gff2hbb))

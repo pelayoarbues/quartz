@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Matt Locke]]
 - Full Title: The Internet of Maps and Oracles
-- Category: #articles
 - Document Note: The text discusses the history of the internet, the development of the World Wide Web, and the current debate surrounding Large Language Models (LLMs) and Artificial Intelligence (AI). It argues that LLMs and AI should not be seen as oracles, but rather as a new kind of map. The map, or knowledge graph, provides connections between objects and understands the meaning of these connections. It is suggested that LLMs should be seen as maps of places that are too complex to comprehend, and that they should be used to ask new questions, not to replace human thought. Finally, it is argued that by understanding the boundaries of these new tools, we can use them to produce and share knowledge.
 - URL: https://open.substack.com/pub/howtomeasureghosts/p/the-internet-of-maps-and-oracles?utm_source=share&utm_medium=android
 

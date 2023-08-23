@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Reza Shabani]]
 - Full Title: How to Train Your Own Large Language Models
-- Category: #articles
 - URL: https://blog.replit.com/llm-training
 
 ## Highlights
@@ -21,7 +20,6 @@ tags:
 - Training a custom model allows us to tailor it to our specific needs and requirements, including platform-specific capabilities, terminology, and context that will not be well-covered in general-purpose models like GPT-4 or even code-specific models like Codex. F ([View Highlight](https://read.readwise.io/read/01gyfgttx3rw8xbatefcsyhepj))
 - While we'll always use the right model based on the task at hand, we believe there are benefits to being less dependent on only a handful of AI providers ([View Highlight](https://read.readwise.io/read/01gyfgv103wft4b50hazyg19jt))
 - Although costs will continue to go down, LLMs are still prohibitively expensive for use amongst the global developer community. ([View Highlight](https://read.readwise.io/read/01gyfgvaey391bvpwvxkpe01gm))
-## New highlights added April 21, 2023 at 12:16 PM
 - he Stack is made available by the [BigCode](https://www.bigcode-project.org/) project. Details of the dataset construction are available in [Kocetkov et al. (2022)](https://arxiv.org/abs/2211.15533). Following de-duplication, version 1.2 of the dataset contains about 2.7 TB of permissively licensed source code written in over 350 programming languages. ([View Highlight](https://read.readwise.io/read/01gyhkpaafpwjacc3bqfg8yrpq))
 - The Transformers library does a great job of abstracting away many of the challenges associated with model training, including working with data at scale. ([View Highlight](https://read.readwise.io/read/01gyhkpp5z4w3vpcf78yznzre4))
 - When it comes time for more advanced data processing, we use [Databricks](https://www.databricks.com/) to build out our pipelines. T ([View Highlight](https://read.readwise.io/read/01gyhkpw01r3mqbq5ymyw6gpyf))

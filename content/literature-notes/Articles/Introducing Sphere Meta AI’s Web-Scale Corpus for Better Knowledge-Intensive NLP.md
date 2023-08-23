@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[facebook.com]]
 - Full Title: Introducing Sphere: Meta AI’s Web-Scale Corpus for Better Knowledge-Intensive NLP
-- Category: #articles
 - URL: https://ai.facebook.com/blog/introducing-sphere-meta-ais-web-scale-corpus-for-better-knowledge-intensive-nlp/
 
 ## Highlights

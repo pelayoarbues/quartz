@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[eugeneyan]]
 - Full Title: How Prototyping Can Help You to Get Buy-In
-- Category: #articles
 - URL: https://eugeneyan.com/writing/prototyping-to-get-buy-in/
 
 ## Highlights

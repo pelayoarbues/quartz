@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[SeattleDataGuy]]
 - Full Title: Becoming a Data Engineering Force Multiplier
-- Category: #articles
 - URL: https://seattledataguy.substack.com/p/becoming-a-data-engineering-force
 
 ## Highlights

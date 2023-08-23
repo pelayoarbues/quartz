@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Vin Vashishta]]
 - Full Title: Data Engineering Is Evolving, but Most Data Engineers Aren’t
-- Category: #articles
 - URL: https://vinvashishta.substack.com/p/data-engineering-is-evolving-but
 
 ## Highlights

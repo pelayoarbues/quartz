@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Pinecone]]
 - Full Title: Getting Started With Hybrid Search
-- Category: #articles
 - URL: https://www.pinecone.io/learn/hybrid-search-intro/
 
 ## Highlights

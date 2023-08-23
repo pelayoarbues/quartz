@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Irrational Exuberance]]
 - Full Title: Building Personal and Organizational Prestige
-- Category: #articles
 - URL: https://lethain.com/building-prestige/
 
 ## Highlights

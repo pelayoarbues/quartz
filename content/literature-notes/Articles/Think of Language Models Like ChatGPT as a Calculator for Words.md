@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Simon Willison's Weblog]]
 - Full Title: Think of Language Models Like ChatGPT as a "Calculator for Words"
-- Category: #articles
 - URL: http://simonwillison.net/2023/Apr/2/calculator-for-words/#atom-everything
 
 ## Highlights

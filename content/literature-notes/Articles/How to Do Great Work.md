@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Paul Graham]]
 - Full Title: How to Do Great Work
-- Category: #articles
 - URL: http://paulgraham.com/greatwork.html
 
 ## Highlights
@@ -66,7 +65,6 @@ tags:
   You have to be working hard in the normal way to benefit from this phenomenon, though. You can't just walk around daydreaming. The daydreaming has to be interleaved with deliberate work that feeds it questions. ([View Highlight](https://read.readwise.io/read/01h4bawny3j54k0f65ttw14xqh))
 - When you let your mind wander, it wanders to whatever you care about most at that moment. So avoid the kind of distraction that pushes your work out of the top spot, or you'll waste this valuable type of thinking on the distraction instead. ([View Highlight](https://read.readwise.io/read/01h4baxs2bxvntp39dw9f1mrw5))
 - Consciously cultivate your taste in the work done in your field. Until you know which is the best and what makes it so, you don't know what you're aiming for. ([View Highlight](https://read.readwise.io/read/01h4bay0gg2tsxfa365bw63w08))
-## New highlights added July 3, 2023 at 12:21 AM
 - if you don't try to be the best, you won't even be good ([View Highlight](https://read.readwise.io/read/01h4c6bmvaw86g7ckzrkrd4s0g))
 - It could be because ambition is a phenomenon where almost all the error is in one direction — where almost all the shells that miss the target miss by falling short. Or it could be because ambition to be the best is a qualitatively different thing from ambition to be good. Or maybe being good is simply too vague a standard. Probably all three are true ([View Highlight](https://read.readwise.io/read/01h4c6cbz26hbmatr094pe56af))
 - Though it might seem like you'd be taking on a heavy burden by trying to be the best, in practice you often end up net ahead. It's exciting, and also strangely liberating. It simplifies things. In some ways it's easier to try to be the best than to try merely to be good. ([View Highlight](https://read.readwise.io/read/01h4c6cv2ayh83h44z249d3wmn))
@@ -127,7 +125,6 @@ tags:
 - Much of the nonsense left in your head is left there by schools. We're so used to schools that we unconsciously treat going to school as identical with learning, but in fact schools have all sorts of strange qualities that warp our ideas about learning and thinking. ([View Highlight](https://read.readwise.io/read/01h4c9gstq2zq77ezeenefqqc0))
 - The sooner you overcome this passivity, the better. If you're still in school, try thinking of your education as your project, and your teachers as working for you rather than vice versa. That may seem a stretch, but it's not merely some weird thought experiment. It's the truth, economically, and in the best case it's the truth intellectually as well. The best teachers don't want to be your bosses. They'd prefer it if you pushed ahead, using them as a source of advice, rather than being pulled by them through the material. ([View Highlight](https://read.readwise.io/read/01h4c9hmfxe7hf2aagd2nk8jq7))
 - Schools also give you a misleading impression of what work is like. In school they tell you what the problems are, and they're almost always soluble using no more than you've been taught so far. In real life you have to figure out what the problems are, and you often don't know if they're soluble at all. ([View Highlight](https://read.readwise.io/read/01h4c9j10v4jytvdg3462d6f6t))
-## New highlights added July 4, 2023 at 9:53 PM
 - And don't take rejection by committees to heart. The qualities that impress admissions officers and prize committees are quite different from those required to do great work. The decisions of selection committees are only meaningful to the extent that they're part of a feedback loop, and very few are. ([View Highlight](https://read.readwise.io/read/01h4h4wgcr7bwceqcw6t88qg29))
 - Originality is the presence of new ideas, not the absence of old ones. ([View Highlight](https://read.readwise.io/read/01h4h4wwwz74m59tacbqbdnvpv))
 - If you're going to copy something, do it openly instead of furtively, or worse still, unconsciously. This is what's meant by the famously misattributed phrase "Great artists steal." The really dangerous kind of copying, the kind that gives copying a bad name, is the kind that's done without realizing it, because you're nothing more than a train running on tracks laid down by someone else. But at the other extreme, copying can be a sign of superiority rather than subordination ([View Highlight](https://read.readwise.io/read/01h4h4xm0t5c2bs5p8hysyry16))

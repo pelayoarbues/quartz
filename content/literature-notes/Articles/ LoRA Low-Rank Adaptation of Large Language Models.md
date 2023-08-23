@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[readwise.io]]
 - Full Title:  LoRA: Low-Rank Adaptation of Large Language Models
-- Category: #articles
 - URL: https://readwise.io/reader/document_raw_content/29930613
 
 ## Highlights

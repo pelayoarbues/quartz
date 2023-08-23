@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Ethan Mollick]]
 - Full Title: It Is Starting to Get Strange.
-- Category: #articles
 - URL: https://www.oneusefulthing.org/p/it-is-starting-to-get-strange
 
 ## Highlights

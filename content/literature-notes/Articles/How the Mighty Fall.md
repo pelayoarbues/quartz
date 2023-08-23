@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Jim Collins]]
 - Full Title: How the Mighty Fall
-- Category: #articles
 - URL: https://www.jimcollins.com/article_topics/articles/a-primer-on-the-warning-signs.html#articletop
 
 ## Highlights
@@ -24,7 +23,6 @@ tags:
 - But all is not gloom. By understanding the [five stages of decline](https://www.jimcollins.com/concepts/five-stages-of-decline.html) we uncovered in our research for *How the Mighty Fall*, leaders can substantially increase the odds of reversing decline before it is too late—or even better, stave off decline in the first place. Decline can be avoided. The seeds of decline can be detected early. And decline can be reversed (as we've seen with notable cases such as IBM (IBM), Hewlett-Packard (HPQ), Merck (MRK), and Nucor (NUE)). The mighty can fall, but they can often rise again. ([View Highlight](https://read.readwise.io/read/01h5yj2vdxexs16yzehy1kb3bq))
 - we identified a set of once-great companies that fell and constructed a set of "success contrasts" that had *risen* in the same industries during the era when our primary study companies declined. Our principal effort focused on a two-part question: What happened leading up to the point at which decline became visible, and what did the company do once it began to fall? ([View Highlight](https://read.readwise.io/read/01h5yjfjec3pargc720tk3fp4t))
 - You do not visibly fall until Stage 4! Companies can be well into Stage 3 decline and still look and feel great, yet be right on the cusp of a huge fall. Decline can sneak up on you, and—seemingly all of a sudden—you're in big trouble. ([View Highlight](https://read.readwise.io/read/01h5yjg4xd4w24xhv1npd43d18))
-## New highlights added July 24, 2023 at 11:15 AM
 - Our research indicates that organizational decline is largely self-inflicted, and recovery largely within our own control. ([View Highlight](https://read.readwise.io/read/01h63ghm23gs3zwe1dteh375nh))
 - STAGE 1: HUBRIS BORN OF SUCCESS ([View Highlight](https://read.readwise.io/read/01h63h06j4tm69qhrg7w7w8nm4))
 - Great enterprises can become insulated by success; accumulated momentum can carry an enterprise forward for a while, even if its leaders make poor decisions or lose discipline. Stage 1 kicks in when people become arrogant, regarding success virtually as an entitlement, and they lose sight of the true underlying factors that created success in the first place ([View Highlight](https://read.readwise.io/read/01h63gpk7fmxww9s2bz4p8b7vt))

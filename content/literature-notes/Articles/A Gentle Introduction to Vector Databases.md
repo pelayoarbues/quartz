@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Frank Liu]]
 - Full Title: A Gentle Introduction to Vector Databases
-- Category: #articles
 - URL: https://frankzliu.com/blog/a-gentle-introduction-to-vector-databases
 
 ## Highlights

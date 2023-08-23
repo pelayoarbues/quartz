@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Antonio Ortiz]]
 - Full Title: Grandes Éxitos Y Fracasos De La Cultura De La Cancelación
-- Category: #articles
 - URL: https://causasyazares.substack.com/p/cultura-cancelacion-grandes-exitos-fracasos
 
 ## Highlights

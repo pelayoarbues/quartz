@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Benn Stancil]]
 - Full Title: For Immediate Release: Doubling Down on Our Data Investments
-- Category: #articles
 - URL: https://benn.substack.com/p/for-immediate-release
 
 ## Highlights

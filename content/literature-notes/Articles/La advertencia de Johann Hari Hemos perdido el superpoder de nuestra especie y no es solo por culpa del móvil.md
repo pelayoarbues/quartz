@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Ángel Villarino]]
 - Full Title: La advertencia de Johann Hari: "Hemos perdido el superpoder de nuestra especie y no es solo por culpa del móvil"
-- Category: #articles
 - URL: https://www.elconfidencial.com/cultura/2023-04-23/entrevista-johann-hari_3616128/
 
 ## Highlights

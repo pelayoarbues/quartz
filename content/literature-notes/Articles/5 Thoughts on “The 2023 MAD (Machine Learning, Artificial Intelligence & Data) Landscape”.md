@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Matt Turck]]
 - Full Title: 5 Thoughts on “The 2023 MAD (Machine Learning, Artificial Intelligence & Data) Landscape”
-- Category: #articles
 - URL: https://mattturck.com/MAD2023/
 
 ## Highlights

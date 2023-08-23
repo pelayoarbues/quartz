@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[readwise.io]]
 - Full Title: CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing
-- Category: #articles
 - URL: https://readwise.io/reader/document_raw_content/56014299
 
 ## Highlights

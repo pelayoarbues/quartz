@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Xavier Marcet]]
 - Full Title: El Vagón Más Lento
-- Category: #articles
 - URL: https://www.lavanguardia.com/economia/20230319/8834008/empresas-cambios-vagon-lento-innovacion.html
 
 ## Highlights

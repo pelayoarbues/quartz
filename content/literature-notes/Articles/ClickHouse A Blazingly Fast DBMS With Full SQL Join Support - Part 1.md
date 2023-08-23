@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[ClickHouse]]
 - Full Title: ClickHouse: A Blazingly Fast DBMS With Full SQL Join Support - Part 1
-- Category: #articles
 - URL: https://clickhouse.com/blog/clickhouse-fully-supports-joins
 
 ## Highlights

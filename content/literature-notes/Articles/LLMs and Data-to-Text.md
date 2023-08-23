@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[ehudreiter]]
 - Full Title: LLMs and Data-to-Text
-- Category: #articles
 - URL: https://ehudreiter.com/2023/06/29/llms-and-data-to-text/
 
 ## Highlights

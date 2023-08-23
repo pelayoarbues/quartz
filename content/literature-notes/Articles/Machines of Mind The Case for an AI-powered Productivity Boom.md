@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Martin Neil Baily]]
 - Full Title: Machines of Mind: The Case for an AI-powered Productivity Boom
-- Category: #articles
 - URL: https://www.brookings.edu/research/machines-of-mind-the-case-for-an-ai-powered-productivity-boom/
 
 ## Highlights

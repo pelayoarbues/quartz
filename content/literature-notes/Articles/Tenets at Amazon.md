@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Themefisher]]
 - Full Title: Tenets at Amazon
-- Category: #articles
 - URL: https://pedrodelgallego.github.io/blog/amazon/mental-models/decision-making/tenets-at-amazon/
 
 ## Highlights

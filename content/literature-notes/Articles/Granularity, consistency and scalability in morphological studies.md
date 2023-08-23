@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[readwise.io]]
 - Full Title: Granularity, consistency and scalability in morphological studies
-- Category: #articles
 - URL: https://readwise.io/reader/document_raw_content/35812450
 
 ## Highlights

@@ -1,5 +1,6 @@
 ---
-author: [[Dawn Klinghoffer,Katie Kirkpatrick-Husk]]
+author: [[Dawn Klinghoffer
+Katie Kirkpatrick-Husk]]
 title: "More Than 50% of Managers Feel Burned Out"
 tags: 
 - articles
@@ -13,18 +14,17 @@ tags:
 - Author: [[Dawn Klinghoffer
 Katie Kirkpatrick-Husk]]
 - Full Title: More Than 50% of Managers Feel Burned Out
-- Category: #articles
 - URL: https://hbr.org/2023/05/more-than-50-of-managers-feel-burned-out
 
 ## Highlights
 - more than half of managers (53%) report feeling burned out at work. This statistic is staggering, and slightly higher than employees in general. ([View Highlight](https://read.readwise.io/read/01h0tq0gp7hr95j7nhpb5gyhq1))
 - Managers have had to guide their employees through a pandemic and its aftermath, facing situations that have required them to lead with empathy while managing escalating demands with potentially fewer resources — all while receiving little recognition for their efforts. ([View Highlight](https://read.readwise.io/read/01h0tq0t9n081b4tm72wavgfpm))
+    - Tags: [[favorite]] 
 - Early work at Microsoft to learn about burnout among our own managers highlights some areas organizations can focus on as they begin this important work. ([View Highlight](https://read.readwise.io/read/01h0tq1rdf2h0nnrtqs7zz1bw8))
 - Christina Maslach, a pioneer in burnout research, says burnout is a result of continually experiencing stress in the workplace, resulting in exhaustion, cynicism, and a perceived lack of professional accomplishment. ([View Highlight](https://read.readwise.io/read/01h0tq331fj9gzp8vbrap4nsnx))
 - having an unsustainable workload, a perceived lack of control, insufficient rewards for effort, a lack of a supportive community, a lack of fairness, and mismatched values and skills. ([View Highlight](https://read.readwise.io/read/01h0tq3cp2n3c9yq8pvnpy5xds))
 - Managers today are exhausted from a combination of high workload and limited resources. While all employees can relate to this challenge, managers have the added responsibility of ensuring their team members get what they need to succeed, on top of doing their own work. ([View Highlight](https://read.readwise.io/read/01h0tq3w3qyhqwt050wfv7xqhc))
 - As managers adjust and help their teams be impactful in a post-pandemic workplace, they need feedback and support more than ever. Yet based on our research they report receiving less coaching and development for their people management skills, and less recognition from their own managers ([View Highlight](https://read.readwise.io/read/01h0tq4d3817aszk4sy914b20k))
-## New highlights added May 19, 2023 at 10:17 PM
 - At Microsoft, our internal, biannual census focuses specifically on the concept of [thriving](https://hbr.org/2022/06/why-microsoft-measures-employee-thriving-not-engagement) and how we can help people feel energized and empowered to do meaningful work. To ([View Highlight](https://read.readwise.io/read/01h0tq4ym1s9vn41zh4yrekc9a))
 - we found that managers are more likely than individual contributors to experience exhaustion and lack of professional efficacy. We also found managers who manage individual contributors (i.e., front-line managers) are more likely to experience cynicism than managers who manage other managers (i.e., middle managers). As managers climb the organization and as the scope of their roles increase, they feel more meaning and energy from their work which can help reduce cynicism. ([View Highlight](https://read.readwise.io/read/01h0tq78edx1m112gpzy2t9c9r))
 - we found that experiencing burnout can lead to negative outcomes for the manager and the company, like reduced productivity and turnover. For instance, while self-reported productivity tends to be lower in managers experiencing any single dimension of burnout ([View Highlight](https://read.readwise.io/read/01h0tq7p9dn2hn81dezcm4rcwt))

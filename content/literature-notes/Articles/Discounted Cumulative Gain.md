@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[wikipedia.org]]
 - Full Title: Discounted Cumulative Gain
-- Category: #articles
 - URL: https://en.wikipedia.org/wiki/Discounted_cumulative_gain
 
 ## Highlights

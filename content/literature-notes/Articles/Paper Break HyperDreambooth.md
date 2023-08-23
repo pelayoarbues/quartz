@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Scott Moss]]
 - Full Title: Paper Break: HyperDreambooth
-- Category: #articles
 - URL: https://open.substack.com/pub/aibits/p/paper-break-hyperdreambooth?utm_source=share&utm_medium=android&r=44mvk
 
 ## Highlights

@@ -12,7 +12,7 @@ tags:
 ## Metadata
 - Author: [[Benn Stancil]]
 - Full Title: 10,000 Microwave Enthusiasts to Attend Annual Microwave Conference in Las Vegas
-- Category: #articles
+- Document Note: A projected 10,000 microwave enthusiasts are expected to attend the annual microwave conference in Las Vegas. The conference will provide opportunities to discuss the latest trends in microwave technology and vendors will showcase daring new products. Despite the popularity of microwaves, some argue that the appliance has not lived up to its potential and has become a utilitarian commodity. The author suggests that in order for data tooling to move beyond being considered an appliance, there needs to be a natural language interface that can help answer complex questions.
 - URL: https://benn.substack.com/p/the-annual-microwave-conference
 
 ## Highlights
@@ -22,5 +22,4 @@ tags:
 - more appliance than avant-garde; more operational grease than organizational revolution ([View Highlight](https://read.readwise.io/read/01h3sztdfyqbg8k4tgegvkaane))
 - If extracting an answer from a BI tool takes too long—i.e., minutes instead of seconds—people aren’t able to cycle through enough trials to cover meaningful ground. Rather of recognizing this incomplete analysis, we score it as *bad* analysis, and put guardrails around it, to protect people from making mistakes. Do the mundanes stuff, we say, but data teams will do the meaningful work ([View Highlight](https://read.readwise.io/read/01h3szyjjewn0bn5fv0hh2yc4a))
 - The only interface that will let people get the answers fast enough and painlessly enough to break this cycle is natural language ([View Highlight](https://read.readwise.io/read/01h3szyvwgp7vndr4b4hz7pctj))
-## New highlights added June 26, 2023 at 10:29 AM
 - Or, try a 73rd time—but now, with large language models. ([View Highlight](https://read.readwise.io/read/01h3vav03tgvy4ec2thnfjnjwq))

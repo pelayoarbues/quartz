@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[readwise.io]]
 - Full Title: An image is worth 16x16 words. Transformers for image recognition at scale
-- Category: #articles
 - URL: https://readwise.io/reader/document_raw_content/693601
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[David Heinemeier Hansson (dhh@hey.com)]]
 - Full Title: In Defense of the Office
-- Category: #articles
 - URL: https://world.hey.com/dhh/in-defense-of-the-office-450fc177
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Benn Stancil]]
 - Full Title: Terror in the Skynet
-- Category: #articles
 - URL: https://benn.substack.com/p/terror-in-the-skynet
 
 ## Highlights

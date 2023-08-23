@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[openai]]
 - Full Title: techniques_to_improve_reliability.md
-- Category: #articles
 - URL: https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md#how-to-improve-reliability-on-complex-tasks
 
 ## Highlights

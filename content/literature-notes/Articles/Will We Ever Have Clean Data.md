@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Benn Stancil]]
 - Full Title: Will We Ever Have Clean Data?
-- Category: #articles
 - URL: https://benn.substack.com/p/will-we-ever-have-clean-data
 
 ## Highlights

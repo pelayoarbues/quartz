@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[mintzberg.org]]
 - Full Title: Why Do We Say “Top Management” Yet Never “Bottom Management”?
-- Category: #articles
 - URL: https://mintzberg.org/blog/bottom-management
 
 ## Highlights

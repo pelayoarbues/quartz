@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[3-2-1 Thursday newsletter - James Clear]]
 - Full Title: 3-2-1: Judging potential, negotiating, and balancing life
-- Category: #articles
 - URL: https://jamesclear.com/3-2-1/june-22-2023
 
 ## Highlights

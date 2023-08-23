@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Chip Huyen]]
 - Full Title: Generative AI Strategy
-- Category: #articles
 - URL: https://huyenchip.com//2023/06/07/generative-ai-strategy.html
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Nathan Lambert]]
 - Full Title: Evaluating and Uncovering Open LLMs
-- Category: #articles
 - URL: https://www.interconnects.ai/p/evaluating-open-llms?utm_source=post-email-title&publication_id=48206&post_id=124670054&isFreemail=true&utm_medium=email
 
 ## Highlights

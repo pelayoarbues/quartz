@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[NFX]]
 - Full Title: AI Leapfrogging: How AI Will Transform “Lagging” Industries
-- Category: #articles
 - URL: https://www.nfx.com/post/ai-leapfrogging?utm_campaign=NFX%20Newsletter&utm_medium=email&_hsmi=262642668&_hsenc=p2ANqtz--v15hq3AjwdKt1hcBDGBfhZFHMc0O4VsP0T9oc2NHYCdhL_YqaqyaBPKPKzK0j6vDHBvg1sfc1kCsi8fdCuG0LGhF_wA&utm_content=262642668&utm_source=hs_email
 
 ## Highlights

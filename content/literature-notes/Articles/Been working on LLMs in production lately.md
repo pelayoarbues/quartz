@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Shreya Shankar]]
 - Full Title: Been working on LLMs in production lately
-- Category: #articles
 - URL: https://twitter.com/sh_reya/status/1641106353971421185
 
 ## Highlights

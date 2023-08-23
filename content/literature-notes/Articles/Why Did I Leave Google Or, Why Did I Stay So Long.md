@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[linkedin.com]]
 - Full Title: Why Did I Leave Google Or, Why Did I Stay So Long?
-- Category: #articles
 - URL: https://www.linkedin.com/pulse/why-did-i-leave-google-stay-so-long-noam-bardin/
 
 ## Highlights

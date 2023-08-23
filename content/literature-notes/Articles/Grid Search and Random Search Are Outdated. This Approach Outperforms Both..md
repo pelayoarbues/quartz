@@ -12,7 +12,7 @@ tags:
 ## Metadata
 - Author: [[Ali Soleymani]]
 - Full Title: Grid Search and Random Search Are Outdated. This Approach Outperforms Both.
-- Category: #articles
+- Document Note: This article discusses the drawbacks of Grid Search and Random Search in scikit-learn and suggests Bayesian Search as a better alternative. Bayesian Search uses Bayesian statistics to estimate the distribution of the best hyperparameters for the model, and can gradually converge on the optimal set of hyperparameters resulting in better performance on the test set. It can also search a continuous search space, which can provide better results than Grid or Random Search. Additionally, Bayesian Search can achieve the same results as Grid Search in much less time.
 - URL: https://medium.com/@ali.soleymani.co/stop-using-grid-search-or-random-search-for-hyperparameter-tuning-c2468a2ff887
 
 ## Highlights

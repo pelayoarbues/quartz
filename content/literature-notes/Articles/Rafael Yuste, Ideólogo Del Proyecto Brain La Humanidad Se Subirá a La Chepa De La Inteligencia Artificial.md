@@ -12,13 +12,11 @@ tags:
 ## Metadata
 - Author: [[JUANJO BECERRA]]
 - Full Title: Rafael Yuste, Ideólogo Del Proyecto Brain: "La Humanidad Se Subirá a La Chepa De La Inteligencia Artificial"
-- Category: #articles
 - URL: https://www.elmundo.es/tecnologia/innovacion/working-progress/2023/03/26/641dc4e221efa078638b45d5.html
 
 ## Highlights
 - Siempre hemos tenido los humanos la responsabilidad de organizarnos para canalizar este progreso científico y tecnológico hacia el bien común. ([View Highlight](https://read.readwise.io/read/01gx336299f1y3hr45qjjnp4j9))
 - Lo lógico es que estos algoritmos de IA los incorporemos los humanos de una manera flexible en nuestra vida y en nuestro comportamiento siempre para mejor y para que nos haga más efectivos en las cosas que queremos hacer y más libres, como ha ocurrido con los teléfonos móviles. ([View Highlight](https://read.readwise.io/read/01gx336jcd5jf2a5c94gp5yb8g))
-## New highlights added April 3, 2023 at 11:32 AM
 - acceder a la información de una manera más rápida y efectiva, lo que repercutirá en todo el procesamiento que hacemos de la información y aumentará la productividad. ([View Highlight](https://read.readwise.io/read/01gx33xrszyw043wf5qgjzrsg9))
 - Desde el punto de vista científico, no sabemos qué es la creación, así que no puedo comparar la creación de una máquina con la del cerebro humano. Lo que está claro es que hay algo que ocurre en el comportamiento humano y de muchos animales y es que somos capaces de hacer cosas inesperadas. ([View Highlight](https://read.readwise.io/read/01gx340xxqcsbwc52w5dptzjbt))
 - Uno tiene que ver con la teoría general de cómo funciona el cerebro y dice que el cerebro puede estar diseñado por la evolución para predecir el futuro y somos hipersensibles a las cosas que no predecimos. Los gusanos se preocupan de lo que va a ocurrir en unos segundos, las moscas de lo que va a pasar en los próximos minutos y los humanos de lo que va a ocurrir en los próximos 100 años, que es de lo que estamos hablando en esta conversación. ([View Highlight](https://read.readwise.io/read/01gx341j7x2mxkqgcggd4wbma0))

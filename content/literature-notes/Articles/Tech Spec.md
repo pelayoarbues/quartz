@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[infraeng.dev]]
 - Full Title: Tech Spec
-- Category: #articles
 - URL: https://infraeng.dev/tech-spec/
 
 ## Highlights

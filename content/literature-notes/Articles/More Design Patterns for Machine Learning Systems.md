@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Eugene Yan]]
 - Full Title: More Design Patterns for Machine Learning Systems
-- Category: #articles
 - URL: https://eugeneyan.com//writing/more-patterns/
 
 ## Highlights

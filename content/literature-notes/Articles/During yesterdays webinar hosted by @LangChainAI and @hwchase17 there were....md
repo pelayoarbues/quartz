@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Eric Ciarla]]
 - Full Title: During yesterdays webinar hosted by @LangChainAI and @hwchase17 there were...
-- Category: #articles
 - URL: https://twitter.com/ericciarla/status/1641527314172223488
 
 ## Highlights

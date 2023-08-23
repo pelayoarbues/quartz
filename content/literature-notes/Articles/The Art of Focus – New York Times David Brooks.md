@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Tai Chi Classes NYC - WholenessInMotion: Tai Chi Classes in New York City]]
 - Full Title: The Art of Focus – New York Times David Brooks
-- Category: #articles
 - URL: http://www.taichiclassesnyc.com/2014/06/the-art-of-focus-new-york-times-david-brooks/
 
 ## Highlights

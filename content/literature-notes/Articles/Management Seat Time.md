@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Erika Pullum (Swartz)]]
 - Full Title: Management Seat Time
-- Category: #articles
 - URL: https://betterwithdata.substack.com/p/management-seat-time
 
 ## Highlights

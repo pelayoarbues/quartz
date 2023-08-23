@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Frank Liu]]
 - Full Title: What Is a Vector Database?
-- Category: #articles
 - Document Note: Vector databases are a fully managed, no-frills solution for storing, indexing, and searching across a massive dataset of unstructured data that leverages the power of embeddings from machine learning models. They should have features such as scalability and tunability, multi-tenancy and data isolation, a complete suite of APIs, and an intuitive user interface/administrative console. Vector databases differ from vector search libraries and vector search plugins, as they are full-fledged services while libraries are meant to be integrated into the application, and plugins are built-in to traditional databases and search systems. Key technical challenges associated with vector databases include designing a flexible and scalable data model, providing a rich set of features, supporting vector operations, and allowing for SQL-like queries.
 - URL: https://zilliz.com/learn/what-is-vector-database
 

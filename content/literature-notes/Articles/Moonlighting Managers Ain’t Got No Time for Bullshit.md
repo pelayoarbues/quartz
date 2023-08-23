@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[DHH]]
 - Full Title: Moonlighting Managers Ain’t Got No Time for Bullshit
-- Category: #articles
 - URL: https://m.signalvnoise.com/moonlighting-managers-aint-got-no-time-for-bullshit/
 
 ## Highlights

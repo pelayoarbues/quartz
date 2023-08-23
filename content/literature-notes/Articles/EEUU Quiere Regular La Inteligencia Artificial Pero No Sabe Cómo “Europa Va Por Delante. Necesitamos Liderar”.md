@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Esther Paniagua]]
 - Full Title: EEUU Quiere Regular La Inteligencia Artificial Pero No Sabe Cómo: “Europa Va Por Delante. Necesitamos Liderar”
-- Category: #articles
 - URL: https://www.elespanol.com/invertia/disruptores-innovadores/politica-digital/20230517/eeuu-regular-inteligencia-artificial-no-europa-necesitamos/764423871_0.html
 
 ## Highlights

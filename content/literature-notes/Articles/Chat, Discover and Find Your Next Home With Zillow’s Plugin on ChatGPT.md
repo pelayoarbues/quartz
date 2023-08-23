@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[kristenr]]
 - Full Title: Chat, Discover and Find Your Next Home With Zillow’s Plugin on ChatGPT
-- Category: #articles
 - URL: https://www.zillowgroup.com/news/discover-zillows-plugin-on-chatgpt/
 
 ## Highlights

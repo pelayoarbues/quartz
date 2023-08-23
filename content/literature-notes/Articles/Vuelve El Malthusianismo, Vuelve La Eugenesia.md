@@ -12,12 +12,10 @@ tags:
 ## Metadata
 - Author: [[Antonio Ortiz]]
 - Full Title: Vuelve El Malthusianismo, Vuelve La Eugenesia
-- Category: #articles
 - URL: https://causasyazares.substack.com/p/vuelve-el-malthusianismo-vuelve-la
 
 ## Highlights
 - La humanidad había superado la trampa malthusiana con la innovación tecnológica ([View Highlight](https://read.readwise.io/read/01gzv8qtc5d72tq5x99p6c24e6))
-## New highlights added May 7, 2023 at 10:03 PM
 - Afirmó que la soledad aumenta el riesgo de infarto de miocardio, demencia y diabetes, ([View Highlight](https://read.readwise.io/read/01gzvtd1ts2q0fpf1rhh785fk1))
 - En EEUU **el 15% de los hombres declararon no tener amistades íntimas en 2021, frente al 3% en 1990. El 10% de las mujeres declaró no tener amistades íntimas en 2021, frente al 2% en 1990** ([View Highlight](https://read.readwise.io/read/01gzvtesecrg7y3g9bedvmmkpx))
 - **10 horas** antes de ir a la cama: nada de cafeína

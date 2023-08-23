@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[jobergum]]
 - Full Title: Improving Zero-Shot Ranking With Vespa Hybrid Search
-- Category: #articles
 - URL: https://blog.vespa.ai/improving-zero-shot-ranking-with-vespa/
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[openai.com]]
 - Full Title: ChatGPT Plugins
-- Category: #articles
 - URL: https://openai.com/blog/chatgpt-plugins
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[David Mattin]]
 - Full Title: Searching for the Exit Routes
-- Category: #articles
 - Document Note: This essay is about the tension between technology and human limits, and how it is manifested as an argument between two opposing futures. The author examines the idea of technological modernity and its ability to transcend human limits; however, the author also argues that new limits must be imposed to avoid civilizational collapse. They detail the implications of these questions and the need for a revived liberalism to navigate the technological revolution. Ultimately, the author argues that a spiritual revolution is needed to chart an appropriate course through these changes.
 - URL: https://newworldsamehumans.substack.com/p/searching-for-the-exit-routes
 

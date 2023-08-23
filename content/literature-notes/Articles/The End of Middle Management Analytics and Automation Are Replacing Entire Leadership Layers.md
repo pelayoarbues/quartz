@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Vin Vashishta]]
 - Full Title: The End of Middle Management: Analytics and Automation Are Replacing Entire Leadership Layers
-- Category: #articles
 - URL: https://vinvashishta.substack.com/p/the-end-of-middle-management-analytics
 
 ## Highlights

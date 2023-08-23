@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Cameron R. Wolfe]]
 - Full Title: Chain of Thought Prompting for LLMs
-- Category: #articles
 - URL: https://cameronrwolfe.substack.com/p/chain-of-thought-prompting-for-llms
 
 ## Highlights

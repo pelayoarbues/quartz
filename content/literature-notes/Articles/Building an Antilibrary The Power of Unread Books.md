@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Anne-Laure Le Cunff]]
 - Full Title: Building an Antilibrary: The Power of Unread Books
-- Category: #articles
 - URL: https://nesslabs.com/antilibrary
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Sergei Savvov]]
 - Full Title: 7 Ways to Speed Up Inference of Your Hosted LLMs
-- Category: #articles
 - URL: https://slgero.medium.com/speed-up-llm-inference-83653aa24c47
 
 ## Highlights

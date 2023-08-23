@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Lucas Beyer]]
 - Full Title: Who killed non-contrastive image-text pretraining?
-- Category: #articles
 - URL: https://twitter.com/giffmana/status/1669840989853196292
 
 ## Highlights

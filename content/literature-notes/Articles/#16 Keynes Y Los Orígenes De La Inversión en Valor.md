@@ -7,12 +7,11 @@ tags:
 ---
 # #16: Keynes Y Los Orígenes De La Inversión en Valor
 
-![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f78f0d2-4b7d-4428-a255-9fa57d9eb0f5_1024x859.jpeg)
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpu_BERlTV2.jpeg)
 
 ## Metadata
 - Author: [[Luis Torras]]
 - Full Title: #16: Keynes Y Los Orígenes De La Inversión en Valor
-- Category: #articles
 - URL: https://open.substack.com/pub/chestnutstreet/p/16-keynes-y-los-origenes-de-la-inversion?utm_source=direct&r=44mvk&utm_campaign=post&utm_medium=web
 
 ## Highlights

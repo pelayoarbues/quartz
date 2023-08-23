@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[arxiv.org]]
 - Full Title: SELF-CONSISTENCY IMPROVES CHAIN OF THOUGHT REASONING IN LANGUAGE MODELS
-- Category: #articles
 - URL: https://arxiv.org/pdf/2203.11171.pdf
 
 ## Highlights

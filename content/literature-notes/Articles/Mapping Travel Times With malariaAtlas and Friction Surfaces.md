@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Amelia Bertozzi-Villa]]
 - Full Title: Mapping Travel Times With malariaAtlas and Friction Surfaces
-- Category: #articles
 - URL: https://medium.com/@abertozz/mapping-travel-times-with-malariaatlas-and-friction-surfaces-f4960f584f08
 
 ## Highlights

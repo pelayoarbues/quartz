@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[KFG Notes]]
 - Full Title: A Short Introduction to the Underlay
-- Category: #articles
 - URL: https://notes.knowledgefutures.org/pub/underlay-short-intro/release/1
 
 ## Highlights

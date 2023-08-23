@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Ethan Mollick]]
 - Full Title: What Happens When AI Reads a Book 🤖📖
-- Category: #articles
 - URL: https://www.oneusefulthing.org/p/what-happens-when-ai-reads-a-book
 
 ## Highlights

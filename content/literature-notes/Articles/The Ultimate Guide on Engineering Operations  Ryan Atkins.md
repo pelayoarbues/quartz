@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Featuring Ryan Atkins]]
 - Full Title: The Ultimate Guide on Engineering Operations | Ryan Atkins
-- Category: #articles
 - URL: https://getdx.com/podcast/engineering-operations-ryan-atkins
 
 ## Highlights

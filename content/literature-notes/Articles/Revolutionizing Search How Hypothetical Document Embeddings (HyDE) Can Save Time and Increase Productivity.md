@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[WFH Brian]]
 - Full Title: Revolutionizing Search: How Hypothetical Document Embeddings (HyDE) Can Save Time and Increase Productivity
-- Category: #articles
 - URL: https://wfhbrian.com/revolutionizing-search-how-hypothetical-document-embeddings-hyde-can-save-time-and-increase-productivity/
 
 ## Highlights

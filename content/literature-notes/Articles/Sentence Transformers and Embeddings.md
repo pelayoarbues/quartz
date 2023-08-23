@@ -12,7 +12,7 @@ tags:
 ## Metadata
 - Author: [[Pinecone]]
 - Full Title: Sentence Transformers and Embeddings
-- Category: #articles
+- Document Note: Sentence transformers have revolutionized natural language processing (NLP) by replacing recurrent neural nets (RNNs) with transformer models such as BERT and GPT. These sentence embeddings can be used to quickly compare sentence similarity for various use cases. The sentence-BERT model was introduced in 2019 to produce accurate sentence vectors and the sentence-transformers library has been adapted and applied to a range of semantic similarity applications. Other newer models such as MPNet are outperforming SBERT and the sentence-transformers library allows for easy switching between models. In future articles, more of these newer models and training of sentence transformers will be explored.
 - URL: https://www.pinecone.io/learn/sentence-embeddings/
 
 ## Highlights

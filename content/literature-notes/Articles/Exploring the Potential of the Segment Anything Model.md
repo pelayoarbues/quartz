@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Soumya Ranjan]]
 - Full Title: Exploring the Potential of the Segment Anything Model
-- Category: #articles
 - URL: https://developmentseed.org/blog/2023-05-19-segment-anything-potential
 
 ## Highlights

@@ -16,7 +16,6 @@ tags:
 Francesca Gino,
 Robert I. Sutton]]
 - Full Title: You Need Two Leadership Gears
-- Category: #articles
 - Document Note: The most effective leaders are able to shift between two different leadership styles to meet the demands of the moment. They use their formal authority and respect to guide their team when to switch between these two power modes. The research shows that teams who switch back and forth between hierarchical and participatory models outperform those who remain in one mode. Leaders must be mindful of their words, body language and participation in meetings to effectively shift between the two styles. They must also set expectations for their team before meetings and use tools such as assigning a devil's advocate to encourage open debate. Knowing when to get in the way and when to get out of the way is key to successful leadership.
 - URL: https://hbr.org/2023/03/you-need-two-leadership-gears
 

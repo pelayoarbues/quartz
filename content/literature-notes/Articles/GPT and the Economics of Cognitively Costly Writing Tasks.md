@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[scott cunningham]]
 - Full Title: GPT and the Economics of Cognitively Costly Writing Tasks
-- Category: #articles
 - URL: https://causalinf.substack.com/p/gpt-and-the-economics-of-cognitively
 
 ## Highlights

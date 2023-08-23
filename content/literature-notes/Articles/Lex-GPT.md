@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Lance Marting]]
 - Full Title: Lex-GPT
-- Category: #articles
 - URL: https://lancemartin.notion.site/lancemartin/Lex-GPT-a3ad671766d34f4a9a078da7adf9d382
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Abby Morgan]]
 - Full Title: SAM + Stable Diffusion for Text-to-Image Inpainting
-- Category: #articles
 - URL: https://www.comet.com/site/blog/sam-stable-diffusion-for-text-to-image-inpainting/
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Simon Willison's Weblog]]
 - Full Title: Quoting Yuval Harari, Tristan Harris and Aza Raskin
-- Category: #articles
 - URL: http://simonwillison.net/2023/Mar/28/yuval-harari-tristan-harris-and-aza-raskin/#atom-everything
 
 ## Highlights

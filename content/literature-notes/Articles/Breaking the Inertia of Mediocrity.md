@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[David Heinemeier Hansson (dhh@hey.com)]]
 - Full Title: Breaking the Inertia of Mediocrity
-- Category: #articles
 - URL: https://world.hey.com/dhh/breaking-the-inertia-of-mediocrity-88048743
 
 ## Highlights

@@ -12,12 +12,10 @@ tags:
 ## Metadata
 - Author: [[Themefisher]]
 - Full Title: Single-Threaded Leaders at Amazon
-- Category: #articles
 - URL: https://pedrodelgallego.github.io/blog/amazon/single-threaded-model/
 
 ## Highlights
 - Single-threaded leadership is the most critical [organizational design concept at Amazon](https://pedrodelgallego.github.io/blog/amazon-organization-design/). It has been instrumental in avoiding coupling and slow velocity while increasing the number of initiatives that Amazon can run in parallel. ([View Highlight](https://read.readwise.io/read/01h4h7esc678fsf21t1dg611vk))
-## New highlights added July 4, 2023 at 10:53 PM
 - The basic idea behind single-threaded leadership is that for each initiative or business problem, there is a leader whose focus is that initiative and that initiative alone. That person leads one or more separable, single-threaded teams to deliver the initiative goals. The name comes from computer science terminology—a single-threaded program executes one command at a time. ([View Highlight](https://read.readwise.io/read/01h4h7fffmfd13eavfg5h7fb4e))
 - Many companies find themselves struggling against their own bureaucratic drag, which appears in the form of layer upon layer of permission, ownership, and accountability, all working against fast, decisive forward progress. ([View Highlight](https://read.readwise.io/read/01h4h7fs4cqsc64wzmcxk2y1h8))
 - In many companies, critical initiatives languish because of the lack of a clear mandate. No one is empowered to make it happen end to end. The single-threaded model is a change of mindset regarding ownership—all success and failures rest with the leader, and the bucket stops there. ([View Highlight](https://read.readwise.io/read/01h4h7g3hds9n5w4k4bsyq8xks))

@@ -7,12 +7,11 @@ tags:
 ---
 # Turing Test
 
-![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4669b515-dcf0-4851-8523-ad8ada07bde9_895x508.png)
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpub_AKpYn75.png)
 
 ## Metadata
 - Author: [[Scott Alexander]]
 - Full Title: Turing Test
-- Category: #articles
 - URL: https://open.substack.com/pub/astralcodexten/p/turing-test?utm_source=share&utm_medium=android
 
 ## Highlights

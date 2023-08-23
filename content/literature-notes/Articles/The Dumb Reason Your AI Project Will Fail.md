@@ -18,7 +18,6 @@ Mark Esposito,
 Takaaki Mizuno,
 Danny Goh]]
 - Full Title: The Dumb Reason Your AI Project Will Fail
-- Category: #articles
 - URL: https://hbr.org/2020/06/the-dumb-reason-your-ai-project-will-fail
 
 ## Highlights

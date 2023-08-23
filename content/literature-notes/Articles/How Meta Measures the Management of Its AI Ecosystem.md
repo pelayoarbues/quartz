@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[facebook.com]]
 - Full Title: How Meta Measures the Management of Its AI Ecosystem
-- Category: #articles
 - URL: https://ai.facebook.com/blog/meta-ai-ecosystem-management-metrics/
 
 ## Highlights

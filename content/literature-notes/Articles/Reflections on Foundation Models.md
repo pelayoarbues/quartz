@@ -12,7 +12,7 @@ tags:
 ## Metadata
 - Author: [[Stanford HAI]]
 - Full Title: Reflections on Foundation Models
-- Category: #articles
+- Document Note: The Stanford Center for Research on Foundation Models (CRFM) has recently released a report and hosted a workshop to foster dialogue on the responsible development of foundation models, which are models trained on broad data and can be adapted to a wide range of downstream tasks. CRFM emphasizes that foundation models present societal risks due to inequity, misuse, environmental impact, legal frameworks, ethics of scale, and economic consequences. They also discuss the choice of the name "foundation model" to emphasize the importance of critiques and that these models should not be assumed to be good by default. People are at the center of foundation models, as they create the data, develop the models, adapt them, and interact with the resulting applications.
 - URL: https://hai.stanford.edu/news/reflections-foundation-models
 
 ## Highlights

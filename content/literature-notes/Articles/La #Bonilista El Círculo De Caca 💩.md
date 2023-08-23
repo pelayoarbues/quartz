@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Bonilista Archive Feed]]
 - Full Title: La #Bonilista: El Círculo De Caca 💩
-- Category: #articles
 - URL: https://mailchi.mp/bonillaware/circulo-de-caca
 
 ## Highlights

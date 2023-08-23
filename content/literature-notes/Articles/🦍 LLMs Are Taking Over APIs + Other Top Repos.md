@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[AlphaSignal]]
 - Full Title: 🦍 LLMs Are Taking Over APIs + Other Top Repos
-- Category: #articles
 
 ## Highlights
 - LLMs need to interact with the world through APIs, and Gorilla teaches LLMs APIs. Gorilla is a finetuned LLaMA-based model that surpasses the performance of GPT-4 on writing API calls. 

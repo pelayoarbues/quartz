@@ -7,12 +7,11 @@ tags:
 ---
 # Thinking Companion, Companion for Thinking
 
-![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4d06ffe-acc4-4ed9-b1a8-64d0ce3559ca_1600x992.png)
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpub_ysn3DzT.png)
 
 ## Metadata
 - Author: [[Ethan Mollick]]
 - Full Title: Thinking Companion, Companion for Thinking
-- Category: #articles
 - URL: https://open.substack.com/pub/oneusefulthing/p/thinking-companion-companion-for?utm_source=share&utm_medium=android
 
 ## Highlights

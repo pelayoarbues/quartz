@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[AI, software, tech, and people, not in that order... by X]]
 - Full Title: On Why LLMs Are Just Like Medical Doctors
-- Category: #articles
 - URL: https://amatriain.net/blog/llmsdoctors
 
 ## Highlights

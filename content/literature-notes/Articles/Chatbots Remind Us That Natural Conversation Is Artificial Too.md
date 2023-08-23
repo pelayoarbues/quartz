@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Larry S McGrath]]
 - Full Title: Chatbots Remind Us That Natural Conversation Is Artificial Too
-- Category: #articles
 - URL: https://psyche.co/ideas/chatbots-remind-us-that-natural-conversation-is-artificial-too?utm_source=rss-feed
 
 ## Highlights

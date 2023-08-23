@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Dan Poppy]]
 - Full Title: Ep 46: DBT Labs on DBT
-- Category: #articles
 - URL: https://roundup.getdbt.com/p/ep-46-dbt-labs-on-dbt-w-daniel-le
 
 ## Highlights

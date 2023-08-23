@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Chenhao Tan]]
 - Full Title: On AI Anthropomorphism
-- Category: #articles
 - URL: https://medium.com/@ChenhaoTan/on-ai-anthropomorphism-abff4cecc5ae
 
 ## Highlights
@@ -22,7 +21,6 @@ tags:
 - Second, we are just now exploring what it means for an algorithm to be a non-determinate conversational partner. The LLMs are, I agree, stochastic parrots, and hence “mind”-less. Nonetheless, they have a convincing social presence ([View Highlight](https://read.readwise.io/read/01gz4s021c7byn89aafpdh4n05))
 - I suspect that we will need to break down our human / non-human binary into a dimension, or into multiple dimensions ([View Highlight](https://read.readwise.io/read/01gz4s0k9rnrm5kwck54gsb3k1))
 - Elizabeth Phillips and colleagues (2016) have explored the deeper relationships that we have with some animals, with dogs being the primary example of a social presence. See also Haraway’s (2003) concepts in companion species, and intriguingly Fijn’s (2011) work on human relationships with Mongolian lasso-pole ponies. ([View Highlight](https://read.readwise.io/read/01gz4s1y02fwmga2mxzm1ra59v))
-## New highlights added April 29, 2023 at 3:00 PM
 - I think that, as with animals, there are degrees of sociality, or degrees of social presence, that may be ([View Highlight](https://read.readwise.io/read/01gz6ewa13fad0pqkvp72y4fy5))
 - I think that, as with animals, there are degrees of sociality, or degrees of social presence, that may be ([View Highlight](https://read.readwise.io/read/01gz6ewf2znn10061qf9jv2y57))
 - I think that, as with animals, there are degrees of sociality, or degrees of social presence, that may be applicable to computational things ([View Highlight](https://read.readwise.io/read/01gz6ewn4jvw1xs0m2144pmzrf))
@@ -41,7 +39,6 @@ tags:
 - How Can Humans Relate to Non-Human Intelligences?” For me, that is closer to the core issue, and anthropomorphism is a sub-question among many possible explorations of strange non-human entities. ([View Highlight](https://read.readwise.io/read/01gz6f5807enp9t0851zzr5x07))
 - Anthropomorphism is one metaphorical approach to new ideas and new entities. In my view, metaphors become figures of thought, through which we can articulate some of that strangeness. (Following ([View Highlight](https://read.readwise.io/read/01gz6f5q9pjfwj52j8svcmqba5))
 - while everyone is talking about LLMs and FMs, some of us (including you and I) are thinking hard about the UIs to those LLMs. ([View Highlight](https://read.readwise.io/read/01gz6f6e745c1jsnsbj6jwpnx8))
-## New highlights added April 29, 2023 at 10:00 PM
 - The LLM layer is probably a “we” — after all, it contains the non-consensually harvested materials from hundreds of thousands of humans. Or maybe I should have said “captured materials.” Or “stolen voices.” ([View Highlight](https://read.readwise.io/read/01gz6f74tbctn3n7pr5a354vmg))
 - The UI layer may be an “I”, because that’s the style of interaction that seems to work for us humans. I think you would prefer that the UI layer is an “it” ([View Highlight](https://read.readwise.io/read/01gz6f7qmc3p9agaypqxyj9fp2))
 - Our experiments with a personified UI to a LLM have been quite successful. No one who uses our Programmer’s Assistant prototype (Ross et al. 2023) is confused about its ontological status. No one mistakes it as anything other than a smart toaster, but it turns out to be a transformatively helpful smart toaster. (Not “transformatively smart,” just “transformatively helpful.”) So now we have Clippie and BOB as examples of failures, but we also have our Programmer’s Assistant as an example of a success ([View Highlight](https://read.readwise.io/read/01gz6f8m2mqr25d0e5p50rdp7p))

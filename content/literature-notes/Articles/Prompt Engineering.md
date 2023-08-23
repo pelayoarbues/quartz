@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Lilian Weng]]
 - Full Title: Prompt Engineering
-- Category: #articles
 - URL: https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
 
 ## Highlights

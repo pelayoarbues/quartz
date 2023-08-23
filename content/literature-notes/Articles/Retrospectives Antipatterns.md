@@ -12,7 +12,7 @@ tags:
 ## Metadata
 - Author: [[Aino Corry]]
 - Full Title: Retrospectives Antipatterns
-- Category: #articles
+- Document Note: Retrospectives are activities done at the end of a sprint or project to reflect and learn. Retrospectives Antipatterns are descriptions of what can go wrong and how to remedy it. Norman Kerth and Diana Larsen and Esther Derby wrote books to help facilitate them in a more efficient way. When done correctly, retrospectives can have a healing effect on the people involved. Examples of common antipatterns are setting the wrong stage, skipping the insights generation step, and having a loudmouth interrupting the discussion. Retrospectives Antipatterns is a book that provides 23 common antipatterns, ideas on how to overcome them, and a personal anecdote from the author.
 - URL: https://martinfowler.com/articles/retrospective-antipatterns.html
 
 ## Highlights

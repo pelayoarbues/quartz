@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Simón Muñoz]]
 - Full Title: ¿Qué Es Product Management? Por Shreyas Doshi
-- Category: #articles
 - URL: https://www.estrategiadeproducto.com/p/que-es-product-management?utm_source=twitter&sd=pf
 
 ## Highlights

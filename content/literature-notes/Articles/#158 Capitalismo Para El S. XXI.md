@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Samuel Gil]]
 - Full Title: #158 Capitalismo Para El S. XXI
-- Category: #articles
 - URL: https://www.sumapositiva.com/p/capitalismo
 
 ## Highlights

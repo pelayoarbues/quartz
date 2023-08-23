@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[replicate.com]]
 - Full Title: Train and Run Stanford Alpaca on Your Own Machine
-- Category: #articles
 - URL: https://replicate.com/blog/replicate-alpaca
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Vin Vashishta]]
 - Full Title: Data Mesh and Strategy Tech Stack Alignment
-- Category: #articles
 - URL: https://vinvashishta.substack.com/p/data-mesh-and-strategy-tech-stack
 
 ## Highlights

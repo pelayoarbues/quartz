@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Richard Florida]]
 - Full Title: The Pandemic Didn’t Upend US Geography
-- Category: #articles
 - URL: https://www.bloomberg.com/news/features/2023-04-14/three-years-into-the-pandemic-the-urban-exodus-was-overblown
 
 ## Highlights
@@ -22,7 +21,6 @@ tags:
 - But big cities ultimately proved incredibly resilient. The urban exodus, such as it was, proved mainly temporary ([View Highlight](https://read.readwise.io/read/01gy5qjxg0x2bsxn2hcjtv6dya))
 - Young people began to head back to cities to access their labor markets, amenities, dating pools and social opportunities. ([View Highlight](https://read.readwise.io/read/01gy5qkb6yx6jqtks5f7ft3mgc))
 - while many millionaires did indeed leave New York City between 2020 and 2021, the city nonetheless gained [ten thousand or so millionaires](https://www.nytimes.com/2023/02/23/nyregion/millionaires-new-york-taxes.html) between 2020 and 2021. ([View Highlight](https://read.readwise.io/read/01gy5qm7xck759d6w219400pwx))
-## New highlights added April 16, 2023 at 10:20 PM
 - Even San Francisco, which is often seen as the poster child of urban abandonment due to the combined effects of remote work and the tech downturn, as well as urban disorder and persistent homelessness, appears to be coming back. The city staunched most of its population decline, losing just about 3,000 residents as of July 2022. ([View Highlight](https://read.readwise.io/read/01gy5r5wd03c5asjaz40d9px3b))
 - The pandemic ultimately did little to change pre-existing population shifts in America, but rather subtly accelerated established trends. This includes the ongoing shift of population from more-expensive to less-expensive areas of the country, particularly to Sun Belt metros. ([View Highlight](https://read.readwise.io/read/01gy5r6pyr0x8std71sy52h2zn))
 - Another ongoing trend is that the majority of moves continue to be local. Instead of moving long distances, say from New York to Miami, or San Francisco to Austin, the large majority of American moves, at least 60% of them, were within the same county ([View Highlight](https://read.readwise.io/read/01gy5r7e5pynpk1jmtdrx37zay))

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[nathenry.com]]
 - Full Title: Is Seattle a 15-Minute City? It Depends on Where You Want to Walk
-- Category: #articles
 - URL: https://nathenry.com/writing/2023-02-07-seattle-walkability.html
 
 ## Highlights

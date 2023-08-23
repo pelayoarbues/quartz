@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Paola Bonomo]]
 - Full Title: An Ethical AI Never Says "I"
-- Category: #articles
 - URL: https://livepaola.substack.com/p/an-ethical-ai-never-says-i
 
 ## Highlights

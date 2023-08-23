@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[More Than Numbers]]
 - Full Title: The Ultimate Guide to Hiring Your Data Team
-- Category: #articles
 - URL: https://blog.count.co/the-ultimate-guide-to-hiring-your-data-team/
 
 ## Highlights

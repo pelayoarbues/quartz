@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[John Harris]]
 - Full Title: ‘There Was All Sorts of Toxic Behaviour’: Timnit Gebru on Her Sacking by Google, AI’s Dangers and Big Tech’s Biases
-- Category: #articles
 - URL: https://www.theguardian.com/lifeandstyle/2023/may/22/there-was-all-sorts-of-toxic-behaviour-timnit-gebru-on-her-sacking-by-google-ais-dangers-and-big-techs-biases?CMP=Share_AndroidApp_Other
 
 ## Highlights

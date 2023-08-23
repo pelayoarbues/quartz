@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Stay SaaSy]]
 - Full Title: Numbers to Know for Managing
-- Category: #articles
 - URL: https://techleaddigest.net/link/15070/web
 
 ## Highlights

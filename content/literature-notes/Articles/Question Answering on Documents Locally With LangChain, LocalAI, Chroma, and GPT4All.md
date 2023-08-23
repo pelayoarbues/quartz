@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Mudler blog]]
 - Full Title: Question Answering on Documents Locally With LangChain, LocalAI, Chroma, and GPT4All
-- Category: #articles
 - URL: https://mudler.pm/posts/localai-question-answering/
 
 ## Highlights

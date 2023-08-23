@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Zhuohan Li]]
 - Full Title: 🌟 Thrilled to introduce vLLM with @woosuk_k!
-- Category: #articles
 - URL: https://twitter.com/zhuohan123/status/1671234707206590464
 
 ## Highlights

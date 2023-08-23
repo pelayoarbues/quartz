@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[No Idea Blog]]
 - Full Title: Being Glue talk
-- Category: #articles
 - Document Note: Glue work refers to the less glamorous, less-promotable work that is necessary to make a team successful. It can include onboarding new people and making them productive faster, improving processes to make customers happy, and filling the gap between a project that succeeds and one that fails. It often requires technical leadership skills and can be career-limiting if left unconscious.
 - URL: https://noidea.dog/glue
 

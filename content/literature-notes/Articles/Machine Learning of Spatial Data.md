@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[MDPI]]
 - Full Title: Machine Learning of Spatial Data
-- Category: #articles
 - URL: https://www.mdpi.com/2220-9964/10/9/600/htm
 
 ## Highlights

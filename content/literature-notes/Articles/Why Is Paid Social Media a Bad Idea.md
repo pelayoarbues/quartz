@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[David Heinemeier Hansson (dhh@hey.com)]]
 - Full Title: Why Is Paid Social Media a Bad Idea?
-- Category: #articles
 - URL: https://world.hey.com/dhh/why-is-paid-social-media-a-bad-idea-623a9c76
 
 ## Highlights

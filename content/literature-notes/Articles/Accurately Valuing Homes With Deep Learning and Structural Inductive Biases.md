@@ -13,8 +13,6 @@ Document Tags: [[favorite]]
 ## Metadata
 - Author: [[Stu (Michael) Stewart]]
 - Full Title: Accurately Valuing Homes With Deep Learning and Structural Inductive Biases
-- Category: #articles
-- Document Tags: [[favorite]] 
 - URL: https://medium.com/opendoor-labs/accurately-valuing-homes-with-deep-learning-and-structural-inductive-biases-18232ede1efd
 
 ## Highlights

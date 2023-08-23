@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[openai.com]]
 - Full Title: Introducing ChatGPT and Whisper APIs
-- Category: #articles
 - URL: https://openai.com/blog/introducing-chatgpt-and-whisper-apis
 
 ## Highlights

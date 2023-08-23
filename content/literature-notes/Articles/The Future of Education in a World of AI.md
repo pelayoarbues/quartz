@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Ethan Mollick]]
 - Full Title: The Future of Education in a World of AI
-- Category: #articles
 - URL: https://www.oneusefulthing.org/p/the-future-of-education-in-a-world
 
 ## Highlights

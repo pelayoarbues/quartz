@@ -7,12 +7,11 @@ tags:
 ---
 # The Rise (And Fall?) of Data Debt
 
-![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3cbe092e-0fe9-41a6-9a4e-0801246ff8f3_1600x923.png)
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpub_JH7b5wf.png)
 
 ## Metadata
 - Author: [[Martin Sahlen]]
 - Full Title: The Rise (And Fall?) of Data Debt
-- Category: #articles
 - Document Note: The article argues that data engineering is still very immature compared to software engineering and that the rise of the modern data stack has exacerbated existing problems. It suggests that data teams are losing control and are creating expensive and confusing piles of garbage, driving costs and causing compliance and security issues. It states that data teams don't understand the lifecycle of the data and have ignored long-standing best practices, which has led to an explosion of tables and dashboards that decay in value. It proposes aligning data teams with business goals, managing cost at the right level, and understanding the cost, usage, and lineage of data assets to address these issues.
 - URL: https://martinsahlen.substack.com/p/the-rise-and-fall-of-data-debt?sd=pf
 

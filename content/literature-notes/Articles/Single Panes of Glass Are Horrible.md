@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Randy Au]]
 - Full Title: "Single Panes of Glass" Are Horrible
-- Category: #articles
 - URL: https://counting.substack.com/p/single-panes-of-glass-are-horrible
 
 ## Highlights

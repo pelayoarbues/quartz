@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Alex Fernández]]
 - Full Title: Un error que cometimos en el equipo fue asumir que...
-- Category: #articles
 - URL: https://twitter.com/_alexfdz/status/1673579503308660739
 
 ## Highlights

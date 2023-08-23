@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Akshat Bubna]]
 - Full Title: How to Label 1M Data Points/Week
-- Category: #articles
 - URL: https://scale.com/blog/how-to-label-1m-data-points-week
 
 ## Highlights

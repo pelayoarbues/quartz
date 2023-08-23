@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Dylan Patel]]
 - Full Title: Google "We Have No Moat, and Neither Does OpenAI"
-- Category: #articles
 - URL: https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 
 ## Highlights

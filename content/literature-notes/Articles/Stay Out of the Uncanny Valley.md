@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Judd Antin]]
 - Full Title: Stay Out of the Uncanny Valley
-- Category: #articles
 - URL: https://medium.com/onebigthought/stay-out-of-the-uncanny-valley-d64aeb060b6c?source=rss----2fc27e03ef21---4
 
 ## Highlights

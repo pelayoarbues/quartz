@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Jason Fried (jason@hey.com)]]
 - Full Title: How We Built Something Useful
-- Category: #articles
 - URL: https://world.hey.com/jason/how-we-built-something-useful-8ff6a83b
 
 ## Highlights

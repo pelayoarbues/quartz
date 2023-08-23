@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Carrie Ditzel]]
 - Full Title: How to Feel Less Lonely as You Get Older
-- Category: #articles
 - URL: https://psyche.co/guides/how-to-feel-less-lonely-as-work-and-family-quieten-down-later-in-life
 
 ## Highlights

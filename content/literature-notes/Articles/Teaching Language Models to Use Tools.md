@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Cameron R. Wolfe]]
 - Full Title: Teaching Language Models to Use Tools
-- Category: #articles
 - URL: https://cameronrwolfe.substack.com/p/teaching-language-models-to-use-tools
 
 ## Highlights

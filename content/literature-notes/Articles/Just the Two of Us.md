@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[hey.com]]
 - Full Title: Just the Two of Us
-- Category: #articles
 - Document Note: This article discusses the benefits of having two-person teams for software development and how it can enable faster progress. It suggests that trimming the "overgrown crown" and having smaller teams can result in faster progress and less frustration. It proposes that if more than two people are needed, it is better to add another two-person team rather than adding people to the existing team. It encourages companies to adopt Shape Up and scope and shape their work accordingly to achieve the most efficient results.
 - URL: https://world.hey.com/jason/just-the-two-of-us-afb2f54e
 

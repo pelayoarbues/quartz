@@ -12,7 +12,7 @@ tags:
 ## Metadata
 - Author: [[that’s]]
 - Full Title: Gwyneth Windflower
-- Category: #articles
+- Document Note: This article discusses the importance of intention when it comes to data quality. It argues that maps should be measured on how well they help achieving their purpose, rather than on self-referential measures such as internal consistency, resolution, and update speed. The author uses the example of a trip to the library to illustrate the point that to know the proper level of detail in a map, one must first know the intention of the map. The article concludes with the idea that intentionality can help measure the impact and effectiveness of data, and should be brought into data work in order to measure the impact, partner with stakeholders, and prioritize work.
 - URL: https://www.gwenwindflower.com/blog/1
 
 ## Highlights

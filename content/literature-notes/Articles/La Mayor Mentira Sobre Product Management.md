@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Simón Muñoz]]
 - Full Title: La Mayor Mentira Sobre Product Management
-- Category: #articles
 - URL: https://www.estrategiadeproducto.com/p/la-mayor-mentira-product-management
 
 ## Highlights

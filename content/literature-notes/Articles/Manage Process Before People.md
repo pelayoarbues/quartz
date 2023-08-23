@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[David Heinemeier Hansson (dhh@hey.com)]]
 - Full Title: Manage Process Before People
-- Category: #articles
 - URL: https://world.hey.com/dhh/manage-process-before-people-20736695
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[readwise.io]]
 - Full Title: GENERATIVE AI AT WORK
-- Category: #articles
 - URL: https://readwise.io/reader/document_raw_content/48859386
 
 ## Highlights

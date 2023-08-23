@@ -12,7 +12,7 @@ tags:
 ## Metadata
 - Author: [[lesters]]
 - Full Title: Efficient Open-Domain Question-Answering on Vespa.ai
-- Category: #articles
+- Document Note: This post shows how to recreate the state-of-the-art results for retrieval-based question-answering systems on Vespa.ai. It covers the components needed for retrieval and ranking, such as BM25, vector similarity search, NLP models, tokenizers and middleware. The goal is to recreate the Dense Passage Retrieval (DPR) paper results for the Natural Questions benchmark, combining term-based and embedding-based retrieval. The results show that the current state-of-the-art for retrieval-based systems can be reproduced on Vespa.
 - URL: https://blog.vespa.ai/efficient-open-domain-question-answering-on-vespa/
 
 ## Highlights
@@ -25,7 +25,6 @@ tags:
   • Importing of multiple pre-trained BERT-based models in Vespa for encoding embedding vectors and extracting answers.
   • Custom logic for tokenization and other things. ([View Highlight](https://read.readwise.io/read/01gvp299tr8w4njt20pay2kk6f))
 - The Natural Questions benchmark consists of natural language questions and answers. How to retrieve and represent the knowledge required to answer the questions is up to each system. There are two main approaches to this: retrieval and parametric. ([View Highlight](https://read.readwise.io/read/01gvp2a23kvt8gykn19b9p7ahf))
-## New highlights added March 17, 2023 at 9:01 PM
 - A retrieval-based question answering system typically stores its “knowledge” in an information retrieval system. This can be sentences, paragraphs, or entire documents. ([View Highlight](https://read.readwise.io/read/01gvqy2z910vjwbhvg9vebayna))
 - The retriever is responsible for generating a set of candidate passages. Since the subsequent reader component is expensive to evaluate, it is crucial to have an effective retrieval mechanism ([View Highlight](https://read.readwise.io/read/01gvqy3gqgw6v7vkxfj3ny6224))
 - The number of potential terms in a vocabulary can be vast indeed. The basic idea behind embedding vectors is to compress this high dimensional sparse vector to a much smaller dense vector where most dimensions contain a non-zero value. This has the effect of projecting a query or document vector into a lower-dimensional space. ([View Highlight](https://read.readwise.io/read/01gvqy4g2w29vxxr65m82k0n13))

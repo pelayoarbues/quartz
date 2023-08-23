@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[ODSC Community]]
 - Full Title: Generative NLP Models in Customer Service: Evaluating Them, Challenges, and Lessons Learned in Banking
-- Category: #articles
 - URL: https://opendatascience.com/generative-nlp-models-in-customer-service-evaluating-them-challenges-and-lessons-learned-in-banking/
 
 ## Highlights

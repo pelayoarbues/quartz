@@ -4,6 +4,7 @@ title: "Retrieval"
 tags: 
 - articles
 - literature-note
+Document Tags: [[rag]] [[RAG]]
 ---
 # Retrieval
 
@@ -12,7 +13,6 @@ tags:
 ## Metadata
 - Author: [[LangChain]]
 - Full Title: Retrieval
-- Category: #articles
 - URL: https://blog.langchain.dev/retrieval/
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[SeattleDataGuy]]
 - Full Title: Building a Million Dollar Data Analytics Service
-- Category: #articles
 - URL: https://seattledataguy.substack.com/p/building-a-million-dollar-data-analytics
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Pan, Xingang]]
 - Full Title: Drag Your GAN: Interactive Point-Based Manipulation on the Generative Image Manifold
-- Category: #articles
 - URL: https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 
 ## Highlights

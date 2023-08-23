@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Begoña Gómez Urzaiz]]
 - Full Title: ¡Socorro, Mi Barrio Se Está Poniendo Precioso! Así Es La Gentriansiedad, El Miedo a Las Mejoras Urbanas
-- Category: #articles
 - URL: https://www.lavanguardia.com/vivo/tendencias/20230519/8976281/socorro-mi-barrio-esta-poniendo-precioso-asi-gentriansiedad-miedo-mejoras-urbanas.html
 
 ## Highlights

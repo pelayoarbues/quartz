@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Simon Willison's Weblog]]
 - Full Title: The Dual LLM Pattern for Building AI Assistants That Can Resist Prompt Injection
-- Category: #articles
 - URL: http://simonwillison.net/2023/Apr/25/dual-llm-pattern/#atom-everything
 
 ## Highlights

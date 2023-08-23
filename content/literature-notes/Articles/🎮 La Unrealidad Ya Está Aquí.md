@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Ramiro Aznar]]
 - Full Title: 🎮 La Unrealidad Ya Está Aquí
-- Category: #articles
 - URL: https://elgrancirculo.substack.com/p/la-unrealidad-ya-esta-aqui
 
 ## Highlights

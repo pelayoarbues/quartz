@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Chioma Onwuanibe]]
 - Full Title: No Time to Lead? Then Be Prepared to Fail.
-- Category: #articles
 - URL: https://www.forrester.com/blogs/no-time-to-lead-then-be-prepared-to-fail/
 
 ## Highlights

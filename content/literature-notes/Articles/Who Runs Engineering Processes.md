@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Irrational Exuberance]]
 - Full Title: Who Runs Engineering Processes?
-- Category: #articles
 - URL: https://lethain.com/who-runs-eng-process/
 
 ## Highlights

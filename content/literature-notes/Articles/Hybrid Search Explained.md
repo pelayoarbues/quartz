@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[weaviate.io]]
 - Full Title: Hybrid Search Explained
-- Category: #articles
 - URL: https://weaviate.io/blog/hybrid-search-explained
 
 ## Highlights

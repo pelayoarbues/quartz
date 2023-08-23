@@ -13,8 +13,6 @@ Document Tags: [[rag]]
 ## Metadata
 - Author: [[Tomaz Bratanic]]
 - Full Title: Knowledge Graphs & LLMs: Fine-Tuning vs. Retrieval-Augmented Generation
-- Category: #articles
-- Document Tags: [[rag]] 
 - URL: https://medium.com/neo4j/knowledge-graphs-llms-fine-tuning-vs-retrieval-augmented-generation-30e875d63a35
 
 ## Highlights
@@ -30,7 +28,6 @@ Document Tags: [[rag]]
 - After you have selected the base LLM, you can start the next step of fine-tuning it. The fine-tuning step is relatively cheap regarding computation cost due to available techniques like the [LoRa](https://huggingface.co/blog/lora) and [QLoRA](https://arxiv.org/abs/2305.14314). ([View Highlight](https://read.readwise.io/read/01h3wk8gcasvnyz6xez3qgrdx0))
 - However, ***constructing a training dataset*** is more complex and can get expensive. If you can not afford a dedicated team of annotators, it seems that the trend is to ***use an LLM to construct a training dataset*** to fine-tune your desired LLM (this is really meta). ([View Highlight](https://read.readwise.io/read/01h3wp2ggg6wakvyyex6zv66dn))
 - There is also a relatively [fresh project by H2O called WizardLM](https://github.com/h2oai/h2o-wizardlm), which is designed to turn documents into question-answer pairs that can be used to fine-tune an LLM. ([View Highlight](https://read.readwise.io/read/01h3wp30jzdyf395q7jc73wkyy))
-## New highlights added July 3, 2023 at 10:21 AM
 - previously NLP models were most often domain and task-specific, meaning that you would most likely need to train a custom natural language model depending on your use case and domain. However, thanks to the generalization capabilities of LLMs, a single model can be applied to solve various collections of tasks ([View Highlight](https://read.readwise.io/read/01h4dby03xnt20a01m28b8v4ap))
 - The retrieval-augmented approach has some clear advantages over the fine-tuning approach:
   • The answer can cite its sources of information, which allows you to validate the information and potentially change or update the underlying information based on requirements

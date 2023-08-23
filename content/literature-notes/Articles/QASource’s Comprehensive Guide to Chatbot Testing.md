@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Timothy Joseph]]
 - Full Title: QASource’s Comprehensive Guide to Chatbot Testing
-- Category: #articles
 - URL: https://blog-qasource-com.cdn.ampproject.org/v/s/blog.qasource.com/industry-insights/a-guide-to-chatbot-testing?amp_gsa=1&amp_js_v=a9&hs_amp=true&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=De%20%251%24s&aoh=16826203673235&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fblog.qasource.com%2Findustry-insights%2Fa-guide-to-chatbot-testing
 
 ## Highlights

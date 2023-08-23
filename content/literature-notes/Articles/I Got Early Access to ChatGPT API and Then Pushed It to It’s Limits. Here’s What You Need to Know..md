@@ -12,7 +12,7 @@ tags:
 ## Metadata
 - Author: [[Alistair Pullen]]
 - Full Title: I Got Early Access to ChatGPT API and Then Pushed It to It’s Limits. Here’s What You Need to Know.
-- Category: #articles
+- Document Note: The ChatGPT API works differently from standard playground models, as tokens wrap messages between the user and chatbot and three message types (system, assistant, user) can be sent. The system message is special and can be only sent once. The API works primitively for sending/receiving, and prompts include bot personality information. The system prompt is the most important thing to get right, as it defines character, purpose, and available actions, and is sent with every request. Subroutines and memory editing are used to allow the chatbot to perform actions and insert them into the context window. Lastly, context window management is a difficult problem as the token limit is low, and the system prompt must always be included in each request.
 - URL: https://www.buildt.ai/blog/vm3qozd4qfrbbyzukqhynrwm9vb9tq
 
 ## Highlights

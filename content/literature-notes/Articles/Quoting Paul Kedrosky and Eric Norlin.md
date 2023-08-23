@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Simon Willison's Weblog]]
 - Full Title: Quoting Paul Kedrosky and Eric Norlin
-- Category: #articles
 - URL: http://simonwillison.net/2023/Mar/27/paul-kedrosky-and-eric-norlin/#atom-everything
 
 ## Highlights

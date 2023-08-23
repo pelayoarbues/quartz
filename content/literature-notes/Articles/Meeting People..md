@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[lethain.com]]
 - Full Title: Meeting People.
-- Category: #articles
 - URL: https://lethain.com/meeting-people/
 
 ## Highlights

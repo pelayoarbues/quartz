@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[readwise.io]]
 - Full Title: Discovering Language Model Behaviors with Model-Written Evaluations
-- Category: #articles
 - URL: https://readwise.io/reader/document_raw_content/20385364
 
 ## Highlights

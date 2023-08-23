@@ -12,7 +12,7 @@ tags:
 ## Metadata
 - Author: [[Scott Martens]]
 - Full Title: Don’t Build the Thing, Build the Thing That Builds the Thing!
-- Category: #articles
+- Document Note: Dev-GPT is an AI automation tool that uses OpenAI's GPT-3.5-turbo or GPT-4 to build microservices. It replaces the traditional software development process with an AI-driven approach that eliminates tickets and scrums, so developers can focus on strategic questions that demand creativity. Dev-GPT generates microservices in minutes, saving time and reducing costs. Companies can bring new services online quickly in response to new needs and market changes.
 - URL: https://jina.ai/news/dont-build-the-thing-build-the-thing-that-builds-the-thing/
 
 ## Highlights

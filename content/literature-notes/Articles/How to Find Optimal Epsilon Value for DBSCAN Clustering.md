@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Avi Chawla]]
 - Full Title: How to Find Optimal Epsilon Value for DBSCAN Clustering?
-- Category: #articles
 - URL: https://www.blog.dailydoseofds.com/p/how-to-find-optimal-epsilon-value
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[sciencedirect.com]]
 - Full Title: The Neoliberal Tenant Dystopia: Digital Polyplatform Rentierism, the Hybridization of Platform-Based Rental Markets and Financialization of Housing
-- Category: #articles
 - URL: https://www.sciencedirect.com/science/article/pii/S0264275123000574
 
 ## Highlights

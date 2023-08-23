@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Isabella Fulford]]
 - Full Title: 🌟 Our ChatGPT Retrieval Plugin is #1 trending on GitHub!
-- Category: #articles
 - URL: https://twitter.com/isafulf/status/1639712517877547008
 
 ## Highlights

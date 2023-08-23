@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Daniel Chalef]]
 - Full Title: Building an Intent Router With Langchain and Zep
-- Category: #articles
 - URL: https://www.getzep.com/building-an-intent-router-with-langchain-and-zep/
 
 ## Highlights

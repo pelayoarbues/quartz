@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Benn Stancil]]
 - Full Title: Microsoft builds the bomb
-- Category: #articles
 - URL: https://benn.substack.com/p/microsoft-builds-the-bomb
 
 ## Highlights

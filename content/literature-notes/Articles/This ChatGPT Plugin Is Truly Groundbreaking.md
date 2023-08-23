@@ -12,7 +12,7 @@ tags:
 ## Metadata
 - Author: [[James L.]]
 - Full Title: This ChatGPT Plugin Is Truly Groundbreaking
-- Category: #articles
+- Document Note: OpenAI has developed ChatGPT, which will benefit from the Wolfram plugin, bridging the gap between natural language and computational structures. Wolfram Research, which was founded by Stephen Wolfram, aims to realize computational knowledge and numerical computation. Wolfram has produced several industry-leading and paradigm-changing technologies and innovations, including Wolfram Language, Mathematica, A New Kind of Science, and Wolfram|Alpha. These tools could be instrumental in bridging the gap between Conversational AI and computational knowledge.
 - URL: https://medium.com/predict/this-chatgpt-plugin-is-truly-groundbreaking-53fc8733328b
 
 ## Highlights
@@ -27,7 +27,6 @@ tags:
 - Humans and AI coexist in the space of all computational and algorithmic possibility known as the ruliad. They are, however, mostly separate from one another in this space. Wolfram goes as far as acknowledging an “AI civilization” separate from our own. This separation is what we refer to when we say AI is a black box. These systems exceed our expectations and simultaneously evade our understanding. ([View Highlight](https://read.readwise.io/read/01h00w37b8me1g1j25map07911))
 - we arrive at a civilization built upon a technological infrastructure that we fundamentally cannot understand ([View Highlight](https://read.readwise.io/read/01h00w72cyjqs3vexjwrcp5vwc))
 - The simplest, and perhaps most alarming, evidence we have for the arrival of a black box society is the unprecedented difficulty faced by lawmakers in navigating AI regulation. ([View Highlight](https://read.readwise.io/read/01h00w7pybyj3yjzs8cqegehc3))
-## New highlights added May 9, 2023 at 10:03 PM
 - “Now, something like speed actually can pose a real risk for compliance with IHL. **If human operators don’t have the actual ability to monitor and to intervene in processes, if they’re accelerated beyond human cognition, it means that they wouldn’t be able to prevent an unlawful or an unnecessary attack** and that’s actually an IHL requirement.” ([View Highlight](https://read.readwise.io/read/01h00yx2vdyadfrs8aqjpktyxw))
 - This is shown in the fundamental inexpressibility of black box AI, and the inaptitude of our current legal frameworks to rise to the challenge. How are we supposed to combat this? Is it even possible to combat this? ([View Highlight](https://read.readwise.io/read/01h00yyzdg5bp657jkgty2q49w))
 - These approaches include but are not limited to:
@@ -41,5 +40,4 @@ tags:
 - Given the right configuration, a suite of tools such as those provided by Wolfram Research could bridge the gap between the computational complexities of black box AI, and the natural language comprehension that humans possess. ([View Highlight](https://read.readwise.io/read/01h00z1exrsgw7cv9adpnw96zw))
 - What can be done about AI decisions occurring at a rate faster than human cognition? In this particular strand of semantic and symbolic representational approaches, Wolfram and GPT-4 (perhaps GPT-5) could be used for real-time, human-readable, monitoring and analysis of AI decisions. ([View Highlight](https://read.readwise.io/read/01h00z2732y7grx7nmhrznqh7z))
 - This method is **bidirectional**, meaning that we needn’t only use it to receive a readout from AI, but we can use it to better articulate our demands on AI systems at the outset. By taking on an approach that combines upstream and downstream intervention, we can better plan for and mitigate AWS issues. ([View Highlight](https://read.readwise.io/read/01h00z2p5e36npr091wngmtvc3))
-## New highlights added May 16, 2023 at 10:03 AM
 - How to Get Ahead of the Curve for Wolfram Plugin ([View Highlight](https://read.readwise.io/read/01h0hqf73cqdf0y8sybtqbz25x))

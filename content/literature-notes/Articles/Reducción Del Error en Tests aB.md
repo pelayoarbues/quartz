@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[datanalytics.com]]
 - Full Title: Reducción Del Error en Tests a/B
-- Category: #articles
 - URL: https://www.datanalytics.com/2023/03/21/reduccion-error-tests-ab/
 
 ## Highlights

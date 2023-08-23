@@ -12,7 +12,7 @@ tags:
 ## Metadata
 - Author: [[W&B]]
 - Full Title: How to Evaluate, Compare, and Optimize LLM Systems
-- Category: #articles
+- Document Note: The author discusses their experience with programming, including their early introduction to it with microcomputers, their interest in Lisp, their PhD program in computer science, their work on startups and ecommerce software during the dot-com bubble, and their eventual realization that their true passion was writing essays and collaborating with others through Y Combinator. They also reflect on the challenges of running a company and the importance of gaining experience as investors.
 - URL: https://wandb.ai/ayush-thakur/llm-eval-sweep/reports/How-to-Evaluate-Compare-and-Optimize-LLM-Systems--Vmlldzo0NzgyMTQz
 
 ## Highlights

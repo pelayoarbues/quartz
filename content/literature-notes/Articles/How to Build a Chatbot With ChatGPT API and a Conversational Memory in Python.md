@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Avra]]
 - Full Title: How to Build a Chatbot With ChatGPT API and a Conversational Memory in Python
-- Category: #articles
 - URL: https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python-8d856cda4542
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[facebook.com]]
 - Full Title: DINOv2: State-of-the-Art Computer Vision Models With Self-Supervised Learning
-- Category: #articles
 - URL: https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/
 
 ## Highlights

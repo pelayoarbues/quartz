@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Sahil Bloom's Curiosity Chronicle]]
 - Full Title: Deferred Happiness & the Retirement Trap
-- Category: #articles
 
 ## Highlights
 - The Wall Street Journal recently released a visual breaking down how people spend their time in retirement. The visual shows that the majority of a retiree's time is spent on sleeping, relaxing and leisure, and watching television. ([View Highlight](https://read.readwise.io/read/01h6vv47315jv3kwrehh6v31zn))

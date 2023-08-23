@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[37signals.com]]
 - Full Title: 8's Enough 40's Plenty
-- Category: #articles
 - URL: https://37signals.com/podcast/8s-enough-40s-plenty/
 
 ## Highlights

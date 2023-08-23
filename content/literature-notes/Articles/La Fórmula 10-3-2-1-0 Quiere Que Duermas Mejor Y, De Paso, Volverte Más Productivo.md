@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Esther Miguel Trula]]
 - Full Title: La Fórmula 10-3-2-1-0 Quiere Que Duermas Mejor Y, De Paso, Volverte Más Productivo
-- Category: #articles
 - URL: https://www.xataka.com/magnet/la-formula-10-3-2-1-0-quiere-que-duermas-mejor-y-de-paso-volverte-mas-productivo
 
 ## Highlights

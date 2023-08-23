@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Sahil Bloom's Curiosity Chronicle]]
 - Full Title: The Question of Nine, Return on Hassle, & More
-- Category: #articles
 
 ## Highlights
 - "Vitality shows in not only the ability to persist but the ability to start over." - F. Scott Fitzgerald ([View Highlight](https://read.readwise.io/read/01h7078s9darnavy8c5qcq49kq))

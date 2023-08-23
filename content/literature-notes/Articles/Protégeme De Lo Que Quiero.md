@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Joan Tubau]]
 - Full Title: Protégeme De Lo Que Quiero
-- Category: #articles
 - URL: https://joantubau.substack.com/p/protegeme-de-lo-que-quiero
 
 ## Highlights

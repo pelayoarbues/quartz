@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Tiago Forte]]
 - Full Title: How to Summarize Books Using ChatGPT: 7 Experiments in AI Distillation
-- Category: #articles
 - URL: https://fortelabs.com/blog/how-to-summarize-books-using-chatgpt/
 
 ## Highlights

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[firstround.com]]
 - Full Title: Are You Ready to Hire Your First Data Scientist?
-- Category: #articles
 - URL: https://review.firstround.com/the-startup-founders-guide-to-hiring-a-data-scientist
 
 ## Highlights

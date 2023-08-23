@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[argilla.io]]
 - Full Title: 🔫 Zero-Shot and Few-Shot Classification With SetFit
-- Category: #articles
 - URL: https://docs.argilla.io/en/latest/tutorials/notebooks/labelling-textclassification-setfit-zeroshot.html
 
 ## Highlights

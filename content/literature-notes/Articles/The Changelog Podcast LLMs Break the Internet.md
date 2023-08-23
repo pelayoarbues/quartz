@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Simon Willison's Weblog]]
 - Full Title: The Changelog Podcast: LLMs Break the Internet
-- Category: #articles
 - URL: http://simonwillison.net/2023/Apr/8/llms-break-the-internet/#atom-everything
 
 ## Highlights

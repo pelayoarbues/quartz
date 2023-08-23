@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[FloydHub Blog]]
 - Full Title: Using Sentence Embeddings to Automate Customer Support, Part One
-- Category: #articles
 - URL: https://blog.floydhub.com/automate-customer-support-part-one/
 
 ## Highlights

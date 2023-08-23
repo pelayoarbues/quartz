@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[computational irreducibility]]
 - Full Title: The Concept of the Ruliad
-- Category: #articles
 - URL: https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/
 
 ## Highlights

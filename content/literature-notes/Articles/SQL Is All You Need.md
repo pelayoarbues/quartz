@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[jordivillar.com]]
 - Full Title: SQL Is All You Need
-- Category: #articles
 - URL: https://jordivillar.com/data/sql-is-all-you-need
 
 ## Highlights

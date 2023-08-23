@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[lethain.com]]
 - Full Title: Introducing SREs, TPMs and Other Specialized Roles.
-- Category: #articles
 - URL: https://lethain.com/specialized-roles/
 
 ## Highlights

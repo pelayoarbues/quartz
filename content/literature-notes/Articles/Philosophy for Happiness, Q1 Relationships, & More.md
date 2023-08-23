@@ -12,12 +12,10 @@ tags:
 ## Metadata
 - Author: [[Sahil Bloom's Curiosity Chronicle]]
 - Full Title: Philosophy for Happiness, Q1 Relationships, & More
-- Category: #articles
 
 ## Highlights
 - As you push for growth in your life, there will be people, actions, behaviors, and things that stand ready to inhibit that progress.
   I call these inhibitors "boat anchors" in your life ([View Highlight](https://read.readwise.io/read/01h6f5mn1k9t6j0qbse08ndrt3))
-## New highlights added July 29, 2023 at 12:15 AM
 - boat anchors" include:
   • People who you allow in your life who laugh at your ambition or tell you to be more realistic. These same people are often focused on the past and want you to remain in the same place you were when your relationship first developed.
   • Small actions or behaviors you adopt that are subtly hindering your growth.

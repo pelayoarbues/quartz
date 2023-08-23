@@ -12,8 +12,8 @@ tags:
 ## Metadata
 - Author: [[Matteo Courthoud]]
 - Full Title: Understanding CUPED
-- Category: #articles
-- Document Note: CUPED (Controlled-Experiment using Pre-Experiment Data) is a technique used to increase the power of randomized controlled trials in A/B tests. It is essentially a residualized outcome regression and can be computed by regressing the post-treatment outcome on the treatment indicator, or by regressing the pre-treatment outcome and computing the residuals. It is closely related to autoregression and difference-in-differences, but is not equivalent, except in special cases. When randomization is imperfect, difference-in-differences is more efficient than the other methods.
+- Document Note: CUPED (Controlled-Experiment using Pre-Experiment Data) is a technique used to increase the power of randomized controlled trials in A/B tests, which is essentially a residualized outcome regression. It can be computed via a difference in means or an equivalent formulation. It controls for individual-level variation that is persistent over time and is related to, but not equivalent to Difference-in-Differences and autoregression. Simulations show that CUPED, Difference-in-Differences, and autoregression have similar standard deviations, while the simple difference estimator has a larger standard deviation.
+   CUPED (Controlled-Experiment using Pre-Experiment Data) is a technique used to increase the power of randomized controlled trials in A/B tests. It is essentially a residualized outcome regression and can be computed by regressing the post-treatment outcome on the treatment indicator, or by regressing the pre-treatment outcome and computing the residuals. It is closely related to autoregression and difference-in-differences, but is not equivalent, except in special cases. When randomization is imperfect, difference-in-differences is more efficient than the other methods.
 - URL: https://towardsdatascience.com/understanding-cuped-a822523641af
 
 ## Highlights

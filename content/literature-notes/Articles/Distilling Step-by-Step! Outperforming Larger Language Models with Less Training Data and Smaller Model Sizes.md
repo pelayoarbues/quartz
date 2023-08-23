@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[readwise.io]]
 - Full Title: Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes
-- Category: #articles
 - URL: https://readwise.io/reader/document_raw_content/51090821
 
 ## Highlights

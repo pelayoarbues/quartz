@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[qdrant.tech]]
 - Full Title: Vector Database Benchmarks
-- Category: #articles
 - URL: https://qdrant.tech/benchmarks/
 
 ## Highlights

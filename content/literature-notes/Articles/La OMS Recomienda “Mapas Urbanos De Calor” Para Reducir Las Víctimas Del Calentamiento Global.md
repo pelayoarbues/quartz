@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[efeverde]]
 - Full Title: La OMS Recomienda “Mapas Urbanos De Calor” Para Reducir Las Víctimas Del Calentamiento Global
-- Category: #articles
 - URL: https://efeverde.com/oms-recomienda-mapas-urbanos-calor-victimas-calentamiento-global/
 
 ## Highlights

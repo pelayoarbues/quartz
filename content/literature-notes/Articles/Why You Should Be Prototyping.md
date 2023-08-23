@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[rachel binx]]
 - Full Title: Why You Should Be Prototyping
-- Category: #articles
 - URL: https://rachelbinx.medium.com/why-you-should-be-prototyping-e4f7d55a6848
 
 ## Highlights

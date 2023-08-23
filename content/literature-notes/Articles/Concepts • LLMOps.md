@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[vinija.ai]]
 - Full Title: Concepts • LLMOps
-- Category: #articles
 - URL: https://vinija.ai/concepts/LLMOps/
 
 ## Highlights

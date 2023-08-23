@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Freek Vermeulen and Niro Sivanathan]]
 - Full Title: Stop Doubling Down on your failing strategy
-- Category: #articles
 - Document Note: 
    Q: What is an escalation of commitment?
    A: It is holding on too long to a strategy that was once successful.

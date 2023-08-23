@@ -12,13 +12,11 @@ tags:
 ## Metadata
 - Author: [[Chip Huyen]]
 - Full Title: Building LLM Applications for Production
-- Category: #articles
 - URL: https://huyenchip.com/2023/04/11/llm-engineering.html
 
 ## Highlights
 - • It’s easy to make something cool with LLMs, but very hard to make something production-ready with them.
   • LLM limitations are exacerbated by a lack of engineering rigor in prompt engineering, partially due to the ambiguous nature of natural languages, and partially due to the nascent nature of the field. ([View Highlight](https://read.readwise.io/read/01gythgw1g0rztbyerhndvrrkp))
-## New highlights added April 25, 2023 at 11:50 AM
 - • It’s easy to make something cool with LLMs, but very hard to make something production-ready with them.
   • LLM limitations are exacerbated by a lack of engineering rigor in prompt engineering, partially due to the ambiguous nature of natural languages, and partially due to the nascent nature of the field. ([View Highlight](https://read.readwise.io/read/01gyvq5zj74e2jyaa4jg0ghc6q))
 - Challenges of productionizing prompt engineering ([View Highlight](https://read.readwise.io/read/01gyvq6bgnjnf7fscb92rhyc3y))

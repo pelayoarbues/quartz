@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[3-2-1 Thursday newsletter - James Clear]]
 - Full Title: 3-2-1: One of the most valuable skills in life, and starting before you feel ready
-- Category: #articles
 - URL: https://jamesclear.com/3-2-1/may-25-2023
 
 ## Highlights

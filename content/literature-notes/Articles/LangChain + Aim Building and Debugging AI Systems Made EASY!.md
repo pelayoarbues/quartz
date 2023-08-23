@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Aimstack]]
 - Full Title: LangChain + Aim: Building and Debugging AI Systems Made EASY!
-- Category: #articles
 - URL: https://aimstack.io/blog/integrations/langchain-aim-building-and-debugging-ai-systems-made-easy
 
 ## Highlights

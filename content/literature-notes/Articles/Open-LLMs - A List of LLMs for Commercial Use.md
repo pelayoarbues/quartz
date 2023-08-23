@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Eugene Yan]]
 - Full Title: Open-LLMs - A List of LLMs for Commercial Use
-- Category: #articles
 - URL: https://eugeneyan.com//writing/open-llms/
 
 ## Highlights

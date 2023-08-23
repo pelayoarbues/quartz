@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Jacob Adler]]
 - Full Title: Reducing the Lottery Factor, for Data Teams
-- Category: #articles
 - URL: https://locallyoptimistic.com/post/reducing-the-lottery-factor-for-data-teams/
 
 ## Highlights

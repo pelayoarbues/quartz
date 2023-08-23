@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Simon Willison's Weblog]]
 - Full Title: AI-enhanced Development Makes Me More Ambitious With My Projects
-- Category: #articles
 - URL: http://simonwillison.net/2023/Mar/27/ai-enhanced-development/#atom-everything
 
 ## Highlights

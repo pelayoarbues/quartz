@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[OpenAI]]
 - Full Title: Planning for AGI and Beyond
-- Category: #articles
 - Document Note: This document outlines a mission to ensure that artificial general intelligence (AGI) is developed in a way that benefits humanity. It sets out principles to maximize the good and minimize the bad, and to ensure that the benefits of AGI are widely and fairly shared. It also outlines short-term and long-term steps to ensure that AI is developed safely and responsibly, including public standards for when an AGI effort should stop a training run, decide a model is safe to release, or pull a model from production use. Ultimately, the goal is for AGI to be an amplifier of humanity, and to ensure a successful transition to a world with superintelligence.
    1. How can we ensure that access to AGI is widely and fairly shared?
    2. What can be done to minimize the risks of misuse, drastic accidents, and societal disruption associated with AGI?

@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Benn Stancil]]
 - Full Title: Large Language Labor Markets
-- Category: #articles
 - URL: https://benn.substack.com/p/large-language-labor-markets
 
 ## Highlights

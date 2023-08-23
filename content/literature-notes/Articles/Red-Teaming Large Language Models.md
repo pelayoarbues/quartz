@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Nathan Lambert]]
 - Full Title: Red-Teaming Large Language Models
-- Category: #articles
 - URL: https://huggingface.co/blog/red-teaming
 
 ## Highlights

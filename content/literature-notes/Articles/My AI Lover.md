@@ -12,7 +12,6 @@ tags:
 ## Metadata
 - Author: [[Psyche Film]]
 - Full Title: My AI Lover
-- Category: #articles
 - URL: https://psyche.co/films/why-cant-you-be-real-the-emotionally-fraught-business-of-falling-for-an-ai?utm_source=rss-feed
 
 ## Highlights
