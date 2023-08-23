@@ -10,12 +10,6 @@ Document Tags: [[productivity]]
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/06f7a24f-b0c2-4275-8e1a-698559f7f17c.jpg)
 
-## Metadata
-- Author: [[Cal Newport]]
-- Full Title: Deep Work
-- Category: #books
-- Document Tags: [[productivity]]
-
 # Summary
 What is Deep Work? What are the reasons that make knowledge workers lose their familiarity with it? What is the consequence of spending too much time on shallow work?
 
@@ -151,21 +145,21 @@ In this section, the author discusses the problem of being constantly accessible
 - First, distraction remains a destroyer of depth. Therefore, the hub-and-spoke model provides a crucial template. Separate your pursuit of serendipitous encounters from your efforts to think deeply and build on these inspirations. You should try to optimize each effort separately, as opposed to mixing them together into a sludge that impedes both goals. (Location 1447)
 - Second, even when you retreat to a spoke to think deeply, when it’s reasonable to leverage the whiteboard effect, do so. By working side by side with someone on a problem, you can push each other toward deeper levels of depth, and therefore toward the generation of more and more valuable output as compared to working alone. (Location 1449)
 - this division between what and how is crucial but is overlooked in the professional world. It’s often straightforward to identify a strategy needed to achieve a goal, but what trips up companies is figuring out how to execute the strategy once identified. (Location 1465)
-- Discipline #1: Focus on the Wildly Important (Location 1477)
+- Discipline 1: Focus on the Wildly Important (Location 1477)
 - “The more you try to do, the less you actually accomplish.” (Location 1478)
 - execution should be aimed at a small number of “wildly important goals.” (Location 1478)
 - For an individual focused on deep work, the implication is that you should identify a small number of ambitious outcomes to pursue with your deep work hours. (Location 1480)
 - “If you want to win the war for attention, don’t try to say ‘no’ to the trivial distractions you find on the information smorgasbord; try to say ‘yes’ to the subject that arouses a terrifying longing, and let the terrifying longing crowd out everything else.” (Location 1483)
-- Discipline #2: Act on the Lead Measures (Location 1488)
+- Discipline 2: Act on the Lead Measures (Location 1488)
 - Once you’ve identified a wildly important goal, you need to measure your success. In 4DX, there are two types of metrics for this purpose: lag measures and lead measures. Lag measures describe the thing you’re ultimately trying to improve. (Location 1489)
 - the problem with lag measures is that they come too late to change your behavior: “When you receive them, the performance that drove them is already in the past.” (Location 1492)
 - Lead measures, on the other hand, “measure the new behaviors that will drive success on the lag measures.” (Location 1493)
 - In other words, lead measures turn your attention to improving the behaviors you directly control in the near future that will then have a positive impact on your long-term goals. (Location 1496)
 - For an individual focused on deep work, it’s easy to identify the relevant lead measure: time spent in a state of deep work dedicated toward your wildly important goal. (Location 1497)
 - When I shifted to tracking deep work hours, suddenly these measures became relevant to my day-to-day: Every hour extra of deep work was immediately reflected in my tally. (Location 1501)
-- Discipline #3: Keep a Compelling Scoreboard (Location 1502)
+- Discipline 3: Keep a Compelling Scoreboard (Location 1502)
 - when attempting to drive your team’s engagement toward your organization’s wildly important goal, it’s important that they have a public place to record and track their lead measures. This scoreboard creates a sense of competition that drives them to focus on these measures, even when other demands vie for their attention. (Location 1504)
-- Discipline #4: Create a Cadence of Accountability (Location 1517)
+- Discipline 4: Create a Cadence of Accountability (Location 1517)
 - the final step to help maintain a focus on lead measures is to put in place “a rhythm of regular and frequent meetings of any team that owns a wildly important goal.” (Location 1518)
 - During these meetings, the team members must confront their scoreboard, commit to specific actions to help improve the score before the next meeting, and describe what happened with the commitments they made at the last meeting. (Location 1519)
 - The 4DX framework is based on the fundamental premise that execution is more difficult than strategizing. After hundreds and hundreds of case studies, its inventors managed to isolate a few basic disciplines that seem to work particularly (Location 1528)
@@ -182,7 +176,7 @@ In this section, the author discusses the problem of being constantly accessible
 - if you keep interrupting your evening to check and respond to e-mail, or put aside a few hours after dinner to catch up on an approaching deadline, you’re robbing your directed attention centers of the uninterrupted rest they need for restoration. Even if these work dashes consume only a small amount of time, they prevent you from reaching the levels of deeper relaxation in which attention restoration can occur. (Location 1615)
 - trying to squeeze a little more work out of your evenings might reduce your effectiveness the next day enough that you end up getting less done than if you had instead respected a shutdown. (Location 1619)
 - deliberate practice is the systematic stretching of your ability for a given skill. It is the activity required to get better at something. Deep work and deliberate practice, as I’ve argued, overlap substantially. (Location 1623)
-- The implication of these results is that your capacity for deep work in a given day is limited. If you’re careful about your schedule (using, for example, the type of productivity strategies described in Rule #4), you should hit your daily deep work capacity during your workday. (Location 1631)
+- The implication of these results is that your capacity for deep work in a given day is limited. If you’re careful about your schedule (using, for example, the type of productivity strategies described in Rule 4), you should hit your daily deep work capacity during your workday. (Location 1631)
 - To succeed with this strategy, you must first accept the commitment that once your workday shuts down, you cannot allow even the smallest incursion of professional concerns into your field of attention. This includes, crucially, checking e-mail, as well as browsing work-related websites. (Location 1638)
 - to support your commitment to shutting down with a strict shutdown ritual that you use at the end of the workday to maximize the probability that you succeed. In more detail, this ritual should ensure that every incomplete task, goal, or project has been reviewed and that for each you have confirmed that either (1) you have a plan you trust for its completion, or (2) it’s captured in a place where it will be revisited when the time is right. (Location 1643)
 - the Zeigarnik effect. This effect, which is named for the experimental work of the early-twentieth-century psychologist Bluma Zeigarnik, describes the ability of incomplete tasks to dominate our attention. (Location 1657)
@@ -242,7 +236,7 @@ In this section, the author discusses the problem of being constantly accessible
 - There might be time blocks for lunch or relaxation breaks. To keep things reasonably clean, the minimum length of a block should be thirty minutes (i.e., one line on your page). This means, for example, that instead of having a unique small box for each small task on your plate for the day— respond to boss’s e-mail, submit reimbursement form, ask Carl about report— you can batch similar things into more generic task blocks. You might find it useful, in this case, to draw a line from a task block to the open right-hand side of the page where you can list out the full set of small tasks you plan to accomplish in that block. (Location 2446)
 - Cross out the blocks for the remainder of the day and create new blocks to the right of the old ones on the page (I draw my blocks skinny so I have room for several revisions). On some days, you might rewrite your schedule half a dozen times. Don’t despair if this happens. (Location 2457)
 - In my own daily scheduling discipline, in addition to regularly scheduling significant blocks of time for speculative thinking and discussion, I maintain a rule that if I stumble onto an important insight, then this is a perfectly valid reason to ignore the rest of my schedule for the day (Location 2480)
-- With structure, on the other hand, you can ensure that you regularly schedule blocks to grapple with a new idea, or work deeply on something challenging, or brainstorm for a fixed period— the type of commitment more likely to instigate innovation. (Recall, for example, the discussion in Rule #1 about the rigid rituals followed by many great creative thinkers.) And because you’re willing to abandon your plan when an innovative idea arises, you’re just as well suited as the distracted creative to follow up when the muse strikes. (Location 2491)
+- With structure, on the other hand, you can ensure that you regularly schedule blocks to grapple with a new idea, or work deeply on something challenging, or brainstorm for a fixed period— the type of commitment more likely to instigate innovation. (Recall, for example, the discussion in Rule 1 about the rigid rituals followed by many great creative thinkers.) And because you’re willing to abandon your plan when an innovative idea arises, you’re just as well suited as the distracted creative to follow up when the muse strikes. (Location 2491)
 - Quantify the Depth of Every Activity (Location 2500)
 - An advantage of scheduling your day is that you can determine how much time you’re actually spending in shallow activities. (Location 2500)
 - planning meeting— probably not. Such meetings rarely dive into substantive content and tend to feature a lot of small talk and posturing in which participants try to make it seem like they’re committing to a lot without actually having to commit. (Location 2534)
@@ -268,7 +262,7 @@ In this section, the author discusses the problem of being constantly accessible
 - the limits to our time necessitate more careful thinking about our organizational habits, also leading to more value produced as compared to longer but less organized schedules. (Location 2646)
 - Your default answer becomes no, the bar for gaining access to your time and attention rises precipitously, and you begin to organize the efforts that pass these obstacles with a ruthless efficiency. (Location 2651)
 - Become Hard to Reach (Location 2663)
-- Tip #1: Make People Who Send You E-mail Do More Work (Location 2672)
+- Tip 1: Make People Who Send You E-mail Do More Work (Location 2672)
 - If you have an offer, opportunity, or introduction that might make my life more interesting, e-mail me at interesting [at] calnewport.com. For the reasons stated above, I’ll only respond to those proposals that are a good match for my schedule and interests. (Location 2679)
 - As for my own interest in helping my readers, I now redirect this energy toward settings I carefully choose to maximize impact. (Location 2687)
 - The default social convention surrounding e-mail is that unless you’re famous, if someone sends you something, you owe him or her a response. For most, therefore, an inbox full of messages generates a major sense of obligation. (Location 2691)

@@ -9,11 +9,6 @@ tags:
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/94390896-7087-4361-a4cf-59ddfe357fe8.jpg)
 
-## Metadata
-- Author: [[Jim Collins]]
-- Full Title: Good to Great
-- Category: #books
-
 ## Highlights
 - Good is the enemy of great. (Location 80)
 - The vast majority of companies never become great, precisely because the vast majority become quite good— and that is their main problem. (Location 83)
@@ -111,11 +106,11 @@ tags:
 - Rigor in a good-to-great company applies first at the top, focused on those who hold the largest burden of responsibility. (Location 1000)
 - The good-to-great companies rarely used head-count lopping as a tactic and almost never used it as a primary strategy. (Location 1004)
 - It would be a mistake— a tragic mistake, indeed— to think that the way you ignite a transition from good to great is by wantonly swinging the ax on vast numbers of hardworking people. Endless restructuring and mindless hacking were never part of the good-to-great model. (Location 1011)
-- Practical Discipline #1: When in doubt, don’t hire— keep looking. One of the immutable laws of management physics is “Packard’s Law.” (Location 1015)
+- Practical Discipline 1: When in doubt, don’t hire— keep looking. One of the immutable laws of management physics is “Packard’s Law.” (Location 1015)
 - No company can grow revenues consistently faster than its ability to get enough of the right people to implement that growth and still become a great company. If your growth rate in revenues consistently outpaces your growth rate in people, you simply will not— indeed cannot— build a great company. (Location 1017)
 - Those who build great companies understand that the ultimate throttle on growth for any great company is not markets, or technology, or competition, or products. It is one thing above all others: the ability to get and keep enough of the right people. (Location 1020)
 - A huge part of our transition can be attributed to our discipline in picking the right people.” (Location 1027)
-- Practical Discipline #2: When you know you need to make a people change, act. (Location 1048)
+- Practical Discipline 2: When you know you need to make a people change, act. (Location 1048)
 - The moment you feel the need to tightly manage someone, you’ve made a hiring mistake. (Location 1049)
 - The best people don’t need to be managed. Guided, taught, led— yes. But not tightly managed. We’ve all experienced or observed the following scenario. (Location 1049)
 - Letting the wrong people hang around is unfair to all the right people, as they inevitably find themselves compensating for the inadequacies of the wrong people. Worse, it can drive away the best people. Strong performers are intrinsically motivated by performance, and when they see their efforts impeded by carrying extra weight, they eventually become frustrated. (Location 1056)

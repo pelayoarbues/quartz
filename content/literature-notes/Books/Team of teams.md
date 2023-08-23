@@ -13,7 +13,6 @@ The speed and interdependence of current environment creates complexity. An opti
 
 ***
 **Author**: [Stanley McChrystal]  
-**Tags**:  #triage
 ***
 
 In order to adapt its strategy and processes in a complex changing environment they embraced:
