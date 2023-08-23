@@ -1,5 +1,5 @@
 ---
-author: [[.]]
+author: [[Amelia Wattenberger]]
 title: "Why Chatbots Are Not the Future"
 tags: 
 - articles
@@ -10,7 +10,7 @@ tags:
 ![rw-book-cover](https://wattenberger.com/thoughts/favicon.png)
 
 ## Metadata
-- Author: [[.]]
+- Author: [[Amelia Wattenberger]]
 - Full Title: Why Chatbots Are Not the Future
 - URL: https://wattenberger.com/thoughts/boo-chatbots
 
