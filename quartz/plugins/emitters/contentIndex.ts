@@ -1,4 +1,5 @@
 import { GlobalConfiguration } from "../../cfg"
+import { getDate } from "../../components/Date"
 import { FilePath, FullSlug, SimpleSlug, simplifySlug } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import path from "path"
@@ -22,7 +23,7 @@ interface Options {
 const defaultOptions: Options = {
   enableSiteMap: true,
   enableRSS: true,
-  includeEmptyFiles: false,
+  includeEmptyFiles: true,
 }
 
 function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndex): string {
@@ -41,26 +42,26 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex): string {
   const base = cfg.baseUrl ?? ""
   const root = `https://${base}`
 
-  const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<items>
+  const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<item>
     <title>${content.title}</title>
     <link>${root}/${slug}</link>
     <guid>${root}/${slug}</guid>
     <description>${content.description}</description>
     <pubDate>${content.date?.toUTCString()}</pubDate>
-  </items>`
+  </item>`
 
   const items = Array.from(idx)
     .map(([slug, content]) => createURLEntry(simplifySlug(slug), content))
     .join("")
-  return `<rss xmlns:atom="http://www.w3.org/2005/atom" version="2.0">
+  return `<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
     <channel>
       <title>${cfg.pageTitle}</title>
       <link>${root}</link>
       <description>Recent content on ${cfg.pageTitle}</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      <atom:link href="${root}/index.xml" rel="self" type="application/rss+xml"/>
+      ${items}
     </channel>
-    ${items}
   </rss>`
 }
 
@@ -74,7 +75,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       const linkIndex: ContentIndex = new Map()
       for (const [_tree, file] of content) {
         const slug = file.data.slug!
-        const date = file.data.dates?.modified ?? new Date()
+        const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
           linkIndex.set(slug, {
             title: file.data.frontmatter?.title!,
