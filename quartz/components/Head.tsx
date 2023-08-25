@@ -26,7 +26,6 @@ export default (() => {
         <meta name="generator" content="Quartz" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
-        <!-- Tinybird analytics -->
         <script
           defer
           src="https://unpkg.com/@tinybirdco/flock.js"
