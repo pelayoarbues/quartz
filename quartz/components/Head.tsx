@@ -26,12 +26,12 @@ export default (() => {
         <meta name="generator" content="Quartz" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
-        <script
+        {<script
           defer
           src="https://unpkg.com/@tinybirdco/flock.js"
           data-host="https://api.tinybird.co"
           data-token="p.eyJ1IjogIjFhYTEyN2VjLWI0MTEtNDdjNS1iNWQzLTA5OGE2NDZjMWZhYSIsICJpZCI6ICI5YzFhNzE4Zi0xNjA1LTRmMTUtOGQ3Yy05NzliMDBjNWVmNTcifQ.-aCZYTIrTPiQCDYC_zS0dH0IVOXqI9ThnK39DMDgY7c">
-        </script>
+        </script>}
         {css.map((href) => (
           <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
         ))}
