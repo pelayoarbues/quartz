@@ -8,7 +8,7 @@ In June 2020, I began dedicating an hour of my week to speaking with strangers. 
 
 Initially, I wasn't certain if anyone would be interested in speaking with me. However, to my surprise, within a few days, I received over 20 requests from people who wished to speak with me. I had to create a process to manage the requests.
 
-{{< tweet user="pelayoarbues" id="1272618802073780226" >}}
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy he hecho una videollamada con un aspirante a datascientist que quería mi opinión sobre cómo continuar su formación y qué tipo de proyectos se hacen en la industria. Estoy planteándome dedicar una hora a la semana para este tipo de charlas. Os interesaría? <a href="https://t.co/5RHnOM8Ywg">pic.twitter.com/5RHnOM8Ywg</a></p>&mdash; Pelayo Arbués (@pelayoarbues) <a href="https://twitter.com/pelayoarbues/status/1272618802073780226?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Since then, up until the beginning of 2023, I've had over 60 conversations with people I've never met. Most of these individuals wished to discuss one of the following topics:
 -   Career advice: [What to study to become a data professional](writing/Data%20Science%20Fundamentals.md), the data roles market, how to build a strategy to land a data job, recommendations about companies/sectors, moving to management from a technical role...
