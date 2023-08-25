@@ -1,6 +1,6 @@
 ---
 author: [[Eric Weber]]
-title: "Data Products and the Journey to Data-Driven"
+ title: "Data Products and the Journey to Data-Driven"
 tags: 
 - articles
 - literature-note
