@@ -1,8 +1,6 @@
 ---
-author: [[Noam Chomsky,
-Ian Roberts
-Jeffrey Watumull]]
-title: "Noam Chomsky: The False Promise of ChatGPT"
+author: [[Noam Chomsky, Ian Roberts, Jeffrey Watumull]]
+ title: "Noam Chomsky: The False Promise of ChatGPT"
 tags: 
 - articles
 - literature-note
@@ -12,9 +10,7 @@ tags:
 ![rw-book-cover](https://static01.nyt.com/images/2023/03/08/opinion/08Chomsky-Promo/08Chomsky-Promo-facebookJumbo.png)
 
 ## Metadata
-- Author: [[Noam Chomsky,
-Ian Roberts
-Jeffrey Watumull]]
+- Author: [[Noam Chomsky, Ian Roberts, Jeffrey Watumull]]
 - Full Title: Noam Chomsky: The False Promise of ChatGPT
 - URL: https://www.removepaywall.com/https:/www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html
 

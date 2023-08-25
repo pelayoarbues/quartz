@@ -1,7 +1,6 @@
 ---
-author: [[Thomas H. Davenport
-Nitin Mittal]]
-title: "How CEOs Can Lead a Data-Driven Culture"
+author: [[Thomas H. Davenport, Nitin Mittal]]
+ title: "How CEOs Can Lead a Data-Driven Culture"
 tags: 
 - articles
 - literature-note
@@ -11,8 +10,7 @@ tags:
 ![rw-book-cover](https://hbr.org/resources/images/article_assets/2020/03/Mar20_23_1069992382.jpg)
 
 ## Metadata
-- Author: [[Thomas H. Davenport
-Nitin Mittal]]
+- Author: [[Thomas H. Davenport, Nitin Mittal]]
 - Full Title: How CEOs Can Lead a Data-Driven Culture
 - Document Note: Business adoption of data and AI initiatives usally face more cultural and organization barriers than technological ones.
    The role of the CEO is to lead by example incorporating data in the decision making process.

@@ -1,7 +1,6 @@
 ---
-author: [[Dawn Klinghoffer
-Katie Kirkpatrick-Husk]]
-title: "More Than 50% of Managers Feel Burned Out"
+author: [[Dawn Klinghoffer, Katie Kirk, patrick-Husk]]
+ title: "More Than 50% of Managers Feel Burned Out"
 tags: 
 - articles
 - literature-note
@@ -11,8 +10,7 @@ tags:
 ![rw-book-cover](https://hbr.org/resources/images/android-chrome-512x512.png)
 
 ## Metadata
-- Author: [[Dawn Klinghoffer
-Katie Kirkpatrick-Husk]]
+- Author: [[Dawn Klinghoffer, Katie Kirk, patrick-Husk]]
 - Full Title: More Than 50% of Managers Feel Burned Out
 - URL: https://hbr.org/2023/05/more-than-50-of-managers-feel-burned-out
 

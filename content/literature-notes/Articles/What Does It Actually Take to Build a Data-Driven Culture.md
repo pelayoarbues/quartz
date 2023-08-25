@@ -1,7 +1,6 @@
 ---
-author: [[Mai B. AlOwaish
-Thomas C. Redman]]
-title: "What Does It Actually Take to Build a Data-Driven Culture?"
+author: [[Mai B. AlOwaish, Thomas C. Redman]]
+ title: "What Does It Actually Take to Build a Data-Driven Culture?"
 tags: 
 - articles
 - literature-note
@@ -11,8 +10,7 @@ tags:
 ![rw-book-cover](https://hbr.org/favicon.ico)
 
 ## Metadata
-- Author: [[Mai B. AlOwaish
-Thomas C. Redman]]
+- Author: [[Mai B. AlOwaish, Thomas C. Redman]]
 - Full Title: What Does It Actually Take to Build a Data-Driven Culture?
 - URL: https://hbr.org/2023/05/what-does-it-actually-take-to-build-a-data-driven-culture
 
