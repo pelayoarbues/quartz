@@ -1,5 +1,5 @@
 ---
-title: "ML en modelos hedónicos de valoración inmobiliaria"
+title: "ML en modelos hedonicos de valoracion inmobiliaria"
 tags:
 - speaking
 ---
