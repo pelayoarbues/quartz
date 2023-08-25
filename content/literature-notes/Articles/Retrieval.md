@@ -1,10 +1,10 @@
 ---
 author: [[LangChain]]
- title: "Retrieval"
+title: "Retrieval"
 tags: 
 - articles
 - literature-note
-Document Tags: -[[rag]] -[[RAG]]
+Document Tags: -[[RAG]]
 ---
 # Retrieval
 
