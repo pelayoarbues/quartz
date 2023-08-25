@@ -1,7 +1,6 @@
-
 ---
 title:  "202305170905 - The bitter feeling of publishing a Peer-Reviewed Paper Again"
-Date: 2023-05-17
+date: 2023-05-17
 tags: 
 - permanent-note 
 - research

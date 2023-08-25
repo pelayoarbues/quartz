@@ -1,6 +1,6 @@
 ---
 title: "202202011102 - By-products of multiple processes"
-Date: 2022-02-01
+date: 2022-02-01
 tags: 
 - permanent-note 
 - product

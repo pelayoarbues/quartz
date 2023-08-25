@@ -1,6 +1,6 @@
 ---
 title:  "202308232008 - Building to Forecast"
-Date: 2023-08-23
+date: 2023-08-23
 tags: 
 - permanent-note 
 ---
