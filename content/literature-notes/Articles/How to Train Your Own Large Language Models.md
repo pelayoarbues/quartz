@@ -30,7 +30,6 @@ tags:
 - We use a number of heuristics to detect and remove auto-generated code. ([View Highlight](https://read.readwise.io/read/01gyhkqzh8bn4hbp4gc30qfhcx))
 - For a subset of languages, we remove code that doesn't compile or is not parseable using standard syntax parsers. ([View Highlight](https://read.readwise.io/read/01gyhkr1rq8tx043grc3pjwj4b))
 - We filter out files based on average line length, maximum line length, and percentage of alphanumeric characters. ([View Highlight](https://read.readwise.io/read/01gyhkr42atxwp4b2wg4akmdb0))
-- Prior to tokenization, we train our own custom vocabulary using a random subsample of the same data that we use for model training. A custom vocabulary allows our model to better understand and generate code content. ([View Highlight](https://read.readwise.io/read/01gyhkred8sa682kscvtx4dgmk))
 - It underscores the importance of having a robust and fully-integrated infrastructure for your model training process. ([View Highlight](https://read.readwise.io/read/01gyhkrjv80ffqjp1jmfnamcmy))
 - We train our models using [MosaicML](https://www.mosaicml.com/). Having previously deployed our own training clusters, we found that the MosaicML platform gives us a few key benefits. ([View Highlight](https://read.readwise.io/read/01gyhkrs6h3bqac7ab4r8zs5f5))
 - **LLM training configurations**. The Composer library has a number of well-tuned configurations for training a variety of models and for different types of training objectives. ([View Highlight](https://read.readwise.io/read/01gyhks8224ayssbs55dwsghe0))

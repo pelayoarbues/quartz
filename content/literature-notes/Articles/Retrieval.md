@@ -4,7 +4,7 @@ title: "Retrieval"
 tags: 
 - articles
 - literature-note
-Document Tags: [[rag]]
+Document Tags: [[rag]] [[RAG]]
 ---
 # Retrieval
 
