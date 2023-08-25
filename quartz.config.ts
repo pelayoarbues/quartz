@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "pelayoarbues.github.io",
     ignorePatterns: ["private", "templates"],
-    defaultDateType: "published",
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "Newsreader",
