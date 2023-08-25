@@ -1,6 +1,6 @@
 ---
 author: [[Dawn Klinghoffer, Katie Kirk, patrick-Husk]]
- title: "More Than 50% of Managers Feel Burned Out"
+title: "More Than 50% of Managers Feel Burned Out"
 tags: 
 - articles
 - literature-note

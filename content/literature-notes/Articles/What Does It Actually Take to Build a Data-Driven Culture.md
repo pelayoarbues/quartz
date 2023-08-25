@@ -1,6 +1,6 @@
 ---
 author: [[Mai B. AlOwaish, Thomas C. Redman]]
- title: "What Does It Actually Take to Build a Data-Driven Culture?"
+title: "What Does It Actually Take to Build a Data-Driven Culture?"
 tags: 
 - articles
 - literature-note

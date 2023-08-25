@@ -1,6 +1,6 @@
 ---
 author: [[Thomas H. Davenport, Nitin Mittal]]
- title: "How CEOs Can Lead a Data-Driven Culture"
+title: "How CEOs Can Lead a Data-Driven Culture"
 tags: 
 - articles
 - literature-note
