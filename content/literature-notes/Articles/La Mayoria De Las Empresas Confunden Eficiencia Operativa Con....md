@@ -1,17 +1,17 @@
 ---
 author: [[Arthur Cahuantzi]]
-title: "1/ La Mayoría De Las Empresas Confunden Eficiencia Operativa Con..."
+title: "La Mayoria De Las Empresas Confunden Eficiencia Operativa Con..."
 tags: 
 - articles
 - literature-note
 ---
-# 1/ La Mayoría De Las Empresas Confunden Eficiencia Operativa Con...
+# La Mayoria De Las Empresas Confunden Eficiencia Operativa Con...
 
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1492131334847823875/5fCHhO9P.jpg)
 
 ## Metadata
 - Author: [[Arthur Cahuantzi]]
-- Full Title: 1/ La Mayoría De Las Empresas Confunden Eficiencia Operativa Con...
+- Full Title: La Mayoria De Las Empresas Confunden Eficiencia Operativa Con...
 - Document Note: Only the paranoid survive - Check Andrews Grove 
    In a digital company data pushes your competitive advantage.
 - URL: https://twitter.com/ArthurCahuantzi/status/1614963374990807041
