@@ -1,7 +1,7 @@
 
 ---
 title: "202210141310 - Data is not objective"
-Date: 2022-10-14
+date: 2022-10-14
 tags: 
 - permanent-note 
 ---

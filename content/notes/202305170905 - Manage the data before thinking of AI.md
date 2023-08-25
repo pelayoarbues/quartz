@@ -1,7 +1,7 @@
 
 ---
 title:  "202305170905 - Manage the data before thinking of AI"
-Date: 2023-05-17
+date: 2023-05-17
 tags: 
 - permanent-note 
 - strategy

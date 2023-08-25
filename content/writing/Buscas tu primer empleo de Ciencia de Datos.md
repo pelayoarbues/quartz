@@ -1,7 +1,7 @@
 
 ---
 title: "Buscas tu primer empleo de Ciencia de Datos?"
-Date: 2022-05-03
+date: 2022-05-03
 tags: 
 - writing 
 - career

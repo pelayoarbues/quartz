@@ -1,7 +1,7 @@
 
 ---
 title:  "202302170002 - Data Science job crafting"
-Date: 2023-02-17
+date: 2023-02-17
 tags: 
 - permanent-note 
 - career

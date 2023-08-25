@@ -1,7 +1,7 @@
 
 ---
 title: "202202052202 - Understanding low level data science"
-Date: 2022-02-05
+date: 2022-02-05
 tags: 
 - permanent-note 
 - learning

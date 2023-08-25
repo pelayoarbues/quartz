@@ -1,7 +1,7 @@
 
 ---
 title: "202210241310 - Make'em talk with prototypes"
-Date: 2022-10-24
+date: 2022-10-24
 tags: 
 - permanent-note
 - management

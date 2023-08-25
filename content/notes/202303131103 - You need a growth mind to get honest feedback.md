@@ -1,6 +1,6 @@
 ---
 title:  "202303131103 - You need a growth mind to get honest feedback"
-Date: 2023-03-13
+date: 2023-03-13
 tags: 
 - permanent-note 
 - communication

@@ -2,7 +2,7 @@
 
 ---
 title: "202301301801 - Data teamwork as a transport service"
-Date: 2023-01-30
+date: 2023-01-30
 tags: 
 - permanent-note
 - management

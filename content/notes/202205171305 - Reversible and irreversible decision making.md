@@ -1,7 +1,7 @@
 
 ---
 title: "2202205171305 - Reversible and irreversible decision making"
-Date: 2022-05-17
+date: 2022-05-17
 tags: 
 - permanent-note 
 - decision

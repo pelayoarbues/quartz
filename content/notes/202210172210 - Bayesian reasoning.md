@@ -1,7 +1,7 @@
 
 ---
 title: "202210172210 - Bayesian reasoning"
-Date: 2022-10-17
+date: 2022-10-17
 tags: 
 - permanent-note 
 - bayesian

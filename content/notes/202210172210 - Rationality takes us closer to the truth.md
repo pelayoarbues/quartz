@@ -1,7 +1,7 @@
 
 ---
 title: "202210172210 - Rationalism takes us closer to the truth"
-Date: 2022-10-17
+date: 2022-10-17
 tags: 
 - permanent-note
 - philosophy

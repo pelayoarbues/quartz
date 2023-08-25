@@ -1,7 +1,7 @@
 
 ---
 title:  "202303291603 - Two books I wish I had read before starting my PhD"
-Date: 2023-03-29
+date: 2023-03-29
 tags: 
 - permanent-note 
 - productivity

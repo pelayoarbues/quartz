@@ -1,7 +1,7 @@
 
 ---
 title: The Rational Company
-Date: 2022-10-17
+date: 2022-10-17
 tags: 
 - permanent-note
 - management

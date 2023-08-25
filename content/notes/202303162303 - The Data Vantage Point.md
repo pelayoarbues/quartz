@@ -1,7 +1,7 @@
 
 ---
 title:  "202303162303 - The Data Vantage Point"
-Date: 2023-03-16
+date: 2023-03-16
 tags: 
 - permanent-note 
 ---

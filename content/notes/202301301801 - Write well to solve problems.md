@@ -1,7 +1,7 @@
 
 ---
 title: "202301301801 - Write well to solve problems"
-Date: 2023-01-30
+date: 2023-01-30
 tags: 
 - permanent-note 
 - career

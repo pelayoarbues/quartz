@@ -1,6 +1,6 @@
 ---
 title: "Agile for Data Science"
-Date: 2022-03-28
+date: 2022-03-28
 tags: 
 - writing
 - management
