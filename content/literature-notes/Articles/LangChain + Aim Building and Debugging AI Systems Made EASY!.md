@@ -1,6 +1,7 @@
 ---
 author: [[Aimstack]]
 title: "LangChain + Aim: Building and Debugging AI Systems Made EASY!"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

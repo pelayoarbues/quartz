@@ -1,6 +1,7 @@
 ---
 author: [[infraeng.dev]]
 title: "Tech Spec"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

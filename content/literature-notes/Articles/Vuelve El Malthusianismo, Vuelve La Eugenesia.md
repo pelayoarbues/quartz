@@ -1,6 +1,7 @@
 ---
 author: [[Antonio Ortiz]]
 title: "Vuelve El Malthusianismo, Vuelve La Eugenesia"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

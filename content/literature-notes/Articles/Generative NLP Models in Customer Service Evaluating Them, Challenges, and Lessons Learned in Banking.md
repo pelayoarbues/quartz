@@ -1,6 +1,7 @@
 ---
 author: [[ODSC Community]]
 title: "Generative NLP Models in Customer Service: Evaluating Them, Challenges, and Lessons Learned in Banking"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

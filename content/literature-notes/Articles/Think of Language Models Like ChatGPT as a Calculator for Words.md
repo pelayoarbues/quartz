@@ -1,6 +1,7 @@
 ---
 author: [[Simon Willison's Weblog]]
 title: "Think of Language Models Like ChatGPT as a &#34;Calculator for Words&#34;"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

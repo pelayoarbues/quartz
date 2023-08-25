@@ -1,6 +1,7 @@
 ---
 author: [[Lance Marting]]
 title: "Lex-GPT"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

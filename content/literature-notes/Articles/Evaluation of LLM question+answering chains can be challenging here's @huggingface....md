@@ -1,6 +1,7 @@
 ---
 author: [[Lance Martin]]
 title: "Evaluation of LLM question+answering chains can be challenging: here&#39;s @huggingface..."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

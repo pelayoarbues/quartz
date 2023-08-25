@@ -1,6 +1,7 @@
 ---
 author: [[newrelic.com]]
 title: "Apdex: Measure user satisfaction"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

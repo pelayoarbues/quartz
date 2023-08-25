@@ -1,6 +1,7 @@
 ---
 author: [[facebook.com]]
 title: "DINOv2: State-of-the-Art Computer Vision Models With Self-Supervised Learning"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Pan, Xingang]]
 title: "Drag Your GAN: Interactive Point-Based Manipulation on the Generative Image Manifold"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

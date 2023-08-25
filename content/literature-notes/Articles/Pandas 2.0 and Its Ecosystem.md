@@ -1,6 +1,7 @@
 ---
 author: [[Simon Späti]]
 title: "Pandas 2.0 and Its Ecosystem"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

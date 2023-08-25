@@ -1,6 +1,7 @@
 ---
 author: [[John Thompson]]
 title: "Data for All"
+date: 2023-03-02
 tags: 
 - books
 - literature-note

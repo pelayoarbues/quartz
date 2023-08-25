@@ -1,6 +1,7 @@
 ---
 author: [[Ramiro Aznar]]
 title: "🎮 La Unrealidad Ya Está Aquí"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Stanford HAI]]
 title: "Reflections on Foundation Models"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Ángel Villarino]]
 title: "La advertencia de Johann Hari: &#34;Hemos perdido el superpoder de nuestra especie y no es solo por culpa del móvil&#34;"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

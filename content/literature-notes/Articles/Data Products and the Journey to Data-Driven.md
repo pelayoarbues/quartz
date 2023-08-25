@@ -1,6 +1,7 @@
 ---
 author: [[Eric Weber]]
 title: "Data Products and the Journey to Data-Driven"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

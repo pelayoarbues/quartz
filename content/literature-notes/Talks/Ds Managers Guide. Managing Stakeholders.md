@@ -1,6 +1,6 @@
 ---
 title: "Ds Managers Guide. Managing Stakeholders"
-Date: 2022-07-22
+date: 2022-07-22
 tags: 
 - talk
 - literature-note

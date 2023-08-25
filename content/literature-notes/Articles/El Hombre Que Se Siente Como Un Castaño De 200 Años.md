@@ -1,6 +1,7 @@
 ---
 author: [[Eduardo Lagar]]
 title: "El Hombre Que Se Siente Como Un Castaño De 200 Años"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

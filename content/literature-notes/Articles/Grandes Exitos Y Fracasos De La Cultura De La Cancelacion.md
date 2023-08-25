@@ -1,6 +1,7 @@
 ---
 author: [[Antonio Ortiz]]
 title: "Grandes Exitos Y Fracasos De La Cultura De La Cancelacion"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

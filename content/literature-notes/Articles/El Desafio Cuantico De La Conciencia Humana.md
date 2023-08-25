@@ -1,6 +1,7 @@
 ---
 author: [[Victor Etxebarria Ecenarro]]
 title: "El Desafio Cuantico De La Conciencia Humana"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Jason Fried (jason@hey.com)]]
 title: "On Hiring, Rehiring, and One Question to Answer Them All"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

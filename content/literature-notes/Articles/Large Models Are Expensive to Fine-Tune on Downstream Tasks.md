@@ -1,6 +1,7 @@
 ---
 author: [[Sourab Mangrulkar]]
 title: "Large Models Are Expensive to Fine-Tune on Downstream Tasks"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

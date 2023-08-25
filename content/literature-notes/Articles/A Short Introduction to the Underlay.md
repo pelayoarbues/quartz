@@ -1,6 +1,7 @@
 ---
 author: [[KFG Notes]]
 title: "A Short Introduction to the Underlay"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

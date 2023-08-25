@@ -1,6 +1,7 @@
 ---
 author: [[Jason Fried (jason@hey.com)]]
 title: "How We Built Something Useful"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

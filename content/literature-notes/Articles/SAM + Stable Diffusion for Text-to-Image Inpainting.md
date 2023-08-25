@@ -1,6 +1,7 @@
 ---
 author: [[Abby Morgan]]
 title: "SAM + Stable Diffusion for Text-to-Image Inpainting"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

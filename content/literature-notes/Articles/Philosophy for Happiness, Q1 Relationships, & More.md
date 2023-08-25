@@ -1,6 +1,7 @@
 ---
 author: [[Sahil Bloom's Curiosity Chronicle]]
 title: "Philosophy for Happiness, Q1 Relationships, &amp; More"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

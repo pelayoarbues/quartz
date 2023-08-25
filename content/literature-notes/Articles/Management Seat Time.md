@@ -1,6 +1,7 @@
 ---
 author: [[Erika Pullum (Swartz)]]
 title: "Management Seat Time"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

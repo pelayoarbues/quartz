@@ -1,6 +1,7 @@
 ---
 author: [[lethain.com]]
 title: "Running an Engineering Reorg"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Paola Bonomo]]
 title: "An Ethical AI Never Says &#34;I&#34;"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

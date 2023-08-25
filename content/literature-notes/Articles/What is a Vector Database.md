@@ -1,6 +1,7 @@
 ---
 author: [[Frank Liu]]
 title: "What is a Vector Database?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

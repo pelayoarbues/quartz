@@ -1,6 +1,7 @@
 ---
 author: [[Eugene Yan]]
 title: "Open-LLMs - A List of LLMs for Commercial Use"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

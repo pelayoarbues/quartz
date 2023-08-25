@@ -1,6 +1,7 @@
 ---
 author: [[AlphaSignal]]
 title: "🦍 LLMs Are Taking Over APIs + Other Top Repos"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

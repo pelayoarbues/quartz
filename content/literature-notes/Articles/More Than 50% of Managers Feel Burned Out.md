@@ -1,6 +1,7 @@
 ---
 author: [[Dawn Klinghoffer, Katie Kirk, patrick-Husk]]
 title: "More Than 50% of Managers Feel Burned Out"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

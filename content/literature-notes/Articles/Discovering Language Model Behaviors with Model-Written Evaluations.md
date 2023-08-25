@@ -1,6 +1,7 @@
 ---
 author: [[readwise.io]]
 title: "Discovering Language Model Behaviors with Model-Written Evaluations"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

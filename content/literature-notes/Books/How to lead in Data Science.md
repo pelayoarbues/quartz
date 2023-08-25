@@ -1,7 +1,7 @@
 
 ---
 title: How to lead in Data Science
-Date: 2022-08-31
+date: 2022-08-31
 tags: literature-note 
 ---
 

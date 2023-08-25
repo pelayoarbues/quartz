@@ -1,6 +1,7 @@
 ---
 author: [[Pedram Navid]]
 title: "2022 Recap: Every Random Idea I Had"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[No Idea Blog]]
 title: "Being Glue talk"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

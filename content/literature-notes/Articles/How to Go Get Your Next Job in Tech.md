@@ -1,6 +1,7 @@
 ---
 author: [[Ian McAllister]]
 title: "How to Go Get Your Next Job in Tech"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Aino Corry]]
 title: "Retrospectives Antipatterns"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Shreya Shankar]]
 title: "Been working on LLMs in production lately"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

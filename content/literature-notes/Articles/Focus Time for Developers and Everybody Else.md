@@ -1,6 +1,7 @@
 ---
 author: [[kore-nordmann.de]]
 title: "Focus Time for Developers and Everybody Else"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

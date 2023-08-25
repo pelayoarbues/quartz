@@ -1,6 +1,7 @@
 ---
 author: [[Luis Torras]]
 title: "Keynes y los orígenes de la inversion en valor"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

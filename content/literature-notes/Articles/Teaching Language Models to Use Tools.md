@@ -1,6 +1,7 @@
 ---
 author: [[Cameron R. Wolfe]]
 title: "Teaching Language Models to Use Tools"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

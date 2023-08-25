@@ -1,6 +1,7 @@
 ---
 author: [[Murray N. Rothbard]]
 title: "Austrian Perspective on the History of Economic Thought"
+date: 2022-04-23
 tags: 
 - books
 - literature-note

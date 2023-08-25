@@ -1,6 +1,7 @@
 ---
 author: [[Reza Shabani]]
 title: "How to Train Your Own Large Language Models"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

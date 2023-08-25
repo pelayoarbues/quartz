@@ -1,6 +1,7 @@
 ---
 author: [[stitchfix.com]]
 title: "Beware the Data Science Pin Factory: The Power of the Full-Stack Data Science Generalist and the Perils of Division of Labor Through Function"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

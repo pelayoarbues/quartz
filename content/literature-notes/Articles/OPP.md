@@ -1,6 +1,7 @@
 ---
 author: [[Camille Fournier]]
 title: "OPP"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

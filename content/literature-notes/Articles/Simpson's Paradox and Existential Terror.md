@@ -1,6 +1,7 @@
 ---
 author: [[Vera Wilde]]
 title: "Simpson&#39;s Paradox and Existential Terror"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

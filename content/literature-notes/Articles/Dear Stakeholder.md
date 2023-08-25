@@ -1,6 +1,7 @@
 ---
 author: [[David Jayatillake]]
 title: "Dear Stakeholder"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

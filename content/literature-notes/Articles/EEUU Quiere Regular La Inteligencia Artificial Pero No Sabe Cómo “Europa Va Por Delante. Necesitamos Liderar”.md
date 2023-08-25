@@ -1,6 +1,7 @@
 ---
 author: [[Esther Paniagua]]
 title: "EEUU Quiere Regular La Inteligencia Artificial Pero No Sabe Cómo: “Europa Va Por Delante. Necesitamos Liderar”"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

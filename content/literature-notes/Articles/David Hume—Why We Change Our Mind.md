@@ -1,6 +1,7 @@
 ---
 author: [[Ralph Ammer]]
 title: "David Hume—Why We Change Our Mind"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

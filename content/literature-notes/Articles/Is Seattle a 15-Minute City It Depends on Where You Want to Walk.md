@@ -1,6 +1,7 @@
 ---
 author: [[nathenry.com]]
 title: "Is Seattle a 15-Minute City? It Depends on Where You Want to Walk"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

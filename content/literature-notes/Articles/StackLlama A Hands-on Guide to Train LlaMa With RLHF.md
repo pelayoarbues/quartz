@@ -1,6 +1,7 @@
 ---
 author: [[huggingface.co]]
 title: "StackLlama: A Hands-on Guide to Train LlaMa With RLHF"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

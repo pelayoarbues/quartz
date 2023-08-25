@@ -1,6 +1,7 @@
 ---
 author: [[Oliver Burkeman]]
 title: "Four thousand weeks. Time management for mortals"
+date: 2023-08-22
 tags: 
 - books
 - literature-note

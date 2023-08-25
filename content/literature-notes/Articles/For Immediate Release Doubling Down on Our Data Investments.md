@@ -1,6 +1,7 @@
 ---
 author: [[Benn Stancil]]
 title: "For Immediate Release: Doubling Down on Our Data Investments"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

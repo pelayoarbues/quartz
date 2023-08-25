@@ -1,6 +1,7 @@
 ---
 author: [[readwise.io]]
 title: " LoRA: Low-Rank Adaptation of Large Language Models"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

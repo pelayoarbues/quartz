@@ -1,6 +1,7 @@
 ---
 author: [[Psyche Film]]
 title: "My AI Lover"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

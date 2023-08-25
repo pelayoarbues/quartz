@@ -1,6 +1,7 @@
 ---
 author: [[Sahil Bloom's Curiosity Chronicle]]
 title: "How to Become a Time Billionaire"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

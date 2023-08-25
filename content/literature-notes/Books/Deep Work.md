@@ -1,6 +1,7 @@
 ---
 author: [[Cal Newport]]
 title: "Deep Work"
+date: 2023-06-02
 tags: 
 - books
 - literature-note

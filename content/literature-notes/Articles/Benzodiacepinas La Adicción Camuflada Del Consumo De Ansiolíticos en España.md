@@ -1,6 +1,7 @@
 ---
 author: [[National Geographic]]
 title: "Benzodiacepinas: La Adicción Camuflada Del Consumo De Ansiolíticos en España"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

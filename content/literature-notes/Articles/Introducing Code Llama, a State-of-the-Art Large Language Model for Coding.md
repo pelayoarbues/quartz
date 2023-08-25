@@ -1,6 +1,7 @@
 ---
 author: [[Simon Willison's Weblog]]
 title: "Introducing Code Llama, a State-of-the-Art Large Language Model for Coding"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

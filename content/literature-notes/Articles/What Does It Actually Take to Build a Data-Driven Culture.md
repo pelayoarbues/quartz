@@ -1,6 +1,7 @@
 ---
 author: [[Mai B. AlOwaish, Thomas C. Redman]]
 title: "What Does It Actually Take to Build a Data-Driven Culture?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

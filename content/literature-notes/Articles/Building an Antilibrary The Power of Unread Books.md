@@ -1,6 +1,7 @@
 ---
 author: [[Anne-Laure Le Cunff]]
 title: "Building an Antilibrary: The Power of Unread Books"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

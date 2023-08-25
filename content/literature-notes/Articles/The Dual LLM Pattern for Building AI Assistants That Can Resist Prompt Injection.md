@@ -1,6 +1,7 @@
 ---
 author: [[Simon Willison's Weblog]]
 title: "The Dual LLM Pattern for Building AI Assistants That Can Resist Prompt Injection"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Richard H. Thaler]]
 title: "Misbehaving"
+date: 2021-03-02
 tags: 
 - books
 - literature-note

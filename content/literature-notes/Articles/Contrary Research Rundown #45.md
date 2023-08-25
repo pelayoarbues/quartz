@@ -1,6 +1,7 @@
 ---
 author: [[Contrary Research]]
 title: "Contrary Research Rundown #45"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

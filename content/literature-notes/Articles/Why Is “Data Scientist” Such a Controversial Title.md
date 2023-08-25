@@ -1,6 +1,7 @@
 ---
 author: [[Emily Thompson]]
 title: "Why Is “Data Scientist” Such a Controversial Title?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

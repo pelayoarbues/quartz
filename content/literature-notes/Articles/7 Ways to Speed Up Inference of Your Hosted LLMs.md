@@ -1,6 +1,7 @@
 ---
 author: [[Sergei Savvov]]
 title: "7 Ways to Speed Up Inference of Your Hosted LLMs"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

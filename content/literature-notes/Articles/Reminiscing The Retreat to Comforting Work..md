@@ -1,6 +1,7 @@
 ---
 author: [[lethain.com]]
 title: "Reminiscing: The Retreat to Comforting Work."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

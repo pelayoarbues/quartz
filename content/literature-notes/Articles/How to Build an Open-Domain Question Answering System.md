@@ -1,6 +1,7 @@
 ---
 author: [[Lilian Weng]]
 title: "How to Build an Open-Domain Question Answering System?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

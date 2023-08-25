@@ -1,6 +1,7 @@
 ---
 author: [[Themefisher]]
 title: "Single-Threaded Leaders at Amazon"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

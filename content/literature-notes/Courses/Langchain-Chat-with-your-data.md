@@ -1,7 +1,7 @@
 
 ---
 title:  "Langchain-Chat-with-your-data"
-Date: 2023-07-12
+date: 2023-07-12
 tags: 
 - literature-note 
 - course

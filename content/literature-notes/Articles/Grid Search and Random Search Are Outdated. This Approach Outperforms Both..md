@@ -1,6 +1,7 @@
 ---
 author: [[Ali Soleymani]]
 title: "Grid Search and Random Search Are Outdated. This Approach Outperforms Both."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

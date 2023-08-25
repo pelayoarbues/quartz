@@ -1,6 +1,7 @@
 ---
 author: [[lethain.com]]
 title: "Make Timeline Tradeoffs Using Iterative Elimination Tournaments."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

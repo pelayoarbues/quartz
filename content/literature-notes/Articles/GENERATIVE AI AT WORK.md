@@ -1,6 +1,7 @@
 ---
 author: [[readwise.io]]
 title: "GENERATIVE AI AT WORK"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Tammy Xu]]
 title: "What Are Tracer Bullets in Software Development?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

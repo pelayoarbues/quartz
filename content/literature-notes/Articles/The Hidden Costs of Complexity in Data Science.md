@@ -1,6 +1,7 @@
 ---
 author: [[Chris Walsh]]
 title: "The Hidden Costs of Complexity in Data Science"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

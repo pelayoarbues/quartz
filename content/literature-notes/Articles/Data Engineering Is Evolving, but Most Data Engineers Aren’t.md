@@ -1,6 +1,7 @@
 ---
 author: [[Vin Vashishta]]
 title: "Data Engineering Is Evolving, but Most Data Engineers Aren’t"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

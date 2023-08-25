@@ -1,7 +1,7 @@
 
 ---
 title: "The Data Strategy Course. Building a data-driven business"
-Date: 2022-12-05
+date: 2022-12-05
 tags: 
 - course
 - literature-note

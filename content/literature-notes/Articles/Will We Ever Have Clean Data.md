@@ -1,6 +1,7 @@
 ---
 author: [[Benn Stancil]]
 title: "Will We Ever Have Clean Data?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

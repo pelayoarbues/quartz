@@ -1,6 +1,7 @@
 ---
 author: [[mintzberg.org]]
 title: "Why Do We Say “Top Management” Yet Never “Bottom Management”?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

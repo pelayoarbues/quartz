@@ -1,6 +1,7 @@
 ---
 author: [[Alistair Pullen]]
 title: "I Got Early Access to ChatGPT API and Then Pushed It to It’s Limits. Here’s What You Need to Know."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

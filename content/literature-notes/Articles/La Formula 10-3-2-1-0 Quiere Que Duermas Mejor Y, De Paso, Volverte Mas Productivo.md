@@ -1,6 +1,7 @@
 ---
 author: [[Esther Miguel Trula]]
 title: "La Formula 10-3-2-1-0 Quiere Que Duermas Mejor Y, De Paso, Volverte Mas Productivo"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

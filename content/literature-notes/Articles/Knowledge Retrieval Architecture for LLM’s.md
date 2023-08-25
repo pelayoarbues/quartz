@@ -1,6 +1,7 @@
 ---
 author: [[Matt Boegner]]
 title: "Knowledge Retrieval Architecture for LLM’s"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[wikipedia.org]]
 title: "Discounted Cumulative Gain"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

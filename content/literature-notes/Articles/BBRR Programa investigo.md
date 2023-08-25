@@ -1,6 +1,7 @@
 ---
 author: [[MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL]]
 title: "BBRR Programa investigo"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

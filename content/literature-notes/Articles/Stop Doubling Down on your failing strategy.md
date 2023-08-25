@@ -1,6 +1,7 @@
 ---
 author: [[Freek Vermeulen and Niro Sivanathan]]
 title: "Stop Doubling Down on your failing strategy"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

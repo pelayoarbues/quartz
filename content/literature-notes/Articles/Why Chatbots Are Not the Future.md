@@ -1,6 +1,7 @@
 ---
 author: [[Amelia Wattenberger]]
 title: "Why Chatbots Are Not the Future"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

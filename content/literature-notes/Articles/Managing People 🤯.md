@@ -1,6 +1,7 @@
 ---
 author: [[Andreas Klinger]]
 title: "Managing People 🤯"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

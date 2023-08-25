@@ -1,6 +1,7 @@
 ---
 author: [[facebook.com]]
 title: "Introducing Sphere: Meta AI’s Web-Scale Corpus for Better Knowledge-Intensive NLP"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

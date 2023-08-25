@@ -1,6 +1,7 @@
 ---
 author: [[FloydHub Blog]]
 title: "Using Sentence Embeddings to Automate Customer Support, Part One"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

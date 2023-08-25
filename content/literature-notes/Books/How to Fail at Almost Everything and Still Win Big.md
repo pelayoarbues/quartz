@@ -1,7 +1,7 @@
 
 ---
 title: "How to Fail at Almost Everything and Still Win Big"
-Date: 2022-04-26
+date: 2022-04-26
 tags: 
 - literature-note
 - books

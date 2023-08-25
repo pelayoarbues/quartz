@@ -1,6 +1,7 @@
 ---
 author: [[lethain.com]]
 title: "Growing With Your Company&#39;s Complexity."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

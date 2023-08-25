@@ -1,6 +1,7 @@
 ---
 author: [[Luis Serrano]]
 title: "What Are Word and Sentence Embeddings?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

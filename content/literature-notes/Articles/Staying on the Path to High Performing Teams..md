@@ -1,6 +1,7 @@
 ---
 author: [[lethain.com]]
 title: "Staying on the Path to High Performing Teams."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

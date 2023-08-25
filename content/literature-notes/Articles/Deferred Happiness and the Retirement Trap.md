@@ -1,6 +1,7 @@
 ---
 author: [[Sahil Bloom's Curiosity Chronicle]]
 title: "Deferred Happiness and the Retirement Trap"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Avra]]
 title: "How to Build a Chatbot With ChatGPT API and a Conversational Memory in Python"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

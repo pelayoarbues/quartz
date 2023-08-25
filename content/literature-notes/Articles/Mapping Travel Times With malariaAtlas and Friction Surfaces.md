@@ -1,6 +1,7 @@
 ---
 author: [[Amelia Bertozzi-Villa]]
 title: "Mapping Travel Times With malariaAtlas and Friction Surfaces"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Larry S McGrath]]
 title: "Chatbots Remind Us That Natural Conversation Is Artificial Too"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

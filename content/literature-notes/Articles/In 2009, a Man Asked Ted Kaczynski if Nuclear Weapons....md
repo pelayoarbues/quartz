@@ -1,6 +1,7 @@
 ---
 author: [[Forrest]]
 title: "In 2009, a Man Asked Ted Kaczynski if Nuclear Weapons..."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

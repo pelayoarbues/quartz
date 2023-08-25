@@ -1,7 +1,7 @@
 
 ---
 title: "Good strategy Bad strategy"
-Date: 2022-06-06
+date: 2022-06-06
 tags: 
 - literature-note 
 - books

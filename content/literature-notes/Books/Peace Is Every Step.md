@@ -1,6 +1,7 @@
 ---
 author: [[Thich Nhat Hanh]]
 title: "Peace Is Every Step"
+date: 2020-05-02
 tags: 
 - books
 - literature-note

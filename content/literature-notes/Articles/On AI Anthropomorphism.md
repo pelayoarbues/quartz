@@ -1,6 +1,7 @@
 ---
 author: [[Chenhao Tan]]
 title: "On AI Anthropomorphism"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

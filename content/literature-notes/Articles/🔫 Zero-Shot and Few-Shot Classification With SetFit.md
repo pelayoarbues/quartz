@@ -1,6 +1,7 @@
 ---
 author: [[argilla.io]]
 title: "🔫 Zero-Shot and Few-Shot Classification With SetFit"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[simonwillison.net]]
 title: "Stanford Alpaca, and the Acceleration of on-Device Large Language Model Development"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

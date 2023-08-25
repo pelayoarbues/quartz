@@ -1,7 +1,7 @@
 
 ---
 title: "Team of teams"
-Date: 2022-02-03
+date: 2022-02-03
 tags: 
 - books
 - literature-note

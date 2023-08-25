@@ -1,6 +1,7 @@
 ---
 author: [[Noam Chomsky, Ian Roberts, Jeffrey Watumull]]
 title: "Noam Chomsky: The False Promise of ChatGPT"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

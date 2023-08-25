@@ -1,6 +1,7 @@
 ---
 author: [[alexkgold.space]]
 title: "Managing the First Year"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

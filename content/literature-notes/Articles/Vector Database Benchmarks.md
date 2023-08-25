@@ -1,6 +1,7 @@
 ---
 author: [[qdrant.tech]]
 title: "Vector Database Benchmarks"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

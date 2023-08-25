@@ -1,6 +1,7 @@
 ---
 author: [[AI, software, tech, and people, not in that order... by X]]
 title: "On Why LLMs Are Just Like Medical Doctors"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

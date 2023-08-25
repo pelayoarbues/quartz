@@ -1,6 +1,7 @@
 ---
 author: [[readwise.io]]
 title: "Granularity, consistency and scalability in morphological studies"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

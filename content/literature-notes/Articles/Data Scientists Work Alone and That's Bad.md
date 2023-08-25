@@ -1,6 +1,7 @@
 ---
 author: [[Ethan Rosenthal]]
 title: "Data Scientists Work Alone and That&#39;s Bad"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

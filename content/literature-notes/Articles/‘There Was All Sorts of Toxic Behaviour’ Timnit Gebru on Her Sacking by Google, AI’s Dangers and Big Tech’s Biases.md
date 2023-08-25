@@ -1,6 +1,7 @@
 ---
 author: [[John Harris]]
 title: "‘There Was All Sorts of Toxic Behaviour’: Timnit Gebru on Her Sacking by Google, AI’s Dangers and Big Tech’s Biases"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[vinija.ai]]
 title: "Concepts  LLMOps"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

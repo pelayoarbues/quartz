@@ -1,6 +1,7 @@
 ---
 author: [[MDPI]]
 title: "Machine Learning of Spatial Data"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

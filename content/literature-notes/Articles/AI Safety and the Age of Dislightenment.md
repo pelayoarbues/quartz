@@ -1,6 +1,7 @@
 ---
 author: [[Jeremy Howard]]
 title: "AI Safety and the Age of Dislightenment"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

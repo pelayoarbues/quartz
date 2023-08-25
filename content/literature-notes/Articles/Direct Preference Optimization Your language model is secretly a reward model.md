@@ -1,6 +1,7 @@
 ---
 author: [[readwise.io]]
 title: "Direct Preference Optimization: Your language model is secretly a reward model"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Scott Martens]]
 title: "Don’t Build the Thing, Build the Thing That Builds the Thing!"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

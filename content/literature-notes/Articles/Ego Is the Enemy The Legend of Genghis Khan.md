@@ -1,6 +1,7 @@
 ---
 author: [[Farnam Street]]
 title: "Ego Is the Enemy: The Legend of Genghis Khan"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

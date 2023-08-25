@@ -1,6 +1,7 @@
 ---
 author: [[Emilie Schario and Taylor A. Murphy, PhD]]
 title: "Run Your Data Team Like a Product Team"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

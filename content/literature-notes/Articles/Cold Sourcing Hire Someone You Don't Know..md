@@ -1,6 +1,7 @@
 ---
 author: [[lethain.com]]
 title: "Cold Sourcing: Hire Someone You Don&#39;t Know."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

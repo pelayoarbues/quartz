@@ -1,6 +1,7 @@
 ---
 author: [[thinkingplace.org]]
 title: "Thinking Place"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

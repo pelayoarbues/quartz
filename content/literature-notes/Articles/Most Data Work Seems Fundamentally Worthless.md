@@ -1,6 +1,7 @@
 ---
 author: [[mataroa.blog]]
 title: "Most Data Work Seems Fundamentally Worthless"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

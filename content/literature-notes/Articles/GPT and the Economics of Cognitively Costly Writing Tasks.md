@@ -1,6 +1,7 @@
 ---
 author: [[scott cunningham]]
 title: "GPT and the Economics of Cognitively Costly Writing Tasks"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

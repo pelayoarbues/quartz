@@ -1,6 +1,7 @@
 ---
 author: [[Parker Rogers]]
 title: "What Is &#34;Data as a Product&#34; Really?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

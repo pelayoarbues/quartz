@@ -1,7 +1,7 @@
 
 ---
 title: The Culture Code
-Date: 2022-10-14
+date: 2022-10-14
 tags: 
 - books
 - literature-note

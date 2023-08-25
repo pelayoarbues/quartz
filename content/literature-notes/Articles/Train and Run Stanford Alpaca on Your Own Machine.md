@@ -1,6 +1,7 @@
 ---
 author: [[replicate.com]]
 title: "Train and Run Stanford Alpaca on Your Own Machine"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

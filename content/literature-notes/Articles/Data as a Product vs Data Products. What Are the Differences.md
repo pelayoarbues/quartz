@@ -1,6 +1,7 @@
 ---
 author: [[Xavier Gumara Rigol]]
 title: "Data as a Product vs Data Products. What Are the Differences?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

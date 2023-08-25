@@ -1,6 +1,7 @@
 ---
 author: [[Chip Huyen]]
 title: "Building LLM Applications for Production"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,7 +1,7 @@
 
 ---
 title: "Corporate culture and peak human performance with Dr Larry Senn"
-Date: 2022-05-30
+date: 2022-05-30
 tags: 
 - literature-note 
 - podcast

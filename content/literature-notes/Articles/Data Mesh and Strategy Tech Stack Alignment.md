@@ -1,6 +1,7 @@
 ---
 author: [[Vin Vashishta]]
 title: "Data Mesh and Strategy Tech Stack Alignment"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

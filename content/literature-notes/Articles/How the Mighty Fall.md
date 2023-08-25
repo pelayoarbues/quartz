@@ -1,6 +1,7 @@
 ---
 author: [[Jim Collins]]
 title: "How the Mighty Fall"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

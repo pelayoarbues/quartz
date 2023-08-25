@@ -1,6 +1,7 @@
 ---
 author: [[eugeneyan.com]]
 title: "What I Do Before a Data Science Project to Ensure Success"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

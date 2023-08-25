@@ -1,6 +1,7 @@
 ---
 author: [[David Mattin]]
 title: "New Week #109"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

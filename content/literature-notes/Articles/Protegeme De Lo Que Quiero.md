@@ -1,6 +1,7 @@
 ---
 author: [[Joan Tubau]]
 title: "Protegeme De Lo Que Quiero"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Walter Isaacson ]]
 title: "Leonardo Da Vinci"
+date: 2020-03-02
 tags: 
 - books
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Jacob Lee]]
 title: "Going Beyond Chatbots: How to Make GPT-4 Output Structured Data Using LangChain"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,6 @@
 ---
 title: "How to take smart notes"
-Date: 2022-01-12
+date: 2022-01-12
 tags: 
 - books
 - literature-note

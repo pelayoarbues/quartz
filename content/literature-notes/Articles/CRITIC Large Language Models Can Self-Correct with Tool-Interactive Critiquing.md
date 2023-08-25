@@ -1,6 +1,7 @@
 ---
 author: [[readwise.io]]
 title: "CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

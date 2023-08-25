@@ -1,6 +1,7 @@
 ---
 author: [[Paige Berry]]
 title: "Share Your Data Insights to Engage Your Colleagues"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

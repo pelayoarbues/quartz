@@ -1,6 +1,7 @@
 ---
 author: [[Eugene Yan]]
 title: "More Design Patterns for Machine Learning Systems"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

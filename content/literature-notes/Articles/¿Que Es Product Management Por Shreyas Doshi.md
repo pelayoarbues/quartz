@@ -1,6 +1,7 @@
 ---
 author: [[Simón Muñoz]]
 title: "¿Que Es Product Management? Por Shreyas Doshi"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

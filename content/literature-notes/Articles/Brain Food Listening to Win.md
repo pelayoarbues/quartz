@@ -1,6 +1,7 @@
 ---
 author: [[FS (Farnam Street)]]
 title: "Brain Food: Listening to Win"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Gene Kim, Kevin Behr, George Spafford]]
 title: "The Phoenix Project"
+date: 2022-11-02
 tags: 
 - books
 - literature-note

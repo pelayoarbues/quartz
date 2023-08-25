@@ -1,6 +1,7 @@
 ---
 author: [[readwise.io]]
 title: "Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

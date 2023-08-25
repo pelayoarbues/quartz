@@ -1,6 +1,7 @@
 ---
 author: [[Nathan Lambert]]
 title: "Evaluating and Uncovering Open LLMs"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

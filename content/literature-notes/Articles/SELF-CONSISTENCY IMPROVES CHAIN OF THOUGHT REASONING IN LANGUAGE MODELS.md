@@ -1,6 +1,7 @@
 ---
 author: [[arxiv.org]]
 title: "SELF-CONSISTENCY IMPROVES CHAIN OF THOUGHT REASONING IN LANGUAGE MODELS"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

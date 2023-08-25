@@ -1,6 +1,7 @@
 ---
 author: [[Scott Alexander]]
 title: "Turing Test"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

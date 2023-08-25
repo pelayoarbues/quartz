@@ -1,6 +1,7 @@
 ---
 author: [[Zhuohan Li]]
 title: "🌟 Thrilled to introduce vLLM with @woosuk_k!"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

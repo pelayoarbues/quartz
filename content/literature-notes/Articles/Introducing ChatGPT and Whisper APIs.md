@@ -1,6 +1,7 @@
 ---
 author: [[openai.com]]
 title: "Introducing ChatGPT and Whisper APIs"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

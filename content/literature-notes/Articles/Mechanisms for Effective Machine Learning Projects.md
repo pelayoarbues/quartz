@@ -1,6 +1,7 @@
 ---
 author: [[eugeneyan]]
 title: "Mechanisms for Effective Machine Learning Projects"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

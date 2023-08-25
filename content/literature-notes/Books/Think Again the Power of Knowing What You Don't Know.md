@@ -1,6 +1,7 @@
 ---
 author: [[Adam Grant]]
 title: "Think Again the Power of Knowing What You Don&#39;t Know"
+date: 2023-01-19
 tags: 
 - books
 - literature-note

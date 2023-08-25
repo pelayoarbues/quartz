@@ -1,6 +1,7 @@
 ---
 author: [[Ethan Mollick]]
 title: "It Is Starting to Get Strange."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

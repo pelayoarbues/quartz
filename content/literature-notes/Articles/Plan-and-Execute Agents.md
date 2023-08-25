@@ -1,6 +1,7 @@
 ---
 author: [[LangChain]]
 title: "Plan-and-Execute Agents"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

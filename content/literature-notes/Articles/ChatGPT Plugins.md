@@ -1,6 +1,7 @@
 ---
 author: [[openai.com]]
 title: "ChatGPT Plugins"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

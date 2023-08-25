@@ -1,6 +1,7 @@
 ---
 author: [[Derek Sivers]]
 title: "About nownownow.com"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

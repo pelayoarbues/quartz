@@ -1,6 +1,7 @@
 ---
 author: [[SeattleDataGuy]]
 title: "Becoming a Data Engineering Force Multiplier"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

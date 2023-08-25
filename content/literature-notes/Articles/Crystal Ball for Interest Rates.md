@@ -1,6 +1,7 @@
 ---
 author: [[deeplearning.ai]]
 title: "Crystal Ball for Interest Rates"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

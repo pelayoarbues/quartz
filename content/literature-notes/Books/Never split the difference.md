@@ -1,7 +1,7 @@
 
 ---
 title: "Never split the difference"
-Date: 2022-12-08
+date: 2022-12-08
 tags: 
 - literature-note 
 - books

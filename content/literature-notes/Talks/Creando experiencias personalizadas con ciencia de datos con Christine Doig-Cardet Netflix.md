@@ -1,7 +1,7 @@
 
 ---
 title: "Creando experiencias personalizadas con ciencia de datos con Christine Doig-Cardet Netflix"
-Date: 2022-11-04
+date: 2022-11-04
 tags: 
 - talk
 - literature-note

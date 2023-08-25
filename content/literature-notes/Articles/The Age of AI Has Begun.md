@@ -1,6 +1,7 @@
 ---
 author: [[Bill Gates]]
 title: "The Age of AI Has Begun"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Chioma Onwuanibe]]
 title: "No Time to Lead? Then Be Prepared to Fail."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Sundar Pichai]]
 title: "Google DeepMind: Bringing Together Two World-Class AI Teams"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

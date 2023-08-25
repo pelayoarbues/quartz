@@ -3,6 +3,7 @@ author: [[Lindy Greer,
 Francesca Gino,
 Robert I. Sutton]]
 title: "You Need Two Leadership Gears"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

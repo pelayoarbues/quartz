@@ -1,6 +1,7 @@
 ---
 author: [[Ethan Mollick]]
 title: "What Happens When AI Reads a Book 🤖📖"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

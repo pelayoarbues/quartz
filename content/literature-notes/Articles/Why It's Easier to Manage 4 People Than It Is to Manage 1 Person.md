@@ -1,6 +1,7 @@
 ---
 author: [[Stay SaaSy]]
 title: "Why It&#39;s Easier to Manage 4 People Than It Is to Manage 1 Person"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

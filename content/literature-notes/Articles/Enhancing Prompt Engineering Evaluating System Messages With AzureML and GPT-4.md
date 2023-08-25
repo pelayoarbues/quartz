@@ -1,6 +1,7 @@
 ---
 author: [[Jorge G]]
 title: "Enhancing Prompt Engineering: Evaluating System Messages With AzureML and GPT-4"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

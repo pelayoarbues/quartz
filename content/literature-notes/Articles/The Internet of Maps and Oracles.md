@@ -1,6 +1,7 @@
 ---
 author: [[Matt Locke]]
 title: "The Internet of Maps and Oracles"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

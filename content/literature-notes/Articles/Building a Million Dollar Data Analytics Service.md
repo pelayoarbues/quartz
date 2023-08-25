@@ -1,6 +1,7 @@
 ---
 author: [[SeattleDataGuy]]
 title: "Building a Million Dollar Data Analytics Service"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[readwise.io]]
 title: "An image is worth 16x16 words. Transformers for image recognition at scale"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[3-2-1 Thursday newsletter - James Clear]]
 title: "3-2-1: Healthy Self-Esteem, How to Build an Exercise Habit, and Improving by 1%"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

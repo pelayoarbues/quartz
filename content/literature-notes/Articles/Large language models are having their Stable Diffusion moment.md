@@ -1,6 +1,7 @@
 ---
 author: [[simonwillison.net]]
 title: "Large language models are having their Stable Diffusion moment"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

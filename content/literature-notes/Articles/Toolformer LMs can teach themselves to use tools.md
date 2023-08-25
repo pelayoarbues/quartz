@@ -1,6 +1,7 @@
 ---
 author: [[arxiv.org]]
 title: "Toolformer: LMs can teach themselves to use tools"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Simon Willison's Weblog]]
 title: "Quoting Yuval Harari, Tristan Harris and Aza Raskin"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

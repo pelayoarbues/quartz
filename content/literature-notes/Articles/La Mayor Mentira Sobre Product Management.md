@@ -1,6 +1,7 @@
 ---
 author: [[Simón Muñoz]]
 title: "La Mayor Mentira Sobre Product Management"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

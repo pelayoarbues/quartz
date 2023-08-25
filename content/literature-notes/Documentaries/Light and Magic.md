@@ -1,7 +1,7 @@
 
 ---
 title: "Light and Magic"
-Date: 2022-10-14
+date: 2022-10-14
 tags: 
 - documetary
 - literature-note

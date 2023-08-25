@@ -1,6 +1,7 @@
 ---
 author: [[Benn Stancil]]
 title: "The Public Imagination"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

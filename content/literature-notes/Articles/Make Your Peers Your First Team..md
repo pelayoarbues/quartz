@@ -1,6 +1,7 @@
 ---
 author: [[lethain.com]]
 title: "Make Your Peers Your First Team."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

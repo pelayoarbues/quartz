@@ -1,6 +1,7 @@
 ---
 author: [[Kim Scott]]
 title: "Radical Candor Be a Kick-Ass Boss Without Losing Your Humanity"
+date: 2023-06-02
 tags: 
 - books
 - literature-note

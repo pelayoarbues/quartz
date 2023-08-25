@@ -1,6 +1,7 @@
 ---
 author: [[Simon Willison's Weblog]]
 title: "The Changelog Podcast: LLMs Break the Internet"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Isabella Fulford]]
 title: "🌟 Our ChatGPT Retrieval Plugin is #1 trending on GitHub!"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

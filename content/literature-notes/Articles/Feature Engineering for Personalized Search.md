@@ -1,6 +1,7 @@
 ---
 author: [[Nick Parsons]]
 title: "Feature Engineering for Personalized Search"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

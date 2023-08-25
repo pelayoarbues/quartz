@@ -1,6 +1,7 @@
 ---
 author: [[buttondown.email]]
 title: "Humane Ingenuity 46: Can Engineered Writing Ever Be Great?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

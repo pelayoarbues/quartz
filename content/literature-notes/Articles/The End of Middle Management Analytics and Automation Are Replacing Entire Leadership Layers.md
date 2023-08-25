@@ -1,6 +1,7 @@
 ---
 author: [[Vin Vashishta]]
 title: "The End of Middle Management: Analytics and Automation Are Replacing Entire Leadership Layers"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

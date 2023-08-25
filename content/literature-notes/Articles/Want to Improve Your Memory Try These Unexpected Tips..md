@@ -1,6 +1,7 @@
 ---
 author: [[Allie Volpe]]
 title: "Want to Improve Your Memory? Try These Unexpected Tips."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

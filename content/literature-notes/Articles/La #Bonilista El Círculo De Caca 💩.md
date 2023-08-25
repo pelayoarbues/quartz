@@ -1,6 +1,7 @@
 ---
 author: [[Bonilista Archive Feed]]
 title: "La #Bonilista: El Círculo De Caca 💩"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

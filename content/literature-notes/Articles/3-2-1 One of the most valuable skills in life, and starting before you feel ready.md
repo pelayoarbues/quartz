@@ -1,6 +1,7 @@
 ---
 author: [[3-2-1 Thursday newsletter - James Clear]]
 title: "3-2-1: One of the most valuable skills in life, and starting before you feel ready"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

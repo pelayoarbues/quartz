@@ -1,6 +1,7 @@
 ---
 author: [[rachel binx]]
 title: "Why You Should Be Prototyping"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

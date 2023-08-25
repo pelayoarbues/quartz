@@ -1,6 +1,7 @@
 ---
 author: [[Martin Sahlen]]
 title: "The Rise (And Fall?) of Data Debt"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

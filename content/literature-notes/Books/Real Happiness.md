@@ -1,6 +1,7 @@
 ---
 author: [[Sharon Salzberg]]
 title: "Real Happiness"
+date: 2020-01-02
 tags: 
 - books
 - literature-note

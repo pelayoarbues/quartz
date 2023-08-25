@@ -1,6 +1,7 @@
 ---
 author: [[Sahil Bloom's Curiosity Chronicle]]
 title: "The Question of Nine, Return on Hassle, &amp; More"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

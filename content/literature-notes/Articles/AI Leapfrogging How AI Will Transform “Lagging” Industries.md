@@ -1,6 +1,7 @@
 ---
 author: [[NFX]]
 title: "AI Leapfrogging: How AI Will Transform “Lagging” Industries"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

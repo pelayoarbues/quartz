@@ -1,6 +1,7 @@
 ---
 author: [[Benn Stancil]]
 title: "Large Language Labor Markets"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

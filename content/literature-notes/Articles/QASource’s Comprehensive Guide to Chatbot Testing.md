@@ -1,6 +1,7 @@
 ---
 author: [[Timothy Joseph]]
 title: "QASource’s Comprehensive Guide to Chatbot Testing"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

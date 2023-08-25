@@ -1,6 +1,7 @@
 ---
 author: [[David Heinemeier Hansson (dhh@hey.com)]]
 title: "Breaking the Inertia of Mediocrity"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

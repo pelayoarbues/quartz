@@ -1,6 +1,7 @@
 ---
 author: [[Irrational Exuberance]]
 title: "Building Personal and Organizational Prestige"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Jason Fried (jason@hey.com)]]
 title: "Scatter"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,10 +1,11 @@
 ---
 author: [[Tomaz Bratanic]]
 title: "Knowledge Graphs &amp; LLMs: Fine-Tuning vs. Retrieval-Augmented Generation"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note
-Document Tags: [[rag]]
+Document Tags: -[[rag]]
 ---
 # Knowledge Graphs & LLMs: Fine-Tuning vs. Retrieval-Augmented Generation
 

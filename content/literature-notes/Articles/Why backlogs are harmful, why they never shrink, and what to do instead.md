@@ -1,6 +1,7 @@
 ---
 author: [[lucasfcosta.com]]
 title: "Why backlogs are harmful, why they never shrink, and what to do instead"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

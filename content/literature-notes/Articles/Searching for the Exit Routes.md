@@ -1,6 +1,7 @@
 ---
 author: [[David Mattin]]
 title: "Searching for the Exit Routes"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

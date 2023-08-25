@@ -1,6 +1,7 @@
 ---
 author: [[Tiago Forte]]
 title: "How to Summarize Books Using ChatGPT: 7 Experiments in AI Distillation"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Begoña Gómez Urzaiz]]
 title: "¡Socorro, Mi Barrio Se Esta Poniendo Precioso! Asi Es La Gentriansiedad, El Miedo a Las Mejoras Urbanas"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

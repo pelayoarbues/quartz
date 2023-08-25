@@ -1,6 +1,7 @@
 ---
 author: [[openai]]
 title: "techniques_to_improve_reliability.md"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

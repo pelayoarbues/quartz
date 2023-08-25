@@ -1,6 +1,7 @@
 ---
 author: [[David Heinemeier Hansson (dhh@hey.com)]]
 title: "Why Is Paid Social Media a Bad Idea?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

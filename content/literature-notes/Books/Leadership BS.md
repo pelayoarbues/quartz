@@ -1,6 +1,7 @@
 ---
 author: [[Jeffrey Pfeffer]]
 title: "Leadership BS"
+date: 2023-05-15
 tags: 
 - books
 - literature-note

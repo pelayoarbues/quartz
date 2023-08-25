@@ -1,6 +1,7 @@
 ---
 author: [[lesters]]
 title: "Efficient Open-Domain Question-Answering on Vespa.ai"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,7 +1,7 @@
 
 ---
 title:  "ChatGPT Prompt Engineering for developers"
-Date: 2023-04-27
+date: 2023-04-27
 tags: 
 - literature-note 
 - Course

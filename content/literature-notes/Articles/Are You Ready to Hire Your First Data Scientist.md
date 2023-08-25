@@ -1,6 +1,7 @@
 ---
 author: [[firstround.com]]
 title: "Are You Ready to Hire Your First Data Scientist?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

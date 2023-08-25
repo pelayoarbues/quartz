@@ -1,6 +1,7 @@
 ---
 author: [[Dan Poppy]]
 title: "Ep 46: DBT Labs on DBT"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

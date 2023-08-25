@@ -1,6 +1,7 @@
 ---
 author: [[that’s]]
 title: "Gwyneth Windflower"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

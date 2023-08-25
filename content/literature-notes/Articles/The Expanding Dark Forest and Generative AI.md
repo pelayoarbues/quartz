@@ -1,6 +1,7 @@
 ---
 author: [[Maggie Appleton]]
 title: "The Expanding Dark Forest and Generative AI"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Simon Willison's Weblog]]
 title: "Quoting Paul Kedrosky and Eric Norlin"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Katie Bauer]]
 title: "Elbows of Data"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

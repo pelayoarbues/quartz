@@ -1,6 +1,7 @@
 ---
 author: [[Mitchell Hashimoto]]
 title: "Prompt Engineering vs. Blind Prompting"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

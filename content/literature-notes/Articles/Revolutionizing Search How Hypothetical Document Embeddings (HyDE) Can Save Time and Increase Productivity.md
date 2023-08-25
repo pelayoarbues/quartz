@@ -1,6 +1,7 @@
 ---
 author: [[WFH Brian]]
 title: "Revolutionizing Search: How Hypothetical Document Embeddings (HyDE) Can Save Time and Increase Productivity"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

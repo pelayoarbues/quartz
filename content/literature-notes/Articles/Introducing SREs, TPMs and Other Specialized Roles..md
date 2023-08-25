@@ -1,6 +1,7 @@
 ---
 author: [[lethain.com]]
 title: "Introducing SREs, TPMs and Other Specialized Roles."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

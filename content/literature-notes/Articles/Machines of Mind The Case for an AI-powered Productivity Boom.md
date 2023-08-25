@@ -1,6 +1,7 @@
 ---
 author: [[Martin Neil Baily]]
 title: "Machines of Mind: The Case for an AI-powered Productivity Boom"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

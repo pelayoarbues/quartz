@@ -1,6 +1,7 @@
 ---
 author: [[Matt Turck]]
 title: "5 Thoughts on The 2023 MAD (Machine Learning, Artificial Intelligence and Data) Landscape"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

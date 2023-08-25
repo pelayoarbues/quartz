@@ -1,6 +1,7 @@
 ---
 author: [[linkedin.com]]
 title: "Why Did I Leave Google Or, Why Did I Stay So Long?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

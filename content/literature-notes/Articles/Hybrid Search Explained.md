@@ -1,6 +1,7 @@
 ---
 author: [[weaviate.io]]
 title: "Hybrid Search Explained"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

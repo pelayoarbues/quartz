@@ -1,6 +1,7 @@
 ---
 author: [[W&B]]
 title: "How to Evaluate, Compare, and Optimize LLM Systems"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

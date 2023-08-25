@@ -1,6 +1,7 @@
 ---
 author: [[kristenr]]
 title: "Chat, Discover and Find Your Next Home With Zillow’s Plugin on ChatGPT"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

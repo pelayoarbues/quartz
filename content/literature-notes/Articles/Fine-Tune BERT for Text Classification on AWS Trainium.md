@@ -1,6 +1,7 @@
 ---
 author: [[Philipp Schmid]]
 title: "Fine-Tune BERT for Text Classification on AWS Trainium"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[admin]]
 title: "¿Por Que Los Salarios Son Mas Altos en Las Ciudades Grandes? La Importancia Del Poder De Monopsonio en El Mercado Laboral Español"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

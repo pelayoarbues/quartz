@@ -1,6 +1,7 @@
 ---
 author: [[Praveen Seshadri]]
 title: "The Maze Is in the Mouse"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

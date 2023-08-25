@@ -1,6 +1,7 @@
 ---
 author: [[Jim Collins]]
 title: "Good to Great"
+date: 2023-07-14
 tags: 
 - books
 - literature-note

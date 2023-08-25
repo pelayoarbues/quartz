@@ -1,6 +1,7 @@
 ---
 author: [[Xavier Marcet]]
 title: "El Vagon Más Lento"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

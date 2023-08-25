@@ -1,6 +1,7 @@
 ---
 author: [[Akshat Bubna]]
 title: "How to Label 1M Data Points/Week"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

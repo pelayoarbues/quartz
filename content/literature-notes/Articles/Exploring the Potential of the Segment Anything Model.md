@@ -1,6 +1,7 @@
 ---
 author: [[Soumya Ranjan]]
 title: "Exploring the Potential of the Segment Anything Model"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

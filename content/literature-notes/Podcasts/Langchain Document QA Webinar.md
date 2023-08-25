@@ -1,7 +1,7 @@
 
 ---
 title:  "Langchain Document QA Webinar"
-Date: 2023-03-30
+date: 2023-03-30
 tags: 
 - literature-note 
 ---

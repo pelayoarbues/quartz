@@ -1,6 +1,7 @@
 ---
 author: [[Prof. Mark Williams]]
 title: "Mindfulness"
+date: 2019-09-02
 tags: 
 - books
 - literature-note

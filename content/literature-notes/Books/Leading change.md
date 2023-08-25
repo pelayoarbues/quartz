@@ -1,6 +1,7 @@
 ---
 author: [[John P. Kotter]]
 title: "Leading change"
+date: 2023-07-27
 tags: 
 - books
 - literature-note

@@ -4,6 +4,7 @@ Mark Esposito,
 Takaaki Mizuno,
 Danny Goh]]
 title: "The Dumb Reason Your AI Project Will Fail"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

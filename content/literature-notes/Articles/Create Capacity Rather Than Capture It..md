@@ -1,6 +1,7 @@
 ---
 author: [[lethain.com]]
 title: "Create Capacity Rather Than Capture It."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

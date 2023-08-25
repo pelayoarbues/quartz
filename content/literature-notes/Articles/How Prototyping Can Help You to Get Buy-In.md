@@ -1,6 +1,7 @@
 ---
 author: [[eugeneyan]]
 title: "How Prototyping Can Help You to Get Buy-In"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

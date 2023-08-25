@@ -1,6 +1,7 @@
 ---
 author: [[Frank Liu]]
 title: "A Gentle Introduction to Vector Databases"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Vin Vashishta]]
 title: "The Art of Pushback for Data Product Managers and Leaders"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

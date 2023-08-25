@@ -1,6 +1,7 @@
 ---
 author: [[Benn Stancil]]
 title: "10,000 Microwave Enthusiasts to Attend Annual Microwave Conference in Las Vegas"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

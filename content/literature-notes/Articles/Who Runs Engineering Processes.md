@@ -1,6 +1,7 @@
 ---
 author: [[Irrational Exuberance]]
 title: "Who Runs Engineering Processes?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

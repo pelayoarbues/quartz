@@ -1,6 +1,7 @@
 ---
 author: [[Andrew S. Grove]]
 title: "High Output Management"
+date: 2023-04-23
 tags: 
 - books
 - literature-note

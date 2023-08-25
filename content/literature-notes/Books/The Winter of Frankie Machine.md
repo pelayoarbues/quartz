@@ -1,6 +1,7 @@
 ---
 author: [[Don Winslow]]
 title: "The Winter of Frankie Machine"
+date: 2018-03-02
 tags: 
 - books
 - literature-note

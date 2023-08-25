@@ -1,6 +1,7 @@
 ---
 author: [[Anna Geller]]
 title: "Should You Measure the Value of a Data Team?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

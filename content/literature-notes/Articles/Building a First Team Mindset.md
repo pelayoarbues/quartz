@@ -1,6 +1,7 @@
 ---
 author: [[attack-gecko.net]]
 title: "Building a First Team Mindset"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[hey.com]]
 title: "Your Estimates Suck"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Mudler blog]]
 title: "Question Answering on Documents Locally With LangChain, LocalAI, Chroma, and GPT4All"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

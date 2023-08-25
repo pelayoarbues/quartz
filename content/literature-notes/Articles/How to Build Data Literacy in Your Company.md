@@ -1,6 +1,7 @@
 ---
 author: [[Sara Brown]]
 title: "How to Build Data Literacy in Your Company"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

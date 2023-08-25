@@ -1,6 +1,7 @@
 ---
 author: [[AI, software, tech, and people, not in that order... by X]]
 title: "Transformer Models: An Introduction and Catalog"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

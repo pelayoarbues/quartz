@@ -1,6 +1,7 @@
 ---
 author: [[Randy Au]]
 title: "&#34;Single Panes of Glass&#34; Are Horrible"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

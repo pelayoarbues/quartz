@@ -1,6 +1,7 @@
 ---
 author: [[Chip Huyen]]
 title: "Generative AI Strategy"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

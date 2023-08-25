@@ -1,6 +1,7 @@
 ---
 author: [[Daniel Chalef]]
 title: "Building an Intent Router With Langchain and Zep"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

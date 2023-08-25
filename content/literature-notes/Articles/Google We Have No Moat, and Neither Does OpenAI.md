@@ -1,6 +1,7 @@
 ---
 author: [[Dylan Patel]]
 title: "Google &#34;We Have No Moat, and Neither Does OpenAI&#34;"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

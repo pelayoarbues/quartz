@@ -1,6 +1,7 @@
 ---
 author: [[Samuel Gil]]
 title: "#158 Capitalismo Para El S. XXI"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

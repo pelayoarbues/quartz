@@ -1,6 +1,7 @@
 ---
 author: [[Rafael Santandreu]]
 title: "Las Gafas De La Felicidad"
+date: 2021-03-02
 tags: 
 - books
 - literature-note

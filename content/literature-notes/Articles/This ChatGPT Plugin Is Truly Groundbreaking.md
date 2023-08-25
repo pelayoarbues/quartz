@@ -1,6 +1,7 @@
 ---
 author: [[James L.]]
 title: "This ChatGPT Plugin Is Truly Groundbreaking"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

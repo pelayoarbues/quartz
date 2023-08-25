@@ -1,6 +1,7 @@
 ---
 author: [[Alex Fernández]]
 title: "Un error que cometimos en el equipo fue asumir que..."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

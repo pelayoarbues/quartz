@@ -1,6 +1,7 @@
 ---
 author: [[Dan Harris]]
 title: "10% Happier"
+date: 2021-01-23
 tags: 
 - books
 - literature-note

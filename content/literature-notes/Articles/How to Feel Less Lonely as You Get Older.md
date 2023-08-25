@@ -1,6 +1,7 @@
 ---
 author: [[Carrie Ditzel]]
 title: "How to Feel Less Lonely as You Get Older"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

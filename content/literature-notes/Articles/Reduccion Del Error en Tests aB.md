@@ -1,6 +1,7 @@
 ---
 author: [[datanalytics.com]]
 title: "Reduccion Del Error en Tests a/B"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

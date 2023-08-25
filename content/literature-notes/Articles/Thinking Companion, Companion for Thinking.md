@@ -1,6 +1,7 @@
 ---
 author: [[Ethan Mollick]]
 title: "Thinking Companion, Companion for Thinking"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

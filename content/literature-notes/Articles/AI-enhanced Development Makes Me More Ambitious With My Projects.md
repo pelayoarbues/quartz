@@ -1,6 +1,7 @@
 ---
 author: [[Simon Willison's Weblog]]
 title: "AI-enhanced Development Makes Me More Ambitious With My Projects"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

@@ -1,6 +1,7 @@
 ---
 author: [[Arthur Cahuantzi]]
 title: "La Mayoria De Las Empresas Confunden Eficiencia Operativa Con..."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

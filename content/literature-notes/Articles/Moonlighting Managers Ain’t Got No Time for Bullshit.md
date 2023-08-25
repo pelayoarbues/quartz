@@ -1,6 +1,7 @@
 ---
 author: [[DHH]]
 title: "Moonlighting Managers Ain’t Got No Time for Bullshit"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

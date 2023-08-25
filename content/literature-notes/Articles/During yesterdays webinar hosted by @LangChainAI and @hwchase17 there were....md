@@ -1,6 +1,7 @@
 ---
 author: [[Eric Ciarla]]
 title: "During yesterdays webinar hosted by @LangChainAI and @hwchase17 there were..."
+date: 2023-08-25
 tags: 
 - articles
 - literature-note

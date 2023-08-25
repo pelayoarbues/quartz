@@ -1,6 +1,7 @@
 ---
 author: [[Lucas Beyer]]
 title: "Who killed non-contrastive image-text pretraining?"
+date: 2023-08-25
 tags: 
 - articles
 - literature-note
