@@ -1,6 +1,6 @@
 ---
 title: "Data Science Fundamentals"
-Date: 2023-03-06
+date: 2023-03-06
 tags: 
 - writing 
 - learning
@@ -36,7 +36,7 @@ There are two levels:
 | Maths                  | [Linear Algebra](attachments/Data%20Science%20Fundamentals/Resources/Linear%20Algebra.md)                                                                 | Foundation  |
 | Maths                  | [Statistical Learning](attachments/Data%20Science%20Fundamentals/Resources/Statistical%20Learning.md)                                                     | Foundation  |
 | Maths                  | [Statistics 101 Probability](attachments/Data%20Science%20Fundamentals/Resources/Statistics%20101%20Probability.md)                                       | Foundation  |
-| Maths                  | [Numerical Optimization](attachments/Data%20Science%20Fundamentals/Resources/Numerical%20Optimization.md)                                           | Recommended |
+| Maths                  | [Numerical Optimization](attachments/Data%20Science%20Fundamentals/Resources/Numerical%20Optimization.md)                                                 | Recommended |
 | Maths                  | [Time Series Analysis](attachments/Data%20Science%20Fundamentals/Resources/Time%20Series%20Analysis.md)                                                   | Recommended |
 | Maths                  | [Machine Learning 101](attachments/Data%20Science%20Fundamentals/Resources/Machine%20Learning%20101.md)                                                   | Recommended |
 | Communication          | [Communicate with impact](attachments/Data%20Science%20Fundamentals/Resources/Communicate%20with%20impact.md)                                             | Foundation  |
