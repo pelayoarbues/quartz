@@ -1,5 +1,5 @@
 ---
-title: "articles"
+title: "Articles"
 tags:
 - MOC
 ---
