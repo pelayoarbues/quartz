@@ -52,8 +52,8 @@ export const defaultContentPageLayout: PageLayout = {
     ),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "Recent Reading",
-        limit: 3,
+        title: "Now Reading",
+        limit: 1,
         filter: (f) =>
           f.slug!.startsWith("literature-notes/Articles") && f.slug! !== "literature-notes/Articles/index" && !f.frontmatter?.noindex,
         sort: (f1, f2) =>
