@@ -10,7 +10,7 @@ I'm Pelayo Arbués, currently based in Gijón and Madrid, Spain, and I'm the Hea
 
 My academic background is in economics, with a Ph.D. in Transport Economics and regional science. I worked as a researcher in academia for 7 years and held past positions as a Senior Data Scientist at BBVA Next and Lead Data Scientist at Weplan.
 
-I'm passionate about problem-solving and love being a manager because it allows me to tackle various challenges related to strategy, processes, and people. My proudest achievements include developing a recommender system with a small team at a large retail company and raising a high-performance team at idealista.
+I'm passionate about problem-solving and love being a manager because it allows me to tackle various challenges related to strategy, processes, and people. My proudest [achievements](writing/My%20failure%20resume.md) include developing a recommender system with a small team at a large retail company and raising a high-performance team at idealista.
 
 My biggest dream is to apply my skills and experience to help address human challenges, and I aspire to be known for leading a team that works with high ethics and can deliver outstanding solutions.
 
