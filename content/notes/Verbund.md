@@ -3,7 +3,7 @@
 title:  "Verbund"
 date: 2023-08-28
 tags: 
-- fleeting 
+- permanent-note 
 - concept
 ---
 
