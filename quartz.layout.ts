@@ -50,7 +50,18 @@ export const defaultContentPageLayout: PageLayout = {
         linkToMore: "notes/" as SimpleSlug,
       }),
     ),
-    
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Recent Reading",
+        limit: 4,
+        filter: (f) =>
+          f.slug!.startsWith("literature-notes/Articles") && f.slug! !== "literature-notes/Articles/index" && !f.frontmatter?.noindex,
+        sort: (f1, f2) =>
+          (f2.dates?.created.getTime() ?? Number.MAX_SAFE_INTEGER) -
+          (f1.dates?.created.getTime() ?? Number.MAX_SAFE_INTEGER),
+        linkToMore: "literature-notes/Articles/" as SimpleSlug,
+      }),
+    ),
   ],
   right: [Component.Graph(), Component.Backlinks()],
 }
