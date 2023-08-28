@@ -7,7 +7,7 @@ tags:
 ---
 
 
-In the chemistry industry, "Verbund" refers to an integrated production process where by-products from one process are used as inputs in another process, resulting in a more efficient and sustainable overall system.
+In the chemistry industry, [[Verbund]] refers to an integrated production process where by-products from one process are used as inputs in another process, resulting in a more efficient and sustainable overall system.
 
 In data science, a similar concept can be applied to the use of by-products from one analysis or modeling process as inputs for another analysis or modeling process, leading to a more efficient and effective overall data science workflow. For example, the output of one machine learning model can be used as input for another model, or data generated as a by-product of one analysis can be repurposed for another analysis. 
 
