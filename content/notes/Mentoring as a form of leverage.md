@@ -1,6 +1,6 @@
 
 ---
-title: "202202021502 - Mentoring as a form of leverage"
+title: "Mentoring as a form of leverage"
 date: 2022-02-02
 tags: 
 - permanent-note 

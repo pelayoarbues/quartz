@@ -1,6 +1,6 @@
 
 ---
-title: "202210241310 - Make'em talk with prototypes"
+title: "Make'em talk with prototypes"
 date: 2022-10-24
 tags: 
 - permanent-note

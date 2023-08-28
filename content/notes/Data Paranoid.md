@@ -1,5 +1,5 @@
 ---
-title:  "202302172202 - Data Paranoid"
+title:  "Data Paranoid"
 date: 2023-02-17
 tags: 
 - permanent-note 

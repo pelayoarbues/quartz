@@ -1,5 +1,5 @@
 ---
-title:  "202308232008 - Building to Forecast"
+title:  "Building to Forecast"
 date: 2023-08-23
 tags: 
 - permanent-note 

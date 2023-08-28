@@ -97,7 +97,7 @@ Finding a topic it is just follow the threads in the slip box, while it is a fru
 
 When you are working in flow mode, the own work generates momentum to keep on working. For that to happen, the workflow must be rewarding so that the dynamics of work and reward yield a feedback loop that motivates you to keep on working.
 
-[[Growth mindset]]: seek and welcome feedback. Means finding pleasure out of changing for the better instead of receiving praise. Being praised for what you are, instead of what you do might lead you to have a fixed mindset.
+Seek and welcome feedback. Means finding pleasure out of changing for the better instead of receiving praise. Being praised for what you are, instead of what you do might lead you to have a fixed mindset.
 
 Taking notes is a form of increasing the frequency of feedback. Instead of waiting for a paper review we obtain feedback on our notes as writing them test our understanding and our hability to explain them concisely. Reviewing our notes to take permanent notes, means realizing that we do not fully understand an idea and hence we can work on it. This leads to better writing, faster note taking and deeper reading. 
 

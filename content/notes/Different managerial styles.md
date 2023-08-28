@@ -1,6 +1,6 @@
 
 ---
-title: "202202052202 - Different managerial styles"
+title: "Different managerial styles"
 date: 2022-02-05
 tags: 
 - permanent-note 

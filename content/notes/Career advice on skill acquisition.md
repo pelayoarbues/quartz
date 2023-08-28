@@ -1,5 +1,5 @@
 ---
-title: "202202011102 - Career advice on skill acquisition"
+title: "Career advice on skill acquisition"
 date: 2022-02-01
 tags: 
 - permanent-note 

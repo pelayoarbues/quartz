@@ -1,6 +1,6 @@
 
 ---
-title:  "202305170905 - Manage the data before thinking of AI"
+title:  "Manage the data before thinking of AI"
 date: 2023-05-17
 tags: 
 - permanent-note 

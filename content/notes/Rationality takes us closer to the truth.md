@@ -1,6 +1,6 @@
 
 ---
-title: "202210172210 - Rationalism takes us closer to the truth"
+title: "Rationality takes us closer to the truth"
 date: 2022-10-17
 tags: 
 - permanent-note

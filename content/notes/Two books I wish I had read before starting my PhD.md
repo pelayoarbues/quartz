@@ -1,6 +1,6 @@
 
 ---
-title:  "202303291603 - Two books I wish I had read before starting my PhD"
+title:  "Two books I wish I had read before starting my PhD"
 date: 2023-03-29
 tags: 
 - permanent-note 

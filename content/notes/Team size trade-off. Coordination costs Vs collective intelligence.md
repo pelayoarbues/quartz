@@ -1,6 +1,6 @@
 
 ---
-title: "202211102211 - Team size trade-off. Coordination costs Vs collective intelligence"
+title: "Team size trade-off. Coordination costs Vs collective intelligence"
 date: 2022-11-10
 tags: 
 - permanent-note

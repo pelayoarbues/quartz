@@ -1,6 +1,6 @@
 
 ---
-title: "202211141711 - Short term and long term metrics"
+title: "Short term and long term metrics"
 date: 2022-11-14
 tags: 
 - permanent-note 

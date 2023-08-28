@@ -1,6 +1,6 @@
 
 ---
-title: "202210172210 - Bayesian reasoning"
+title: "Bayesian reasoning"
 date: 2022-10-17
 tags: 
 - permanent-note 

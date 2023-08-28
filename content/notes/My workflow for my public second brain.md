@@ -1,7 +1,7 @@
 
 
 ---
-title:  "202303032203 - My workflow for my public second brain"
+title:  "My workflow for my public second brain"
 date: 2023-03-03
 tags: 
 - permanent-note 

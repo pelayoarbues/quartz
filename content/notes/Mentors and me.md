@@ -1,6 +1,6 @@
 
 ---
-title:  "202302251202 - Mentors and me"
+title:  "Mentors and me"
 date: 2023-02-25
 tags: 
 - permanent-note 

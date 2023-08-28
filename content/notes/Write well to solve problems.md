@@ -1,6 +1,6 @@
 
 ---
-title: "202301301801 - Write well to solve problems"
+title: "Write well to solve problems"
 date: 2023-01-30
 tags: 
 - permanent-note 
