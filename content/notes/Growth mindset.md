@@ -10,10 +10,6 @@ tags:
 - career
 ---
 
-Act as a personal blog editor. I want you to review the grammar and expressions of the text. If necessary provide corrections and try to make the post appealing for a general and technical audience. Do not expand the ideas of the text.
+According to [Carol Dweck](literature-notes/Articles/Carol%20Dweck%20A%20Summary%20of%20Growth%20and%20Fixed%20Mindsets.md), the ability to learn is not fixed. Rather, it can change with your effort, as intelligence or any other quality are traits that can be developed. Your basic qualities can be cultivated through a positive attitude and hard work. In this context, failure does not define you - it is merely a spark or a starting point that may enable you to grow.
 
-Text:
-
-According to [Carol Dweck](literature-notes/Articles/Carol%20Dweck%20A%20Summary%20of%20Growth%20and%20Fixed%20Mindsets.md) the ability to learn is not fixed, it can change with your effort as intelligence, or any other quality, are treats that can be developed. Your basic qualities can be cultivated with attitude and work. In this setting failure does not define you, it is a sparkle or a starting point that might allow you to grow. 
-
-A very interesting mental model to adapt from a fixed to a growth mindset is to understand that if you are currently not able to solve a problem is because . [you are not there yet in the learning curve](notes/The%20Power%20of%20Yet.md).
+An intriguing mental model for transitioning from a fixed mindset to a growth mindset is understanding that if you are currently unable to solve a problem, it's because [you're not yet at that point on the learning curve](notes/The%20Power%20of%20Yet.md).
