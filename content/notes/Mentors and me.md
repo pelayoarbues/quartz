@@ -4,6 +4,7 @@ title:  "Mentors and me"
 date: 2023-02-25
 tags: 
 - permanent-note 
+- career
 ---
 
 This is the story of how my mentors played a pivotal role in shaping my career. As anyone, I cannot say that I am entirely self-made, I attribute my success to a combination of luck, perseverance, and, most importantly, a supportive network of mentors. 

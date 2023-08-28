@@ -5,6 +5,8 @@ tags:
 - writing
 - management
 - project-management
+- process
+- data
 ---
 
 My experience working with agile methodologies in Data Science projects is quite bitter. It did not work for small companies. Neither did it for the larger ones starting their journey in advanced analytics. In both environments, Data Scientists usually work on more than one project at a time (They can even be considered [floor sweepers](https://publish.obsidian.md/dr-mario/pages/%F0%9F%97%A3%EF%B8%8F+Down+with+Data+Science), but that is another story). In that situation, if a project running in agile has no fully dedicated team the whole system crumbles, but that is not specific to Data Science. 

@@ -5,6 +5,7 @@ date: 2023-02-17
 tags: 
 - permanent-note 
 - career
+- data
 ---
 
 The lack of clarity around the role of a data scientist can be a dangerous situation for candidates. This situation can make it difficult for candidates to know what is expected of them in their new role. Without a clear understanding of their role, they may struggle to perform their job to the best of their abilities, which can be frustrating for both the employee and the employer.

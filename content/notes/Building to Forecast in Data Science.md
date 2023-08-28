@@ -1,8 +1,10 @@
 ---
-title:  "Building to Forecast"
+title:  "Building to Forecast in Data Science"
 date: 2023-08-23
 tags: 
 - permanent-note 
+- data
+- process
 ---
 
 Production methods such as Lean manufacturing and Just in Time manufacturing try to avoid waste superfluous inventory while ensuring the demand is fully covered. The common practice in software engineering and data science is building to order, that is, trying to supply products required by business units. Building to forecast on the other hand, tries to anticipate future needs by building products that are supposed to be needed in the future and it is also a [common business practice in computer software products](literature-notes/Books/Andrew%20S.%20Grove%20-%20High%20Output%20Management-Vintage.md). 

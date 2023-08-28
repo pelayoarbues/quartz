@@ -4,6 +4,7 @@ title: "Data is not objective"
 date: 2022-10-14
 tags: 
 - permanent-note 
+- data
 ---
 
 Data is not objective. Although it may seem like a neutral representation of reality, the truth is that data is always obtained through some sort of instrument or technique that imposes a particular structure to the information we aim to study. Furthermore, we often transform data and use models to search for patterns, which can further shape our understanding of the information.  I like this [post on the topic by Carlos Gil Bellosta](https://www.datanalytics.com/2021/01/21/mas-sobre-el-mito-de-la-objetividad-especialmente-la-data-driven/)

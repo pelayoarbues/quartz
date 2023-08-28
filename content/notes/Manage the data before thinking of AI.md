@@ -5,6 +5,8 @@ date: 2023-05-17
 tags: 
 - permanent-note 
 - strategy
+- data
+- process
 ---
 
 A few weeks ago, I met with the founder and CTO of a company over lunch to discuss their data strategy. They wanted to hear about the advanced analytics they could run to improve their business, given their large volume of customers and transactions.

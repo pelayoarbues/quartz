@@ -5,6 +5,7 @@ date: 2022-05-03
 tags: 
 - writing 
 - career
+- data
 ---
 
 Desde junio de 2020 cada semana trato de tener una conversación con personas desconocidas que me contactan para charlar conmigo sobre distintos temas relacionados con el mundo de los datos. La mayoría de las charlas son con perfiles junior que no tienen claro cómo empezar/formarse o que quieren empezar/hacer la transición a un puesto de Ciencia de datos.

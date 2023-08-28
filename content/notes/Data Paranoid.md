@@ -3,6 +3,9 @@ title:  "Data Paranoid"
 date: 2023-02-17
 tags: 
 - permanent-note 
+- data
+- management
+- strategy
 ---
 
 ![Ozzy Osbourne Paranoid](notes/attachments/ozzy-midjourney.jpeg)

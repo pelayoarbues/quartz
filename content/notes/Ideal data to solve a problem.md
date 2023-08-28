@@ -4,6 +4,7 @@ date: 2022-10-14
 tags: 
 - permanent-note 
 - workflow
+- data
 ---
 
 My favourite stage at the DS process is thinking about what data would be ideal to solve a particular problem.

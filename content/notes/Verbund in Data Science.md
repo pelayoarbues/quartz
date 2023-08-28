@@ -4,10 +4,11 @@ date: 2022-02-01
 tags: 
 - permanent-note 
 - product
+- data
 ---
 
 
-In the chemistry industry, [[00.Inbox/Fleeting/Verbund]] refers to an integrated production process where by-products from one process are used as inputs in another process, resulting in a more efficient and sustainable overall system.
+In the chemistry industry, [Verbund](notes/Verbund.md) refers to an integrated production process where by-products from one process are used as inputs in another process, resulting in a more efficient and sustainable overall system.
 
 In data science, a similar concept can be applied to the use of by-products from one analysis or modeling process as inputs for another analysis or modeling process, leading to a more efficient and effective overall data science workflow. For example, the features generated for a machine learning model can be used as input for another model, that is what feature stores are all about. 
 

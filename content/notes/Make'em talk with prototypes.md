@@ -5,6 +5,8 @@ date: 2022-10-24
 tags: 
 - permanent-note
 - management
+- data
+- process
 ---
 
 Data product projects can be challenging to execute as stakeholder requirements are often vague and undefined. In my experience, upfront design of data products can be difficult since the data team may not have the necessary context to create an appropriate solution.

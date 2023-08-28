@@ -4,6 +4,7 @@ title:  "The Data Vantage Point"
 date: 2023-03-16
 tags: 
 - permanent-note 
+- data
 ---
 
 As data professionals, we have a unique perspective on the company as a whole. From our position, we can see how all the departments and systems interconnect, which allows us to discover new opportunities. This is because companies are complex systems, and narrow, siloed views can prevent us from seeing the full potential of combining products and solutions.

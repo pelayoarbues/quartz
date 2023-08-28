@@ -5,6 +5,7 @@ date: 2022-10-14
 tags: 
 - writing
 - management
+- process
 ---
 
 A raíz de la anterior publicación en el blog sobre cómo conseguir un primer empleo de Data Scientist recibí bastantes preguntas de managers con dudas sobre cómo afrontar el proceso de contratación. En este artículo comparto unas notas rápidas que pueden servir para analizar si el proceso que lideras es todo lo racional que debería.

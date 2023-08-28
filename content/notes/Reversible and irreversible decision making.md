@@ -5,6 +5,7 @@ date: 2022-05-17
 tags: 
 - permanent-note 
 - decision
+- mental-model
 ---
 
 Before making a decision we should analyse it and meta-decide whether that decision is reversible or not irreversible.

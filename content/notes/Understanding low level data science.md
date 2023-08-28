@@ -6,6 +6,7 @@ tags:
 - permanent-note 
 - learning
 - career
+- data
 ---
 
 Having a deep understanding of the low-level details of data science techniques can be highly beneficial for data professionals in several ways.

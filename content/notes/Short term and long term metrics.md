@@ -4,6 +4,7 @@ title: "Short term and long term metrics"
 date: 2022-11-14
 tags: 
 - permanent-note 
+- data
 ---
 
 Optimising the wrong metrics might make you win the finite game, but lose the infinite one. Beware what you chase.
