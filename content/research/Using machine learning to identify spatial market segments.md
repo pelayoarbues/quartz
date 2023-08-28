@@ -1,6 +1,6 @@
 ---
 title: "Using machine learning to identify spatial market segments"
-Date: 2023-04-13
+date: 2023-04-13
 tags:
 - writing
 - research

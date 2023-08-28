@@ -1,6 +1,6 @@
 ---
 title: "Determinants of ground transport modal choice in long-distance trips in Spain"
-Date: 2016-02-01
+date: 2016-02-01
 tags:
 - writing
 - research

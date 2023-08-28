@@ -1,6 +1,6 @@
 ---
 title: "A dynamic approach to road freight flows modeling in Spain"
-Date: 2015-03-06
+date: 2015-03-06
 tags:
 - writing
 - research

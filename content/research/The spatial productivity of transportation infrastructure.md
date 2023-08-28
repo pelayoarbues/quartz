@@ -1,6 +1,6 @@
 ---
 title: "The spatial productivity of transportation infrastructure"
-Date: 2015-05-01
+date: 2015-05-01
 tags:
 - writing
 - research
