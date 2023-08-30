@@ -14,6 +14,9 @@ export default ((opts?: Options) => {
       <footer>
         <hr />
         <p>
+           <a href="https://pelayoarbues.github.io/index.xml">RSS Feed</a>
+        </p>
+        <p>
           Created with <a href="https://quartz.jzhao.xyz/">Quartz</a>, © {year}
         </p>
         <ul>
