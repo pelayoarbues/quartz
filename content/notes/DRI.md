@@ -6,10 +6,9 @@ tags:
 - concept
 ---
 
->[!concept]
->DRI (Directly Responsible Individual) is the term used to indicate the person who holds ultimate responsibility for ensuring a project or task is completed.
+> DRI (Directly Responsible Individual) is the term used to indicate the person who holds ultimate responsibility for ensuring a project or task is completed.
 
-The DRI concept aims to address issues related to ambiguity and [[deferred responsibility]]. In situations where a group of people are deciding what needs to be done, whether through a meeting or email exchange, the larger the group size, the more likely it is for individuals to dodge ownership. This issue can be resolved by designating a DRI.
+The DRI concept aims to address issues related to ambiguity and [Deferred Responsability](notes/Deferred%20Responsability.md). In situations where a group of people are deciding what needs to be done, whether through a meeting or email exchange, the larger the group size, the more likely it is for individuals to dodge ownership. This issue can be resolved by designating a DRI.
 
 The role of a DRI becomes particularly crucial in the context of cross-functional teams and when initiating new projects. As shared by former employees, DRIs played significant roles at Apple:
 
