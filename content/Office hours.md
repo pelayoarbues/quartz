@@ -1,16 +1,16 @@
 
 ---
 title:  "Office hours"
-Date: 2023-02-25
+date: 2023-09-04
 ---
 
 In June 2020, I began dedicating an hour of my week to speaking with strangers. I enjoy meeting new people and missed attending events, and I believed that I could use my experience to help others. Throughout my life, I've been fortunate enough to receive guidance and support from [people who mentored me](notes/202302251202%20-%20Mentors%20and%20me.md) without expecting anything in return. I wanted to give back to society by offering the same kindness.
 
-Initially, I wasn't certain if anyone would be interested in speaking with me. However, to my surprise, within a few days, I received over 20 requests from people who wished to speak with me. I had to create a process to manage the requests.
+Initially, I wasn't certain if anyone would be interested in speaking with me. However, to my surprise, within a few minutes, I received over 20 requests from people who wished to speak with me.
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy he hecho una videollamada con un aspirante a datascientist que quería mi opinión sobre cómo continuar su formación y qué tipo de proyectos se hacen en la industria. Estoy planteándome dedicar una hora a la semana para este tipo de charlas. Os interesaría? <a href="https://t.co/5RHnOM8Ywg">pic.twitter.com/5RHnOM8Ywg</a></p>&mdash; Pelayo Arbués (@pelayoarbues) <a href="https://twitter.com/pelayoarbues/status/1272618802073780226?ref_src=twsrc%5Etfw">June 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Since then, up until the beginning of 2023, I've had over 60 conversations with people I've never met. Most of these individuals wished to discuss one of the following topics:
+Since then, up until mid 2023, I've had over 70 conversations with people I've never met. Most of these individuals wished to discuss one of the following topics:
 -   Career advice: [What to study to become a data professional](writing/Data%20Science%20Fundamentals.md), the data roles market, how to build a strategy to land a data job, recommendations about companies/sectors, moving to management from a technical role...
 -   Team management: The difficulties of expanding a team, explaining the ROI to the board, selecting battles to fight, and more.
 -   Data product management: How to uncover opportunities, working with other roles, managing data projects, and more.
