@@ -4,7 +4,7 @@ title:  "Office hours"
 date: 2023-09-04
 ---
 
-In June 2020, I began dedicating an hour of my week to speaking with strangers. I enjoy meeting new people and missed attending events, and I believed that I could use my experience to help others. Throughout my life, I've been fortunate enough to receive guidance and support from [people who mentored me](notes/Mentors%20and%20me.md)  without expecting anything in return. I wanted to give back to society by offering the same kindness.
+In June 2020, I began dedicating an hour of my week to speaking with strangers. I enjoy meeting new people and missed attending events, and I believed that I could use my experience to help others. Throughout my life, I've been fortunate enough to receive guidance and support from [people who mentored me](notes/Mentors%20and%20me.md) without expecting anything in return. I wanted to give back to society by offering the same kindness.
 
 Initially, I wasn't certain if anyone would be interested in speaking with me. However, to my surprise, within a few minutes, I received over 20 requests from people who wished to speak with me.
 
