@@ -16,7 +16,7 @@ My biggest dream is to apply my skills and experience to help address human chal
 
 Outside of work, my hobbies include taking [analog street photographs](photography/photography.md), reading, and spending quality time with my family. I love learning about creative processes, management, and philosophy. You can learn about my [current priorities here](now.md). 
 
-Want to talk or need help with something? You can check my [Office Hours policy](Office%20hours.md). 
+Want to talk or need help with something? You can check my availability at [Office Hours](Office%20hours.md). 
 
 ## Stuff I do
 
