@@ -9,4 +9,4 @@ I just designed a fresh icon for the blog using Midjourney 5.2, where I combined
 
 I must say, it turned out beautifully!
 
-![](notes/attachments/Pasted%20image%2020230907163820.png)
+![](notes/attachments/obsidian-nn-icon.png)

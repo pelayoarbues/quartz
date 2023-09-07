@@ -20,7 +20,7 @@ Here are the tools I use:
 -   [Syncthing](https://syncthing.net/) for synchronizing my notes across devices.
 -   [Github](https://github.com/) for backups and publishing.
 -   [rsync](https://en.wikipedia.org/wiki/Rsync) and [cron](https://en.wikipedia.org/wiki/Cron) for moving notes from the personal vault to the public one.
--   [🪴 Quartz 3.3](https://quartz.jzhao.xyz/) for hosting my public digital garden.
+-   [🪴 Quartz](https://quartz.jzhao.xyz/) for hosting my public digital garden.
 -   [Tinybird](https://www.tinybird.co/) for analytics.
 
 Here's how my workflow works:
@@ -28,7 +28,7 @@ Here's how my workflow works:
 	- On my laptop or smartphone, I write rough drafts of my ideas in [Obsidian](https://obsidian.md/) and save them to my personal vault. These notes usually reside in a staging folder, waiting to be processed into proper, permanent notes.
 	- I use [Readwise Reader](https://readwise.io/read) to read content and highlight important passages. Sometimes I also write notes or use its integrated GPT-3 to summarize parts of the content. These highlights and notes are synced to my personal vault every hour using the [Official Readwise plugin for Obsidian](https://github.com/readwiseio/obsidian-readwise). The integration between Obsidian and Readwise works seamlessly.
 2. My notes are synchronized between my laptop and smartphone using [Syncthing](https://syncthing.net/) and backed up on [Github](https://github.com/).
-3. I publicly share my permanent notes, longer writings, and literature notes. These notes are copied from my personal vault to the folder that feeds the content to my public personal site built with [🪴 Quartz 3.3](https://quartz.jzhao.xyz/). For this purpose I use [cron](https://en.wikipedia.org/wiki/Cron) to trigger [rsync](https://en.wikipedia.org/wiki/Rsync) commands for the three folders containing those three types of notes. . Here's an example of the command I use:
+3. I publicly share my permanent notes, longer writings, and literature notes. These notes are copied from my personal vault to the folder that feeds the content to my public personal site built with [🪴 Quartz](https://quartz.jzhao.xyz/). For this purpose I use [cron](https://en.wikipedia.org/wiki/Cron) to trigger [rsync](https://en.wikipedia.org/wiki/Rsync) commands for the three folders containing those three types of notes. . Here's an example of the command I use:
 
 ``` 
 0 * * * * rsync -av  --exclude '000*' /data/projects/obsidian/pelayoarbues/notes/ /data/projects/quartz/content/notes/
