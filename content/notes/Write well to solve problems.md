@@ -1,4 +1,3 @@
-
 ---
 title: "Write well to solve problems"
 date: 2023-01-30

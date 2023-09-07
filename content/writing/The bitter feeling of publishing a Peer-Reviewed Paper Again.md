@@ -1,4 +1,3 @@
-
 ---
 title:  "The bitter feeling of publishing a Peer-Reviewed Paper Again"
 date: 2023-05-17

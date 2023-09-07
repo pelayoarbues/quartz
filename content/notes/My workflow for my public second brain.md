@@ -1,5 +1,3 @@
-
-
 ---
 title:  "My workflow for my public second brain"
 date: 2023-03-03

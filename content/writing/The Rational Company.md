@@ -1,4 +1,3 @@
-
 ---
 title: The Rational Company
 date: 2022-10-17

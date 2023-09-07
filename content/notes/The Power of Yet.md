@@ -1,4 +1,3 @@
-
 ---
 title:  "The Power of Yet"
 date: 2023-08-28

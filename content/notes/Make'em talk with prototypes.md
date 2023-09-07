@@ -1,4 +1,3 @@
-
 ---
 title: "Make'em talk with prototypes"
 date: 2022-10-24

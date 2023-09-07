@@ -1,4 +1,3 @@
-
 ---
 title: "Understanding low level data science"
 date: 2022-02-05

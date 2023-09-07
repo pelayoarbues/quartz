@@ -1,4 +1,3 @@
-
 ---
 title: "Data is not objective"
 date: 2022-10-14

@@ -1,4 +1,3 @@
-
 ---
 title: "Different managerial styles"
 date: 2022-02-05

@@ -1,10 +1,3 @@
-
----
-title:  "Rock stars vs Superstars"
-date: 2023-09-07
-tags: 
-- fleeting 
----
 ---
 title:  "Rock stars vs Superstars"
 date: 2023-09-07

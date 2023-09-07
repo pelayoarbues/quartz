@@ -1,4 +1,3 @@
-
 ---
 title: "Team size trade-off. Coordination costs Vs collective intelligence"
 date: 2022-11-10

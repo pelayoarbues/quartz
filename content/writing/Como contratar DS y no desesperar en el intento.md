@@ -1,4 +1,3 @@
-
 ---
 title: "Como contratar DS y no desesperar en el intento"
 date: 2022-10-14

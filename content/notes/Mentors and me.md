@@ -1,4 +1,3 @@
-
 ---
 title:  "Mentors and me"
 date: 2023-02-25

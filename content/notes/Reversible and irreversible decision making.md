@@ -1,4 +1,3 @@
-
 ---
 title: "Reversible and irreversible decision making"
 date: 2022-05-17

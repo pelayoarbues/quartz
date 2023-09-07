@@ -1,4 +1,3 @@
-
 ---
 title:  "Two books I wish I had read before starting my PhD"
 date: 2023-03-29

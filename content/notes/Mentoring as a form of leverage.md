@@ -1,4 +1,3 @@
-
 ---
 title: "Mentoring as a form of leverage"
 date: 2022-02-02

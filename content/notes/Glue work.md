@@ -1,10 +1,3 @@
-
----
-title:  "Glue work"
-date: 2023-09-07
-tags: 
-- fleeting 
----
 ---
 title:  "Glue work"
 date: 2023-09-07

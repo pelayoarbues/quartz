@@ -1,4 +1,3 @@
-
 ---
 title: "Rationality takes us closer to the truth"
 date: 2022-10-17

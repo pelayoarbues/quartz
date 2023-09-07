@@ -1,4 +1,3 @@
-
 ---
 title:  "Data Science job crafting"
 date: 2023-02-17

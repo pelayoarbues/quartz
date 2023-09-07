@@ -1,4 +1,3 @@
-
 ---
 title:  "Manage the data before thinking of AI"
 date: 2023-05-17

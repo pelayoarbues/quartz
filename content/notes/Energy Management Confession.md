@@ -1,4 +1,3 @@
-
 ---
 title:  "Energy Management Confession"
 date: 2023-09-04

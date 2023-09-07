@@ -1,4 +1,3 @@
-
 ---
 title:  "The Data Vantage Point"
 date: 2023-03-16

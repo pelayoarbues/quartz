@@ -1,5 +1,3 @@
-
-
 ---
 title: "Data teamwork as a transport service"
 date: 2023-01-30

@@ -1,4 +1,3 @@
-
 ---
 title: "Short term and long term metrics"
 date: 2022-11-14
