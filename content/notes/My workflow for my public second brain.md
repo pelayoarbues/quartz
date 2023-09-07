@@ -5,8 +5,7 @@ tags:
 - permanent-note 
 - setup
 ---
-
-In this post, I'm going to share my workflow for sharing my notes on my personal website.
+In this post, I'm sharing my workflow for sharing my notes on my personal website.
 
 ![Digital-Garden](notes/attachments/Digital-Garden.png)
 My workflow relies on two key elements:
