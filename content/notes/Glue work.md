@@ -14,6 +14,7 @@ tags:
 - management
 - career
 ---
+
 In her [Being Glue talk](literature-notes/Articles/Being%20Glue%20talk.md), Tanya Reilly defines "glue work" as:
 
 > The less glamorous, less-promotable work that is necessary to make a team successful. It can include onboarding new people and making them productive faster, improving coding style guides, and filling the gap between a project that succeeds and one that fails.
