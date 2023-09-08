@@ -9,7 +9,7 @@ tags:
 
 ![digital_garden_midjouney](attachments/digital_garden_midjouney.png)
 
-I write to think, to learn, to manage my time, and to [solve problems](notes/202301301801%20-%20Write%20well%20to%20solve%20problems.md). Some years ago I started following some of the practices proposed in the book [How to take smart notes](literature-notes/Books/How%20to%20take%20smart%20notes.md) and now I mainly take the following kind of notes:
+I write to think, to learn, to manage my time, and to [solve problems](notes/Write%20well%20to%20solve%20problems.md). Some years ago I started following some of the practices proposed in the book [How to take smart notes](literature-notes/Books/How%20to%20take%20smart%20notes.md) and now I mainly take the following kind of notes:
 1. Fleeting notes: These are brief notes taken when encountering new information or when new ideas arise in my mind. They are meant to be taken quickly, in the moment, and should be kept as short as possible. Fleeting notes serve as a reminder of the idea or information, and are meant to be processed later. These are in raw form, at the moment I am not sharing them publicly. 
 2. [Permanent notes](./notes/): These are more detailed notes that have been processed from the fleeting notes. Permanent notes should focus on a single idea or concept, and are written in my own words. 
 3. [Literature notes](./literature-notes/): These are notes that capture ideas or insights from books, articles, or other written works. They may summarize key points, highlight important quotes, or provide personal reflections on the content.
