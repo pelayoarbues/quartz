@@ -6,7 +6,7 @@ tags:
 - management
 - concept
 ---
-![Midjourney 5.2 Prompt: a manager seats down on her office desk surrounded by clocks on the wall by Ted McKeever --ar 3:2](notes/attachments/Pasted%20image%2020230908145856.png)
+![Midjourney 5.2 Prompt: a manager seats down on her office desk surrounded by clocks on the wall by Ted McKeever --ar 3:2](notes/attachments/management-seat-time.png)
 
 Unlike data science, where acquiring knowledge can bridge skill gaps, I've discovered that in management, the path to improvement isn't solely paved with books and courses. Instead, it's the  [daily practice](literature-notes/Articles/Managing%20the%20First%20Year.md) of managerial tasks that truly refines one's skills. In this journey, one continually confronts the boundaries of courage and patience.
 
