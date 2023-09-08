@@ -57,8 +57,17 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, includedSe
   for (const section of includedSections) {
     // Filter the content based on the current section
     for (const [slug, content] of idx) {
-      if (slug.startsWith(section)) {
-        items.push(createURLEntry(simplifySlug(slug), content));
+      // Exclude the section itself and specific index files
+      if (
+        slug.startsWith(section) &&
+        slug !== section &&
+        slug !== `${section}/index` &&
+        slug !== `${section}/index.html`
+      ) {
+        // Check if the content title matches the current section name
+        if (content.title.toLowerCase() !== section.toLowerCase()) {
+          items.push(createURLEntry(simplifySlug(slug), content));
+        }
       }
     }
   }
@@ -74,6 +83,8 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, includedSe
     </channel>
   </rss>`;
 }
+
+
 
 
 
@@ -100,7 +111,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         }
       }
 
-      const includedSections = ["notes/", "writing/"]; // Define the sections to include
+      const includedSections = ["notes", "writing"]; // Define the sections to include
 
       if (opts?.enableSiteMap) {
         emitted.push(
