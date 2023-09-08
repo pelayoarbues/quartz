@@ -12,7 +12,8 @@ export const sharedPageComponents: SharedLayout = {
       Linkedin: "https://www.linkedin.com/in/pelayoarbues",
       Mastodon: "https://sigmoid.social/@pelayoarbues",
       Unsplash: "https://unsplash.com/es/@pelayoarbues",
-      GitHub: "https://github.com/pelayoarbues"
+      GitHub: "https://github.com/pelayoarbues",
+      RSS: "https://pelayoarbues.com/index.xml"
     },
   }),
 }
