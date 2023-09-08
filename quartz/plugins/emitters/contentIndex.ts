@@ -40,8 +40,8 @@ function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndex): string {
 }
 
 function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, includedSections: string[]): string {
-  const base = cfg.baseUrl ?? ""
-  const root = `https://${base}`
+  const base = cfg.baseUrl ?? "";
+  const root = `https://${base}`;
 
   const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<item>
     <title>${escapeHTML(content.title)}</title>
@@ -49,13 +49,20 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, includedSe
     <guid>${root}/${encodeURI(slug)}</guid>
     <description>${content.description}</description>
     <pubDate>${content.date?.toUTCString()}</pubDate>
-  </item>`
+  </item>`;
 
-  const items = Array.from(idx)
-    .filter(([slug, content]) => includedSections.includes(simplifySlug(slug))) // Filter by included sections
-    .map(([slug, content]) => createURLEntry(simplifySlug(slug), content))
-    .join("")
-  
+  const items = [];
+
+  // Iterate through the sections
+  for (const section of includedSections) {
+    // Filter the content based on the current section
+    for (const [slug, content] of idx) {
+      if (slug.startsWith(section)) {
+        items.push(createURLEntry(simplifySlug(slug), content));
+      }
+    }
+  }
+
   return `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
@@ -63,10 +70,12 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, includedSe
       <link>${root}</link>
       <description>Recent content on ${cfg.pageTitle}</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      ${items}
+      ${items.join('')}
     </channel>
   </rss>`;
 }
+
+
 
 export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
   opts = { ...defaultOptions, ...opts }
@@ -91,7 +100,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         }
       }
 
-      const includedSections = ["notes", "writing"]; // Define the sections to include
+      const includedSections = ["notes/", "writing/"]; // Define the sections to include
 
       if (opts?.enableSiteMap) {
         emitted.push(
