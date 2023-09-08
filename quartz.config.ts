@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "pelayoarbues.github.io",
+    baseUrl: "pelayoarbues.com",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
     theme: {
