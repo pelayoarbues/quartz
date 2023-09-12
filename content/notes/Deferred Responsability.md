@@ -1,8 +1,9 @@
 ---
-title:  "Deferred Responsability"
+title: Deferred Responsability
 date: 2023-09-01
-tags: 
-- permanent-note 
+tags:
+  - permanent-note
+  - management
 ---
 
 

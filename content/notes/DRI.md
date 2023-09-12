@@ -1,9 +1,10 @@
 ---
-title:  "DRI"
+title: DRI
 date: 2023-09-01
-tags: 
-- permanent-note 
-- concept
+tags:
+  - permanent-note
+  - concept
+  - "#management"
 ---
 
 > DRI (Directly Responsible Individual) is the term used to indicate the person who holds ultimate responsibility for ensuring a project or task is completed.
