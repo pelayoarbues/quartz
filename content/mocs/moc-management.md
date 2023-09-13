@@ -27,6 +27,7 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [Short term and long term metrics](notes/Short%20term%20and%20long%20term%20metrics.md)
 
 ## Communications manager
+- [Explaining AI-infused products](notes/Explaining%20AI-infused%20products.md)
 - [Of innocents and criminals](notes/Of%20innocents%20and%20criminals.md)
 
 ## Process manager

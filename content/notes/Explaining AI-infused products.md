@@ -7,7 +7,7 @@ tags:
 - product-management
 ---
 
-When building an AI-infused product, it is essential to pay close attention to how you explain the features to your users. According to [best practices promoted by Google](https://pair.withgoogle.com/guidebook/patterns), you should:
+When building an AI-infused product, it's essential to pay close attention to how you explain the features to your users. According to [best practices promoted by Google](https://pair.withgoogle.com/guidebook/patterns), you should:
 
 - [Explain the benefit, not the technology](https://pair.withgoogle.com/guidebook/patterns#explain-the-benefit): Focus on the user needs you are satisfying, rather than how the system works under the hood.
 - [Set the right expectations](https://pair.withgoogle.com/guidebook/patterns/how-do-i-explain-my-ai-system): All AI systems have blind spots and will eventually fail. Think carefully about the types of errors they might make and create policies to help users gain control in those situations.
