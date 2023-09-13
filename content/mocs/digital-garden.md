@@ -21,4 +21,4 @@ You may want to navigate the site following a Map Of Content:
 
 In case you have never seen a personal site with this structure, it is called a [Digital Garden](https://joelhooks.com/digital-garden). I allows me to share my thoughts, ideas, and knowledge in an interconnected and non-linear way. Unlike a traditional blog or website, a digital garden is designed to be ever-evolving and growing, with the content being constantly updated and interconnected through hyperlinks, allowing for a more fluid and organic way of organizing and sharing information. 
 
-If you're interested in learning about my workflow for building this Digital Garden, please check out this [note](notes/202303032203%20-%20My%20workflow%20for%20my%20public%20second%20brain.md).
+If you're interested, you can learn more about the [workflow](notes/My%20workflow%20for%20my%20public%20second%20brain.md) I used for building this Digital Garden.
