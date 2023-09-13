@@ -1,13 +1,11 @@
 ---
 author: [[staffeng.com]]
 title: "Guides / Work on What Matters"
-date: 2023-08-25
+date: 2023-09-13
 tags: 
 - articles
 - literature-note
 ---
-# Guides / Work on What Matters
-
 ![rw-book-cover](https://staffeng.com/StaffEngSocialShare.jpg)
 
 ## Metadata
