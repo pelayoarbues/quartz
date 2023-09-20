@@ -6,7 +6,7 @@ tags:
 - career
 - management
 ---
-![Midjourney 5.2: an old, blunt and rusty knife. Kintsugi. --ar 3:2](notes/attachments/Pasted%20image%2020230920223204.png)
+![Midjourney 5.2: an old, blunt and rusty knife. Kintsugi. --ar 3:2](notes/attachments/rusty-knife.png)
 
 Transitioning from an Individual Contributor to a manager means you will likely have a hard time finding time to engage in technical tasks. If you manage more than 6 or 7 people, it becomes quite difficult to contribute much at all; however, with 4 or fewer team members, you might still be able to contribute to the team's technical output.
 
