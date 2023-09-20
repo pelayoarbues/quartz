@@ -6,7 +6,6 @@ tags:
 - management
 - data
 ---
-working with other roles
 Long time ago, I was a transport economics guy. The other day I was thinking about the different existent data roles. I came up with the following metaphors:
 - Data platform builds the roads, harbours, railroads and airports
 - Data Engineering do the heavy transport

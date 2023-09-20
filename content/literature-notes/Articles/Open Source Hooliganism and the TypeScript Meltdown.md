@@ -15,3 +15,5 @@ tags:
 
 ## Highlights
 - there's also a fine line between being a passionate evangelist and becoming a dogmatic crusader. ([View Highlight](https://read.readwise.io/read/01h9z6t7prszec1k8222hpz9qv))
+## New highlights added September 17, 2023 at 10:18 PM
+- eternal wisdom of bikeshed parable. That when the stakes are low, the debate more easily becomes nasty. Showing ([View Highlight](https://read.readwise.io/read/01h9z72xfb2hv7tqqxy37xafdq))

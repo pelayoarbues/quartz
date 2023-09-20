@@ -37,6 +37,8 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [Make'em talk with prototypes](notes/Make'em%20talk%20with%20prototypes.md)
 
 ## Technical mentor and coach
+- [Dopamine rush](notes/Dopamine%20rush.md)
+- [Dont get too rusty](notes/Dont%20get%20too%20rusty.md)
 - [Time to manage](notes/Time%20to%20manage.md)
 - [You need a growth mindset to get honest feedback](notes/You%20need%20a%20growth%20mindset%20to%20get%20honest%20feedback.md)
 - [Mentors and me](notes/Mentors%20and%20me.md)
