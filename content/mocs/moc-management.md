@@ -27,6 +27,7 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [Short term and long term metrics](notes/Short%20term%20and%20long%20term%20metrics.md)
 
 ## Communications manager
+- [Internal Networking](notes/Internal%20Networking.md)
 - [Explaining AI-infused products](notes/Explaining%20AI-infused%20products.md)
 - [Of innocents and criminals](notes/Of%20innocents%20and%20criminals.md)
 
@@ -50,6 +51,7 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [My failure resume](writing/My%20failure%20resume.md)
 
 # Data Strategy
+- [Headspace for managers](00.Inbox/Fleeting/Headspace%20for%20managers.md)
 - [Manage the data before thinking of AI](notes/Manage%20the%20data%20before%20thinking%20of%20AI.md)
 - [The Data Vantage Point](notes/The%20Data%20Vantage%20Point.md)
 - [Data Paranoid](notes/Data%20Paranoid.md)
