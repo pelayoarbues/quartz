@@ -51,7 +51,7 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [My failure resume](writing/My%20failure%20resume.md)
 
 # Data Strategy
-- [Headspace for managers](00.Inbox/Fleeting/Headspace%20for%20managers.md)
+- [Headspace for managers](notes/Headspace%20for%20managers.md)
 - [Manage the data before thinking of AI](notes/Manage%20the%20data%20before%20thinking%20of%20AI.md)
 - [The Data Vantage Point](notes/The%20Data%20Vantage%20Point.md)
 - [Data Paranoid](notes/Data%20Paranoid.md)
