@@ -20,7 +20,7 @@ To prepare the environment, follow these steps:
 
 - Create a virtualenv with Python 3.10.6. It seems that using other Python versions might lead to problems, so it's best to stick with that.
 
-``` bash
+```bash
 # Clone kohya project
 git clone https://github.com/bmaltais/kohya_ss.git
 cd ./kohya_ss
