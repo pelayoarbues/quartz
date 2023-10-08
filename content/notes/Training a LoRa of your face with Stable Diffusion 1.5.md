@@ -48,7 +48,7 @@ Once you have your folder filled with appropriately sized photos, it's recommend
 
 Here's how you can quickly create captions: In Kohya, select the top tab titled Utilities > Captioning and choose a type of captioning. For characters (as they call when you train a Lora with a person or anime), WD14 is said to work better. Select the folder, remove any undesired tags and add a prefix to captions. In my case, I use the trigger word I'll be using for training the LoRa - something that isn't known by the base model on top you'll be training. For me, this is `pelarbues` - an unlikely real word that helps me identify my character Lora.
 
-![](notes/attachments/Screenshot%202023-10-06%20at%2021.54.12.png)
+![](notes/attachments/captioning-kohya.png)
 
 If you want to review the captions, you can use the Automatic1111 extension named Dataset Tag Editor. 
 
@@ -56,7 +56,7 @@ If you want to review the captions, you can use the Automatic1111 extension name
 
 So far, we've collected images, resized them to a specific resolution and added captions. Now we need to organize these images into folders in a format recognized by Kohya trainer scripts. This can be done manually as it merely involves pointing to certain folders and specifying the number of image repeats per epoch.
 
-![](notes/attachments/Screenshot%202023-10-06%20at%2022.08.39.png)
+![](notes/attachments/dataset-preparation-kohya.png)
 
 The easiest way is via Kohya's LoRa tab > Training > Dataset Preparation. Here you'll need to provide:
 - Instance prompt: In my case, this is 'pelarbues'. I use the class 'man', although others suggest using 'person' is fine too.
@@ -157,11 +157,9 @@ Now comes the fun part: experimentation!
 - Make sure you have restore faces unchecked! We will fix the faces later on.
 - In the bottom of the page we will make use of Script x/y/z that will allows us to plot a grid of different parameters. We are going to put some models to the test, and also samplers and seeds. But you could select sample steps, CFG values or whatever. 
 
-![](00.Inbox/attachments/Screenshot%202023-10-06%20at%2011.46.53.png)
+![](notes/attachments/image-generation-automatic1111.png)
 
-![](00.Inbox/attachments/Screenshot%202023-10-06%20at%2011.47.11.png)
-
-
+![](notes/attachments/xyz-script.png)
 Now run it! It may take a while, but you can grab a coffee and relax in the Infinite Image Browsing tab while your machine does the heavy lifting.
 
 > [!hint] Hints
@@ -172,7 +170,7 @@ Now run it! It may take a while, but you can grab a coffee and relax in the Infi
 
 After analyzing the generated images, we can see some issues such as people appearing in the images who shouldn't be there. We can control this by tweaking the prompt, but for now we can move on.
 
-![](notes/attachments/Pasted%20image%2020231006220126.png)
+![](notes/attachments/xyz-plot.png)
 
 ### 3. Upscale and Fix the Face
 
@@ -180,15 +178,20 @@ To upscale and fix facial features (and hands), we're going to use a couple of A
 
 - Fixing the face and the hands requires some inpainting. We could do this by manually Inpainting in the img2img > Inpaint module, but this is a very manual process. The most important param I usually change es Inpaint Denoising Strength, I keep it between 0.25 and 0.4 for faces and sometimes I go to 0.5 for hands.
 
-![](notes/attachments/Screenshot%202023-10-06%20at%2013.57.23.png)
-![](notes/attachments/Screenshot%202023-10-06%20at%2013.57.47.png)
+Face: 
+
+![](notes/attachments/adetailer-model-1.png)
+
+Hands:
+
+![](notes/attachments/adetailer-model-2.png)
 
 - Upscaling: I strongly recommend adding additional upscalers like [[[UltraSharp - OpenModelDB](https://openmodeldb.info/models/4x-UltraSharp)]] and [4xFaceUpSharpDAT - OpenModelDB](https://openmodeldb.info/models/4x-FaceUpSharpDAT) and [Remacri](https://openmodeldb.info/models/4x-Remacri).
 
-![](notes/attachments/Screenshot%202023-10-06%20at%2013.58.32.png)
+![](notes/attachments/ultimate-upscale.png)
 
 ## Final results 
 
-![](notes/attachments/Screenshot%202023-10-06%20at%2022.06.29.png)
+![](notes/attachments/upscaled-office-images.png)
 
 So, here are our final results. Some of them are quite good, but I'm not entirely satisfied with the overall look. In a following post, I'll discuss how to enhance these images by adding more detail, improving the focus and emulating the film grain.
