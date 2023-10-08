@@ -1,8 +1,10 @@
 ---
-title:  "Training a LoRa of your face with Stable Diffusion 1.5"
+title: Training a LoRa of your face with Stable Diffusion 1.5
 date: 2023-10-06
-tags: 
-- permanent-note 
+tags:
+  - permanent-note
+  - stablediffusion
+  - guide
 ---
 ![](notes/attachments/Pasted%20image%2020231006213341.png)
 
@@ -27,7 +29,7 @@ Presently, both training and inference are run on my laptop. However, if you wis
 
 To train your LORA effectively, you'll need an assortment of pictures. Quality and variety are key factors here. You should aim for different facial expressions, clothing styles, types of headshots ([3/4, 1/2, 1/4, Full-Body Portraits](https://thelightcommittee.com/blog/what-is-a-3-4-1-2-1-4-and-full-body-headshot/)), angles (not just full frontal headshots), different lighting conditions, various lenses...the more diverse, the better. Focus on the faces unless the character has distinctive body features.
 
-![](notes/attachments/Screenshot%202023-10-06%20at%2021.50.54.png)
+![](notes/attachments/Screenshot%202023-10-08%20at%2022.49.20.png)
 
 As for the number of images required, I can't make any scientific claims yet due to limited testing. However, as a passionate [photographer](mocs/photography.md), I have an extensive collection of pictures, especially of [Violeta](https://www.instagram.com/violetabypelayo/). For a LORA of myself, I used approximately 70 images and over 200 for Violeta. In both cases, the results were quite satisfactory. While some claim that 30 images are enough, my personal tests didn't prioritize efficiency (smaller sample size might reduce training times), and I wanted to include images of us at different ages.
 
@@ -35,7 +37,7 @@ As for the number of images required, I can't make any scientific claims yet due
 
 Currently, all my pictures are resized to a resolution of 512x512 - recommended for SD15. My experiments with 512x768 (and 768x512) haven't shown significant differences in training outcomes. However, some posts suggest maintaining a 1:1 aspect ratio format is beneficial. For cropping and resizing tasks, I use [BIRME](https://www.birme.net/) - an online and free tool.
 
-![](notes/attachments/Screenshot%202023-10-06%20at%2021.52.42.png)
+![](notes/attachments/Screenshot%202023-10-08%20at%2022.53.00.png)
 ### Captioning
 
 Once you have your folder filled with appropriately sized photos, it's recommended to caption these images. Although not mandatory, providing good captions is highly encouraged.
