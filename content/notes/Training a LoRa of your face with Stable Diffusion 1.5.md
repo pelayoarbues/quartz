@@ -8,11 +8,12 @@ tags:
 ---
 ![](notes/attachments/Pasted%20image%2020231006213341.png)
 
-In these notes, I am sharing my current workflow for using LoRAs to generate images of myself and my loved ones. The goal is to offer practical insights into what works best and areas that need improvement. 
+In these notes, I am sharing my current workflow for using LoRas to generate images of [myself and my loved ones](https://www.instagram.com/mygenerativefamily/). The goal is to offer practical insights into what works best and areas that need improvement. 
 
 This post is intended not only as a reference for my future self but also as a knowledge-sharing platform for my colleagues. We all have some working knowledge about Diffusion, Attention Mechanisms, etc. If you need a refresher, I strongly recommend learning more about [Stable Diffusion technicalities](notes/Stable%20Diffusion%20technicalities.md). 
 
-Currently, this post focuses on Stable Diffusion 1.5 as part of my slow-paced learning journey. Before advancing to SDXL, I aim to explore the full potential of SD15.
+> [!warning] SD15 vs SDXL
+> Currently, this post focuses on Stable Diffusion 1.5 as part of my slow-paced learning journey. Before advancing to SDXL, I aim to explore the full potential of SD15.
 
 Now let's delve into the tech stack so we can swiftly move on to more engaging topics:
 - [MacBook Pro environment preparation](notes/MacBook%20Pro%20preparation%20for%20SD%20training%20and%20inference.md)
@@ -42,9 +43,10 @@ Currently, all my pictures are resized to a resolution of 512x512 - recommended 
 
 Once you have your folder filled with appropriately sized photos, it's recommended to caption these images. Although not mandatory, providing good captions is highly encouraged.
 
-For now, this part of my process is automated but in future I'll likely manually adjust automatically-generated captions. Here's how you can quickly create captions:
+> [!warning]
+For now, this part of my process is automated but in future I'll likely manually adjust automatically-generated captions. 
 
-In Kohya, select the top tab titled Utilities > Captioning and choose a type of captioning. For characters (as they call when you train a Lora with a person or anime), WD14 is said to work better. Select the folder, remove any undesired tags and add a prefix to captions. In my case, I use the trigger word I'll be using for training the Lora - something that isn't known by the base model on top you'll be training. For me, this is 'pelarbues' - an unlikely real word that helps me identify my character Lora.
+Here's how you can quickly create captions: In Kohya, select the top tab titled Utilities > Captioning and choose a type of captioning. For characters (as they call when you train a Lora with a person or anime), WD14 is said to work better. Select the folder, remove any undesired tags and add a prefix to captions. In my case, I use the trigger word I'll be using for training the LoRa - something that isn't known by the base model on top you'll be training. For me, this is `pelarbues` - an unlikely real word that helps me identify my character Lora.
 
 ![](notes/attachments/Screenshot%202023-10-06%20at%2021.54.12.png)
 
@@ -111,10 +113,9 @@ Some important things to note:
 
 To keep this brief and because explanations are available at [LoRA training parameters Wiki](https://github.com/bmaltais/kohya_ss/wiki/LoRA-training-parameters), I recommend checking it out if you want to explore other parameters used in my example.
 
-> Further Considerations:
+> [!hint] Hints
 >   - Check [Tensorboard](https://civitai.com/articles/83/using-tensorboard-to-analyze-training-data-and-create-better-models) during training to monitor potential overfitting issues.
->   - If you've chosen to save a checkpoint for each epoch, you can review results obtained using different epochs. Sometimes after training is complete, you may find that intermediate epochs yield better results than the final model version.
-
+>   - If you've chosen to save a checkpoint for each epoch, you can prompt intermediate epochs and review results obtained using different epochs. Don´t blindly rely on loss metrics.
 
 # Inference
 
@@ -161,11 +162,11 @@ Now comes the fun part: experimentation!
 
 Now run it! It may take a while, but you can grab a coffee and relax in the Infinite Image Browsing tab while your machine does the heavy lifting.
 
-> Main Takeaways:
+> [!hint] Hints
 >  -  Experiment to find your preferred checkpoint and samplers
-	 - Avoid using face restoration initially
-	 - Fine-tune the prompt using other LoRas.
-	 - Upscale using Adetailer + Controlnet 
+>  - Avoid using face restoration initially
+>  - Fine-tune the prompt using other LoRas.
+>  - Upscale using Adetailer + Controlnet 
 
 After analyzing the generated images, we can see some issues such as people appearing in the images who shouldn't be there. We can control this by tweaking the prompt, but for now we can move on.
 
@@ -185,6 +186,6 @@ To upscale and fix facial features (and hands), we're going to use a couple of A
 
 ## Final results 
 
-So, here are our final results. Some of them are quite good, but I'm not entirely satisfied with the overall look. In a following post, I'll discuss how to enhance these images by adding more detail, improving the focus and emulating the film grain.
-
 ![](notes/attachments/Screenshot%202023-10-06%20at%2022.06.29.png)
+
+So, here are our final results. Some of them are quite good, but I'm not entirely satisfied with the overall look. In a following post, I'll discuss how to enhance these images by adding more detail, improving the focus and emulating the film grain.
