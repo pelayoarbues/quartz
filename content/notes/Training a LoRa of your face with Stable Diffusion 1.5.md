@@ -101,6 +101,7 @@ Some important things to note:
 --optimizer_type="AdamW"
 --no_half_vae
 ```
+
 - Other significant parameters include:
 	- Use SD15 vanilla. I haven't tried other photorealistic models as a base network, but the general advice is to stick with the SD15 base model.
 	- Networks.lora: There are various types of interesting networks you can train. Check [links about Lycoris](notes/Stable%20Diffusion%20technicalities.md) for more information.
@@ -154,7 +155,8 @@ Now comes the fun part: experimentation!
 
 -  We are going to set 30 sample steps (something between 20-50 might work depending on the checkpoint) And a CFG of 5 (something between 5 and 7 usually do)
 - Make sure you have restore faces unchecked! We will fix the faces later on.
-- In the bottom of the page we will make use of Script x/y/z that will allows us to plot a grid of different parameters. We are going to put some models to the test, and also samplers and seeds. But you could select sample steps, CFG values or whatever. ›
+- In the bottom of the page we will make use of Script x/y/z that will allows us to plot a grid of different parameters. We are going to put some models to the test, and also samplers and seeds. But you could select sample steps, CFG values or whatever. 
+
 ![](00.Inbox/attachments/Screenshot%202023-10-06%20at%2011.46.53.png)
 
 ![](00.Inbox/attachments/Screenshot%202023-10-06%20at%2011.47.11.png)
@@ -177,6 +179,7 @@ After analyzing the generated images, we can see some issues such as people appe
 To upscale and fix facial features (and hands), we're going to use a couple of Automatic extensions: [!After Detailer](https://github.com/Bing-su/adetailer) with [ControlNet](https://github.com/Mikubill/sd-webui-controlnet) for face fixing and [Ultimate SD upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111) for upscaling.
 
 - Fixing the face and the hands requires some inpainting. We could do this by manually Inpainting in the img2img > Inpaint module, but this is a very manual process. The most important param I usually change es Inpaint Denoising Strength, I keep it between 0.25 and 0.4 for faces and sometimes I go to 0.5 for hands.
+
 ![](notes/attachments/Screenshot%202023-10-06%20at%2013.57.23.png)
 ![](notes/attachments/Screenshot%202023-10-06%20at%2013.57.47.png)
 
