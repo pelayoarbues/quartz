@@ -43,8 +43,8 @@ Currently, all my pictures are resized to a resolution of 512x512 - recommended 
 
 Once you have your folder filled with appropriately sized photos, it's recommended to caption these images. Although not mandatory, providing good captions is highly encouraged.
 
-> [!warning]
-For now, this part of my process is automated but in future I'll likely manually adjust automatically-generated captions. 
+> [!warning] Warning
+> For now, this part of my process is automated but in future I'll likely manually adjust automatically-generated captions. 
 
 Here's how you can quickly create captions: In Kohya, select the top tab titled Utilities > Captioning and choose a type of captioning. For characters (as they call when you train a Lora with a person or anime), WD14 is said to work better. Select the folder, remove any undesired tags and add a prefix to captions. In my case, I use the trigger word I'll be using for training the LoRa - something that isn't known by the base model on top you'll be training. For me, this is `pelarbues` - an unlikely real word that helps me identify my character Lora.
 
