@@ -9,7 +9,7 @@ tags:
 ![](notes/attachments/Pasted%20image%2020231005105602.png)
  [Source](https://www.reddit.com/r/StableDiffusion/comments/10cgxrx/wellresearched_comparison_of_training_techniques/)
 
-If you need further info on how Stable Diffusion works, I suggest you the following links:
+If you need further info on how Stable Diffusion works, I suggest you to read my notes on [LoRA](notes/LoRA.%20Low-Rank%20Adaptation%20of%20LLMs.md) and also the following links:
 
 - LoRa paper: [Hu, E. J.,et al. (2021). LoRA: Low-Rank Adaptation of Large Language Models.](https://arxiv.org/abs/2106.09685)
 - A HuggingFace post indicating why you should use LoRa. [Using LoRA for Efficient Stable Diffusion Fine-Tuning](https://huggingface.co/blog/lora)
