@@ -1,12 +1,13 @@
 ---
-title:  "LoRA. Low-Rank Adaptation of LLMs"
+title: LoRA. Low-Rank Adaptation of LLMs
 date: 2023-10-23
-tags: 
-- permanent-note 
+tags:
+  - permanent-note
+  - technical
+  - data
 ---
 
 Notes on [ LoRA Low-Rank Adaptation of Large Language Models](literature-notes/Articles/%20LoRA%20Low-Rank%20Adaptation%20of%20Large%20Language%20Models.md). It can be used with [PEFT library of by HuggingFace](literature-notes/Articles/Lora%20Low-Rank%20Adaptation%20of%20Large%20Language%20Models.md).
-
 
 Adapting a large-scale, pre-trained general Large Language Model to a specific application requires Fine Tuning. Full fine tuning becomes unfeasible with current Large Language Models, which are built using billions of parameters.
 
