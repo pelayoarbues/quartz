@@ -14,7 +14,7 @@ Within the corporate landscape, Data and Advanced Analytics products often take 
 Picture this: someone approaches the data team and suggests exploring these possibilities. As individuals in data roles are typically keen to venture into uncharted territories, they sometimes dive headfirst without adhering to the basic best practices that should precede any project initiation. This scenario is less likely to occur if there's a product manager on board.
 
 >[!caution]
-The bitter reality is that while companies have integrated product managers into tech teams, they've often overlooked their inclusion within the data function.
+> The bitter reality is that while companies have integrated product managers into tech teams, they've often overlooked their inclusion within the data function.
 
 Without [proper product management](literature-notes/Articles/Why%20Your%20Company%20Needs%20Data-Product%20Managers.md) in place, projects are prone to derailment. So what's the solution? The role of product management can be approximated by a Data Manager or another senior data role within the project. However, from my experience, this workaround tends to breed new issues. Firstly, individuals in data roles may not excel as product managers due to their detail-oriented nature which might cause them to overlook user needs or other technical aspects. Secondly, they often lack sufficient authority to [direct other teams or influence their priorities](notes/Other%20People%20Problems.md). Lastly, juggling both challenging roles can stretch these individuals too thin causing them to lose their technical prowess due to insufficient focus on technical issues related specifically to data.
 
