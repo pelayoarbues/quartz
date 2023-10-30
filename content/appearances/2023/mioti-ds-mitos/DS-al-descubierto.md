@@ -7,10 +7,13 @@ tags:
 
 
 - **Event name**: Data Science al descubierto
-- **URLs**: https://mioti.es/es/event/data-science-al-descubierto-mitos-y-desafios-pelayo-arbues/
+- **URLs**: [Data Science al descubierto | Pelayo Arbués | MIOTI](https://mioti.es/es/event/data-science-al-descubierto-mitos-y-desafios-pelayo-arbues/)
 - **Date**: 2023-10-25
-- **Location**: Mioti, Madrid
+- **Location**: MIOTI, Madrid
 
 **Summary**: Charla junto a Fabiola Perez sobre mitos y desafíos con los que nos encontramos en las empresas a la hora de aplicar Ciencia de Datos. 
 
+![[DSC02472.jpg]]
+
+![[DSC02436.jpg]]
 
