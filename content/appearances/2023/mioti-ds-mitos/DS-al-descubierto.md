@@ -13,6 +13,8 @@ tags:
 
 **Summary**: Charla junto a Fabiola Perez sobre mitos y desafíos con los que nos encontramos en las empresas a la hora de aplicar Ciencia de Datos. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cP7Pm6Dsia4?si=9ETSTnMrQ7NLhlLJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ![[appearances/2023/mioti-ds-mitos/fabiola-pelayo.jpg]]
 
 ![[appearances/2023/mioti-ds-mitos/pelayo-fabiola.jpg]]
