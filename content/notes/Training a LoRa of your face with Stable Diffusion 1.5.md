@@ -28,7 +28,7 @@ Presently, both training and inference are run on my laptop. However, if you wis
 
 ### Collecting Images
 
-To train your LORA effectively, you'll need an assortment of pictures. Quality and variety are key factors here. You should aim for different facial expressions, clothing styles, types of headshots ([3/4, 1/2, 1/4, Full-Body Portraits](https://thelightcommittee.com/blog/what-is-a-3-4-1-2-1-4-and-full-body-headshot/)), angles (not just full frontal headshots), different lighting conditions, various lenses...the more diverse, the better. Focus on the faces unless the character has distinctive body features.
+To train your LORA effectively, you'll need an assortment of pictures. Quality and variety are key factors here. You should aim for different facial expressions, clothing styles, types of headshots ([3/4, 1/2, 1/4, Full-Body Portraits](https://www.studiobinder.com/blog/ultimate-guide-to-camera-shots/)), angles (not just full frontal headshots), different lighting conditions, various lenses...the more diverse, the better. Focus on the faces unless the character has distinctive body features.
 
 ![](notes/attachments/Screenshot%202023-10-08%20at%2022.49.20.png)
 
