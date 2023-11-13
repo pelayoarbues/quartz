@@ -30,3 +30,17 @@ tags:
   [](https://huggingface.co/blog/lcm_lora#guidance-scale-and-negative-prompts) ([View Highlight](https://read.readwise.io/read/01hf44d0fdj87p76cxgc71s9dm))
 - Note that in the previous examples we used a `guidance_scale` of `1`, which effectively disables it. This works well for most prompts, and it’s fastest, but ignores negative prompts. You can also explore using negative prompts by providing a guidance scale between `1` and `2` – we found that larger values don’t work. ([View Highlight](https://read.readwise.io/read/01hf44demj83ff1xw20a6vs795))
 - As you can see, images in this example are pretty much useless until ~20 steps (second row), and quality still increases niteceably with more steps. The details in the final image are amazing, but it took 50 steps to get there. ([View Highlight](https://read.readwise.io/read/01hf44e2k465wg5vvxxxt4e9yg))
+## New highlights added November 13, 2023 at 12:44 PM
+- This technique also works for any other fine-tuned SDXL or Stable Diffusion model. To demonstrate, let's see how to run inference on [`collage-diffusion`](https://huggingface.co/wavymulder/collage-diffusion), a model fine-tuned from [Stable Diffusion v1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5) using Dreambooth. ([View Highlight](https://read.readwise.io/read/01hf44vjb52vccnjx3jcda002c))
+- The integration of LCM in `diffusers` makes it possible to take advantage of many features and workflows that are part of the diffusers toolbox. For example:
+  • Out of the box `mps` support for Macs with Apple Silicon.
+  • Memory and performance optimizations like flash attention or `torch.compile()`.
+  • Additional memory saving strategies for low-RAM environments, including model offload.
+  • Workflows like ControlNet or image-to-image.
+  • Training and fine-tuning scripts.
+  [](https://huggingface.co/blog/lcm_lora#benchmarks) ([View Highlight](https://read.readwise.io/read/01hf44h4jkvhddyh2b3hmkwe5g))
+- Using the [diffusers + PEFT integration](https://huggingface.co/docs/diffusers/main/en/tutorials/using_peft_for_inference), you can combine LCM LoRAs with regular SDXL LoRAs, giving them the superpower to run LCM inference in only 4 steps. ([View Highlight](https://read.readwise.io/read/01hf44j0efgyygz79c8vhepgt7))
+- How to Train LCM Models and LoRAs
+  As part of the `diffusers` release today, we are providing training and fine-tuning scripts developed in collaboration with the LCM team authors. They allow users to:
+  • Perform full-model distillation of Stable Diffusion or SDXL models on large datasets such as Laion.
+  • Train LCM LoRAs, which is a much easier process. As we've shown in this post, it also makes it possible to run fast inference with Stable Diffusion, without having to go through distillation training. ([View Highlight](https://read.readwise.io/read/01hf44k7s6cx9h0vmnew327fq0))
