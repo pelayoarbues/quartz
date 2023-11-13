@@ -4,7 +4,7 @@ date: 2023-11-13
 tags:
   - permanent-note
   - stablediffusion
-  - technical
+  - guide
 ---
 ![Generated using SD15](notes/attachments/madmen-inspired.png)
 
@@ -49,3 +49,13 @@ Although the positive prompt is a good start we can enhance it by adding some de
 
 For more tips, check out posts like [[Insights for Intermediates] - How to Craft the Images You Want With A1111](literature-notes/Articles/[Insights%20for%20Intermediates]%20-%20How%20to%20Craft%20the%20Images%20You%20Want%20With%20A1111.md) and  [Simple Workflow That Is Fast and Highly Detailed](literature-notes/Articles/Simple%20Workflow%20That%20Is%20Fast%20and%20Highly%20Detailed.md).
 
+Details for cover image using my LoRA:
+
+```
+portrait of pelarbues man, solo, 1950s candid photo, 1950s office, 1950s office furniture, elegant office suit,from mad men, holding a (Bohemia Crystal Quadro Whiskey glass:1.2), asymmetric face, dark hair, light blue eyes, beard, thin, skin pores, focus on face,film grain,volumetric light, shadows, kodak portra 400, <lora:pelarbues:0.7>,  <lora:more_details:1> ,  <lora:AdvancedEnhancer:2>, <lora:Better Portrait Lighting:0.8>, <lora:epiC35mm:1>
+
+Negative prompt: CyberRealistic_Negative-neg (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, deformed legs, mutilated body, (2D), (3D), ((camera)), ((cartoony)), (CGI), ((drawing)), ((lowres)), ((painting)), ((sketchy)), ((The Sims)), (ugly), ((blur)) (worst quality, low quality, normal quality:1.3), lowres, (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4)
+
+Steps: 40, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 938383883, Size: 1536x1024, Model hash: f6e523de7e, Model: fennPhoto_v10, VAE hash: 735e4c3a44, VAE: vae-ft-mse-840000-ema-pruned.safetensors, Denoising strength: 0, Ultimate SD upscale upscaler: 4xFaceUpSharpDAT, Ultimate SD upscale tile_width: 512, Ultimate SD upscale tile_height: 512, Ultimate SD upscale mask_blur: 8, Ultimate SD upscale padding: 32, ADetailer model: face_yolov8n.pt, ADetailer prompt: "portrait of pelarbues man, <lora:pelarbues:1>, <lora:more_details:1> ,  <lora:AdvancedEnhancer:2>, <lora:Better Portrait Lighting:0.8>, <lora:epiC35mm:1>", ADetailer confidence: 0.3, ADetailer mask only top k largest: 1, ADetailer dilate/erode: 4, ADetailer mask blur: 4, ADetailer denoising strength: 0.3, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer ControlNet model: control_v11p_sd15_inpaint [ebff9138], ADetailer ControlNet module: inpaint_global_harmonious, ADetailer model 2nd: hand_yolov8n.pt, ADetailer prompt 2nd: "hand, good hands, good fingers, <lora:more_details:1> ,  <lora:AdvancedEnhancer:2>, <lora:Better Portrait Lighting:0.8>, <lora:epiC35mm:1>", ADetailer negative prompt 2nd: "bad anatomy, bad fingers, ", ADetailer confidence 2nd: 0.3, ADetailer dilate/erode 2nd: 4, ADetailer mask blur 2nd: 4, ADetailer denoising strength 2nd: 0.4, ADetailer inpaint only masked 2nd: True, ADetailer inpaint padding 2nd: 32, ADetailer version: 23.9.3, ControlNet 0: "Module: canny, Model: control_v11p_sd15_canny [d14c016b], Weight: 1, Resize Mode: Just Resize, Low Vram: False, Processor Res: 512, Threshold A: 100, Threshold B: 200, Guidance Start: 0, Guidance End: 1, Pixel Perfect: True, Control Mode: Balanced", Lora hashes: "AdvancedEnhancer: bd3301b4928d, epiC35mm: 7a3667450b02", TI hashes: "CyberRealistic_Negative-neg: 65f3ea567c04", Version: v1.6.0
+
+```
