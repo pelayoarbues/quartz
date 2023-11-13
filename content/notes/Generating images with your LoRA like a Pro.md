@@ -8,7 +8,9 @@ tags:
 ---
 ![Generated using SD15](notes/attachments/madmen-inspired.png)
 
-In a previous [post](notes/Training%20a%20LoRa%20of%20your%20face%20with%20Stable%20Diffusion%201.5.md), I explained how to train a LoRA using your own images. I also offered some tips on generating images. However, that was just the tip of the iceberg. My friend David noticed that the model struggled to follow certain instructions related to creating the "Mad Men" atmosphere I desired.
+In a previous [post](notes/Training%20a%20LoRa%20of%20your%20face%20with%20Stable%20Diffusion%201.5.md), I explained how to train a LoRA using your own images. I also offered some tips on generating images. However, that was just the tip of the iceberg. 
+
+My friend David noticed that the model struggled to follow certain instructions related to creating the "Mad Men" atmosphere I desired.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“scene from mad men” that’s how you prompt man! 😂</p>&mdash; David Fernández (@davidfq) <a href="https://twitter.com/davidfq/status/1711684407688384928?ref_src=twsrc%5Etfw">October 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
