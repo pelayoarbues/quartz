@@ -12,6 +12,7 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 
 ## People manager
 
+- [Radical Candor and Crucial Conversations](notes/Radical%20Candor%20and%20Crucial%20Conversations.md)
 - [Glue work](notes/Glue%20work.md)
 - [Como contratar DS y no desesperar en el intento](writing/Como%20contratar%20DS%20y%20no%20desesperar%20en%20el%20intento.md)
 - [Mentoring as a form of leverage](notes/Mentoring%20as%20a%20form%20of%20leverage.md)

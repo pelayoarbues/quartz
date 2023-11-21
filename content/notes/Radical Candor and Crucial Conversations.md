@@ -5,7 +5,7 @@ tags:
   - permanent-note
   - communication
 ---
-![Abstract image created with SD1.5](notes/attachments/abstract-radical-candor.png)
+![Abstract image created with SD15](notes/attachments/abstract-radical-candor.png)
 
 Recently, I've been immersing myself in the fascinating world of communication. More specifically, I've been engrossed in three captivating books: [Radical Candor. Be a Kick-Ass boss without losing your humanity](literature-notes/Books/Radical%20Candor%20Be%20a%20Kick-Ass%20Boss%20Without%20Losing%20Your%20Humanity.md), [Crucial Conversations. Tools for talking when stakes are high](literature-notes/Books/Crucial%20Conversations.%20Tools%20for%20Talking%20When%20Stakes%20Are%20High.md) and [How to Win Friends and influence people](literature-notes/Books/How%20to%20Win%20Friends%20and%20Influence%20People.md). In this post, I aim to meld the key takeaways from the first two books.
 
