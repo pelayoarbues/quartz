@@ -24,7 +24,7 @@ Throughout my career, I've experimented with and observed various strategies wit
 
 One radical solution is not initiating the project without a Product Manager in place. While this might shield your team from embarking on a perilous project, if the requester is determined enough, they might seek help from another team that may lack expertise in advanced analytics products - potentially leading to more serious issues that may eventually circle back to you.
 
-If you're not fortunate enough to have Product Management support for all your data-related projects, brace yourself for a path riddled with risks and challenges for both you and your team.
+If you are not fortunate enough to have Product Management support for all your data-related projects, brace yourself for a path riddled with risks and challenges for both you and your team.
 
 
 
