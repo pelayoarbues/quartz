@@ -3,6 +3,7 @@ title: Owl Drawing and Data Generation
 date: 2023-12-03
 tags:
   - permanent-note
+  - data
 ---
 
 ![](notes/attachments/how-to-draw-an-owl.png)
