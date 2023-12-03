@@ -5,8 +5,7 @@ tags:
   - permanent-note
   - data
 ---
-
-![](notes/attachments/how-to-draw-an-owl.png)
+![Draw an owl in two steps meme](notes/attachments/how-to-draw-an-owl.png)
 
 Drawing an owl is no longer a daunting task. It's as simple as sketching a few circles, creating a prompt on [krea.ai](https://www.krea.ai/), Stable Diffusion, or any similar service. And voila, you're done!
 
