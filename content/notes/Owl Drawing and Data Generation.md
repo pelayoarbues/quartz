@@ -13,7 +13,7 @@ Drawing an owl is no longer a daunting task. It's as simple as sketching a few c
 
 Just as drawing an owl involves mastering the use of a pencil to achieve correct proportions, sensible shadows and lights, and intricate details, so too does 'Generating a dataset' present its own overlooked challenges.
 
-![](notes/attachments/fine-tune-llm-by-lusztin.png)
+![Paul Lusztin diagram for fine tuning](notes/attachments/fine-tune-llm-by-lusztin.png)
 
 It appears that [DALL·E 3](https://openai.com/dall-e-3) has been trained successfully using captions by GPT (as per [LLMs, OpenAI Dev Day, and the Existential Crisis for Machine Learning Engineering - YouTube](https://www.youtube.com/watch?v=MTJHvgJtynU)).
 
