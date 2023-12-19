@@ -21,3 +21,17 @@ Components of a basic RAG Pipeline
 
 ![](literature-notes/Courses/attachments/Screenshot%202023-12-19%20at%2015.30.01.png)
 
+In the notebook, it setups a simple RAG and an Evaluation using Truelens. It evaluates the following triad:
+
+![](literature-notes/Courses/attachments/Pasted%20image%2020231219160216.png)
+
+Evaluation is performed using LLMs. 
+
+## Sentence-window retrieval
+
+![](literature-notes/Courses/attachments/Screenshot%202023-12-19%20at%2016.07.33.png)
+
+This works by embedding single sentences instead of chunks. After retrieval, the sentences are replaced by a larger window of sentences around the original retrieved sentence. This allows the LLM to have more context while retrieven more granular pieces of information. It may improve retrieval and synthesis performance. 
+
+## Auto-merging retrieval
+
