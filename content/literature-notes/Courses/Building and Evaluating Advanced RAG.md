@@ -36,3 +36,7 @@ This works by embedding single sentences instead of chunks. After retrieval, the
 ## Auto-merging retrieval
 
 ![](literature-notes/Courses/attachments/Screenshot%202023-12-20%20at%2009.43.11.png)
+
+We construct a hierarchy of parent nodes, with child nodes. Auto-merging retrieval works by merging and retrieve nodes into larger pair of nodes.  
+
+# RAG Triad of metrics
