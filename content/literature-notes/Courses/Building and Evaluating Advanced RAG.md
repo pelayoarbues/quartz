@@ -35,3 +35,4 @@ This works by embedding single sentences instead of chunks. After retrieval, the
 
 ## Auto-merging retrieval
 
+![](literature-notes/Courses/attachments/Screenshot%202023-12-20%20at%2009.43.11.png)
