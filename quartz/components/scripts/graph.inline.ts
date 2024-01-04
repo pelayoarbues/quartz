@@ -1,4 +1,4 @@
-import type { ContentDetails } from "../../plugins/emitters/contentIndex"
+import type { ContentDetails, ContentIndex } from "../../plugins/emitters/contentIndex"
 import * as d3 from "d3"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
@@ -42,17 +42,38 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     linkDistance,
     fontSize,
     opacityScale,
+    removeTags,
+    showTags,
   } = JSON.parse(graph.dataset["cfg"]!)
 
-  const data = await fetchData
-
+  const data: Map<SimpleSlug, ContentDetails> = new Map(
+    Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
+      simplifySlug(k as FullSlug),
+      v,
+    ]),
+  )
   const links: LinkData[] = []
-  for (const [src, details] of Object.entries<ContentDetails>(data)) {
-    const source = simplifySlug(src as FullSlug)
+  const tags: SimpleSlug[] = []
+
+  const validLinks = new Set(data.keys())
+  for (const [source, details] of data.entries()) {
     const outgoing = details.links ?? []
+
     for (const dest of outgoing) {
-      if (dest in data) {
-        links.push({ source, target: dest })
+      if (validLinks.has(dest)) {
+        links.push({ source: source, target: dest })
+      }
+    }
+
+    if (showTags) {
+      const localTags = details.tags
+        .filter((tag) => !removeTags.includes(tag))
+        .map((tag) => simplifySlug(("tags/" + tag) as FullSlug))
+
+      tags.push(...localTags.filter((tag) => !tags.includes(tag)))
+
+      for (const tag of localTags) {
+        links.push({ source: source, target: tag })
       }
     }
   }
@@ -74,15 +95,19 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       }
     }
   } else {
-    Object.keys(data).forEach((id) => neighbourhood.add(simplifySlug(id as FullSlug)))
+    validLinks.forEach((id) => neighbourhood.add(id))
+    if (showTags) tags.forEach((tag) => neighbourhood.add(tag))
   }
 
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
-    nodes: [...neighbourhood].map((url) => ({
-      id: url,
-      text: data[url]?.title ?? url,
-      tags: data[url]?.tags ?? [],
-    })),
+    nodes: [...neighbourhood].map((url) => {
+      const text = url.startsWith("tags/") ? "#" + url.substring(5) : data.get(url)?.title ?? url
+      return {
+        id: url,
+        text: text,
+        tags: data.get(url)?.tags ?? [],
+      }
+    }),
     links: links.filter((l) => neighbourhood.has(l.source) && neighbourhood.has(l.target)),
   }
 
@@ -126,7 +151,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return "var(--secondary)"
-    } else if (visited.has(d.id)) {
+    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return "var(--tertiary)"
     } else {
       return "var(--gray)"
@@ -177,7 +202,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       window.spaNavigate(new URL(targ, window.location.toString()))
     })
     .on("mouseover", function (_, d) {
-      const neighbours: SimpleSlug[] = data[fullSlug].links ?? []
+      const neighbours: SimpleSlug[] = data.get(slug)?.links ?? []
       const neighbourNodes = d3
         .selectAll<HTMLElement, NodeData>(".node")
         .filter((d) => neighbours.includes(d.id))
@@ -230,9 +255,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     .attr("dx", 0)
     .attr("dy", (d) => -nodeRadius(d) + "px")
     .attr("text-anchor", "middle")
-    .text(
-      (d) => data[d.id]?.title || (d.id.charAt(1).toUpperCase() + d.id.slice(2)).replace("-", " "),
-    )
+    .text((d) => d.text)
     .style("opacity", (opacityScale - 1) / 3.75)
     .style("pointer-events", "none")
     .style("font-size", fontSize + "em")

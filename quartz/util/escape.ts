@@ -1,12 +1,8 @@
-export function escapeHTML(input: string): string {
-    const entityMap: Record<string, string> = {
-      '&': '&amp;',
-      '<': '&lt;',
-      '>': '&gt;',
-      '"': '&quot;',
-      "'": '&#39;',
-    };
-  
-    return input.replace(/[&<>"']/g, (char) => entityMap[char]);
-  }
-  
+export const escapeHTML = (unsafe: string) => {
+  return unsafe
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;")
+}

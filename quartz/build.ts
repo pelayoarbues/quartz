@@ -142,19 +142,23 @@ async function startServing(
 
       const parsedFiles = [...contentMap.values()]
       const filteredContent = filterContent(ctx, parsedFiles)
+
       // TODO: we can probably traverse the link graph to figure out what's safe to delete here
       // instead of just deleting everything
       await rimraf(argv.output)
       await emitContent(ctx, filteredContent)
       console.log(chalk.green(`Done rebuilding in ${perf.timeSince()}`))
-    } catch {
+    } catch (err) {
       console.log(chalk.yellow(`Rebuild failed. Waiting on a change to fix the error...`))
+      if (argv.verbose) {
+        console.log(chalk.red(err))
+      }
     }
 
+    release()
     clientRefresh()
     toRebuild.clear()
     toRemove.clear()
-    release()
   }
 
   const watcher = chokidar.watch(".", {

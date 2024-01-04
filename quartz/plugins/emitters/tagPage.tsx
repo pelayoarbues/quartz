@@ -5,7 +5,13 @@ import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { ProcessedContent, defaultProcessedContent } from "../vfile"
 import { FullPageLayout } from "../../cfg"
-import { FilePath, FullSlug, getAllSegmentPrefixes, joinSegments } from "../../util/path"
+import {
+  FilePath,
+  FullSlug,
+  getAllSegmentPrefixes,
+  joinSegments,
+  pathToRoot,
+} from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { TagContent } from "../../components"
 
@@ -34,12 +40,13 @@ export const TagPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
       const tags: Set<string> = new Set(
         allFiles.flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes),
       )
+
       // add base tag
       tags.add("index")
 
       const tagDescriptions: Record<string, ProcessedContent> = Object.fromEntries(
         [...tags].map((tag) => {
-          const title = tag === "" ? "Tag Index" : `Tag: #${tag}`
+          const title = tag === "index" ? "Tag Index" : `Tag: #${tag}`
           return [
             tag,
             defaultProcessedContent({
@@ -62,7 +69,7 @@ export const TagPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
 
       for (const tag of tags) {
         const slug = joinSegments("tags", tag) as FullSlug
-        const externalResources = pageResources(slug, resources)
+        const externalResources = pageResources(pathToRoot(slug), resources)
         const [tree, file] = tagDescriptions[tag]
         const componentData: QuartzComponentProps = {
           fileData: file.data,
