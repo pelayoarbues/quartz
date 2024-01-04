@@ -14,7 +14,7 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 
 - [Radical Candor and Crucial Conversations](notes/Radical%20Candor%20and%20Crucial%20Conversations.md)
 - [Glue work](notes/Glue%20work.md)
-- [Como contratar DS y no desesperar en el intento](writing/Como%20contratar%20DS%20y%20no%20desesperar%20en%20el%20intento.md)
+- [Como contratar DS y no desesperar en el intento](notes/Como%20contratar%20DS%20y%20no%20desesperar%20en%20el%20intento.md)
 - [Mentoring as a form of leverage](notes/Mentoring%20as%20a%20form%20of%20leverage.md)
 - [Different managerial styles](notes/Different%20managerial%20styles.md)
 
@@ -24,7 +24,7 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 
 ## Project manager
 - [No Data Product Management](notes/No%20Data%20Product%20Management.md)
-- [Agile for Data Science](writing/Agile%20for%20Data%20Science.md)
+- [Agile for Data Science](notes/Agile%20for%20Data%20Science.md)
 - [Ideal data to solve a problem](notes/Ideal%20data%20to%20solve%20a%20problem.md)
 - [Short term and long term metrics](notes/Short%20term%20and%20long%20term%20metrics.md)
 
@@ -51,8 +51,8 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [Write well to solve problems](notes/Write%20well%20to%20solve%20problems.md)
 - [Understanding low level data science](notes/Understanding%20low%20level%20data%20science.md)
 - [Career advice on skill acquisition](notes/Career%20advice%20on%20skill%20acquisition.md)
-- [Buscas tu primer empleo de Ciencia de Datos](writing/Buscas%20tu%20primer%20empleo%20de%20Ciencia%20de%20Datos.md)
-- [My failure resume](writing/My%20failure%20resume.md)
+- [Buscas tu primer empleo de Ciencia de Datos](notes/Buscas%20tu%20primer%20empleo%20de%20Ciencia%20de%20Datos.md)
+- [My failure resume](notes/My%20failure%20resume.md)
 
 # Data Strategy
 - [Headspace for managers](notes/Headspace%20for%20managers.md)
@@ -60,6 +60,6 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [The Data Vantage Point](notes/The%20Data%20Vantage%20Point.md)
 - [Data Paranoid](notes/Data%20Paranoid.md)
 - [Data is not objective](notes/Data%20is%20not%20objective.md)
-- [The Rational Company](writing/The%20Rational%20Company.md)
+- [The Rational Company](notes/The%20Rational%20Company.md)
 - [Verbund in Data Science](notes/Verbund%20in%20Data%20Science.md)
 
