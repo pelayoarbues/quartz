@@ -6,7 +6,7 @@ tags:
   - career
   - writing
 ---
-![My desk at University of Oviedo in 2013](notes/attachments/desk-academia.jpg)
+![My desk at University of Oviedo by the end of 2013](notes/attachments/desk-academia.jpg)
 
 It has been a decade since I successfully defended [my PhD thesis](https://digibuo.uniovi.es/dspace/handle/10651/21702). During this time, I've experienced many significant life events - I became a father, relocated from Gijón to Madrid (and then back to Gijón following the 2020 pandemic), suffered and recovered from a torn Anterior Cross ligament in my right knee, and transitioned from academia to the industry as a Data Scientist. Throughout these experiences, I've worked on numerous projects with [varying degrees of success](notes/My%20failure%20resume.md). ==A question that often comes up is whether pursuing a PhD was worth it, considering I didn't continue in research.==
 
