@@ -11,7 +11,7 @@ Recently, I've been immersing myself in the fascinating world of communication. 
 
 Radical Candor emphasizes the importance of nurturing profound, [meaningful relationships with your team](notes/Mentoring%20as%20a%20form%20of%20leverage.md) by genuinely caring for them as individuals. This might seem like a no-brainer, but it's surprising how many leaders value their employees merely by their job performance rather than showing ==personal care==.
 
-In both our personal and professional lives, we often encounter situations where [things aren't running as smoothly as we'd like](writing/My%20failure%20resume.md). Yet, we sometimes shy away from difficult conversations. This avoidance of criticism can lead to disastrous outcomes. The book introduces a second concept: ==challenging people== when their work falls short.
+In both our personal and professional lives, we often encounter situations where [things aren't running as smoothly as we'd like](notes/My%20failure%20resume.md). Yet, we sometimes shy away from difficult conversations. This avoidance of criticism can lead to disastrous outcomes. The book introduces a second concept: ==challenging people== when their work falls short.
 
 In essence, radical candor is what unfolds when you care personally and challenge directly. For direct challenges, I found that Crucial Conversations provides more detailed guidance than Radical Candor does - offering helpful tips but lacking a systematic approach. Crucial Conversations delineates several key principles to assist individuals in navigating these pivotal discussions:
 

@@ -31,23 +31,44 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    // Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(
+      Component.Explorer({
+        filterFn: (node) => {
+          // set containing names of everything you want to filter out
+          const omit = new Set(["mocs", "tags", "attachments", "literature-notes", "conflict-files-obsidian-git"])
+          return !omit.has(node.name.toLowerCase())
+        },
+        sortFn: (a, b) => {
+          const nameOrderMap: Record<string, number> = {
+            "notes": 100,
+            "research": 101,
+            "appearances": 200,
+            "photography": 300
+            }
+       
+          let orderA = 0
+          let orderB = 0
+       
+          if (a.file && a.file.slug) {
+            orderA = nameOrderMap[a.file.slug] || 0
+          } else if (a.name) {
+            orderA = nameOrderMap[a.name] || 0
+          }
+       
+          if (b.file && b.file.slug) {
+            orderB = nameOrderMap[b.file.slug] || 0
+          } else if (b.name) {
+            orderB = nameOrderMap[b.name] || 0
+          }
+       
+          return orderA - orderB
+        },
+      })
+    ),
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(
-      Component.RecentNotes({
-        title: "Recent Writing",
-        limit: 3,
-        filter: (f) =>
-          f.slug!.startsWith("writing/") && f.slug! !== "writing/index" && !f.frontmatter?.noindex,
-        sort: (f1, f2) =>
-          (f2.dates?.created.getTime() ?? Number.MAX_SAFE_INTEGER) -
-          (f1.dates?.created.getTime() ?? Number.MAX_SAFE_INTEGER),
-        linkToMore: "writing/" as SimpleSlug,
-      }),
-    ),
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Recent Notes",

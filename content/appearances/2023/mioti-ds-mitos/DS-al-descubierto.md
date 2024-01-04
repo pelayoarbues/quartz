@@ -3,8 +3,7 @@ title: Data Science al descubierto
 tags:
   - speaking
 ---
-![[Screenshot 2023-10-30 at 10.47.03.png]]
-
+![](appearances/2023/mioti-ds-mitos/attachments/front-mioti.png)
 
 - **Event name**: Data Science al descubierto
 - **URLs**: [Data Science al descubierto | Pelayo Arbués | MIOTI](https://mioti.es/es/event/data-science-al-descubierto-mitos-y-desafios-pelayo-arbues/)

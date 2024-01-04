@@ -6,7 +6,7 @@ tags:
 - career
 ---
 
-![](writing/attachments/plant-midjourney.png)
+![](notes/attachments/plant-midjourney.png)
 
 I'm a little brother, so I learned to lose as soon as I learned to crawl. I played in a youth futsal team and there was one year when we lost ALL our games. This over-exposure to defeat made me realise that I don't need to win to be happy, but I do need a context that allows me to chase victory. 
 

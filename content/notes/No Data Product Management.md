@@ -9,7 +9,7 @@ tags:
 ---
 ![Image created on ideogram. Prompt: A lonely man walks all alone towards an horizon made of numbers and equations. Style by Stanley donwood, painting](notes/attachments/no-data-product-management.jpg)
 
-Within the corporate landscape, Data and Advanced Analytics products often take birth in an informal manner. It's been a burning topic of discussion during my recent [Office hours](writing/Office%20hours.md). The catalyst might be competition from rival companies dabbling in AI, perhaps someone has brainstormed an idea that could streamline operations, or it could stem from a belief that data could enhance an existing product or kickstart a new one.
+Within the corporate landscape, Data and Advanced Analytics products often take birth in an informal manner. It's been a burning topic of discussion during my recent [Office hours](notes/Office%20hours.md). The catalyst might be competition from rival companies dabbling in AI, perhaps someone has brainstormed an idea that could streamline operations, or it could stem from a belief that data could enhance an existing product or kickstart a new one.
 
 Picture this: someone approaches the data team and suggests exploring these possibilities. As individuals in data roles are typically keen to venture into uncharted territories, they sometimes dive headfirst without adhering to the basic best practices that should precede any project initiation. This scenario is less likely to occur if there's a product manager on board.
 
