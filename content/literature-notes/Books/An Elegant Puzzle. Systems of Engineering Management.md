@@ -1,16 +1,16 @@
 ---
 author: [[Will Larson]]
-title: "An Elegant Puzzle_ Systems of Engineering Management -- Will Larson -- Hardcover, 2019 -- Stripe Press -- 9781732265189 -- 69ba4299a09d4f428e50d65442e68be2 -- Anna’s Archive"
+title: "An Elegant Puzzle. Systems of Engineering Management"
 date: 2024-01-06
 tags: 
 - books
 - literature-note
 ---
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-4.11327a2af05a.png)
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/ff088d3c-2b27-4a0e-8ae2-7456601d46ec.jpg)
 
 ## Metadata
 - Author: [[Will Larson]]
-- Full Title: An Elegant Puzzle_ Systems of Engineering Management -- Will Larson -- Hardcover, 2019 -- Stripe Press -- 9781732265189 -- 69ba4299a09d4f428e50d65442e68be2 -- Anna’s Archive
+- Full Title: An Elegant Puzzle. Systems of Engineering Management
 
 ## Highlights
 - There’s a saying that people don’t leave companies, they leave managers. (Location 5)
