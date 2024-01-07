@@ -30,7 +30,7 @@ I'm passionate about problem-solving and love being a [manager](mocs/moc-managem
 
 My biggest dream is to apply my skills and experience to help address human challenges, and I aspire to be known for leading a team that works with high ethics and can deliver outstanding solutions.
 
-Outside of work, my hobbies include taking [analog street photographs](photography/Photography.md), reading, and spending quality time with my family. I love learning about creative processes, management, and philosophy. You can learn more about my [current priorities](mocs/now.md).
+Outside of work, my hobbies include taking [analog photographs](photography/Photography.md), reading, and spending quality time with my family. I love [learning](literature-notes/index.md) about creative processes, management, and philosophy. You can learn more about my [current priorities](mocs/now.md).
 
 Want to talk or need help with something? You can check my availability at [Office hours](notes/Office%20hours.md). 
 
