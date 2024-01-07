@@ -8,6 +8,22 @@ Hi folks!
 
 I'm Pelayo Arbués, currently based in Gijón and Madrid, Spain, and I'm the Head of Data Science at [idealista](https://www.idealista.com/), the leading real estate online marketplace in Southern Europe. With 8 years of experience in the industry, I am known for being able to effectively incorporate advanced analytics in products and for increasing awareness of the practical application of data science. 
 
+```mermaid
+timeline
+    title My career timeline
+    section Academia
+	    2007 : Researcher
+	    2010 : Ph.D. thesis
+	    2013 : Researcher
+	section Private Sector
+    2015 : 1st solo Data Scientist at Weplan
+    2016 : DS Consultant at BBVA Next
+    2018 : Lead Data Scientist at idealista/data
+    2020 : Head of Data Science at idealista
+    
+```
+
+
 My academic background is in Economics, with a Ph.D. in Transport Economics and Regional Science. I worked as a [researcher](research/) in academia for 7 years and held past positions as a Senior Data Scientist at BBVA Next and Lead Data Scientist at Weplan.
 
 I'm passionate about problem-solving and love being a [manager](mocs/moc-management.md) because it allows me to tackle various challenges related to strategy, processes, and people. My proudest [achievements](notes/My%20failure%20resume.md) include developing a recommender system with a small team at a large retail company and raising a high-performance team at idealista.
