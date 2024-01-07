@@ -2,7 +2,7 @@
 
 ---
 title: "Now"
-date: 2023-09-04
+date: 2024-01-07
 tags:
 - personal
 ---
@@ -10,9 +10,9 @@ tags:
 Currently I am focused on:
 - Devoting time to my wife and daughter.
 - Learning and writing about [Management](mocs/moc-management.md) and how to apply Complex Problem Solving for leading change in organizations.
+- Learning about Product Management with an [Advanced Course in Product Engineering by Escribano](https://cursos.escuelaescribano.com/curso-avanzado-de-product-engineering). 
 - Learning about Fine Tuning LLMs and Stable Diffusion models
 - Sharing publicly this [digital-garden](mocs/digital-garden.md)
-- Using generative AI to revisit master photographers' work [instagram.com/somekindalovesomekindahate](https://www.instagram.com/somekindalovesomekindahate/)
 - Staying fit by going at least three times a week to the gym.
 
 ---
