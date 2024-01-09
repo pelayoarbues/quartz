@@ -5,10 +5,11 @@ tags:
   - permanent-note
   - blogging
 ---
-
-![An screenshot of Expert Answers on Linkedin](notes/attachments/Screenshot%202024-01-09%20at%2011.16.56.png)
+![](notes/attachments/data-silo.png)
 
 LinkedIn is constantly encouraging me to create content within its platform. Lately, this has taken the form of collaborative article writing and adding expert answers. Don't get me wrong, I believe LinkedIn is an excellent platform for connecting with professionals and expanding my network. It's also quite effective for finding intriguing candidates. However, while many individuals post low-quality content, particularly on AI and tech, others share high-quality content that I wouldn't discover otherwise.
+
+![An screenshot of Expert Answers on Linkedin](notes/attachments/Screenshot%202024-01-09%20at%2011.16.56.png)
 
 In this context, I understand why being named a LinkedIn Top Voice or SuperDuper contributor works wonders in establishing you as a reliable expert in your field. The incentives seem well-aligned and it appears that creating more original content on LinkedIn would be beneficial for me.
 
