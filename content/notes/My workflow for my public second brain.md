@@ -1,9 +1,10 @@
 ---
-title:  "My workflow for my public second brain"
+title: My workflow for my public second brain
 date: 2023-03-03
-tags: 
-- permanent-note 
-- setup
+tags:
+  - permanent-note
+  - setup
+  - blogging
 ---
 In this post, I'm sharing my workflow for sharing my notes on my personal website.
 
