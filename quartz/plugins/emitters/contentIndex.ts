@@ -88,8 +88,8 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, includedSe
         cfg.pageTitle,
       )}</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      ${items.join('')}
       <atom:link href="https://www.pelayoarbues.com/index.xml" rel="self" type="application/rss+xml" />
+      ${items.join('')}
     </channel>
   </rss>`;
 }
