@@ -83,7 +83,6 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, includedSe
 <rss version="2.0">
     <channel>
       <title>${escapeHTML(cfg.pageTitle)}</title>
-      <title>${escapeHTML(cfg.pageTitle)}</title>
       <link>${root}</link>
       <description>${!!limit ? `Last ${limit} notes` : "Recent notes"} on ${escapeHTML(
         cfg.pageTitle,
