@@ -80,7 +80,7 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, includedSe
   }
 
   return `<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>${escapeHTML(cfg.pageTitle)}</title>
       <link>${root}</link>
@@ -89,6 +89,7 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, includedSe
       )}</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       ${items.join('')}
+      <atom:link href="https://www.pelayoarbues.com/index.xml" rel="self" type="application/rss+xml" />
     </channel>
   </rss>`;
 }
