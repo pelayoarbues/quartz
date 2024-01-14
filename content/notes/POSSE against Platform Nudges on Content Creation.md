@@ -5,7 +5,7 @@ tags:
   - permanent-note
   - blogging
 ---
-![](notes/attachments/data-silo.png)
+![An illustration of a data silo](notes/attachments/data-silo.png)
 
 LinkedIn is constantly encouraging me to create content within its platform. Lately, this has taken the form of collaborative article writing and adding expert answers. Don't get me wrong, I believe LinkedIn is an excellent platform for connecting with professionals and expanding my network. It's also quite effective for finding intriguing candidates. However, while many individuals post low-quality content, particularly on AI and tech, others share high-quality content that I wouldn't discover otherwise.
 
@@ -15,7 +15,7 @@ In this context, I understand why being named a LinkedIn Top Voice or SuperDuper
 
 However, there's an issue I want to highlight - participating in this game contradicts my daily work. As a data professional, much of my energy is spent breaking down data silos within my company.
 
-> Important
+> [!warning]
 > Creating content on LinkedIn means that I'm contributing to the growth of a data silo.
 
 This is exactly what platforms like these want you to do - they want you to be confined within their domain. While I understand this from a business perspective, it strongly opposes my professional mission and likely yours if you're working in data too.
