@@ -40,6 +40,7 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [Make'em talk with prototypes](notes/Make'em%20talk%20with%20prototypes.md)
 
 ## Technical mentor and coach
+- [Be helpful](notes/Be%20helpful.md)
 - [Taming Impostor Syndrome](notes/Taming%20Impostor%20Syndrome.md)
 - [First solo data scientist](notes/First%20solo%20data%20scientist.md)
 - [Dopamine rush](notes/Dopamine%20rush.md)
