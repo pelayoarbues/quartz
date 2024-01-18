@@ -1,16 +1,16 @@
 ---
 author: [[Gabrielle Zevin]]
-title: "Tomorrow, and Tomorrow, and Tomorrow_ a Novel -- Gabrielle Zevin -- 2022 -- Knopf Doubleday Publishing Group -- 9781524712228 -- A06e258e1446a2b2c4ee357089b828bf -- Anna’s Archive"
+title: "Tomorrow, and Tomorrow, and Tomorrow"
 date: 2024-01-18
 tags: 
 - books
 - literature-note
 ---
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-8.18caceaece2b.png)
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/4c7e6502-1bbc-458d-a961-fb669dd829dd.jpg)
 
 ## Metadata
 - Author: [[Gabrielle Zevin]]
-- Full Title: Tomorrow, and Tomorrow, and Tomorrow_ a Novel -- Gabrielle Zevin -- 2022 -- Knopf Doubleday Publishing Group -- 9781524712228 -- A06e258e1446a2b2c4ee357089b828bf -- Anna’s Archive
+- Full Title: Tomorrow, and Tomorrow, and Tomorrow
 
 ## Highlights
 - I can tell you that the people who give you charity are never your friends. It is not possible to receive charity from a friend.” (Location 437)
