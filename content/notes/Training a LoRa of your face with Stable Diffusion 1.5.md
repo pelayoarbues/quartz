@@ -32,7 +32,7 @@ To train your LORA effectively, you'll need an assortment of pictures. Quality a
 
 ![](notes/attachments/Screenshot%202023-10-08%20at%2022.49.20.png)
 
-As for the number of images required, I can't make any scientific claims yet due to limited testing. However, as a passionate [photographer](mocs/Photography.md), I have an extensive collection of pictures, especially of [Violeta](https://www.instagram.com/violetabypelayo/). For a LORA of myself, I used approximately 70 images and over 200 for Violeta. In both cases, the results were quite satisfactory. While some claim that 30 images are enough, my personal tests didn't prioritize efficiency (smaller sample size might reduce training times), and I wanted to include images of us at different ages.
+As for the number of images required, I can't make any scientific claims yet due to limited testing. However, as a passionate [photographer](mocs/photography.md), I have an extensive collection of pictures, especially of [Violeta](https://www.instagram.com/violetabypelayo/). For a LORA of myself, I used approximately 70 images and over 200 for Violeta. In both cases, the results were quite satisfactory. While some claim that 30 images are enough, my personal tests didn't prioritize efficiency (smaller sample size might reduce training times), and I wanted to include images of us at different ages.
 
 ### Processing Images
 
