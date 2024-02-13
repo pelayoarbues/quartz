@@ -39,4 +39,4 @@ Want to talk or need help with something? You can check my availability at [Offi
 - [Writing for learning](mocs/digital-garden.md)
 - [Talks, Interviews and Podcast participation](appearances/)
 - [Research](research/)
-- [Photography](mocs/Photography.md)
+- [Photography](photography/Photography.md)
