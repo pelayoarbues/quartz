@@ -1,6 +1,6 @@
 ---
 title: The Data Science Process
-Date: 2024-02-08
+date: 2024-02-08
 tags:
   - learning
   - resources

@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Guide to Deploying ML Models"
-Date: 2023-03-06
+date: 2023-03-06
 tags: 
 - learning
 - resources

@@ -1,6 +1,6 @@
 ---
 title: Data Science Fundamentals
-Date: 2023-03-06
+date: 2024-02-06
 tags:
   - learning
   - career

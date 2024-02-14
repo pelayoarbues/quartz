@@ -1,6 +1,6 @@
 ---
 title: "Shell Script and others"
-Date: 2023-03-06
+date: 2023-03-06
 tags: 
 - learning
 - resources
