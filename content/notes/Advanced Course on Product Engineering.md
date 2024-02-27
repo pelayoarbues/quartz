@@ -33,14 +33,14 @@ The course comprises four modules:
 - Discusses bad practices in squad design, such as having separate product owner, scrum master, and QA roles.
 - **I found the discussion on these practices particularly interesting.**
 
-**2. Scoping, Trade-offs, and Design Principles:**
+2. Scoping, Trade-offs, and Design Principles:
 
 - Focuses on trade-offs due to uncertainties in product development.
 - Presents scoping as a way to learn quickly.
 - Discusses core and secondary features, their relationship with core technology, and complementary tools.
 - **I enjoyed the discussions on prototyping and user testing for validating solutions, as I've used prototypes extensively in my career.**
 
-**3. Product Analytics and Quality:**
+3. Product Analytics and Quality:
 
 - Introduces data-driven companies, product engineers' role with OKRs, and co-guiding the product process.
 - Provides a basic introduction to KPIs for digital products.
@@ -48,7 +48,7 @@ The course comprises four modules:
 - Discusses traditional QA vs. Model Quality Assistance, introducing new concepts I hadn't encountered before.
 - **The discussion on technical debt with decision-making tips was insightful.**
 
-**4. Project and Stakeholder Management:**
+4. Project and Stakeholder Management:
 
 - Focuses on non-technical skills for better collaboration with colleagues and stakeholders.
 - Offers guidance for mid-to-senior engineers on project and [stakeholder management](notes/Internal%20Networking.md).
