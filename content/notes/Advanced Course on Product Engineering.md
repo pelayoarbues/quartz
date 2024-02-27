@@ -9,7 +9,7 @@ tags:
 
 I just finished the Advanced Course in Product Engineering taught by [Javier Escribano]([https://cursos.escuelaescribano.com/advanced-course-product-engineering](https://cursos.escuelaescribano.com/advanced-course-product-engineering)). Here's a brief review of the course and my thoughts.
 
-> [! Too Long, Didn't read]
+> [!note] TL;DR
 > This course is for you if you believe technical roles can benefit from a product mindset.
 
 **Overview:**
@@ -56,7 +56,7 @@ The course comprises four modules:
 
 ## Class Dynamics
 
-The course follows a **flipped classroom** format. Students engage with primary and secondary materials (videos, readings, online resources) before class to prepare for discussions, problem-solving, and collaborative activities. I spent about six hours a week reading and reflecting on the materials.
+The course follows a [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom) format. Students engage with primary and secondary materials (videos, readings, online resources) before class to prepare for discussions, problem-solving, and collaborative activities. I spent about six hours a week reading and reflecting on the materials.
 
 Modules comprise readings and videos, and case study participation is optional every two weeks. Live sessions include guest lectures from professionals sharing their expertise on the module topics. I enjoyed interacting with guest experts, discussing topics with Javier and classmates, and participating in case study discussions. We shared our experiences and tackled current and past challenges.
 
