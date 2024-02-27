@@ -7,7 +7,7 @@ tags:
 ---
 ![Course in Product Engineering by Escribano](notes/attachments/Screenshot%202024-02-27%20at%2009.49.18.png)
 
-I just finished the Advanced Course in Product Engineering taught by [Javier Escribano]([https://cursos.escuelaescribano.com/advanced-course-product-engineering](https://cursos.escuelaescribano.com/advanced-course-product-engineering)). Here's a brief review of the course and my thoughts.
+I just finished the Advanced Course in Product Engineering taught by [Javier Escribano](https://cursos.escuelaescribano.com/advanced-course-product-engineering). Here's a brief review of the course and my thoughts.
 
 > [!note] TL;DR
 > This course is for you if you believe technical roles can benefit from a product mindset.
