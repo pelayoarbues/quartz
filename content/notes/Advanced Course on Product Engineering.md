@@ -7,11 +7,13 @@ tags:
 ---
 ![Course in Product Engineering by Escribano](notes/attachments/Screenshot%202024-02-27%20at%2009.49.18.png)
 
-**I just finished the Advanced Course in Product Engineering taught by Javier Escribano ([https://cursos.escuelaescribano.com/advanced-course-product-engineering](https://cursos.escuelaescribano.com/advanced-course-product-engineering)). Here's a brief review of the course and my thoughts.**
+I just finished the Advanced Course in Product Engineering taught by [Javier Escribano]([https://cursos.escuelaescribano.com/advanced-course-product-engineering](https://cursos.escuelaescribano.com/advanced-course-product-engineering)). Here's a brief review of the course and my thoughts.
+
+> [! Too Long, Didn't read]
+> This course is for you if you believe technical roles can benefit from a product mindset.
 
 **Overview:**
 
-- **TL;DR:** This course is for you if you believe technical roles can benefit from a product mindset.
 - **Overall:** Well-designed with extensive lectures, materials, and thought-provoking guest lectures.
 - **Recommended for:** Individual contributors seeking better engagement with product processes and managers aiming to elevate their teams' mindsets.
 
@@ -19,13 +21,13 @@ tags:
 
 Product engineers contribute to **product vision, strategy, and decision-making** instead of merely executing tasks. This resonated with me, as I've always wondered why smart technical people aren't involved in these crucial aspects. I believe good engineers are highly analytical, solve problems effectively, and design cost-effective solutions – qualities valuable to the bigger picture.
 
-This course helped me structure [ideas](notes/Make'em%20talk%20with%20prototypes.md) and [intuitions](notes/No%20Data%20Product%20Management.md) I've already applied in my career and team. I encourage colleagues to focus on "why" rather than just "how," while incorporating lean processes and ownership of projects. While I didn't learn entirely new things, the course provided a **formal framework** for my existing approach, enabling me to better communicate my expectations and collaborate with product roles and stakeholders.
+This course helped me structure [ideas](notes/Make'em%20talk%20with%20prototypes.md) and [intuitions](notes/No%20Data%20Product%20Management.md) I've already applied in my career and team. I encourage colleagues to focus on "why" rather than just "how," while incorporating lean processes and [ownership of projects](notes/Other%20People%20Problems.md). While I didn't learn entirely new things, the course provided a **formal framework** for my existing approach, enabling me to better communicate my expectations and collaborate with product roles and stakeholders.
 
 ## Contents
 
 The course comprises four modules:
 
-**1. Product Engineering and Product Fundamentals:**
+1. Product Engineering and Product Fundamentals:
 
 - Introduces squad fundamentals, the role of product engineering, and basic product processes.
 - Discusses bad practices in squad design, such as having separate product owner, scrum master, and QA roles.
