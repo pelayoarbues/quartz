@@ -16,8 +16,6 @@ Participants:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BxLeixIob9w?si=fkz6SViqdf1xFsjd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
   
-Here are the corrected notes from the podcast:
-
 - Malcolm McCallio, founder of primelocation.com, then worked in property, and later helped set up Zoopla.
 - Portals are in a phase of experimentation in four areas:
     - Copiloting
