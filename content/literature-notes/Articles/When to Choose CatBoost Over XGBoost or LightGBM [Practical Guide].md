@@ -45,3 +45,38 @@ tags:
 - • **SHAP:** CatBoost uses [**SHAP**](https://github.com/slundberg/shap) (SHapley Additive exPlanations) to break a prediction value into contributions from each feature. It calculates feature importance by measuring the impact of a feature on a single prediction value compared to the baseline prediction. This technique provides visual explanations of features that make the most impact on your model’s decision-making. SHAP can be applied in two ways:
   Per data instance 
   ![First prediction explanation (Waterfall plot)](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/When-to-Choose-CatBoost-Over-XGBoost-or-LightGBM-Practical-Guide_22.png?ssl=1) ([View Highlight](https://read.readwise.io/read/01hs11t6x4njw5phqan4j2ry1d))
+## New highlights added March 15, 2024 at 2:49 PM
+- The above visualization shows the features pushing the model output from the base value (the average model output over the training dataset) to the model output. The red features are the ones pushing the prediction higher, while the blue features push the prediction lower. This concept can be visualized using the force plot.
+  ![First prediction explanation (Force plot)](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/When-to-Choose-CatBoost-Over-XGBoost-or-LightGBM-Practical-Guide_21.png?ssl=1)
+  *First prediction explanation (Force plot) | Source: Author* ([View Highlight](https://read.readwise.io/read/01hs12tqfph4qrtz8czxy3950p))
+- This is another unique feature that CatBoost has integrated into its recent version. This functionality provides calculated and plotted feature-specific statistics and visualizes how CatBoost is splitting the data for each feature. More specifically, the statistics are:
+  • Mean target value for each bin (bins groups continuous feature) or category (supported currently for only One-Hot Encoded features).
+  • Mean prediction value for each bin
+  • Number of data instances (object) in each bin
+  • Predictions for various feature values
+  ![Statistics of feature](https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/When-to-Choose-CatBoost-Over-XGBoost-or-LightGBM-Practical-Guide_20.png?resize=822%2C407&ssl=1) ([View Highlight](https://read.readwise.io/read/01hs12tyqgd1d0pcpybktwgmgc))
+- CatBoost parameters 
+  CatBoost has common training parameters with XGBoost and LightGBM but provides a much flexible interface for parameter tuning. ([View Highlight](https://read.readwise.io/read/01hs12vwkxgcnd1zxkaraah6h0))
+- **Overfitting detector:** CatBoost’s algorithm structure inhibits gradient boosting biases and overfitting. In addition, CatBoost has an overfitting detector that can stop training earlier than the training parameters dictate if overfitting occurs. CatBoost implements overfitting detection using two strategies:
+  • Iter: Consider the overfitted model and stop training after the specified number of iterations using the iteration with the optimal metric value. This strategy uses the early_stopping_rounds parameter like other gradient boosting algorithms like LightGBM and XGBoost. 
+  • IncToDec: Ignore the overfitting detector when the threshold is reached and continue learning for the specified number of iterations after the iteration with the optimal metric value. The overfitting detector is activated by setting “od_type” in the parameters to produce more generalized models. ([View Highlight](https://read.readwise.io/read/01hs12waypvr4rd61xj0r8sm0j))
+- **Missing value support**: CatBoost provides three inherent missing values strategies for processing missing values:
+  • “Forbidden”: Missing values are interpreted as an error as they are not supported.
+  • “Min”: Missing values are processed as the minimum value(less than all other values) for the feature under observation. 
+  • “Max”: Missing values are processed as the maximum value(greater than all other values) for the feature under observation. CatBoost only has missing values imputation for numerical values only and the default mode in Min. ([View Highlight](https://read.readwise.io/read/01hs12wjmj32mcfznwes786ta8))
+- • **CatBoost viewer**: In addition to the CatBoost model analysis tool, CatBoost has a [standalone executable application](https://github.com/catboost/catboost-viewer) for plotting charts with different training statistics in a browser.
+  • **Cross-validation**: CatBoost allows to perform cross-validation on the given dataset. In cross-validation mode, the training data is split into folds of learning and evaluation. ([View Highlight](https://read.readwise.io/read/01hs12wtewy04p128z361tqa9m))
+- • CatBoost had the fastest prediction time without categorical support, consequently increasing substantially with categorical support. 
+  • CatBoost also had the best score for the AUC metric (the higher the AUC score, the better the model’s performance at distinguishing between the classes) for the test data. 
+  • XGBoost had the lowest ROC-AUC Score with default settings and a relatively longer training time than LightGBM, however, its prediction time was fast (second-fastest time in the respective default setting runs).
+  • LightGBM outperformed every other model in training time. ([View Highlight](https://read.readwise.io/read/01hs12xqv1q2zkk1evn9d2tdxa))
+- • CatBoost still retained the fastest prediction time and best performance score with categorical feature support. CatBoost’s internal identification of categorical data allows it to yield the slowest training time. 
+  • Despite the hyperparameter tuning, the difference between the default and tuned results are not that much and it also highlights the fact that CatBoost’s default settings yield a great result. 
+  • XGBoost performance increased with tuned settings, however, it produced the fourth-best AUC-ROC score and the training time and prediction time got worse.
+  • LightGBM still had the fastest training time as well as the fastest parameter tuning time. However, CatBoost will make a great choice if you are willing to make the tradeoff of performance over faster training time. ([View Highlight](https://read.readwise.io/read/01hs12ycqx76sqjtp739qqbgh5))
+- CatBoost’s algorithmic design might be similar to the “older” generation of GBDT models, however, it has some key attributes such as: 
+  • ranking objective function
+  • native categorical features preprocessing
+  • model analysis
+  • fastest prediction time 
+  CatBoost also provides significant performance potential as it performs remarkably well with default parameters, significantly improving performance when tuned.  This article aimed to help you in making a decision about when to choose CatBoost over LightGBM or XGBoost by talking about these crucial features and the advantages they offer. I hope now you have a good idea about this and the next time you are faced with such a choice, you will be able to make an informed decision. ([View Highlight](https://read.readwise.io/read/01hs12yrvp3gd8n1t4mjwms8ch))
