@@ -32,3 +32,11 @@ tags:
   • Location
   • Lot Size
   When fed into an AI engine, photo elements can be broken down into a text format that can be carried through to a text-to-speech audio file. ([View Highlight](https://read.readwise.io/read/01hthfzsnxf9sn1wwp9r0jnxa0))
+## New highlights added April 10, 2024 at 1:28 AM
+- Standards allow multiple organizations to provide a simple set of information, like an address or number of beds and baths, in a format that is readable across the industry. ([View Highlight](https://read.readwise.io/read/01hv28p3zf6k0p5850d1gp6q0k))
+- turns out that everyone is correct, depending on where you are from. The same is true for real estate:
+  • Porch, Deck or Lanai?
+  • Rambler vs. Ranch
+  • Bungalow (U.S.) vs. Bungalow (Canada; which is a Ranch)
+  • Stove vs. Range Top
+  • Tap vs. Spigot ([View Highlight](https://read.readwise.io/read/01hv28phdxydzrbbr925d3yqyx))
