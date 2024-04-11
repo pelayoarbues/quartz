@@ -49,3 +49,10 @@ tags:
 - En el mundo actual, quién conoces (know-who) puede ser más importante que lo que sabes (know-how).
 
 - Aunque la inteligencia artificial es cada vez más prevalente, todavía tiene limitaciones. Por ejemplo, no entiende bien los matices ni interpreta adecuadamente el contexto.
+
+Libros recomendados
+- [El cuaderno gris: Un dietario by Josep Pla](https://www.goodreads.com/book/show/923404.El_cuaderno_gris?from_search=true&from_srp=true&qid=lLXLMEO549&rank=1)
+- [What Management Is by Joan Magretta](https://www.goodreads.com/book/show/1346126.What_Management_Is)
+- [Good to Great](literature-notes/Books/Good%20to%20Great.md)
+- [Adriano Olivetti: La biografia by Valerio Ochetto | Goodreads](https://www.goodreads.com/book/show/18904165-adriano-olivetti?from_search=true&from_srp=true&qid=f0qLLWv2dR&rank=8)
+- [La utilidad de lo inútil: Manifiesto by Nuccio Ordine](https://www.goodreads.com/book/show/19097397-la-utilidad-de-lo-in-til)
