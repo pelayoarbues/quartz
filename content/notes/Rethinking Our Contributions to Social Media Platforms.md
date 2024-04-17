@@ -2,7 +2,8 @@
 title: Rethinking Our Contributions to Social Media Platforms
 date: 2024-04-17
 tags:
-  - fleeting
+  - permanent-note
+  - blogging
 ---
 ![A decayed Twitter logo with cracks in the crumbled Agora of Athens. DALLE-3](notes/attachments/twitter-logo-greek.png)
 
