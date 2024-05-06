@@ -5,9 +5,9 @@ tags:
   - permanent-note
   - data
 ---
-![A female deity rising to the sky, holding photos in her left hand and books on the right. She wears a Polyhedron crystal helmet. Cyberpunk style - Made with Dalle3](notes/attachments/Pasted%20image%2020240506194119.png)
+![A female deity rising to the sky, holding photos in her left hand and books on the right. She wears a Polyhedron crystal helmet. Cyberpunk style - Made with Dalle3](notes/attachments/dataset-engineer.png)
 
-Data Scientists and Machine Learning Engineers have long been involved in preparing the [ideal datasets](notes/Ideal%20data%20to%20solve%20a%20problem.md) for training and evaluating [successful models](00.Inbox/Successful%20models.md). However, over the past few years, I've noticed a significant increase in the importance of curating these datasets within the data function.
+Data Scientists and Machine Learning Engineers have long been involved in preparing the [ideal datasets](notes/Ideal%20data%20to%20solve%20a%20problem.md) for training and evaluating [successful models](notes/Sucessful%20Model.md). However, over the past few years, I've noticed a significant increase in the importance of curating these datasets within the data function.
 
 The availability of large pre-trained models has simplified the process of creating custom versions to address specific business problems. In this context, we can't overlook the significant role played by [Hugging Face](https://huggingface.co/) in democratizing access to highly competent models. Furthermore, Hugging Face libraries like [Datasets](https://huggingface.co/docs/datasets/index) and [🤗 Transformers](https://huggingface.co/docs/transformers/index) have facilitated easier access to vast datasets and models. They've also simplified transfer learning, fine-tuning, and efficient adaptation of specific Deep Learning architectures to current problems.
 
