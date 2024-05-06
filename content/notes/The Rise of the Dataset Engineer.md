@@ -28,9 +28,7 @@ In addition to a more mature ecosystem of annotation and curation tools, it's no
 
 Tools like [argilla](https://argilla.io/), [CVAT](https://www.cvat.ai/) and [FiftyOne](https://docs.voxel51.com/) can be used alongside pre-annotated or synthetic data for training, evaluating and monitoring our models. In this scenario, an engineering mindset is crucial—one that understands the iterative nature of the Data Science process—to optimize data annotation or [synthetic data](https://distilabel.argilla.io/latest/) generation.
 
-![LLM suggestions in Argilla](notes/attachments/Pasted%20image%2020240506193430.png)
-
-Industry leaders like Andrew Ng have long advocated for a [Data-centric](https://datacentricai.org/) approach to AI modeling. Recently, Chip Huyen included Dataset Engineering as a central topic in [her upcoming book](https://www.linkedin.com/posts/chiphuyen_aiengineering-aiapplications-mlengineering-activity-7188642075230236672-zQ1u/).
+Industry leaders like [Andrew Ng](https://www.andrewng.org/) have long advocated for a [Data-centric](https://datacentricai.org/) approach to AI modeling. Recently, [Chip Huyen](https://huyenchip.com/) included Dataset Engineering as a central topic in [her upcoming book](https://www.linkedin.com/posts/chiphuyen_aiengineering-aiapplications-mlengineering-activity-7188642075230236672-zQ1u/).
 
 While I'm not entirely convinced about introducing another term under the broad umbrella of Data Science roles just yet, it is clear that we're all thinking about how to procure high-quality datasets for training our models. Like it or not, the old data preparation function is evolving. Initially, this function may be tackled by existing roles such as Data Scientists or Machine Learning Engineers. However, considering the constant evolution of roles and the [emergence](notes/Data%20Science%20job%20crafting.md) emergence of highly specialized and well-compensated positions, we may soon see Dataset Engineering listed as a desired skill in [job postings](notes/Como%20contratar%20DS%20y%20no%20desesperar%20en%20el%20intento.md).
 
