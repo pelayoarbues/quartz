@@ -1,5 +1,5 @@
 ---
-title: AI-Enhanced Knowledge Management
+title: AI Enhanced Knowledge Management
 date: 2024-05-13
 tags:
   - permanent-note
@@ -8,7 +8,7 @@ tags:
 ---
 ![An old robot working as a librarian, retrieving books in an ancient, dusty library - by Dalle3](notes/attachments/librarian-robot.png)
 
-Ever since my [Ph.D. days](notes/10%20Years%20Later.%20Lessons%20from%20My%20PhD%20Experience.md), I've made it a habit to delve into prior literature before making any assertive claims. My [digital-garden](mocs/digital-garden.md) serves as my personal library, housing notes from #books  and #articles I've read, and even the occasional Po. The real magic, however, lies in tying these notes together, creating an intricate web of knowledge - a concept beautifully articulated by Sönke Ahrens in his book [How to take smart notes](literature-notes/Books/How%20to%20take%20smart%20notes.md).
+Ever since my [Ph.D. days](notes/10%20Years%20Later.%20Lessons%20from%20My%20PhD%20Experience.md), I've made it a habit to delve into prior literature before making any assertive claims. My [digital-garden](mocs/digital-garden.md) serves as my personal library, housing notes from #books  and #articles I've read, and even the occasional #podcast. The real magic, however, lies in tying these notes together, creating an intricate web of knowledge - a concept beautifully articulated by Sönke Ahrens in his book [How to take smart notes](literature-notes/Books/How%20to%20take%20smart%20notes.md).
 
 While penning a note, I always keep one eye on my past musings. My [workflow](notes/My%20workflow%20for%20my%20public%20second%20brain.md) might be far from flawless, but it works for me. Even though it's generally advised to jot down notes in your own words, I find myself frequently highlighting key points – particularly when reading on my Kindle at night or using [Readwise Reader](https://readwise.io/read) on the go.
 
