@@ -40,3 +40,5 @@ Want to talk or need help with something? You can check my availability at [Offi
 - [Talks, Interviews and Podcast participation](appearances/)
 - [Research](research/)
 - [Photography](photography/index.md)
+
+If you're interested in understanding how Artificial Intelligence is employed on this site, please check my [/ai page](mocs/ai.md).
