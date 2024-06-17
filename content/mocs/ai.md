@@ -13,6 +13,8 @@ However, being a non-native English speaker, I lean on Artificial Intelligence m
 
 In addition to this, I tap into the power of [Artificial Intelligence for research purposes](notes/AI%20Enhanced%20Knowledge%20Management.md). This mainly involves retrieving concepts and sourcing resources when traditional methods fall short.
 
+In addition, some images are generated using various diffusion models. I usually include the model and prompt used for generation in the alt description.
+
 ---
 
 This is an `/ai page`, a public statement to promote trust and transparency on the use of AI in my site following [the /ai 'manifesto' - by Damola Morenikeji](https://www.bydamo.la/p/ai-manifesto). 
