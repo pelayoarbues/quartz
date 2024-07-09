@@ -22,4 +22,25 @@ Estrategias para garantizar exito de ML. Se puede crear una estrategia robusta d
 3. Escalar más allá de las pruebas de concepto. Usar PoCs antes de hacer grandes inversiones en infraestrucutra.
  
 Qué enfoque de cambio cultural es adecuado para mi organización?
+- Pasar de una organización de DS centralizada a una por unidad de negocio. requiere de cambios culturales. 
 
+Como hago para evaluar mi estrategia de datos?
+La estrategia de datos comienza con la evaluación de los datos actuales de la organización y cómo mejorar su calidad.
+	- Un flujo es etiquetar datos > Están disponibles aunque diseminados > Están centralizados en un datalake
+
+Beneficios de los datalakes:
+- Pueden crecer a cualquier escala y democratizar acceso a datos y análisis
+- Almacenan a bajo coste
+- Se pueden proteger datos y gobernarlos
+- Reduce tiempos de análisis por ser un repositorio centralizado
+
+Equipos de ML
+Necesita diferentes roles:
+	- Data Scientists
+	- ML Engineers
+	- Director de proyectos técnicos
+- Fase 1: Anima a lideres que no poseen habilidades técnicas a convertirse en expertos en ML
+- Fase 2: Contrata equipos de ML o apoyate en externos
+
+Cómo desarrollar equipo para ML:
+- 
