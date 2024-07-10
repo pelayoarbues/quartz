@@ -8,7 +8,7 @@ tags:
 ---
 
 ```
-
+Curso sobre estrategia de despliegue de IA en Empresa
 ```
 
 ***
