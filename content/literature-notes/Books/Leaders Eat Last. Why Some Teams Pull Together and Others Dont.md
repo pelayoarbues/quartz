@@ -1,6 +1,6 @@
 ---
 author: [[Simon Sinek]]
-title: "Leaders Eat Last. Why Some Teams Pull Together and Others Don&#39;t"
+title: "Leaders Eat Last. Why Some Teams Pull Together and Others Dont"
 date: 2024-07-24
 tags: 
 - books
@@ -10,7 +10,7 @@ tags:
 
 ## Metadata
 - Author: [[Simon Sinek]]
-- Full Title: Leaders Eat Last. Why Some Teams Pull Together and Others Don't
+- Full Title: Leaders Eat Last. Why Some Teams Pull Together and Others Dont
 
 ## Highlights
 - Leaders are the ones who run headfirst into the unknown. They rush toward the danger. They put their own interests aside to protect us or to pull us into the future. Leaders would sooner sacrifice what is theirs to save what is ours. And they would never sacrifice what is ours to save what is theirs. This is what it means to be a leader. It means they choose to go first into danger, headfirst toward the unknown. And when we feel sure they will keep us safe, we will march behind them and work tirelessly to see their visions come to life and proudly call ourselves their followers. (Location 62)
