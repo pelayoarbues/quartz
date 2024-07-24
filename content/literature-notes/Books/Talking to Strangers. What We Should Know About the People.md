@@ -1,16 +1,16 @@
 ---
 author: [[Malcolm Gladwell]]
-title: "Talking to Strangers_ What We Should Know About the People -- Gladwell, Malcolm -- First Edition, 2019 -- Little, Brown and Company -- 9780316535625 -- 2df3ce69e146bd67e1940f292f299e7f -- Anna’s Archive"
-date: 2024-07-23
+title: "Talking to Strangers. What We Should Know About the People"
+date: 2024-07-24
 tags: 
 - books
 - literature-note
 ---
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/default-book-icon-4.11327a2af05a.png)
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/fb56e7c2-d6dd-42fd-9e28-dfe057ba8afa.jpg)
 
 ## Metadata
 - Author: [[Malcolm Gladwell]]
-- Full Title: Talking to Strangers_ What We Should Know About the People -- Gladwell, Malcolm -- First Edition, 2019 -- Little, Brown and Company -- 9780316535625 -- 2df3ce69e146bd67e1940f292f299e7f -- Anna’s Archive
+- Full Title: Talking to Strangers. What We Should Know About the People
 
 ## Highlights
 - Sometimes the best conversations between strangers allow the stranger to remain a stranger. (Page 8)
