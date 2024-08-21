@@ -27,7 +27,6 @@ Things I do not offer:
 
 If you would like to meet, you can check the calendar below to see if there are any dates available. If you cannot find a free slot, you can also try to reach me and ask me anything via the social networks links at the bottom of this page. 
 
-
 <!-- Cal inline embed code begins -->
 <div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline"></div>
 <script type="text/javascript">
@@ -40,6 +39,6 @@ Cal("init", "individual-mentoring", {origin:"https://cal.com"});
 	layout: "month_view"
   });
 
-  Cal.ns["individual-mentoring"]("ui", {"styles":{"branding":{"brandColor":"#000000"}},"hideEventTypeDetails":true,"layout":"month_view"});
+  Cal.ns["individual-mentoring"]("ui", {"theme":"light","styles":{"branding":{"brandColor":"#000000"}},"hideEventTypeDetails":true,"layout":"month_view"});
   </script>
   <!-- Cal inline embed code ends -->
