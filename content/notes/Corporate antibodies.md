@@ -5,9 +5,8 @@ tags:
   - permanent-note
   - concept
   - change-management
+  - management
 ---
-
-![Corporate antibodies, created with ideogram 2.0](notes/attachments/corporate-antibodies-ideogram.png)
 
 The concept of *Internal Antibodies* first caught my attention while I was engrossed in the book, [Build: An Unorthodox Guide to Making Things Worth Making](literature-notes/Books/Build.%20An%20Unorthodox%20Guide%20to%20Making%20Things%20Worth%20Making.md). *Corporate Antibodies* are those individuals or factions within a company who actively oppose change or innovation. They function much like the antibodies in our bodies, fighting against foreign substances. Similarly, these corporate antibodies resist anything that threatens to disrupt the organization's status quo. They may do this by criticizing new ideas, constructing bureaucratic hurdles, fostering negativity and fear about proposed changes, or simply disregarding new proposals.
 
