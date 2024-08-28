@@ -32,12 +32,15 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [Internal Networking](notes/Internal%20Networking.md)
 - [Explaining AI-infused products](notes/Explaining%20AI-infused%20products.md)
 - [Of innocents and criminals](notes/Of%20innocents%20and%20criminals.md)
+- [When Management Communication Techniques Enter Personal Life](notes/When%20Management%20Communication%20Techniques%20Enter%20Personal%20Life.md)
 
 ## Process manager
 - [Building to Forecast in Data Science](notes/Building%20to%20Forecast%20in%20Data%20Science.md)
 - [Data teamwork as a transport service](notes/Data%20teamwork%20as%20a%20transport%20service.md)
 - [Reversible and irreversible decision making](notes/Reversible%20and%20irreversible%20decision%20making.md)
 - [Make'em talk with prototypes](notes/Make'em%20talk%20with%20prototypes.md)
+- [Change Resistance as a Corporate Autoimmune Disease](notes/Change%20Resistance%20as%20a%20Corporate%20Autoimmune%20Disease.md)
+- [Fostering collaboration between teams](notes/Fostering%20collaboration%20between%20teams.md)
 
 ## Technical mentor and coach
 - [Be helpful](notes/Be%20helpful.md)
