@@ -9,7 +9,7 @@ tags:
 
 ![](notes/attachments/minor-threat-cover.png)
 
-Recently, my team has been engaged in projects that require data labeling, a task often perceived as mundane. However, I willingly take on this role for several reasons.
+Recently, my team has been engaged in Machine Learning projects that require data labeling, a task often perceived as mundane. However, I willingly take on this role for several reasons.
 
 Firstly, my schedule is typically filled with consecutive meetings, leaving me with brief 15 to 30-minute intervals in between. Instead of wasting this time, I use it to take notes from the previous meeting or prepare for the next one. More often than not though, I utilize these mini slots to decompress and clear my [headspace](notes/Headspace%20for%20managers.md) with tasks that don't demand intense mental effort - such as data labeling. 
 
