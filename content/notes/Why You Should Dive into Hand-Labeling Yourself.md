@@ -9,7 +9,7 @@ tags:
 
 ![](notes/attachments/minor-threat-cover.png)
 
-Recently, my team has been tackling Machine Learning projects with a unique challenge: no available training data. This situation has pushed our Data Science team into hand-labeling data—a task often viewed as tedious and unexciting. However, I've come to embrace this role for several compelling reasons.
+Recently, my team has been tackling Machine Learning projects with a unique challenge: no available training data. This situation has pushed our Data Science team into [hand-labeling data](notes/The%20Rise%20of%20the%20Dataset%20Engineer.md) —a task often viewed as tedious and unexciting. However, I've come to embrace this role for several compelling reasons.
 
 Firstly, my schedule is typically packed with back-to-back meetings, leaving me with brief 15 to 30-minute intervals in between. Rather than letting these moments slip away, I've found a productive use for them. While I sometimes use this time to jot down notes from the previous meeting or prepare for the next one, I often find myself turning to hand-labeling data. It's a task that doesn't demand intense mental effort, allowing me to decompress and clear my [headspace](notes/Headspace%20for%20managers.md).
 
