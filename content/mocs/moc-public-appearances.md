@@ -1,5 +1,8 @@
 ---
-title: "Public Appearances"
+title: Public Appearances
+tags:
+  - MOC
+  - speaking
 ---
 
 ## 2023
