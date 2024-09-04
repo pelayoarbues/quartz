@@ -37,7 +37,7 @@ Want to talk or need help with something? You can check my availability at [Offi
 ## Stuff I do
 
 - [Writing for learning](mocs/digital-garden.md)
-- [Talks, Interviews and Podcast participation](appearances/)
+- [Talks, Interviews and Podcast participation](mocs/moc-public-appearances.md)
 - [Research](research/)
 - [Photography](photography/index.md)
 
