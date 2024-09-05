@@ -1,6 +1,5 @@
 ---
 title: Management
-date: 20123-09-08
 tags:
   - MOC
   - management
@@ -42,8 +41,10 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [Change Resistance as a Corporate Autoimmune Disease](notes/Change%20Resistance%20as%20a%20Corporate%20Autoimmune%20Disease.md)
 - [Fostering collaboration between teams](notes/Fostering%20collaboration%20between%20teams.md)
 
+
 ## Technical mentor and coach
 - [Be helpful](notes/Be%20helpful.md)
+- [A Balanced Approach to Seeking Help](notes/A%20Balanced%20Approach%20to%20Seeking%20Help.md)
 - [Taming Impostor Syndrome](notes/Taming%20Impostor%20Syndrome.md)
 - [First solo data scientist](notes/First%20solo%20data%20scientist.md)
 - [Dopamine rush](notes/Dopamine%20rush.md)
