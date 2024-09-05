@@ -66,11 +66,6 @@ export const defaultContentPageLayout: PageLayout = {
         },
       })
     ),
-  ],
-  right: [
-    Component.Graph(),
-    Component.Backlinks(),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Recent Notes",
@@ -83,6 +78,11 @@ export const defaultContentPageLayout: PageLayout = {
         linkToMore: "notes/" as SimpleSlug,
       }),
     ),
+  ],
+  right: [
+    Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Now Reading",
