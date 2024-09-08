@@ -4,33 +4,13 @@ tags:
 - MOC
 ---
 
-Hi folks!
+Hi, I'm Pelayo Arbués: Data Leader & Problem Solver
 
-I'm Pelayo Arbués, currently based in Gijón and Madrid, Spain, and I'm the Head of Data Science at [idealista](https://www.idealista.com/), the leading real estate online marketplace in Southern Europe. With 8 years of experience in the industry, I am known for being able to effectively incorporate advanced analytics in products and for increasing awareness of the practical application of data science. 
+I'm the Head of Data Science at idealista, Southern Europe's leading real estate online marketplace. With a Ph.D. in Transport Economics and 9 years of industry experience, I bring a unique blend of academic rigor and practical know-how to the world of data science and management.
 
-```mermaid
-timeline
-    title My career timeline
-    section Academia
-	    2007 : Researcher
-	    2010 : Ph.D. thesis
-	    2013 : Researcher
-	section Private Sector
-    2015 : 1st solo Data Scientist at Weplan
-    2016 : DS Consultant at BBVA Next
-    2018 : Lead Data Scientist at idealista/data
-    2020 : Head of Data Science at idealista
-    
-```
+I'm passionate about bridging the gap between complex technical concepts and real-world applications. Whether I'm developing ML-infused systems, building high-performance teams, or teaching the next generation of data scientists, my goal is always the same: to harness the power of data to solve human challenges and drive innovation.
 
-
-My academic background is in Economics, with a Ph.D. in Transport Economics and Regional Science. I worked as a [researcher](research/) in academia for 7 years and held past positions as a Senior Data Scientist at BBVA Next and Lead Data Scientist at Weplan.
-
-I'm passionate about problem-solving and love being a [manager](mocs/moc-management.md) because it allows me to tackle various challenges related to strategy, processes, and people. My proudest [achievements](notes/My%20failure%20resume.md) include developing a recommender system with a small team at a large retail company and raising a high-performance team at idealista.
-
-My biggest dream is to apply my skills and experience to help address human challenges, and I aspire to be known for leading a team that works with high ethics and can deliver outstanding solutions.
-
-Outside of work, my hobbies include taking [analog photos](photography/index.md), reading, and spending quality time with my family. I love [learning](literature-notes/index.md) about creative processes, management, and philosophy. You can learn more about my [current priorities](mocs/now.md).
+If you are still curious about my background you may check out my full [Bio](mocs/Bio.md).
 
 Want to talk or need help with something? You can check my availability at [Office hours](notes/Office%20hours.md). 
 
@@ -41,4 +21,7 @@ Want to talk or need help with something? You can check my availability at [Offi
 - [Research](research/)
 - [Photography](photography/index.md)
 
+You can learn more about my [current priorities](mocs/now.md).
+
+---
 If you're interested in understanding how Artificial Intelligence is employed on this site, please check my [/ai page](mocs/ai.md).
