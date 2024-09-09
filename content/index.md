@@ -6,9 +6,9 @@ tags:
 
 Hi, I'm Pelayo Arbués
 
-I'm the Head of Data Science at idealista, Southern Europe's leading real estate online marketplace. With a Ph.D. in Transport Economics and 9 years of industry experience, I bring a unique blend of academic rigor and practical know-how to the world of data science and management.
+I'm the Head of Data Science at [idealista](www.idealista.com), Southern Europe's leading real estate online marketplace. With a Ph.D. in Economics and 9 years of industry experience, I bring a unique blend of academic rigor and practical know-how to the world of data science and management.
 
-I'm passionate about bridging the gap between complex technical concepts and real-world applications. Whether I'm developing ML-infused systems, building high-performance teams, or teaching the next generation of data scientists, my goal is always the same: to harness the power of data to solve human challenges and drive innovation.
+I'm passionate about bridging the gap between complex technical concepts and real-world applications. Whether I'm developing ML-infused systems, building high-performance teams, or teaching the next generation of AI innovators, my goal is always the same: to harness the power of data to solve human challenges and drive innovation.
 
 If you are still curious about my background you may check out my full [Bio](mocs/Bio.md).
 
