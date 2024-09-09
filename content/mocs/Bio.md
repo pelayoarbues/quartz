@@ -5,8 +5,6 @@ tags:
   - MOC
 ---
 
-I'm the Head of Data Science at idealista, Southern Europe's leading real estate online marketplace. Based in Gijón and Madrid, Spain, I bring more than 9 years of industry experience and a passion for incorporating advanced analytics into products that make a difference.
-
 ```mermaid
 timeline
     title My career timeline
@@ -22,7 +20,7 @@ timeline
     
 ```
 
-My journey in Data Science began in Academia, where I earned my Ph.D. in Economics and spent 7 years as a researcher . Transitioning to the tech industry, I've held roles as a Senior Data Scientist at BBVA Next and Lead Data Scientist at Weplan before finding my home at idealista.
+My journey in Data Science began in Academia, where I earned my Ph.D. in Economics and spent 7 years as a researcher. Transitioning to the tech industry, I've held roles as a Senior Data Scientist at BBVA Next and Lead Data Scientist at Weplan before finding my home at idealista where I have worked as Lead Data Scientist and now as a Head of the Data Science initiative.
 
 I'm known for my [ability](notes/My%20failure%20resume.md) to bridge the gap between complex data science concepts and practical applications. I thrive on problem-solving and embrace the challenges of [management](mocs/moc-management.md), tackling everything from strategy and processes to people development.
 
@@ -31,7 +29,7 @@ I'm known for my [ability](notes/My%20failure%20resume.md) to bridge the gap bet
 Throughout my career, I've had the privilege of working on exciting projects. Some of my proudest moments include:
 
 - Developing a high-impact recommender system with a small team at a large retail company
-- Building and nurturing a high-performance data science team at idealista with a large economic impact on the organization.
+- Building and nurturing a high-performance data science team at idealista with a large economic impact on the organization through multiple innovation projects.
 
 Looking ahead, I'm driven by the goal of applying my skills to address human challenges on a broader scale. I aspire to be recognized for leading ethical, high-performing teams that delivers outstanding solutions.
 
@@ -39,10 +37,10 @@ Looking ahead, I'm driven by the goal of applying my skills to address human cha
 
 In addition to my role at idealista, I'm deeply committed to nurturing the next generation of Data professionals and sharing my knowledge with the broader community:
 
-- Mentor and Adjunct Professor at IE University
-- Instructor for the Master of Data Science program at The Valley Digital School
-- External teacher at Programa de Dirección y Cultura de Producto en Instituto Tramontana
-- Public speaker
+- Mentor and Adjunct Professor at [IE School of Science and Technology | SCI TECH](https://www.ie.edu/school-science-technology/)
+- Instructor for the Master of Data Science program at [The Valley | Business & Tech School](https://thevalley.es/)
+- External teacher at [Dirección y cultura de Producto](https://www.tramontana.net/direccion-producto) en Instituto Tramontana
+- [Public speaking](mocs/moc-public-appearances.md)
 
 These teaching and mentoring roles allow me to stay at the cutting edge of data science education while contributing to the growth of our field. They also inform my practical work, keeping me connected to emerging trends and fresh perspectives in data science.
 
@@ -50,7 +48,7 @@ These teaching and mentoring roles allow me to stay at the cutting edge of data 
 
 When I'm not immersed in data and management, you can find me:
 
-- Capturing moments through the lens of my analog cameras
+- [Capturing mome](photography/index.md) through the lens of my analog cameras
 - Diving into books on creative processes, management, and philosophy
 - Spending quality time with my family
 
