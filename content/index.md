@@ -10,7 +10,7 @@ I'm the Head of Data Science at [idealista](www.idealista.com), Southern Europe'
 
 I'm passionate about bridging the gap between complex technical concepts and real-world applications. Whether I'm developing ML-infused systems, building high-performance teams, or teaching the next generation of AI innovators, my goal is always the same: to harness the power of data to solve human challenges and drive innovation.
 
-If you are still curious about my background you may check out my full [Bio](mocs/Bio.md).
+If you are still curious about my background you may check out my [full bio](mocs/Bio.md).
 
 Want to talk or need help with something? You can check my availability at [Office hours](notes/Office%20hours.md). 
 
