@@ -4,7 +4,7 @@ tags:
 - MOC
 ---
 
-Hi, I'm Pelayo Arbués: Data Leader & Problem Solver
+Hi, I'm Pelayo Arbués
 
 I'm the Head of Data Science at idealista, Southern Europe's leading real estate online marketplace. With a Ph.D. in Transport Economics and 9 years of industry experience, I bring a unique blend of academic rigor and practical know-how to the world of data science and management.
 
