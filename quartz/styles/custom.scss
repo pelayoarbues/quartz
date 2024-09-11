@@ -3,6 +3,7 @@
 // put your custom CSS here!
 a.internal {
     text-decoration: underline;
+    font-weight: lighter;
     color: var(--darkgray);
 
     &.tag-link {
@@ -30,3 +31,9 @@ h6,
 thead {
   font-weight: lighter; // Adjust the font weight to make it thinner
 }
+
+// Override page-title font weight
+.page-title {
+  font-weight: lighter; 
+}
+
