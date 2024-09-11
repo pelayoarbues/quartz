@@ -19,3 +19,14 @@ a.internal {
 .recent-notes a.internal {
     text-decoration: none; // Ensure internal links within RecentNotes are not underlined
   }
+
+// Custom styles for table headers
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+thead {
+  font-weight: lighter; // Adjust the font weight to make it thinner
+}
