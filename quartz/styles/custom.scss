@@ -4,13 +4,18 @@
 a.internal {
     text-decoration: underline;
     color: var(--darkgray);
-  
+
     &.tag-link {
-      text-decoration: none; // Ensure tag-link is not underlined
+        text-decoration: none; // Ensure tag-link is not underlined
     }
+    
   }
-  
-  // Custom styles for external links
+
   a.external {
     color: var(--darkgray);
+  }
+
+  // Override for internal links within RecentNotes component
+.recent-notes a.internal {
+    text-decoration: none; // Ensure internal links within RecentNotes are not underlined
   }
