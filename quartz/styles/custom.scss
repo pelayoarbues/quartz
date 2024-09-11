@@ -1,9 +1,13 @@
 @use "./base.scss";
 
+// Override page-title font weight
+.page-title {
+  font-weight: lighter;
+}
+
 // put your custom CSS here!
 a.internal {
     text-decoration: underline;
-    font-weight: lighter;
     color: var(--darkgray);
 
     &.tag-link {
@@ -21,6 +25,7 @@ a.internal {
     text-decoration: none; // Ensure internal links within RecentNotes are not underlined
   }
 
+
 // Custom styles for table headers
 h1,
 h2,
@@ -32,8 +37,4 @@ thead {
   font-weight: lighter; // Adjust the font weight to make it thinner
 }
 
-// Override page-title font weight
-.page-title {
-  font-weight: lighter; 
-}
 
