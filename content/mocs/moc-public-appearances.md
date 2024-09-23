@@ -6,6 +6,7 @@ tags:
 ---
 
 ## 2023
+- [Dive Data Sessions](appearances/2023/dive-data/Dive-data.md)
 - [Data Science al Descubierto](appearances/2023/mioti-ds-mitos/DS-al-descubierto.md)
 - [Inteligencia Artificial, smart cities y uso de datos](appearances/2023/luce-gijon/luce-gijon.md)
 - [De Economistas a Data Scientists](appearances/2023/de-economistas-a-ds/de-economistas-a-ds.md)
