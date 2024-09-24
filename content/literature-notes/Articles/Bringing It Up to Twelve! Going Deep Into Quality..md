@@ -6725,3 +6725,50 @@ tags:
   So, some people (including myself) made models specifically for the eyes. I made the Lora/LyCORIS named "Perfect Eyes" and I am really happy that those are still quite popular :)
   Initially, my suggestion was to use it in the base prompt with a lower weight (and it does work). And when ADetailer came up - to increase the weight there. ([View Highlight](https://read.readwise.io/read/01hvgz501a37xsjf9bjfaethv8))
     - Tags: [[favorite]] 
+---
+author: [[civitai.com]]
+title: "Bringing it up to Twelve! Going deep into Quality."
+date: 2024-09-24
+tags: 
+- articles
+- literature-note
+---
+![rw-book-cover](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f9276d76-769f-4e2f-93bc-67ad8fdb9068/width=1200/f9276d76-769f-4e2f-93bc-67ad8fdb9068.jpeg)
+
+## Metadata
+- Author: [[civitai.com]]
+- Full Title: Bringing it up to Twelve! Going deep into Quality.
+- URL: https://civitai.com/articles/3527/bringing-it-up-to-twelve-going-deep-into-quality
+
+## Highlights
+- Using multiple models to achieve better results
+  As you know I ventured also in the LoRA and later Embeddings territory. Initially, I was using purely solo LyCORIS models but during the time of the first article, I started mixing them to see what would be the result and was quite frankly stunned.
+  The results were pretty much better all over the board - not only I was achieving better likeness but also the results were more consistent.
+  I think the consistency had a better boost because in some cases I wasn't getting the best likeness but I was getting pretty much the same face all the time. ([View Highlight](https://read.readwise.io/read/01hvgz12txzjcfxd38876p9d47))
+- For those who want to skip the first article, the jist is: I was merging 2 LyCORIS at 0.65-0.7 weight each (around 1.5 sum), three LyCORIS at around 0.5 (again 1.5 sum) or even four at around 0.3 - 0.35 (sum of 1.2 - 1.4).
+  I was even finally able to get certain people that were very difficult to capture using this method (and my record was to use 6 models to achieve that, at various weights that summed up to around 1.5 in total).
+  Later I started adding some LoRAs to the mix and found out that they also work really nice. I've realized that there is an additional benefit of mixing them together. ([View Highlight](https://read.readwise.io/read/01hvgz159k93g0wr1amwv6qknc))
+- LoRAs are usually more stylized - they capture the likeness of a person but in a less photorealistic sense than a LyCORIS does. LyCORIS seems to get all the wrinkles, moles, and pores of the skin (sometimes even too much, as it was a frequent complaint of some).
+  But by mixing LoRA and LyCORIS we get the best of both worlds, we keep the likeness and the consistency and by playing with weights we can add or lose some wrinkles/pores depending on our needs. Do we want to make someone younger? We add some tokens about the age but also increase the weight of the LoRA instead of LyCORIS.
+  This on its own gives us a lot of flexibility, but this is not where we stop! There is something more that can be added, so of course I had to test it :) ([View Highlight](https://read.readwise.io/read/01hvgz1bqrt30qbz2dcjr8xcna))
+- I started experimenting with mixing all three together and the results were also spectacular. To be fair - you can get a really great likeness with just the LoRA/LyCORIS combination but adding Embeddings seems to be an easy win.
+  I was testing a bit and quickly figured out that a nice starting point is to include embedding at full weight, lycoris at 0.4, and Lora at 0.2 just like this: ([View Highlight](https://read.readwise.io/read/01hvgz1n9z5cxmchqk95bttv1r))
+    - Tags: [[favorite]] 
+- But like I said - you can use other models, so you could take an embedding made by someone else and boost the likeness of the subject by combining it with my models. ([View Highlight](https://read.readwise.io/read/01hvgz2rap4fpwwzayyfdrnxgm))
+- But there is a third reason. If you experimented with multiple loras then you know that adding more and more tends to introduce some weird artifacts. Even with only my models, if you get closer to the sum of 2 or go beyond - you will experience overtraining symptoms.
+  This is because you cannot add more and more loras infinitely. At some point, the whole thing will just collapse. You most likely have seen loras that are overtrained by default and you need to use them at very low weights otherwise they introduce too many artifacts or override stuff you do not want to change.
+  Some Loras work fine on their own but when you start adding other loras - they become unusable. ([View Highlight](https://read.readwise.io/read/01hvgz3ng90df2akmcw53e5m2p))
+- Here is where Embeddings shine: because you combine the Embeddings with other models, those other models require way lower weight strength (from 1.5 down to 0.6 in most of my examples). This means we make room for other, more difficult loras :)
+  To quickly summarize: using multiple models of the same concept improves the quality twofold: brings the likeness closer and makes the outputs more consistent. ([View Highlight](https://read.readwise.io/read/01hvgz3w2znbnpdprhxj472ach))
+- It is a well-known fact that when SD tries to generate faces far away - they are quite often unrecognizable. One could certainly train using datasets that have more images from far away but the results aren't impressive. ([View Highlight](https://read.readwise.io/read/01hvgz4a3xm0v3jzrtfnjedmdw))
+- There are at least three or four good common ways of fixing this issue, however:
+  1) Use some kind of upscaling with denoise. For A1111 it will be in most cases hi.res.fix (but there is also a script called loopback scaler which I hear is pretty great!)
+  Remember to increase the denoise the further away the person is and decrease it if the person is rather close.
+  2) Use ADetailer or inpainting (ADetailer is pretty much automatic inpainting). I love ADetailer as you can control quite a lot in there and get really good results with it. Remember that it is not always required and sometimes it is better not to use it. It will come with the experience.
+  3) ControlNet - this will help you if the models are fixated on the faces and you want different scenes/positions.
+  4) You can increase the base resolution a bit. We were taught that SD 1.5 is best at around 512 (and usually 512x768 or something like that). Well, on some models that were finetuned and/or merged with many other models - you can try a bit more without worrying about double heads. ([View Highlight](https://read.readwise.io/read/01hvgz4r6mnsncdsb26z2aycwc))
+- Originally people were using tokens like "perfect eyes", and "good iris" in positives and something like "bad eyes", and "deformed eyes" in negatives. That had little to no effect (I would even say it was more of a placebo).
+  Then we got the VAE and it worked wonders with the eyes (the quality was definitely improved). But we weren't there yet.
+  So, some people (including myself) made models specifically for the eyes. I made the Lora/LyCORIS named "Perfect Eyes" and I am really happy that those are still quite popular :)
+  Initially, my suggestion was to use it in the base prompt with a lower weight (and it does work). And when ADetailer came up - to increase the weight there. ([View Highlight](https://read.readwise.io/read/01hvgz501a37xsjf9bjfaethv8))
+    - Tags: [[favorite]] 
