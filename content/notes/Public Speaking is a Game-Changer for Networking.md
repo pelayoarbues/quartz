@@ -7,7 +7,7 @@ tags:
 ---
 ![Flux.1 dev generated image on replicate](notes/attachments/public-speaking-network.webp)
 
-During my [PhD](notes/10%20Years%20Later.%20Lessons%20from%20My%20PhD%20Experience.md), I attended numerous conferences. Some were purely for learning purposes, but often, as part of my training, I was required to present my ongoing research. This experience significantly improved [my public speaking skills]((mocs/moc-public-appearances.md)) and helped me realize that presenting in front of others is an excellent way to meet new people.
+During my [PhD](notes/10%20Years%20Later.%20Lessons%20from%20My%20PhD%20Experience.md), I attended numerous conferences. Some were purely for learning purposes, but often, as part of my training, I was required to present my ongoing research. This experience significantly improved [my public speaking skills](mocs/moc-public-appearances.md) and helped me realize that presenting in front of others is an excellent way to meet new people.
 
 Fast forward a few years to when I was living in Madrid. My university friend, [Alex Gonzalez](https://www.linkedin.com/in/alejandro-gonzalez-diez-9a610930/), would often introduce me to the trending meetups. Back in 2015, we attended [Machine Learning Spain](https://www.meetup.com/es-ES/machinelearningspain/) and R group [Grupo de Usuarios de R de Madrid](https://madrid.r-es.org/) along with Databeers. We particularly enjoyed [Databeers](https://www.tumblr.com/databeers); it had a great atmosphere and engaging talks. Through these events, we met many people - some of whom remain my friends today - and I've even had the opportunity to work with a few at different companies.
 
