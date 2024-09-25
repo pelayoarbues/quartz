@@ -5,6 +5,7 @@ tags:
   - permanent-note
   - career
 ---
+![Flux.1 dev generated image on replicate](notes/attachments/public-speaking-network.webp)
 
 During my [PhD](notes/10%20Years%20Later.%20Lessons%20from%20My%20PhD%20Experience.md), I attended numerous conferences. Some were purely for learning purposes, but often, as part of my training, I was required to present my ongoing research. This experience significantly improved [my public speaking skills]((mocs/moc-public-appearances.md)) and helped me realize that presenting in front of others is an excellent way to meet new people.
 
