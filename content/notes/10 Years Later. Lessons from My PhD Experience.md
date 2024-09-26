@@ -25,7 +25,7 @@ Tackling the fear of not knowing or feeling utterly incompetent is often the fir
 
 Earning a PhD involves solving complex problems that require intense focus (the so-called '[Deep Work](literature-notes/Books/Deep%20Work.md)'). However, alongside these demanding tasks are smaller, more mundane issues such as navigating bureaucratic paperwork or coordinating logistics for conference attendance. Balancing these 'shallow work' tasks with 'deep work' challenges is something I grapple with daily, especially since becoming a manager.
 
-Lastly, presenting papers at various conferences taught me about the power of public speaking. Standing in front of seasoned scholars forced me to adopt a  [Growth mindset](notes/Growth%20mindset.md) - learning quickly from my mistakes. It also revealed how public speaking can attract others to engage with you, which is an excellent way to expand your network.
+Lastly, presenting papers at various conferences taught me about the power of [public speaking](mocs/moc-public-appearances.md). Standing in front of seasoned scholars forced me to adopt a  [Growth mindset](notes/Growth%20mindset.md) - learning quickly from my mistakes. It also revealed how [public speaking can attract others to engage with you](notes/Public%20Speaking%20is%20a%20Game-Changer%20for%20Networking.md), which is an excellent way to expand your network.
 
 In conclusion, while it's difficult to quantify the exact value of pursuing a PhD when not continuing in research, it's clear that the journey has shaped me in significant ways. From developing patience and intuition to honing technical skills and public speaking abilities - each facet has contributed to my personal and professional growth in its own unique way.
 
