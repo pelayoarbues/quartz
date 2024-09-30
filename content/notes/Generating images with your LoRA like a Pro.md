@@ -5,6 +5,7 @@ tags:
   - permanent-note
   - stablediffusion
   - guide
+  - GenAI
 ---
 ![Generated using SD15](notes/attachments/madmen-inspired.png)
 

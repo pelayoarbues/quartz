@@ -5,6 +5,7 @@ tags:
   - permanent-note
   - stablediffusion
   - guide
+  - GenAI
 ---
 ![](notes/attachments/Pasted%20image%2020231006213341.png)
 

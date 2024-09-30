@@ -4,6 +4,7 @@ date: 2023-10-04
 tags:
   - permanent-note
   - stablediffusion
+  - GenAI
 ---
 
 Preparing a working environment with Pytorch should be straightforward nowadays, but it's not as simple when dealing with ARM64 chips on Apple Devices. I admit I took some shortcuts and didn't use Docker Images (which goes against what I advocate at work) because I couldn't find reliable image sources for Kohya and Automatic1111 with Apple Silicon backends.

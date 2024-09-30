@@ -4,6 +4,7 @@ date: 2023-10-05
 tags:
   - permanent-note
   - stablediffusion
+  - GenAI
 ---
 
 ![](notes/attachments/Pasted%20image%2020231005105602.png)
