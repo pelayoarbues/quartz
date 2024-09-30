@@ -8,7 +8,7 @@ tags:
 ---
 ![FLUX LoRA](notes/attachments/flux-lora.webp)
 
-A year ago, I shared a [workflow on how to train personal LoRAs](notes/Training%20a%20LoRa%20of%20your%20face%20with%20Stable%20Diffusion%201.5.md) ([Low-Rank Adaptation of LLMs](notes/LoRA.%20Low-Rank%20Adaptation%20of%20LLMs.md)) using Stable Diffusion 1.5 on my [MacBook Pro](notes/MacBook%20Pro%20preparation%20for%20SD%20training%20and%20inference.md). This time, I’ve trained LoRAs of myself using the [Replicate platform](www.replicate.com) because I’ve faced challenges getting FLUX.1-dev to work with [Apple Silicon chips](https://github.com/lllyasviel/stable-diffusion-webui-forge/issues/1103). While I hope to resolve this locally soon, let’s focus on training a FLUX.1-dev LoRA model using Replicate for now.
+A year ago, I shared a [workflow on how to train personal LoRAs](notes/Training%20a%20LoRa%20of%20your%20face%20with%20Stable%20Diffusion%201.5.md) ([Low-Rank Adaptation of LLMs](notes/LoRA.%20Low-Rank%20Adaptation%20of%20LLMs.md)) using Stable Diffusion 1.5 on my [MacBook Pro](notes/MacBook%20Pro%20preparation%20for%20SD%20training%20and%20inference.md). This time, I’ve trained LoRAs of myself using the [Replicate platform](https://www.replicate.com) because I’ve faced challenges getting FLUX.1-dev to work with [Apple Silicon chips](https://github.com/lllyasviel/stable-diffusion-webui-forge/issues/1103). While I hope to resolve this locally soon, let’s focus on training a FLUX.1-dev LoRA model using Replicate for now.
 
 Before diving into the how-to guide, I must express my surprise at the quality of FLUX-trained LoRAs. They closely match physical features in most cases and are flexible and easy to prompt—more so than those trained with Stable Diffusion 1.5. 
 
@@ -24,7 +24,7 @@ When using a smaller set of images, make sure to cover a broad range of shots, a
 
 ### Processing Images
 
-I found some conflicting advice on how to best prepare images for FLUX. However, I followed the mainstream recommendation to use square images. For Stable Diffusion 1.5, I resized and cropped the images to 512x512, but for FLUX, I doubled the resolution to 1024x1024, using the free online tool [Birme](https://www.birme.net/?target_width=1024&target_height=1024&image_format=jpeg&quality_jpeg=100)  to crop them.
+I found some conflicting advice on how to best prepare images for FLUX. However, I followed the mainstream recommendation to use square images. For Stable Diffusion 1.5, I resized and cropped the images to 512x512, but for FLUX, I doubled the resolution to 1024x1024, using the free online tool [Birme](https://www.birme.net/?target_width=1024&target_height=1024&image_format=jpeg&quality_jpeg=100) to crop them.
 
 ![Birme](notes/attachments/birme.webp)
 
