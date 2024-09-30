@@ -28,9 +28,7 @@ I found some conflicting advice on how to best prepare images for FLUX. However,
 
 ![Birme](notes/attachments/birme.webp)
 
-I haven’t tested other aspect ratios yet, but the documentation suggests no issue with varying aspect ratios:
-
-	“**You do not need to crop/resize your images.** The loader will automatically resize them and can handle varying aspect ratios.”
+I haven’t tested other aspect ratios yet, but the documentation suggests no issue with varying aspect ratios: *“You do not need to crop/resize your images. The loader will automatically resize them and can handle varying aspect ratios.”*
 
 Remember that the only supported formats are .jpg, .jpeg, and .png—so avoid using .webp files for now.
 ### Captioning
@@ -79,7 +77,7 @@ Replicate also offers a captioning option using the [Llava 1.5 model](https://ll
 
 Now, let’s dive into [how to train the LoRA using Replicate’s scripts](https://replicate.com/blog/fine-tune-flux). These scripts are based on the [ai-toolkit](https://github.com/ostris/ai-toolkit) project by [@ostris](https://github.com/ostris), which has a well-written README for easy guidance.
 
-I’ve conducted several experiments varying the number of images, training steps, and captions. For a quite succesful experiment I have used the following params.
+I’ve conducted several experiments varying the number of images, training steps, and captions. For a quite successful experiment I have used the following params.
 
 > [!tip]- Input Hyperparameters 
 > ```json
@@ -138,10 +136,11 @@ Let me share a couple of examples:
 ![](notes/attachments/thug-suit-2.webp)
 > [!tip]- Prompt 
 > ```md 
-An analog portrait of a 40-year-old Pelarbues man, with short hair and a trimmed beard, dressed in formal attire. He wears a collared white shirt, black necktie, black vest, and a black suit jacket. A stylish hat tops his look as he gazes thoughtfully downward. His hands rest casually in his pockets, enhancing his composed and elegant demeanor. The low-key lighting casts soft shadows against a gray studio background, and the visible film grain adds a timeless, classic feel to this upper-body shot
+> An analog portrait of a 40-year-old Pelarbues man, with short hair and a trimmed beard, dressed in formal attire. He wears a collared white shirt, black necktie, black vest, and a black suit jacket. A stylish hat tops his look as he gazes thoughtfully downward. His hands rest casually in his pockets, enhancing his composed and elegant demeanor. The low-key lighting casts soft shadows against a gray studio background, and the visible film grain adds a timeless, classic feel to this upper-body shot
 > ```
 
 Here are some adjustments I make during inference:
+- Put trigger word at the beginning of the prompt. 
 - **Number of inference steps**: I typically use at least 35 steps to ensure quality output.
 - **Guidance scale**: I prefer to set it between 2.5 and 3 for the diffusion process. A lower value tends to produce more realistic images.
 - **Seed management**: Sometimes, the LoRA may generate images that don’t resemble the subject. In those instances, I save combinations of the prompt, parameters, and seed to refine and explore the latent space.
