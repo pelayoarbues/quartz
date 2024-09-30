@@ -8,6 +8,10 @@ tags:
 ---
 ![](notes/attachments/Pasted%20image%2020231006213341.png)
 
+>[!info]
+> Check out the newer post on how to train a LoRA using FLUX.1-Dev.
+> [Training a Personal LoRA on Replicate Using FLUX.1-dev](notes/Training%20a%20Personal%20LoRA%20on%20Replicate%20Using%20FLUX.1-dev.md)
+
 In these notes, I am sharing my current workflow for using LoRas to generate images of [myself and my loved ones](https://www.instagram.com/mygenerativefamily/). The goal is to offer practical insights into what works best and areas that need improvement. 
 
 This post is intended not only as a reference for my future self but also as a knowledge-sharing platform for my colleagues. We all have some working knowledge about Diffusion, Attention Mechanisms, etc. If you need a refresher, I strongly recommend learning more about [Stable Diffusion technicalities](notes/Stable%20Diffusion%20technicalities.md). 
