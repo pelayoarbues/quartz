@@ -20,7 +20,7 @@ Before diving into the how-to guide, I must express my surprise at the quality o
 
 FLUX LoRAs seem to require fewer images for effective learning. For this project, I experimented with 25–27 images for myself and Violeta, whereas for Stable Diffusion 1.5, I used 70 and 200 images, respectively.
 
-When using a smaller set of images, make sure to cover a broad range of shots, angles, poses, and expressions. This variety is essential for the model to learn your core facial and body structure effectively.
+When using a smaller set of images, make sure to cover a broad range of shots, angles, poses, and expressions. This variety is essential for the model to learn your core facial and body structure effectively. For further guidance on how to sample the data, check the previous post: [[Training a LoRa of your face with Stable Diffusion 1.5]].
 
 ### Processing Images
 
@@ -143,7 +143,7 @@ Here are some adjustments I make during inference:
 - Put trigger word at the beginning of the prompt. 
 - **Number of inference steps**: I typically use at least 35 steps to ensure quality output.
 - **Guidance scale**: I prefer to set it between 2.5 and 3 for the diffusion process. A lower value tends to produce more realistic images.
-- **Seed management**: Sometimes, the LoRA may generate images that don’t resemble the subject. In those instances, I save combinations of the prompt, parameters, and seed to refine and explore the latent space.
+- **Seed management**: Sometimes, the LoRA may generate images that don’t resemble the subject. In those instances it yields good images, I save combinations of the prompt, parameters, and seed to refine and explore the latent space.
 - **Combining LoRAs**: One of the great features of Stable Diffusion models is the ability to combine base models with additional LoRAs to enhance styles, artistic techniques, or poses. When mixing my personal LoRAs with others from platforms like [Civitai](https://civitai.com/), I aim to keep their combined strength around 1.2. For example, I’ll use 0.9 for the personal LoRA and 0.15–0.25 for the complementary one, adjusting based on how I want to balance concepts.
 
 That’s all for now! I’m looking forward to applying these LoRAs in more complex workflows using tools like Automatic1111, Forge, or ComfyUI. Currently, the only post-processing I’m doing is some upscaling with the excellent tool provided by [magnific.ai](https://magnific.ai/). However, setting up a fully functional environment that offers an experience as smooth as Replicate’s playground will be the next step.
