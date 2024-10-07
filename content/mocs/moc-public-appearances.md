@@ -4,7 +4,8 @@ tags:
   - MOC
   - speaking
 ---
-
+## 2024
+- [No public speaking in 2024](notes/No%20public%20speaking%20in%202024.md)
 ## 2023
 - [Dive Data Sessions](appearances/2023/dive-data/Dive-data.md)
 - [Data Science al Descubierto](appearances/2023/mioti-ds-mitos/DS-al-descubierto.md)
