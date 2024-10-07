@@ -1,14 +1,12 @@
 ---
 title: No public speaking in 2024
-date: 2024-09-04
+date: 2024-09-06
 tags:
   - permanent-note
   - speaking
   - career
 ---
-
-
-
+![Tertulianos chanantes](notes/attachments/tertulianos.webp)
 
 In 2023, I grew tired of public speaking. Over the past few years, I’ve participated in more than [20 talks, podcasts, and panel discussions](mocs/moc-public-appearances.md), not to mention countless presentations within my company. It’s been a great way to [meet interesting people](notes/Public%20Speaking%20is%20a%20Game-Changer%20for%20Networking.md) and push my communication skills further.
 
