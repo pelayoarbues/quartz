@@ -18,7 +18,7 @@ tags:
 - [Enel Ninja Talk](appearances/2022/enel-ninja-talk/Enel%20Ninja%20Talk.md)
 - [Nuclio Data Science Sin Humo](appearances/2022/nuclio-data-science-sin-humo/Nuclio%20Data%20Science%20Sin%20Humo.md)
 - [Datos Cruzados](appearances/2022/Cruzando-datos-2022/Datos%20Cruzados.md)
-- [ML en modelos hedónicos de valoración inmobiliaria](appearances/2022/BdE-2022/ML%20en%20modelos%20hedónicos%20de%20valoración%20inmobiliaria.md)
+- [ML en modelos hedonicos de valoracion inmobiliaria](appearances/2022/BdE-2022/ML%20en%20modelos%20hedonicos%20de%20valoracion%20inmobiliaria.md)
 - [Using location Data to create amazing user experiences online](appearances/2022/geoawesomeness/Using%20location%20Data%20to%20create%20amazing%20user%20experiences%20online.md)
 - [EPI Gijon](appearances/2022/epi-gijon-lecciones-aprendidas/EPI%20Gijon.md)
 
