@@ -1,6 +1,6 @@
 ---
 title: No public speaking in 2024
-date: 2024-09-06
+date: 2024-10-06
 tags:
   - permanent-note
   - speaking
