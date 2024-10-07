@@ -18,7 +18,7 @@ Want to talk or need help with something? You can check my availability at [Offi
 
 - [Writing for learning](mocs/digital-garden.md)
 - [Talks, Interviews and Podcast participation](mocs/moc-public-appearances.md)
-- [Research](research/)
+- [Research](mocs/moc-research.md)
 - [Photography](photography/index.md)
 
 You can learn more about my [current priorities](mocs/now.md).
