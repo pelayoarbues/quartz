@@ -6,11 +6,13 @@ tags:
   - speaking
   - career
 ---
-![Tertulianos chanantes](notes/attachments/tertulianos.webp)
+![Empty stage generated with Mystic v2 by Magnific](notes/attachments/empty-stage.webp)
 
 In 2023, I grew tired of public speaking. Over the past few years, I’ve participated in more than [20 talks, podcasts, and panel discussions](mocs/moc-public-appearances.md), not to mention countless presentations within my company. It’s been a great way to [meet interesting people](notes/Public%20Speaking%20is%20a%20Game-Changer%20for%20Networking.md) and push my communication skills further. But after all those experiences, I started to question what I was really getting out of it.
 
 In fact, I wouldn’t say I grew tired of public speaking itself. I grew tired of hearing my own voice repeating the same ideas. The main issue with speaking is that it becomes too easy. Don’t get me wrong—I know it’s hard work, and most of us struggle to become even decent at it. But it’s easy to slip into the TV pundit persona.
+
+![Tertulianos chanantes](notes/attachments/tertulianos.webp)
 
 I’ve always promoted the idea that data science is a team sport: it’s business-oriented and more about tackling messy data than relying on fancy algorithms. For years, I refined those messages, but I began to notice that while speaking at events, I was saying things without fully thinking them through. When speaking into a microphone, it’s common to receive a question and respond with whatever comes to mind first. For example, I often get asked if AI will take our jobs. My usual response is that AI will automate tasks, not jobs. But how often have I revisited that idea? The answer that comes out usually isn’t all that original—it’s something I’ve said before. Maybe that’s because I’m consistent in my opinions, but more likely, it’s because I haven’t revisited my beliefs often enough. Changing your mind while on stage is hard. But keeping my ideas fixed and repeating them is the least appealing thing I can do.
 
