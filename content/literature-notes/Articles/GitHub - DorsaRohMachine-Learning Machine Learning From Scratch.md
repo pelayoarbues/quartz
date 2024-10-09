@@ -1,5 +1,5 @@
 ---
-author: [[https://github.com/DorsaRoh/]]
+author: [[DorsaRoh]]
 title: "GitHub - DorsaRoh/Machine-Learning: Machine Learning From Scratch"
 date: 2024-10-09
 tags: 
@@ -9,7 +9,7 @@ tags:
 ![rw-book-cover](https://opengraph.githubassets.com/29bf18668b4d740994e459a7d986a50ccc5d0e35ecde180ce65ecdd7d8e0b84c/DorsaRoh/Machine-Learning)
 
 ## Metadata
-- Author: [[https://github.com/DorsaRoh/]]
+- Author: [[DorsaRoh]]
 - Full Title: GitHub - DorsaRoh/Machine-Learning: Machine Learning From Scratch
 - URL: https://github.com/DorsaRoh/Machine-Learning#readme
 
