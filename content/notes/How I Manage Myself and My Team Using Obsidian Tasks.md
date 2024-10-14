@@ -6,9 +6,11 @@ tags:
   - productivity
   - management
 ---
+![Lo-fi inspired image created on Mystic v2 by Maginific](notes/attachments/tasks-desktop.webp)
+
 Tracking my work, and my team’s, can sometimes be difficult. At work, we use internal tools to report project progress and pending tasks. These tools help manage user stories and other similar items. However, I find them excessive for remembering smaller tasks. For example, I might need to send an email, talk to a manager about a project, or schedule a meeting—simple, mundane tasks I don’t want to forget but don’t warrant a formal ticket. Opening a ticket in the system takes too long for individual tasks like these, and sharing them within the system doesn’t make sense.
 
-I rely heavily on paper. Since 2017, I’ve used dotted Leuchtturm1917 notebooks in a [Bullet Journal](https://bulletjournal.com/) style. I prefer to take notes by hand, especially during face-to-face meetings. However, since shifting to remote work, writing on paper has become less convenient. It’s harder to look at notes and stay engaged on a video call. Also, while bullet journaling worked well when I only tracked my own tasks, it became inefficient when I started managing multiple initiatives. I found myself spending too much time processing notes and searching for uncompleted tasks.
+[I rely heavily on paper](mocs/ai.md). Since 2017, I’ve used dotted [Leuchtturm1917 notebooks](https://leuchtturm1917shop.es/libretas/3-361-libreta-coleccion-general#/5-pautado-puntos/9-tapa-tapa_dura/13-tamano-a5_medium/17-color-negro) in a [Bullet Journal](https://bulletjournal.com/) style. I prefer to take notes by hand, especially during face-to-face meetings. However, since shifting to remote work, writing on paper has become less convenient. It’s harder to look at notes and stay engaged on a video call. Also, while bullet journaling worked well when I only tracked my own tasks, it became inefficient when I started managing multiple initiatives. I found myself spending too much time processing notes and searching for uncompleted tasks.
 
 Over the past few years, I’ve leaned more on [Obsidian](https://obsidian.md/) for writing, [publishing my blog](notes/My%20workflow%20for%20my%20public%20second%20brain.md), and also tracking tasks. The [Tasks plugin](https://publish.obsidian.md/tasks/Introduction) fits perfectly into my workflow. Tools like Todoist or Trello could also work, but Obsidian Tasks integrates seamlessly with how I already use Obsidian. Here’s how I use it.
 
