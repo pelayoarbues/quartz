@@ -8,7 +8,7 @@ tags:
 ---
 ![Midjourney 5.2 Prompt: a manager seats down on her office desk surrounded by clocks on the wall by Ted McKeever --ar 3:2](notes/attachments/management-seat-time.png)
 
-Unlike data science, where acquiring knowledge can bridge skill gaps, I've discovered that in management, the path to improvement isn't solely paved with books and courses. Instead, it's the  [daily practice](literature-notes/Articles/Managing%20the%20First%20Year.md) of managerial tasks that truly refines one's skills. In this journey, one continually confronts the boundaries of courage and patience.
+Unlike data science, where acquiring knowledge can bridge skill gaps, I've discovered that in [management](mocs/moc-management.md), the path to improvement isn't solely paved with books and courses. Instead, it's the  [daily practice](literature-notes/Articles/Managing%20the%20First%20Year.md) of managerial [tasks](notes/How%20I%20Manage%20Myself%20and%20My%20Team%20Using%20Obsidian%20Tasks.md) that truly refines one's skills. In this journey, one continually confronts the boundaries of courage and patience.
 
 For me, [Management Seat Time](literature-notes/Articles/Management%20Seat%20Time.md) has become synonymous with the experiential learning required for effective management. No amount of reading or theoretical pondering can substitute for the lessons gained through hands-on experience. It's a process intricately tied to self-awareness and introspection. Having mentors and a supportive boss can expedite the learning curve and help avoid common pitfalls. However, time remains an indispensable element of this developmental process, as there are no shortcuts. You must learn the craft by doing it.
 

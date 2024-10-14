@@ -22,6 +22,7 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [Rock stars vs Superstars](notes/Rock%20stars%20vs%20Superstars.md)
 
 ## Project manager
+- [How I Manage Myself and My Team Using Obsidian Tasks](notes/How%20I%20Manage%20Myself%20and%20My%20Team%20Using%20Obsidian%20Tasks.md)
 - [No Data Product Management](notes/No%20Data%20Product%20Management.md)
 - [Agile for Data Science](notes/Agile%20for%20Data%20Science.md)
 - [Ideal data to solve a problem](notes/Ideal%20data%20to%20solve%20a%20problem.md)
