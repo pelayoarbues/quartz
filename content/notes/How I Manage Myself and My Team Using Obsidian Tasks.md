@@ -1,6 +1,6 @@
 ---
 title: How I Manage Myself and My Team Using Obsidian Tasks
-date: 2024-09-04
+date: 2024-10-14
 tags:
   - permanent-note
   - productivity
