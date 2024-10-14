@@ -46,3 +46,5 @@ tags:
   ● Meta followed up with Llama 3.2 in September, which incorporated 11B and 90B VLMs (Llama’s multimodal debut).
   The former was competitive with Claude 3 Haiku, the latter with GPT-4o-mini. The company also released 1B and 3B text-only models, designed to operate on-device.
   ● Llama-based models have now racked up over 440M downloads on Hugging Face. ([View Highlight](https://read.readwise.io/read/01j9xd16bwzj95d09cnjv06fxy))
+## New highlights added October 14, 2024 at 9:56 AM
+- With open source commanding considerable community support and becoming a hot button regulatory issue, some researchers have suggested that the term is often used misleadingly. It can be used to lump together vastly different openness practices across weights, datasets, licensing, and access methods. ([View Highlight](https://read.readwise.io/read/01ja4z92tsw8bz0bxrc3ddycqf))
