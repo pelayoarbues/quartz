@@ -7,7 +7,7 @@ tags:
 
 # A constellation of roles
 
-Management is a [constellation of roles](literature-notes/Articles/Managing%20the%20First%20Year.md). 
+Management is a [constellation of roles](literature-notes/Articles/Managing%20the%20First%20Year.md) , so I actively read a wide range of [management books](notes/Essential%20Books%20for%20New%20Managers%20in%20Tech.md) to tackle its many challenges.
 
 ## People manager
 
