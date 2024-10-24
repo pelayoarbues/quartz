@@ -9,9 +9,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      Twitter: "https://www.twitter.com/pelayoarbues",
+      Bluesky: "https://bsky.app/profile/pelayoarbues.com",
       Linkedin: "https://www.linkedin.com/in/pelayoarbues",
       Mastodon: "https://sigmoid.social/@pelayoarbues",
+      Twitter: "https://www.twitter.com/pelayoarbues",
       Unsplash: "https://unsplash.com/es/@pelayoarbues",
       GitHub: "https://github.com/pelayoarbues",
       RSS: "https://pelayoarbues.com/index.xml"
