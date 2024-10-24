@@ -10,11 +10,11 @@ I’m the Head of Data Science at [idealista](https://www.idealista.com), Southe
 
 I’m passionate about making advanced technical concepts accessible and applicable to real-world scenarios. Whether I’m developing machine learning systems, leading high-performance teams, or mentoring the next generation of AI experts, my mission is to leverage data to create impactful solutions and drive innovation.
 
-Curious about my professional journey? Explore [my full bio](#) to learn more.
+Curious about my professional journey? Explore [my full bio](mocs/Bio.md) to learn more.
 
 **Let’s Connect!**
 
-Check my availability for consultations or discussions during [Office Hours](#).
+Check my availability for consultations or discussions during [Office hours](notes/Office%20hours.md).
 
 ## What I’m Passionate About
 
