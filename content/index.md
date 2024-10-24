@@ -18,7 +18,7 @@ Check my availability for consultations or discussions during [Office Hours](#).
 
 ## What I’m Passionate About
 
-- [Writing for learning](mocs/digital-garden.md). I regularly publish articles that explore [moc-management](mocs/moc-management.md), data science, and how AI can be applied to solve real-world challenges.
+- [Writing for learning](mocs/digital-garden.md). I regularly publish articles that explore [management](mocs/moc-management.md), data science, and how AI can be applied to solve real-world challenges.
 - [Speaking Engagements](mocs/moc-public-appearances.md). I participate in talks, interviews, and podcasts, sharing insights on the future of AI and its practical applications.
 - [Research](mocs/moc-research.md). My research focuses on leveraging AI to address industry-specific problems, with a particular interest in spatial data science, machine learning, and the real estate market.
 - [Photography](photography/index.md). Capturing the world through analogue photography is my way of finding balance and inspiration.
