@@ -6,9 +6,9 @@ tags:
   - stablediffusion
   - GenAI
 ---
-![FLUX LoRA](notes/attachments/flux-lora.webp)
+![FLUX LoRA](flux-lora.webp)
 
-A year ago, I shared a [workflow on how to train personal LoRAs](notes/Training%20a%20LoRa%20of%20your%20face%20with%20Stable%20Diffusion%201.5.md) ([Low-Rank Adaptation of LLMs](notes/LoRA.%20Low-Rank%20Adaptation%20of%20LLMs.md)) using Stable Diffusion 1.5 on my [MacBook Pro](notes/MacBook%20Pro%20preparation%20for%20SD%20training%20and%20inference.md). This time, I’ve trained LoRAs of myself using the [Replicate platform](https://www.replicate.com) because I’ve faced challenges getting FLUX.1-dev to work with [Apple Silicon chips](https://github.com/lllyasviel/stable-diffusion-webui-forge/issues/1103). While I hope to resolve this locally soon, let’s focus on training a FLUX.1-dev LoRA model using Replicate for now.
+A year ago, I shared a [workflow on how to train personal LoRAs](Training%20a%20LoRa%20of%20your%20face%20with%20Stable%20Diffusion%201.5.md) ([Low-Rank Adaptation of LLMs](LoRA.%20Low-Rank%20Adaptation%20of%20LLMs.md)) using Stable Diffusion 1.5 on my [MacBook Pro](MacBook%20Pro%20preparation%20for%20SD%20training%20and%20inference.md). This time, I’ve trained LoRAs of myself using the [Replicate platform](https://www.replicate.com) because I’ve faced challenges getting FLUX.1-dev to work with [Apple Silicon chips](https://github.com/lllyasviel/stable-diffusion-webui-forge/issues/1103). While I hope to resolve this locally soon, let’s focus on training a FLUX.1-dev LoRA model using Replicate for now.
 
 Before diving into the how-to guide, I must express my surprise at the quality of FLUX-trained LoRAs. They closely match physical features in most cases and are flexible and easy to prompt—more so than those trained with Stable Diffusion 1.5. 
 
@@ -26,7 +26,7 @@ When using a smaller set of images, make sure to cover a broad range of shots, a
 
 I found some conflicting advice on how to best prepare images for FLUX. However, I followed the mainstream recommendation to use square images. For Stable Diffusion 1.5, I resized and cropped the images to 512x512, but for FLUX, I doubled the resolution to 1024x1024, using the free online tool [Birme](https://www.birme.net/?target_width=1024&target_height=1024&image_format=jpeg&quality_jpeg=100) to crop them.
 
-![Birme](notes/attachments/birme.webp)
+![Birme](birme.webp)
 
 I haven’t tested other aspect ratios yet, but the documentation suggests no issue with varying aspect ratios: *“You do not need to crop/resize your images. The loader will automatically resize them and can handle varying aspect ratios.”*
 
@@ -127,13 +127,13 @@ For my prompts, I aim to keep them quite detailed. I refine them using ChatGPT, 
 
 Let me share a couple of examples:
 
-![Hippy](notes/attachments/fockin-jipi-3.webp)
+![Hippy](fockin-jipi-3.webp)
 > [!tip]- Prompt 
 > ```md 
 > A captivating, photorealistic image with RAW quality, cinematic grain, and eye-catching light. The scene features an analog portrait of 37 year old pelarbues, short dark hair, short beard, from 1966, retro charm. He wears vibrant, psychedelic attire. Posing confidently in a lush green field, surrounded by colorful wildflowers, his smile and gaze exude an irresistible allure. This image perfectly captures the essence of 1960s counterculture, blending nostalgia with timeless beauty. The shoot features vibrant colors, hyper-detailed dynamic style
 > ```
 
-![](notes/attachments/thug-suit-2.webp)
+![](thug-suit-2.webp)
 > [!tip]- Prompt 
 > ```md 
 > An analog portrait of a 40-year-old Pelarbues man, with short hair and a trimmed beard, dressed in formal attire. He wears a collared white shirt, black necktie, black vest, and a black suit jacket. A stylish hat tops his look as he gazes thoughtfully downward. His hands rest casually in his pockets, enhancing his composed and elegant demeanor. The low-key lighting casts soft shadows against a gray studio background, and the visible film grain adds a timeless, classic feel to this upper-body shot

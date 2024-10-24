@@ -7,7 +7,7 @@ tags:
 - management
 ---
 
-After becoming a manager, I've realized that sometimes I genuinely miss the old days as an individual contributor. I try to [keep in shape](notes/Dont%20get%20too%20rusty.md) by doing some technical work, but not engaging in tech work daily (sometimes not even weekly) has helped me gain some perspective.
+After becoming a manager, I've realized that sometimes I genuinely miss the old days as an individual contributor. I try to [keep in shape](Dont%20get%20too%20rusty.md) by doing some technical work, but not engaging in tech work daily (sometimes not even weekly) has helped me gain some perspective.
 
 Most of us are drawn to the data profession because we love solving problems and enjoy learning new techniques or discovering new shiny libraries.
 

@@ -7,9 +7,9 @@ tags:
   - guide
   - GenAI
 ---
-![Generated using SD15](notes/attachments/madmen-inspired.png)
+![Generated using SD15](madmen-inspired.png)
 
-In a previous [post](notes/Training%20a%20LoRa%20of%20your%20face%20with%20Stable%20Diffusion%201.5.md), I explained how to train a LoRA using your own images. I also offered some tips on generating images. However, that was just the tip of the iceberg. 
+In a previous [post](Training%20a%20LoRa%20of%20your%20face%20with%20Stable%20Diffusion%201.5.md), I explained how to train a LoRA using your own images. I also offered some tips on generating images. However, that was just the tip of the iceberg. 
 
 My friend David noticed that the model struggled to follow certain instructions related to creating the "Mad Men" atmosphere I desired.
 

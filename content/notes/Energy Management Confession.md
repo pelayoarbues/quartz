@@ -8,7 +8,7 @@ tags:
 
 I am perpetually on a quest to optimize my workflow. The overarching objective is to work fewer hours while achieving superior results. 
 
-To maintain focus on what's crucial, I commence my day by reviewing my To-Do list. This is automatically generated in [Obsidian](notes/My%20workflow%20for%20my%20public%20second%20brain.md), taking the form of an Eisenhower matrix. Afterwards, I endeavor to structure my day around the meetings I'm expected to attend.
+To maintain focus on what's crucial, I commence my day by reviewing my To-Do list. This is automatically generated in [Obsidian](My%20workflow%20for%20my%20public%20second%20brain.md), taking the form of an Eisenhower matrix. Afterwards, I endeavor to structure my day around the meetings I'm expected to attend.
 
 > Here's a candid confession: Sometimes, I work on tasks that aren't important or urgent. Instead, I focus on activities that invigorate me.
 

@@ -22,7 +22,7 @@ timeline
 
 My journey in Data Science began in Academia, where I earned my Ph.D. in Economics and spent 7 years as a researcher. Transitioning to the tech industry, I've held roles as a Senior Data Scientist at BBVA Next and Lead Data Scientist at Weplan before finding my home at idealista where I have worked as Lead Data Scientist and now as a Head of the Data Science initiative.
 
-I'm known for my [ability](notes/My%20failure%20resume.md) to bridge the gap between complex data science concepts and practical applications. I thrive on problem-solving and embrace the challenges of [management](mocs/moc-management.md), tackling everything from strategy and processes to people development.
+I'm known for my [ability](My%20failure%20resume.md) to bridge the gap between complex data science concepts and practical applications. I thrive on problem-solving and embrace the challenges of [management](mocs/moc-management.md), tackling everything from strategy and processes to people development.
 
 ## My Achievements & Aspirations
 
@@ -65,7 +65,7 @@ My unique blend of academic research, industry experience, and leadership skills
 
 ## Let's Connect
 
-I love connecting with fellow data enthusiasts, problem solvers, and curious minds. [Feel free to reach out](notes/Office%20hours.md). Whether you want to discuss data science, management strategies, or swap book recommendations, I'm always up for a good conversation!
+I love connecting with fellow data enthusiasts, problem solvers, and curious minds. [Feel free to reach out](Office%20hours.md). Whether you want to discuss data science, management strategies, or swap book recommendations, I'm always up for a good conversation!
 
 
 

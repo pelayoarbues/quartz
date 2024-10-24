@@ -5,7 +5,7 @@ tags:
   - permanent-note
   - management
 ---
-![Image created using Flux.1 D](notes/attachments/flux-kommons.webp)
+![Image created using Flux.1 D](flux-kommons.webp)
 
 My friends at [Komons](https://komons.org/en) recently sought my advice on promoting collaboration between different organizations. They often undertake projects that require cooperation among NGOs, multidisciplinary freelancers, and other social actors. However, they frequently encounter challenges in getting these teams to work harmoniously together - a common issue faced by military task forces, large corporate organizations or multi-country projects.
 
@@ -15,7 +15,7 @@ In my discussion with the team at Komons, I outlined the following principles to
 
 1. Establishing a common purpose: Teams need to rally around a shared goal that transcends their individual interests and compels them to put their egos aside. This isn't an easy feat but it's achievable as evidenced by initiatives like [ARPA](https://en.wikipedia.org/wiki/DARPA) or plurinational military coalitions. The first step is defining why we are tackling these problems. This reason evolves into a vision which must be communicated effectively and consistently. Avoid under-communicating due to assumptions that everyone understands or because of preoccupation with daily operations. Framing the problem as if it were causing a mild crisis can catalyze collaboration and simplify communication.
 
-2. Creating a [Radical Candor](notes/Radical%20Candor%20and%20Crucial%20Conversations.md) culture: Complex problems require diverse perspectives which necessitate experts from various fields working together on the project. It's crucial to foster trust, reduce fear of conflict and promote constructive feedback in such multidisciplinary teams where ego clashes can occur.
+2. Creating a [Radical Candor](Radical%20Candor%20and%20Crucial%20Conversations.md) culture: Complex problems require diverse perspectives which necessitate experts from various fields working together on the project. It's crucial to foster trust, reduce fear of conflict and promote constructive feedback in such multidisciplinary teams where ego clashes can occur.
 
 3. Fostering a [Team of teams](literature-notes/Books/Team%20of%20teams.md) mindset: Successful teams are not just about individual talents but also about how team members interact with one another (as highlighted in [Creativity, Inc.](literature-notes/Books/Creativity,%20Inc..md)). Managers play an important role in assembling successful teams by placing the right people in the right roles and encouraging collaboration for collective success beyond individual capacities. When dealing with multiple teams, it's vital to establish a shared consciousness and decentralized power execution. Building trust between members and breaking silos by providing broader context to each team unit can help create these connections.
 

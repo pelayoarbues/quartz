@@ -5,13 +5,13 @@ tags:
   - permanent-note
   - communication
 ---
-![Abstract image created with SD15](notes/attachments/abstract-radical-candor.png)
+![Abstract image created with SD15](abstract-radical-candor.png)
 
 Recently, I've been immersing myself in the fascinating world of communication. More specifically, I've been engrossed in three captivating books: [Radical Candor. Be a Kick-Ass boss without losing your humanity](literature-notes/Books/Radical%20Candor%20Be%20a%20Kick-Ass%20Boss%20Without%20Losing%20Your%20Humanity.md), [Crucial Conversations. Tools for talking when stakes are high](literature-notes/Books/Crucial%20Conversations.%20Tools%20for%20Talking%20When%20Stakes%20Are%20High.md) and [How to Win Friends and influence people](literature-notes/Books/How%20to%20Win%20Friends%20and%20Influence%20People.md). In this post, I aim to meld the key takeaways from the first two books.
 
-Radical Candor emphasizes the importance of nurturing profound, [meaningful relationships with your team](notes/Mentoring%20as%20a%20form%20of%20leverage.md) by genuinely caring for them as individuals. This might seem like a no-brainer, but it's surprising how many leaders value their employees merely by their job performance rather than showing ==personal care==.
+Radical Candor emphasizes the importance of nurturing profound, [meaningful relationships with your team](Mentoring%20as%20a%20form%20of%20leverage.md) by genuinely caring for them as individuals. This might seem like a no-brainer, but it's surprising how many leaders value their employees merely by their job performance rather than showing ==personal care==.
 
-In both our personal and professional lives, we often encounter situations where [things aren't running as smoothly as we'd like](notes/My%20failure%20resume.md). Yet, we sometimes shy away from difficult conversations. This avoidance of criticism can lead to disastrous outcomes. The book introduces a second concept: ==challenging people== when their work falls short.
+In both our personal and professional lives, we often encounter situations where [things aren't running as smoothly as we'd like](My%20failure%20resume.md). Yet, we sometimes shy away from difficult conversations. This avoidance of criticism can lead to disastrous outcomes. The book introduces a second concept: ==challenging people== when their work falls short.
 
 In essence, radical candor is what unfolds when you care personally and challenge directly. For direct challenges, I found that Crucial Conversations provides more detailed guidance than Radical Candor does - offering helpful tips but lacking a systematic approach. Crucial Conversations delineates several key principles to assist individuals in navigating these pivotal discussions:
 
@@ -39,4 +39,4 @@ In essence, radical candor is what unfolds when you care personally and challeng
 **8. Start with the Heart—Again:**
    - The final principle reminds us to continually nurture the relationship during and after the conversation, reinforcing that long-term relationships matter more than short-term conflicts.
 
-These principles serve as a roadmap for individuals navigating challenging conversations, offering a structured approach that emphasizes empathy, clear communication, and a focus on mutual goals. Implementing these principles can lead to more effective dialogue, conflict resolution, and ultimately stronger relationships in both personal and professional spheres. And it may also increase your [Dopamine rush](notes/Dopamine%20rush.md) when done properly.
+These principles serve as a roadmap for individuals navigating challenging conversations, offering a structured approach that emphasizes empathy, clear communication, and a focus on mutual goals. Implementing these principles can lead to more effective dialogue, conflict resolution, and ultimately stronger relationships in both personal and professional spheres. And it may also increase your [Dopamine rush](Dopamine%20rush.md) when done properly.

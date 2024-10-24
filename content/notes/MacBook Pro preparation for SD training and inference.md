@@ -69,10 +69,10 @@ accelerate configuration saved at ~/.cache/huggingface/accelerate/default_config
 
 We're almost all set up. We still need to make a few changes in some lines of code to use MPS instead of CUDA. To do that, you have to replace `cuda` with `mps`, as explained at the end of [the post we've already reviewed](https://planaria-page.translate.goog/blog/?p=671&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).
 
-![](notes/attachments/Screenshot%202023-10-04%20at%2017.26.45.png)
-![](notes/attachments/Screenshot%202023-10-04%20at%2017.27.00.png)
-![](notes/attachments/Screenshot%202023-10-04%20at%2017.27.09.png)
-![](notes/attachments/Screenshot%202023-10-04%20at%2017.27.19.png)
+![](Screenshot%202023-10-04%20at%2017.26.45.png)
+![](Screenshot%202023-10-04%20at%2017.27.00.png)
+![](Screenshot%202023-10-04%20at%2017.27.09.png)
+![](Screenshot%202023-10-04%20at%2017.27.19.png)
 
 
 ## Automatic1111

@@ -6,7 +6,7 @@ tags:
   - LLMs
   - agents
 ---
-![A 16:9 image of an autonomous agent depicted as a sculpture in the style of Magdalena Abakanowicz. The sculpture has a humanoid shape with an abstract, textured surface, resembling the rough, organic forms characteristic of Abakanowicz's work. The figure stands in a contemplative pose, with a complex, woven appearance made of materials that suggest a blend of metal and natural fibers. The background is simple and neutral to highlight the sculpture, with subtle lighting that casts gentle shadows, emphasizing the textures and details of the figure. Created with Dalle3](notes/attachments/agent.webp)
+![A 16:9 image of an autonomous agent depicted as a sculpture in the style of Magdalena Abakanowicz. The sculpture has a humanoid shape with an abstract, textured surface, resembling the rough, organic forms characteristic of Abakanowicz's work. The figure stands in a contemplative pose, with a complex, woven appearance made of materials that suggest a blend of metal and natural fibers. The background is simple and neutral to highlight the sculpture, with subtle lighting that casts gentle shadows, emphasizing the textures and details of the figure. Created with Dalle3](agent.webp)
 
 >[!quote]
  > "Agentic just means LLMs that can call functions." - Hamel Husain

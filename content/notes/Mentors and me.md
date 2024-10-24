@@ -18,7 +18,7 @@ Both my supervisors, Jose and Matias, were not only instrumental in their financ
 
 In addition to these individuals, many others played crucial roles in the early stages of my career: Rosa Aza, Antonio Pinilla, Placido Rodriguez, Victor Fernandez, Piet Rietveld, Thomas de Graff, among others. Their generosity in sharing their experiences, knowledge, and advice with me directly impacted my growth as a professional.
 
-As you can see from my story, my mentors played a vital role in shaping my career during crucial moments. That's why I strongly believe in giving back and paying it forward by offering guidance to others. As such, I'm always open to speaking with strangers who may need support in their own career journeys. To make myself more available, I've established weekly [Office hours](notes/Office%20hours.md) where individuals can reach me with any questions or concerns they may have. Providing advice to those in need is something that I find both fulfilling and rewarding.
+As you can see from my story, my mentors played a vital role in shaping my career during crucial moments. That's why I strongly believe in giving back and paying it forward by offering guidance to others. As such, I'm always open to speaking with strangers who may need support in their own career journeys. To make myself more available, I've established weekly [Office hours](Office%20hours.md) where individuals can reach me with any questions or concerns they may have. Providing advice to those in need is something that I find both fulfilling and rewarding.
 
 
 

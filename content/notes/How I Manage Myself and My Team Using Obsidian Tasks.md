@@ -12,7 +12,7 @@ Tracking my work, and my team’s, can sometimes be difficult. At work, we use i
 
 [I rely heavily on paper](mocs/ai.md). Since 2017, I’ve used dotted [Leuchtturm1917 notebooks](https://leuchtturm1917shop.es/libretas/3-361-libreta-coleccion-general#/5-pautado-puntos/9-tapa-tapa_dura/13-tamano-a5_medium/17-color-negro) in a [Bullet Journal](https://bulletjournal.com/) style. I prefer to take notes by hand, especially during face-to-face meetings. However, since shifting to remote work, writing on paper has become less convenient. It’s harder to look at notes and stay engaged on a video call. Also, while bullet journaling worked well when I only tracked my own tasks, it became inefficient when I started managing multiple initiatives. I found myself spending too much time processing notes and searching for uncompleted tasks.
 
-Over the past few years, I’ve leaned more on [Obsidian](https://obsidian.md/) for writing, [publishing my blog](notes/My%20workflow%20for%20my%20public%20second%20brain.md), and also tracking tasks. The [Tasks plugin](https://publish.obsidian.md/tasks/Introduction) fits perfectly into my workflow. Tools like Todoist or Trello could also work, but Obsidian Tasks integrates seamlessly with how I already use Obsidian. Here’s how I use it.
+Over the past few years, I’ve leaned more on [Obsidian](https://obsidian.md/) for writing, [publishing my blog](My%20workflow%20for%20my%20public%20second%20brain.md), and also tracking tasks. The [Tasks plugin](https://publish.obsidian.md/tasks/Introduction) fits perfectly into my workflow. Tools like Todoist or Trello could also work, but Obsidian Tasks integrates seamlessly with how I already use Obsidian. Here’s how I use it.
 
 ## Obsidian tasks and Daily Notes
 
@@ -171,4 +171,4 @@ It helps me quickly see which tasks are related to John. This way, I can build a
 
 That’s the simple workflow I use to manage myself and others. It keeps me focused on important things and ensures I never miss deadlines.
 
-One final, and not-so-related, tip: Remember to set aside time for [headspace](notes/Headspace%20for%20managers.md) and learn to compartmentalize, especially after tough conversations.
+One final, and not-so-related, tip: Remember to set aside time for [headspace](Headspace%20for%20managers.md) and learn to compartmentalize, especially after tough conversations.

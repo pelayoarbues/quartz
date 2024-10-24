@@ -5,7 +5,7 @@ tags:
   - permanent-note
   - course
 ---
-![Course in Product Engineering by Escribano](notes/attachments/Screenshot%202024-02-27%20at%2009.49.18.png)
+![Course in Product Engineering by Escribano](Screenshot%202024-02-27%20at%2009.49.18.png)
 
 I just finished the Advanced Course in Product Engineering taught by [Javier Escribano](https://cursos.escuelaescribano.com/advanced-course-product-engineering). Here's a brief review of the course and my thoughts.
 
@@ -21,7 +21,7 @@ I just finished the Advanced Course in Product Engineering taught by [Javier Esc
 
 Product engineers contribute to **product vision, strategy, and decision-making** instead of merely executing tasks. This resonated with me, as I've always wondered why smart technical people aren't involved in these crucial aspects. I believe good engineers are highly analytical, solve problems effectively, and design cost-effective solutions – qualities valuable to the bigger picture.
 
-This course helped me structure [ideas](notes/Make'em%20talk%20with%20prototypes.md) and [intuitions](notes/No%20Data%20Product%20Management.md) I've already applied in my career and team. I encourage colleagues to focus on "why" rather than just "how," while incorporating lean processes and [ownership of projects](notes/Other%20People%20Problems.md). While I didn't learn entirely new things, the course provided a **formal framework** for my existing approach, enabling me to better communicate my expectations and collaborate with product roles and stakeholders.
+This course helped me structure [ideas](Make'em%20talk%20with%20prototypes.md) and [intuitions](No%20Data%20Product%20Management.md) I've already applied in my career and team. I encourage colleagues to focus on "why" rather than just "how," while incorporating lean processes and [ownership of projects](Other%20People%20Problems.md). While I didn't learn entirely new things, the course provided a **formal framework** for my existing approach, enabling me to better communicate my expectations and collaborate with product roles and stakeholders.
 
 ## Contents
 
@@ -51,7 +51,7 @@ The course comprises four modules:
 4. Project and Stakeholder Management:
 
 - Focuses on non-technical skills for better collaboration with colleagues and stakeholders.
-- Offers guidance for mid-to-senior engineers on project and [stakeholder management](notes/Internal%20Networking.md).
+- Offers guidance for mid-to-senior engineers on project and [stakeholder management](Internal%20Networking.md).
 - **I liked the proposed best practices for cross-team collaboration, which reminded me of the lessons in [Team of teams](literature-notes/Books/Team%20of%20teams.md)**
 
 ## Class Dynamics

@@ -11,7 +11,7 @@ tags:
 
 However, being a non-native English speaker, I lean on Artificial Intelligence models to refine my English style and rectify grammatical inaccuracies. Every suggestion they make is meticulously reviewed and either accepted or modified to ensure it aligns with my intentions.
 
-In addition to this, I tap into the power of [Artificial Intelligence for research purposes](notes/AI%20Enhanced%20Knowledge%20Management.md). This mainly involves retrieving concepts and sourcing resources when traditional methods fall short.
+In addition to this, I tap into the power of [Artificial Intelligence for research purposes](AI%20Enhanced%20Knowledge%20Management.md). This mainly involves retrieving concepts and sourcing resources when traditional methods fall short.
 
 In addition, some images are generated using various diffusion models. I usually include the model and prompt used for generation in the alt description.
 

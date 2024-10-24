@@ -8,9 +8,9 @@ tags:
 ---
 
 
-![Midjourney 5.2 Aaron Jasinski's painting depicting headspace --ar 3:2](notes/attachments/headspace.png)
+![Midjourney 5.2 Aaron Jasinski's painting depicting headspace --ar 3:2](headspace.png)
 
-Being a manager is fundamentally a juggling act, [constantly switching roles](mocs/moc-management.md). If you don't streamline your schedule, you risk being swamped by endless meetings and a plethora of [superficial tasks](notes/Energy%20Management%20Confession.md).
+Being a manager is fundamentally a juggling act, [constantly switching roles](mocs/moc-management.md). If you don't streamline your schedule, you risk being swamped by endless meetings and a plethora of [superficial tasks](Energy%20Management%20Confession.md).
 
 If your goal is for your team to significantly contribute to the growth of your company, you need ample time for deep work and strategic thinking. Problem-solving, even at middle management levels, typically demands that you've absorbed a wealth of information, grasped the balance of power within the company, and devoted sufficient time to understanding incentives and people's true desires.
 

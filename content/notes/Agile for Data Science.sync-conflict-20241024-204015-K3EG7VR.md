@@ -1,17 +1,17 @@
 ---
-title: "Agile for Data Science"
+title: Agile for Data Science
 date: 2022-03-28
-tags: 
-- writing
-- management
-- project-management
-- process
-- data
+tags:
+  - management
+  - project-management
+  - process
+  - data
+  - permanent-note
 ---
 
-My experience working with agile methodologies in Data Science projects is quite bitter. It did not work for small companies. Neither did it for the larger ones starting their journey in advanced analytics. In both environments, Data Scientists usually work on more than one project at a time (They can even be considered [floor sweepers](https://publish.obsidian.md/dr-mario/pages/%F0%9F%97%A3%EF%B8%8F+Down+with+Data+Science), but that is another story). In that situation, if a project running in agile has no fully dedicated team the whole system crumbles, but that is not specific to Data Science. 
+My experience working with agile methodologies in Data Science projects is quite bitter. It did not work for small companies. Neither did it for the larger ones starting their journey in advanced analytics. In both environments, Data Scientists usually work on [more than one project at a time](notes/How%20I%20Manage%20Myself%20and%20My%20Team%20Using%20Obsidian%20Tasks.md) (They can even be considered [floor sweepers](https://publish.obsidian.md/dr-mario/pages/%F0%9F%97%A3%EF%B8%8F+Down+with+Data+Science), but that is another story). In that situation, if a project running in agile has no fully dedicated team the whole system crumbles, but that is not specific to Data Science. 
 
-![](pelayo_workers_in_front_of_a_wall_full_of_post-it_in_an_office.png)
+![](notes/attachments/pelayo_workers_in_front_of_a_wall_full_of_post-it_in_an_office.png)
 
 In this writing, I follow this great [post by Eugene Yan](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/) to keep the discussion going. 
 

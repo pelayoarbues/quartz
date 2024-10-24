@@ -33,28 +33,28 @@ There are two levels:
 
 | Competence             | Name                                                                                                                                                              | Level       |
 |:---------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------- |:----------- |
-| Maths                  | [Linear Algebra](attachments/Data%20Science%20Fundamentals/Resources/Linear%20Algebra.md)                                                                 | Foundation  |
-| Maths                  | [Statistical Learning](attachments/Data%20Science%20Fundamentals/Resources/Statistical%20Learning.md)                                                     | Foundation  |
-| Maths                  | [Statistics 101 Probability](attachments/Data%20Science%20Fundamentals/Resources/Statistics%20101%20Probability.md)                                       | Foundation  |
-| Maths                  | [Numerical Optimization](attachments/Data%20Science%20Fundamentals/Resources/Numerical%20Optimization.md)                                           | Recommended |
-| Maths                  | [Time Series Analysis](attachments/Data%20Science%20Fundamentals/Resources/Time%20Series%20Analysis.md)                                                   | Recommended |
-| Maths                  | [Machine Learning 101](attachments/Data%20Science%20Fundamentals/Resources/Machine%20Learning%20101.md)                                                   | Recommended |
-| Communication          | [Communicate with impact](attachments/Data%20Science%20Fundamentals/Resources/Communicate%20with%20impact.md)                                             | Foundation  |
-| Communication          | [Technical Writing](attachments/Data%20Science%20Fundamentals/Resources/Technical%20Writing.md)                                                           | Foundation  |
-| Communication          | [Data Visualization](attachments/Data%20Science%20Fundamentals/Resources/Data%20Visualization.md)                                                         | Foundation  |
-| Data Science Workflow  | [Good Data Analysis](attachments/Data%20Science%20Fundamentals/Resources/Good%20Data%20Analysis.md)                                                       | Foundation  |
-| Data Science Workflow  | [The Data Science Process](attachments/Data%20Science%20Fundamentals/Resources/The%20Data%20Science%20Process.md)                                         | Foundation  |
-| Data Science Workflow  | [A B Testing](attachments/Data%20Science%20Fundamentals/Resources/A%20B%20Testing.md)                                                                     | Recommended |
-| Data Science Workflow  | [Causal Inference](attachments/Data%20Science%20Fundamentals/Resources/Causal%20Inference.md)                                                       | Recommended |                                                                    
-| Data Science Workflow  | [The Ultimate Guide to Deploying ML Models](attachments/Data%20Science%20Fundamentals/Resources/The%20Ultimate%20Guide%20to%20Deploying%20ML%20Models.md) | Recommended |
-| Data Science Workflow  | [Rules of ML](attachments/Data%20Science%20Fundamentals/Resources/Rules%20of%20ML.md)                                                                     | Recommended |
-| Tools of the Trade     | [SQL](attachments/Data%20Science%20Fundamentals/Resources/SQL.md)                                                                                         | Foundation  |
-| Tools of the Trade     | [Programming Language](attachments/Data%20Science%20Fundamentals/Resources/Programming%20Language.md)                                                     | Foundation  |
-| Tools of the Trade     | [Shell Script and others](attachments/Data%20Science%20Fundamentals/Resources/Shell%20Script%20and%20others.md)                                           | Foundation  |
-| Tools of the Trade     | [Git](attachments/Data%20Science%20Fundamentals/Resources/Git.md)                                                                                         | Foundation  |
-| Tools of the Trade     | [Introduction to Computer Science](attachments/Data%20Science%20Fundamentals/Resources/Introduction%20to%20Computer%20Science.md)                         | Recommended |
-| Business Understanding | [Oh Oh](attachments/Data%20Science%20Fundamentals/Resources/Oh%20Oh.md)                                                                                   | Foundation  |
-| Ethics                 | [Data Science Ethics](attachments/Data%20Science%20Fundamentals/Resources/Data%20Science%20Ethics.md)                                                     | Foundation  |
+| Maths                  | [Linear Algebra](Linear%20Algebra.md)                                                                 | Foundation  |
+| Maths                  | [Statistical Learning](Statistical%20Learning.md)                                                     | Foundation  |
+| Maths                  | [Statistics 101 Probability](Statistics%20101%20Probability.md)                                       | Foundation  |
+| Maths                  | [Numerical Optimization](Numerical%20Optimization.md)                                           | Recommended |
+| Maths                  | [Time Series Analysis](Time%20Series%20Analysis.md)                                                   | Recommended |
+| Maths                  | [Machine Learning 101](Machine%20Learning%20101.md)                                                   | Recommended |
+| Communication          | [Communicate with impact](Communicate%20with%20impact.md)                                             | Foundation  |
+| Communication          | [Technical Writing](Technical%20Writing.md)                                                           | Foundation  |
+| Communication          | [Data Visualization](Data%20Visualization.md)                                                         | Foundation  |
+| Data Science Workflow  | [Good Data Analysis](Good%20Data%20Analysis.md)                                                       | Foundation  |
+| Data Science Workflow  | [The Data Science Process](The%20Data%20Science%20Process.md)                                         | Foundation  |
+| Data Science Workflow  | [A B Testing](A%20B%20Testing.md)                                                                     | Recommended |
+| Data Science Workflow  | [Causal Inference](Causal%20Inference.md)                                                       | Recommended |                                                                    
+| Data Science Workflow  | [The Ultimate Guide to Deploying ML Models](The%20Ultimate%20Guide%20to%20Deploying%20ML%20Models.md) | Recommended |
+| Data Science Workflow  | [Rules of ML](Rules%20of%20ML.md)                                                                     | Recommended |
+| Tools of the Trade     | [SQL](SQL.md)                                                                                         | Foundation  |
+| Tools of the Trade     | [Programming Language](Programming%20Language.md)                                                     | Foundation  |
+| Tools of the Trade     | [Shell Script and others](Shell%20Script%20and%20others.md)                                           | Foundation  |
+| Tools of the Trade     | [Git](Git.md)                                                                                         | Foundation  |
+| Tools of the Trade     | [Introduction to Computer Science](Introduction%20to%20Computer%20Science.md)                         | Recommended |
+| Business Understanding | [Oh Oh](Oh%20Oh.md)                                                                                   | Foundation  |
+| Ethics                 | [Data Science Ethics](Data%20Science%20Ethics.md)                                                     | Foundation  |
 
 
 📫 If you have any suggestion do not hesitate to contact me via any social media linked at the bottom. 

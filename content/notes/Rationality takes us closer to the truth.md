@@ -6,7 +6,7 @@ tags:
 - philosophy
 ---
 
-Rationality involves the process of systematically [evaluating and revising our beliefs based on available evidence](notes/Bayesian%20reasoning.md)  to create a more accurate understanding of reality. It is an ongoing process that allows us to refine our understanding of the world and better align our beliefs with the actual state of affairs. When our beliefs accurately map onto reality, we are better equipped to make informed decisions and take appropriate actions to achieve our goals.
+Rationality involves the process of systematically [evaluating and revising our beliefs based on available evidence](Bayesian%20reasoning.md)  to create a more accurate understanding of reality. It is an ongoing process that allows us to refine our understanding of the world and better align our beliefs with the actual state of affairs. When our beliefs accurately map onto reality, we are better equipped to make informed decisions and take appropriate actions to achieve our goals.
 
 The value of rationality lies in its ability to help us avoid common cognitive biases that can lead to inaccurate beliefs and poor decision-making. By using evidence-based reasoning and critical thinking, rationality enables us to evaluate information in a systematic and objective way. We can weigh the evidence for and against a particular belief, and use that information to adjust our understanding of the world.
 

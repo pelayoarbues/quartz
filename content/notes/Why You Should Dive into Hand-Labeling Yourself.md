@@ -7,13 +7,13 @@ tags:
   - labeling
 ---
 
-![](notes/attachments/minor-threat-cover.png)
+![](minor-threat-cover.png)
 
-Recently, my team has been tackling Machine Learning projects with a unique challenge: no available training data. This situation has pushed our Data Science team into [hand-labeling data](notes/The%20Rise%20of%20the%20Dataset%20Engineer.md) —a task often viewed as tedious and unexciting. However, I've come to embrace this role for several compelling reasons.
+Recently, my team has been tackling Machine Learning projects with a unique challenge: no available training data. This situation has pushed our Data Science team into [hand-labeling data](The%20Rise%20of%20the%20Dataset%20Engineer.md) —a task often viewed as tedious and unexciting. However, I've come to embrace this role for several compelling reasons.
 
-Firstly, my schedule is typically packed with back-to-back meetings, leaving me with brief 15 to 30-minute intervals in between. Rather than letting these moments slip away, I've found a productive use for them. While I sometimes use this time to jot down notes from the previous meeting or prepare for the next one, I often find myself turning to hand-labeling data. It's a task that doesn't demand intense mental effort, allowing me to decompress and clear my [headspace](notes/Headspace%20for%20managers.md).
+Firstly, my schedule is typically packed with back-to-back meetings, leaving me with brief 15 to 30-minute intervals in between. Rather than letting these moments slip away, I've found a productive use for them. While I sometimes use this time to jot down notes from the previous meeting or prepare for the next one, I often find myself turning to hand-labeling data. It's a task that doesn't demand intense mental effort, allowing me to decompress and clear my [headspace](Headspace%20for%20managers.md).
 
-Another significant motivation is my desire to maximize my team's time and energy. Their focus should be laser-sharp on solving the project's core challenges. By taking on tasks like data labeling, I can help remove obstacles and lighten their workload—a trade-off I consider well worth my time. In the early stages of projects, we typically avoid involving external teams for data labeling. Instead, we prefer to create a small sample of [high-quality data](notes/Owl%20Drawing%20and%20Data%20Generation.md) to validate the project or build a robust evaluation dataset before relying on other labellers.
+Another significant motivation is my desire to maximize my team's time and energy. Their focus should be laser-sharp on solving the project's core challenges. By taking on tasks like data labeling, I can help remove obstacles and lighten their workload—a trade-off I consider well worth my time. In the early stages of projects, we typically avoid involving external teams for data labeling. Instead, we prefer to create a small sample of [high-quality data](Owl%20Drawing%20and%20Data%20Generation.md) to validate the project or build a robust evaluation dataset before relying on other labellers.
 
 However, the most compelling reason that draws me to hand-labeling data is the wealth of knowledge it provides. This hands-on experience offers invaluable insights into the complexity of the problem from a human perspective. Having led numerous Data Science projects, I've developed an intuitive sense of how human difficulty translates into challenges for automated systems.
 
