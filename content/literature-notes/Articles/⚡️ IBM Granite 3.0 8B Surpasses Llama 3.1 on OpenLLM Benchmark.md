@@ -19,3 +19,5 @@ tags:
   • Delivers 2x latency improvement through speculative decoding 
   • Processes enterprise tasks with <1B parameters using MoE architecture 
   • Supports 128K context window (upcoming) ([View Highlight](https://read.readwise.io/read/01jb049a8gnnjp2nn5ssjy1qzh))
+## New highlights added October 25, 2024 at 12:20 PM
+- Granite 3.0 8B achieves 37.6 score on OpenLLM Leaderboard, outperforming Llama 3.1 8B (37.3) and similar-sized Mistral/Meta models on RAG benchmarks. ([View Highlight](https://read.readwise.io/read/01jb1exa3hcmanf1d47z76s3qm))
