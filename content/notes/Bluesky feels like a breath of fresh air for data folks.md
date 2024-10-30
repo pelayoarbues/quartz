@@ -31,10 +31,11 @@ I might create more as I discover new groups, but many others have already put t
 - [Data People by Christian Minich](https://bsky.app/starter-pack-short/8TdEfdK) 
 - [Nice Data People by Arynn](https://go.bsky.app/T1SxhAe)
 - [Data Ladies  by Mariah](https://go.bsky.app/5388qNY)
-- [R-stats by Jeremy Allen](go.bsky.app/Ki7Pjp)
+- [R-stats by Jeremy Allen](https://go.bsky.app/Ki7PjpS)
 - [Statistics by Alex Hayes](https://bsky.app/starter-pack-short/7TBN5rX) 
 - [Cartographers by Dominic Royé](https://bsky.app/starter-pack-short/222AVDQ) 
 - [Data Engineers feed by Simon Späti](https://bsky.app/profile/did:plc:edglm4muiyzty2snc55ysuqx/lists/3l6zjwqkxeh2r)
+- [Google Deep Mind by Marc Lanctot](https://bsky.app/starter-pack-short/GZ4hZzu)
 - [Diversify's tech](https://go.bsky.app/DFvXfF5)
 - [Economists in Spanish by Santiago Sanchez-Pages](https://go.bsky.app/**8tkeVED**)
 - [Philosophy by Keith Wilson](https://go.bsky.app/kiKSKZ) .
