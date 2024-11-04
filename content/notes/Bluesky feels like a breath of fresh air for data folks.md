@@ -6,7 +6,7 @@ tags:
   - personal
   - social
 ---
-![](notes/bluesky.webp)
+![](notes/attachments/bluesky.webp)
 
 [Bluesky](https://bsky.app/profile/pelayoarbues.com) is a fresh horizon for data professionals, shining brightly in a way that sets it apart. For a closer look at what makes it so unique, check out [Counting Stuff, Randy Au’s blog](https://www.counting-stuff.com/data-twitter-is-having-a-moment-on-bluesky-right-now/). He shares insights on how Bluesky feels different from Twitter, Mastodon, and LinkedIn for data enthusiasts. Randy captures the unique energy and community spirit, but I’d like to share why Bluesky resonates with me personally.
 
@@ -26,6 +26,7 @@ I’m trying to contribute by curating welcome packs to help newcomers find inte
 - [AI and data people](https://go.bsky.app/7D4NApV), including ML specialists, data engineers, R users, and AI skeptics
 - [ML/AI researchers](https://go.bsky.app/gPKeHz) from top universities and companies
 - [Tech managers, VPs, and C-level leaders](https://go.bsky.app/J3W39y1)
+- [Hugging Face people](https://go.bsky.app/PTmCYsU)
 
 I might create more as I discover new groups, but many others have already put together great starter packs for:
 - [Data People by Christian Minich](https://bsky.app/starter-pack-short/8TdEfdK) 
