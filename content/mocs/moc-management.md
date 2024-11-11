@@ -43,6 +43,7 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 
 
 ## Technical mentor and coach
+- [Embracing Incompetence](notes/Embracing%20Incompetence.md)
 - [Public Speaking is a Game-Changer for Networking](Public%20Speaking%20is%20a%20Game-Changer%20for%20Networking.md)
 - [Be helpful](Be%20helpful.md)
 - [A Balanced Approach to Seeking Help](A%20Balanced%20Approach%20to%20Seeking%20Help.md)
