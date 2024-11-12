@@ -35,3 +35,9 @@ A new addition is the ability to create Agents and Tasks using yaml files.
 | Allocation Strategist | Resource allocation |
 
 The output will be a project plan with tasks/allocations and milestones with the people responsible. Eventually we will be able to push the project to Trello or Jira. 
+
+It uses gpt-4o-mini for reduced costs.
+
+It loads the agents and tasks with yaml files. For structured output it uses pydantic classes. 
+
+## Internal and external integrations
