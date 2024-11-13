@@ -57,3 +57,91 @@ Automates the progress report of a project
 | Data collector  | Understand project |             |
 | Project Analyst | Analyze progress   | Trello Tool |
 | Project Analyst | Compile report     |             |
+
+# Complex crew setups
+
+In this video the instructor shares how in this lesson we will talk about connecting multiple crews together using conditional logic, and when to pass information between crews. 
+
+ADD Screenshot of crews of agents
+
+Say you want to research on different topics, these could be done in parallel, as the multiple sources dont depend on each other. For instance on a company and in an industry. Then you want to do some analysis using data from both rsearchers, using context attribute. Then you can do a summary. In the final full report we might want to take into account all analysis and summarization. 
+
+Flows unlocks many use cases. Flows allows you to have crews and executing python code before, during or after crew running. 
+
+## Agentic sales pipeline
+
+![](literature-notes/Courses/attachments/types-of-crews.png)
+We will use flows to build and agentic sales pipleine. We are going to have lead information, enrich it, score it and then write an email for this lead.
+
+![](literature-notes/Courses/attachments/flows.png)
+
+We will be starting loading leads from a database with regular python. Then we weill use a Lead scoring crew. This crew will search information about this lead, is going to understand how to be scoring and how good of a match this is for the product and business youa are trying to sell them. Then we are going to save this data to another database which can be non-agentic python. Then we might want to have another crew devoted to write an email to the high scored leads. We will wrap all of this within a flow, that will go thorugh all the steps and it also has a state where it can store information that it can use during the flow execution or after the execution. The sales pipelines would be:
+- Research a potential lead
+- Score them given the person and company
+- If a qualified lead then a proper initial email
+
+We could create a diagram of this flow as follows:
+
+![](literature-notes/Courses/attachments/agentic-sales-flow%201.png)
+
+The lead scoring crew will pass a highly structured output for the high score leads so the email writing crew is able to draft and optimize an email for engagement. 
+
+Intro to flows. Two functions:
+- Listen
+- Start
+
+The start annotation will be the initial function, for instance pulling leads from a database. 
+
+Following the data fetching a new function for lead scoring will be listening to the fetch_leads start function. It also shows how the score_leads function is calling a kickoff_for_each of the fetched leads. The functions may also save information in a self.state variable. 
+
+```python
+from crewai import Flow
+from crewai.flow.flow import listen, start
+
+class SalesPipeline(Flow):
+    @start()
+    def fetch_leads(self):
+        # Pull our leads from the database
+        leads = [
+            {
+                "lead_data": {
+                    "name": "João Moura",
+                    "job_title": "Director of Engineering",
+                    "company": "Clearbit",
+                    "email": "joao@clearbit.com",
+                    "use_case": "Using AI Agent to do better data enrichment."
+                },
+            },
+        ]
+        return leads
+
+    @listen(fetch_leads)
+    def score_leads(self, leads):
+        scores = lead_scoring_crew.kickoff_for_each(leads)
+        self.state["score_crews_results"] = scores
+        return scores
+	#The following 2 functions will run in parallel
+	# We will store the scored leads and we will filter
+	# those above a 70 score
+    @listen(score_leads)
+    def store_leads_score(self, scores):
+        # Here we would store the scores in the database
+        return scores
+
+    @listen(score_leads)
+    def filter_leads(self, scores):
+        return [score for score in scores if score['lead_score'].score > 70]
+
+    @listen(filter_leads)
+    def write_email(self, leads):
+        scored_leads = [lead.to_dict() for lead in leads]
+        emails = email_writing_crew.kickoff_for_each(scored_leads)
+        return emails
+
+    @listen(write_email)
+    def send_email(self, emails):
+        # Here we would send the emails to the leads
+        return emails
+
+flow = SalesPipeline()
+```
