@@ -24,8 +24,9 @@ In just a few days on Bluesky, I’ve had more meaningful interactions than in t
 
 I’m trying to contribute by curating welcome packs to help newcomers find interesting people to follow. Bluesky lets users create lists, which offer a curated way to explore the community. At this early stage, these lists are a great resource to build a tailored feed. I’ve created a few starter packs: 
 - [AI and data people](https://go.bsky.app/7D4NApV), including ML specialists, data engineers, R users, and AI skeptics
-- [ML/AI researchers](https://go.bsky.app/gPKeHz) from top universities and companies
+- [Spanish Data & AI](https://go.bsky.app/V9JJHHC)
 - [Tech managers, VPs, and C-level leaders](https://go.bsky.app/J3W39y1)
+- [ML/AI researchers](https://go.bsky.app/gPKeHz) from top universities and companies
 - [Hugging Face people](https://go.bsky.app/PTmCYsU)
 
 I might create more as I discover new groups, but many others have already put together great starter packs for:
