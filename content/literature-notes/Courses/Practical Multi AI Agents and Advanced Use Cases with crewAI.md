@@ -148,3 +148,42 @@ flow = SalesPipeline()
 
 You can plot flows to understand the flow execution plan.
 
+For complex flows we may want to use annotations such as:
+- and_: Waits for two functions to finish before executing the other. 
+```python
+  @listen(and_(filter_leads, store_leads_score))
+  def log_leads(self, leads):
+    print(f"Leads: {leads}")
+```
+- router: it allows you to choose different paths for the flow, executing different functions for each path
+```python
+ @router(filter_leads, paths=["high", "medium", "low"])
+  def count_leads(self, scores):
+    if len(scores) > 10:
+      return 'high'
+    elif len(scores) > 5:
+      return 'medium'
+    else:
+      return 'low'
+
+  @listen('high')
+  def store_in_salesforce(self, leads):
+    return leads
+
+  @listen('medium')
+  def send_to_sales_team(self, leads):
+    return leads
+
+  @listen('low')
+  def write_email(self, leads):
+    scored_leads = [lead.to_dict() for lead in leads]
+    emails = email_writing_crew.kickoff_for_each(scored_leads)
+    return emails
+
+  @listen(write_email)
+  def send_email(self, emails):
+    # Here we would send the emails to the leads
+    return emails
+```
+
+## Performance optimization
