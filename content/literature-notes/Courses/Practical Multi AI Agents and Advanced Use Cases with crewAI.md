@@ -145,3 +145,6 @@ class SalesPipeline(Flow):
 
 flow = SalesPipeline()
 ```
+
+You can plot flows to understand the flow execution plan.
+
