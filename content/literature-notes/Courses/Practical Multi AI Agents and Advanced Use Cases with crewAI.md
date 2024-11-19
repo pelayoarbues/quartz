@@ -187,3 +187,7 @@ For complex flows we may want to use annotations such as:
 ```
 
 ## Performance optimization
+
+Favor speed or quality, but we aim for consistency. Speed usually comes from smaller models, that are cheaper to run. In terms of quality, we usually use more capable models such as GPT. 
+
+In any case, we need consistency of the system in terms of speed or quality. crewAI incorporates the test command that allows to use a Judge LLM to evaluate and get a final report of the agents, the tasks and the scores. 
