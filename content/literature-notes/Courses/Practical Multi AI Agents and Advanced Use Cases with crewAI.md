@@ -216,3 +216,26 @@ In this case, the crew will do:
 - Write a full final report on the analysis
 
 In this case it will be use GPT-4o as we need a powerful model to code and work. For the chart generation, it activates the allow_code_execution option. 
+
+```python
+chart_generation_agent = Agent(
+  config=agents_config['chart_generation_agent'],
+  allow_code_execution=True
+)
+```
+When it is set to true, it isolates the code writing and execution in docker environment. 
+
+Now let's test the crew by using gpt-4o as a judge.
+
+```python
+support_report_crew.test(n_iterations=1, openai_model_name='gpt-4o')
+```
+
+After scoring the tasks, we might want to train it by providing feedback. Although they call it training, it seems a way to iterate your prompts, which then will be included in the memory. For instance, in the video they ask for better suggestions, include comparison results in tables and also integrate the plots at the end of the report. 
+
+## Multi-model use cases
+
+You can have agents powered by smaller models while other models can be powered by larger models or fine tuned models.
+
+## Content creation at scale
+
