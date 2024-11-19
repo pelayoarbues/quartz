@@ -190,4 +190,20 @@ For complex flows we may want to use annotations such as:
 
 Favor speed or quality, but we aim for consistency. Speed usually comes from smaller models, that are cheaper to run. In terms of quality, we usually use more capable models such as GPT. 
 
-In any case, we need consistency of the system in terms of speed or quality. crewAI incorporates the test command that allows to use a Judge LLM to evaluate and get a final report of the agents, the tasks and the scores. 
+In any case, we need consistency of the system in terms of speed or quality. crewAI incorporates the test command that allows to use a Judge LLM to evaluate and get a final report of the agents, the tasks and the scores. Note of the author: Watchout with this form of evaluating agents and LLMs, follow Hamel Hussain recommendations: [Your AI Product Needs Evals](literature-notes/Articles/Your%20AI%20Product%20Needs%20Evals.md)
+
+crewAI now also incorporate a train feature. When you hit train, the crew will run and for each task, it will stop and ask for feedback. Once you are doing writing feedback it will be fed to a judge LLM which will extract the specific feedback for each task and it will push that into the crew Memory. So in next rounds the agents will rely on memory to tune how they respond for each task. 
+
+## Support data insight analysis
+
+We will be using support data. We will be trying to answer:
+- Who are the customers?
+- Who is helping from our team?
+- Issue types?
+- Issue descriptions?
+- Frustrations?
+
+It will be able to plot visualizations of the data. 
+
+Agents and tasks included:
+![](literature-notes/Courses/attachments/data-analysis.png)
