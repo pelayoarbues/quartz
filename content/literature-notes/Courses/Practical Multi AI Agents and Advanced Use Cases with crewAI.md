@@ -207,3 +207,12 @@ It will be able to plot visualizations of the data.
 
 Agents and tasks included:
 ![](literature-notes/Courses/attachments/data-analysis.png)
+
+In this case, the crew will do:
+- Go over a series of data from support
+- Generate suggestions for improvements
+- Organize the data into tabular insights
+- Plot charts to visualize trends
+- Write a full final report on the analysis
+
+In this case it will be use GPT-4o as we need a powerful model to code and work. For the chart generation, it activates the allow_code_execution option. 
