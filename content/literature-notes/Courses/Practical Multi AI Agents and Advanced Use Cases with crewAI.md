@@ -239,3 +239,16 @@ You can have agents powered by smaller models while other models can be powered 
 
 ## Content creation at scale
 
+In this lecture we build a crew that writes content on trending topics so it will be using Serper to connect to the internet and also RAG for Web pages. It will also use Groq for really speedy market and data analyst agents.
+
+![](literature-notes/Courses/attachments/content-creation.png)
+
+Content creation at scale:
+- Search for the latest news around a financial topic
+- Search and analyze any market data around it
+- Create content for social media
+- Create a full blog post on the topic
+- Review the blog to make sure it's good
+
+
+
