@@ -1,5 +1,5 @@
 ---
-author: [[@emollick on Twitter]]
+author: [[emollick on Twitter]]
 title: "I Keep Hearing From Exec..."
 date: 2024-11-02
 tags: 
