@@ -252,3 +252,24 @@ Content creation at scale:
 
 # Agentic Workflows in Industry
 With Jacob Wilson, Commercial GenAI CTO at PWC. 
+
+From in house built platform to CrewAI, CrewAI low barrier entry very easy to generate , for DS it aslo provides flexibility to DS. 
+
+Use cases:
+- Real time feedback and incorporate it into the solutions.
+- ROI of consultants vs agents doing the same tasks. 
+- Code generation, real time validation of code, analysie log output and feedback to better code generation
+- Change management is the hardest part, making employees get used to streamline agent workflows within their processes. 
+- Critical factor to success, all about accuracy and user experience, trust is lost really quickly and then it is hard to grow that trust back. 
+- Simple then complex, crawl, walk run. 
+# Generate deploy and monitor crews
+
+how to actually bring agentic systems into production. 
+
+Use a crewai cli to create a new project structure. 
+
+Deploying the crews from local to production, it gives CrewAI= that you can launch with CrewAI+ using ```crewai deploy```. It creates an API so you can call it from Slack, Zapier or anything from where you want to use. 
+
+## Blog post crew in production
+
+It creates a crew from scratch using the CLI, install all required dependencies and execute the crew. 
