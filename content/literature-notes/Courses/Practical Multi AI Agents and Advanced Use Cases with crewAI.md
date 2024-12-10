@@ -1,98 +1,119 @@
 ---
 title: Multi AI agent systems with CrewAI
-date: 2024-11-12
+date: 2024-12-11
 tags:
   - literature-note
   - course
   - agents
   - AI
 ---
-## Overview of Multi AI-Agent Systems
 
-Use cases and verticals
+# Overview of Multi AI-Agent Systems
 
-![](literature-notes/Courses/attachments/operations-automations.png)
+## Use Cases and Verticals
 
-Long tail use cases show general patterns:
+### General Patterns of Long-Tail Use Cases:
 - Research
 - Analysis
-- Summary
+- Summarization
 - Reporting
-- Push to an existing systems
-![](literature-notes/Courses/attachments/use-cases-stages.png)
+- Integration with existing systems
 
-Then it goes with a description of the main elements of CrewAI that you can check from the first course
+![Operations Automations](literature-notes/Courses/attachments/operations-automations.png)  
+![Use Case Stages](literature-notes/Courses/attachments/use-cases-stages.png)
 
-A new addition is the ability to create Agents and Tasks using yaml files. 
+The course also provides a description of the main elements of CrewAI, which you can refer to in the first course. A new addition discussed here is the ability to create **Agents** and **Tasks** using YAML files.
 
-## Automate Project: Planning, Estimation and Allocation
+## Automating Project: Planning, Estimation, and Allocation
 
+| **Agents**            | **Tasks**           |
+| ---------------------- | ------------------- |
+| Project Planner        | Task breakdown      |
+| Estimation Analyst     | Time estimation     |
+| Allocation Strategist  | Resource allocation |
 
-| Agents                | Tasks               |
-| --------------------- | ------------------- |
-| Project Planner       | Task breakdown      |
-| Estimation Analyst    | Time Estimation     |
-| Allocation Strategist | Resource allocation |
+### Output:
+The output will be a project plan detailing tasks, resource allocations, milestones, and responsibilities. Eventually, this plan can be pushed to platforms like Trello or Jira.
 
-The output will be a project plan with tasks/allocations and milestones with the people responsible. Eventually we will be able to push the project to Trello or Jira. 
+### Key Features:
+1. **Cost Efficiency:** Uses `gpt-4o-mini` for reduced costs.
+2. **Task Definition:** Agents and tasks are defined using YAML files.
+3. **Structured Outputs:** Utilizes Pydantic classes for structured data representation.
 
-It uses gpt-4o-mini for reduced costs.
+## Internal and External Integrations
 
-It loads the agents and tasks with yaml files. For structured output it uses pydantic classes. 
+### Pre-Crew Integrations:
+Sometimes integrations are performed before calling CrewAI—this involves regular code execution.
 
-## Internal and external integrations
+### Challenges with External Systems:
+When agents need to interact with external systems such as applications, cloud services, or internal databases/apps, they may need to perform actions like:
+- Internet searches
+- Calendar checks
+- Email replies
+- Running SQL queries
+- Triggering side effects (e.g., updates in external systems)
+  
+In some cases, agents may even write custom code dynamically.
 
-Sometimes you will have integrations before calling the Crew, that is regular code.
+### Real-Time Reaction & Self-Healing:
+Agents are equipped with real-time reaction capabilities and self-healing mechanisms. If a tool fails during execution, agents can detect errors and attempt alternative solutions automatically.
 
-The problem is when the crew needs to call external systems such as applications, cloud services or internal systems such as databases or internal apps. So they might be needing to search the internet or check a calendar or reply an email. They may also need to rag search, or run an sql query or trigger a side effect. Somtimes you will like to allow agents to write custom code.
+## Progress Reporting for Projects
 
-Real time reaction and self healing capabilities. If the tool fails, the agents will be able to pick up the error and try differently.
+This feature automates the creation of project progress reports.
 
-### Building progress report for project
+| **Agents**         | **Tasks**              | **Tools Used**  |
+| ------------------- | ---------------------- | --------------- |
+| Data Collector      | Understand project     |                 |
+| Project Analyst     | Analyze progress       | Trello Tool     |
+| Project Analyst     | Compile report         |                 |
 
-Automates the progress report of a project
+# Complex Crew Setups
 
-| Agents          | Tasks              | Tools       |
-| --------------- | ------------------ | ----------- |
-| Data collector  | Understand project |             |
-| Project Analyst | Analyze progress   | Trello Tool |
-| Project Analyst | Compile report     |             |
+In this section, the instructor explains how to connect multiple crews together using conditional logic and when/how to pass information between crews.
 
-# Complex crew setups
+![Crews of Agents](literature-notes/Courses/attachments/types-of-crews.png)
 
-In this video the instructor shares how in this lesson we will talk about connecting multiple crews together using conditional logic, and when to pass information between crews. 
+### Example Scenario: Research + Analysis + Summary Workflow
+1. Perform parallel research on independent topics (e.g., company research vs. industry trends).
+2. Use data from both researchers for combined analysis.
+3. Generate summaries based on analysis results.
+4. Compile a final full report that integrates all analyses and summaries.
 
-ADD Screenshot of crews of agents
+Flows unlock numerous use cases by allowing you to execute Python code before, during, or after crew execution.
 
-Say you want to research on different topics, these could be done in parallel, as the multiple sources dont depend on each other. For instance on a company and in an industry. Then you want to do some analysis using data from both rsearchers, using context attribute. Then you can do a summary. In the final full report we might want to take into account all analysis and summarization. 
+## Agentic Sales Pipeline
 
-Flows unlocks many use cases. Flows allows you to have crews and executing python code before, during or after crew running. 
+We use flows to build an agentic sales pipeline that includes lead generation, enrichment, scoring, and email outreach.
 
-## Agentic sales pipeline
+![Flows](literature-notes/Courses/attachments/flows.png)
 
-![](literature-notes/Courses/attachments/types-of-crews.png)
-We will use flows to build and agentic sales pipleine. We are going to have lead information, enrich it, score it and then write an email for this lead.
+### Workflow Steps:
+1. Load leads from a database (using regular Python).
+2. Use a "Lead Scoring" crew to gather information about each lead.
+   - Assess how well each lead matches your product/business goals.
+3. Save scored leads into another database (non-agentic Python).
+4. Create an email-writing crew for high-scoring leads.
+5. Wrap everything within a flow that manages state across execution steps.
 
-![](literature-notes/Courses/attachments/flows.png)
+#### Sales Pipeline Steps:
+1. Research potential leads.
+2. Score them based on individual/company attributes.
+3. Send an initial email if they qualify as high-value leads.
 
-We will be starting loading leads from a database with regular python. Then we weill use a Lead scoring crew. This crew will search information about this lead, is going to understand how to be scoring and how good of a match this is for the product and business youa are trying to sell them. Then we are going to save this data to another database which can be non-agentic python. Then we might want to have another crew devoted to write an email to the high scored leads. We will wrap all of this within a flow, that will go thorugh all the steps and it also has a state where it can store information that it can use during the flow execution or after the execution. The sales pipelines would be:
-- Research a potential lead
-- Score them given the person and company
-- If a qualified lead then a proper initial email
+#### Visualization Example:
 
-We could create a diagram of this flow as follows:
+![Agentic Sales Flow Diagram](literature-notes/Courses/attachments/agentic-sales-flow%201.png)
 
-![](literature-notes/Courses/attachments/agentic-sales-flow%201.png)
+The "Lead Scoring" crew generates highly structured outputs so that the "Email Writing" crew can draft optimized emails for engagement purposes.
 
-The lead scoring crew will pass a highly structured output for the high score leads so the email writing crew is able to draft and optimize an email for engagement. 
+## Introduction to Flows in CrewAI
 
-Intro to flows. Two functions:
-- Listen
-- Start
+Flows have two key functions:  
+1. `@start`: Marks the initial function in the flow (e.g., pulling leads from a database).  
+2. `@listen`: Listens for specific events or outputs from other functions in the flow pipeline.
 
-The start annotation will be the initial function, for instance pulling leads from a database. 
-
-Following the data fetching a new function for lead scoring will be listening to the fetch_leads start function. It also shows how the score_leads function is calling a kickoff_for_each of the fetched leads. The functions may also save information in a self.state variable. 
+Example Code Implementation:
 
 ```python
 from crewai import Flow
@@ -101,8 +122,8 @@ from crewai.flow.flow import listen, start
 class SalesPipeline(Flow):
     @start()
     def fetch_leads(self):
-        # Pull our leads from the database
-        leads = [
+        # Pull leads from the database
+        return [
             {
                 "lead_data": {
                     "name": "João Moura",
@@ -113,163 +134,128 @@ class SalesPipeline(Flow):
                 },
             },
         ]
-        return leads
 
     @listen(fetch_leads)
     def score_leads(self, leads):
         scores = lead_scoring_crew.kickoff_for_each(leads)
         self.state["score_crews_results"] = scores
         return scores
-	#The following 2 functions will run in parallel
-	# We will store the scored leads and we will filter
-	# those above a 70 score
+        
+    # Parallel Functions: Store scored leads & filter high-scoring ones
     @listen(score_leads)
     def store_leads_score(self, scores):
-        # Here we would store the scores in the database
         return scores
-
+    
     @listen(score_leads)
     def filter_leads(self, scores):
         return [score for score in scores if score['lead_score'].score > 70]
 
     @listen(filter_leads)
     def write_email(self, leads):
-        scored_leads = [lead.to_dict() for lead in leads]
-        emails = email_writing_crew.kickoff_for_each(scored_leads)
+        emails = email_writing_crew.kickoff_for_each([lead.to_dict() for lead in leads])
         return emails
-
+    
     @listen(write_email)
     def send_email(self, emails):
-        # Here we would send the emails to the leads
+        # Send emails here
         return emails
-
+        
 flow = SalesPipeline()
 ```
 
-You can plot flows to understand the flow execution plan.
-
-For complex flows we may want to use annotations such as:
-- and_: Waits for two functions to finish before executing the other. 
+Additional Flow Annotations:  
+1. `and_`: Waits for two functions before executing another function.
 ```python
-  @listen(and_(filter_leads, store_leads_score))
-  def log_leads(self, leads):
+@listen(and_(filter_leads, store_leads_score))
+def log_leads(self, leads):
     print(f"Leads: {leads}")
 ```
-- router: it allows you to choose different paths for the flow, executing different functions for each path
-```python
- @router(filter_leads, paths=["high", "medium", "low"])
-  def count_leads(self, scores):
-    if len(scores) > 10:
-      return 'high'
-    elif len(scores) > 5:
-      return 'medium'
-    else:
-      return 'low'
+2. `router`: Routes flow paths based on conditions (e.g., high-, medium-, low-priority paths).
 
-  @listen('high')
-  def store_in_salesforce(self, leads):
-    return leads
+## Performance Optimization  
 
-  @listen('medium')
-  def send_to_sales_team(self, leads):
-    return leads
+Key trade-offs involve balancing speed vs quality while maintaining consistency:  
+1. Speed is achieved through smaller models (cheaper but less capable).  
+2. Quality comes from larger models like GPT but at higher costs/resources.
 
-  @listen('low')
-  def write_email(self, leads):
-    scored_leads = [lead.to_dict() for lead in leads]
-    emails = email_writing_crew.kickoff_for_each(scored_leads)
-    return emails
+CrewAI includes tools like `test` commands that allow Judge LLMs to evaluate agent performance systematically via scoring reports.
 
-  @listen(write_email)
-  def send_email(self, emails):
-    # Here we would send the emails to the leads
-    return emails
-```
+### Training Agents via Feedback:
+CrewAI's training feature enables iterative improvements by collecting feedback during task execution cycles:
+1. Feedback is processed by Judge LLMs.
+2. Extracted insights are stored in memory so agents improve over time without manual intervention in future runs.
 
-## Performance optimization
+## Support Data Insight Analysis  
 
-Favor speed or quality, but we aim for consistency. Speed usually comes from smaller models, that are cheaper to run. In terms of quality, we usually use more capable models such as GPT. 
+This module focuses on analyzing support-related data by answering questions such as:  
+- Who are our customers?  
+- What issues do they face?  
+- What frustrations exist?  
 
-In any case, we need consistency of the system in terms of speed or quality. crewAI incorporates the test command that allows to use a Judge LLM to evaluate and get a final report of the agents, the tasks and the scores. Note of the author: Watchout with this form of evaluating agents and LLMs, follow Hamel Hussain recommendations: [Your AI Product Needs Evals](literature-notes/Articles/Your%20AI%20Product%20Needs%20Evals.md)
+The process includes generating insights via tabular data representation or visualizations (charts), along with suggestions for improvement compiled into final reports using GPT-powered agents (`GPT-4o`).
 
-crewAI now also incorporate a train feature. When you hit train, the crew will run and for each task, it will stop and ask for feedback. Once you are doing writing feedback it will be fed to a judge LLM which will extract the specific feedback for each task and it will push that into the crew Memory. So in next rounds the agents will rely on memory to tune how they respond for each task. 
-
-## Support data insight analysis
-
-We will be using support data. We will be trying to answer:
-- Who are the customers?
-- Who is helping from our team?
-- Issue types?
-- Issue descriptions?
-- Frustrations?
-
-It will be able to plot visualizations of the data. 
-
-Agents and tasks included:
-![](literature-notes/Courses/attachments/data-analysis.png)
-
-In this case, the crew will do:
-- Go over a series of data from support
-- Generate suggestions for improvements
-- Organize the data into tabular insights
-- Plot charts to visualize trends
-- Write a full final report on the analysis
-
-In this case it will be use GPT-4o as we need a powerful model to code and work. For the chart generation, it activates the allow_code_execution option. 
+Example Configuration:
 
 ```python
 chart_generation_agent = Agent(
   config=agents_config['chart_generation_agent'],
-  allow_code_execution=True
+  allow_code_execution=True  # Enables isolated Docker-based code execution 
 )
 ```
-When it is set to true, it isolates the code writing and execution in docker environment. 
 
-Now let's test the crew by using gpt-4o as a judge.
+Testing Example:
 
 ```python
-support_report_crew.test(n_iterations=1, openai_model_name='gpt-4o')
+support_report_crew.test(n_iterations=1,
+                         openai_model_name='gpt-4o')
 ```
 
-After scoring the tasks, we might want to train it by providing feedback. Although they call it training, it seems a way to iterate your prompts, which then will be included in the memory. For instance, in the video they ask for better suggestions, include comparison results in tables and also integrate the plots at the end of the report. 
+Feedback during training helps refine tasks/prompting strategies iteratively by incorporating user suggestions into memory-based improvements over time.
 
-## Multi-model use cases
+## Multi-model Use Cases  
 
-You can have agents powered by smaller models while other models can be powered by larger models or fine tuned models.
+You can deploy multi-model setups where smaller models handle simpler tasks while larger/fine-tuned models tackle more complex ones—optimizing cost-performance trade-offs dynamically across workflows.
 
-## Content creation at scale
 
-In this lecture we build a crew that writes content on trending topics so it will be using Serper to connect to the internet and also RAG for Web pages. It will also use Groq for really speedy market and data analyst agents.
+## Content Creation at Scale  
 
-![](literature-notes/Courses/attachments/content-creation.png)
+This module demonstrates how agents create content on trending topics at scale using tools like Serper (for internet search), RAG methods (retrieval augmented generation), and Groq hardware accelerators for faster processing speeds:
 
-Content creation at scale:
-- Search for the latest news around a financial topic
-- Search and analyze any market data around it
-- Create content for social media
-- Create a full blog post on the topic
-- Review the blog to make sure it's good
+Workflow Includes:  
+1. Searching news related to financial topics.
+2. Analyzing market data trends around these topics.
+3. Creating social media content & blog posts based on findings.
+4. Reviewing generated content for quality assurance before publishing it online!
 
-# Agentic Workflows in Industry
-With Jacob Wilson, Commercial GenAI CTO at PWC. 
+![Content Creation Workflow](literature-notes/Courses/attachments/content-creation.png)
 
-From in house built platform to CrewAI, CrewAI low barrier entry very easy to generate , for DS it aslo provides flexibility to DS. 
 
-Use cases:
-- Real time feedback and incorporate it into the solutions.
-- ROI of consultants vs agents doing the same tasks. 
-- Code generation, real time validation of code, analysie log output and feedback to better code generation
-- Change management is the hardest part, making employees get used to streamline agent workflows within their processes. 
-- Critical factor to success, all about accuracy and user experience, trust is lost really quickly and then it is hard to grow that trust back. 
-- Simple then complex, crawl, walk run. 
-# Generate deploy and monitor crews
+Here’s your revised version of the initial notes you provided. I’ve improved grammar, sentence structure, and clarity for better readability and understanding:
 
-how to actually bring agentic systems into production. 
+# Agentic Workflows in Industry  
+**Instructor:** Jacob Wilson, Commercial GenAI CTO at PWC  
 
-Use a crewai cli to create a new project structure. 
+## From In-House Platforms to CrewAI  
+CrewAI offers a low barrier to entry, making it very easy to generate agentic workflows. For data scientists (DS), it also provides flexibility in designing and deploying solutions.
 
-Deploying the crews from local to production, it gives CrewAI= that you can launch with CrewAI+ using ```crewai deploy```. It creates an API so you can call it from Slack, Zapier or anything from where you want to use. 
+### Use Cases:  
+- **Real-Time Feedback:** Incorporate user feedback into solutions dynamically.  
+- **Cost Comparison:** Measure the ROI of consultants versus agents performing the same tasks.  
+- **Code Generation:** Automate code creation with real-time validation, log output analysis, and iterative improvements for better code quality.  
+- **Change Management Challenges:** The hardest part is getting employees accustomed to streamlined agent workflows within their existing processes.  
+- **Critical Success Factors:** Accuracy and user experience are paramount. Trust can be lost quickly if the system fails, and regaining that trust can be challenging.  
+- **Adoption Strategy:** Start simple before scaling complexity—follow a "crawl, walk, run" approach.
 
-## Blog post crew in production
 
-It creates a crew from scratch using the CLI, install all required dependencies and execute the crew. 
+# Generating, Deploying, and Monitoring Crews  
+### Bringing Agentic Systems into Production:  
+1. Use the CrewAI CLI to create a new project structure.
+2. Deploy crews seamlessly from local environments to production using the `crewai deploy` command.
+3. This deployment process creates an API that can be integrated with tools like Slack, Zapier, or any other platform where you want to use agentic workflows.
+
+## Blog Post Crew in Production  
+
+The blog post crew demonstrates how to create an agentic workflow from scratch:  
+1. Use the CLI to set up a new crew project.
+2. Install all required dependencies automatically.
+3. Execute the crew for end-to-end functionality.
