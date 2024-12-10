@@ -250,5 +250,5 @@ Content creation at scale:
 - Create a full blog post on the topic
 - Review the blog to make sure it's good
 
-
-
+# Agentic Workflows in Industry
+With Jacob Wilson, Commercial GenAI CTO at PWC. 
