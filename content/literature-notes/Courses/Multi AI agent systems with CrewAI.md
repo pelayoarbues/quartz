@@ -63,8 +63,6 @@ Customer support automation is a prime use case with high potential.
 **Focus**: Agents stay in character, enhancing performance.  
 **Cooperation**: The QA agent can delegate tasks back to the support agent. The instructor recommends always incorporating a QA agent to handle undesirable behavior at inference time.
 
-> _Add screenshot._
-
 It’s important to note that delegation isn’t hardcoded; we rely on the LLM to make good decisions.
 
 **Tools Package**: Includes internet search, retrieval-augmented generation (RAG), and website scraping. Tools can be assigned at different levels:
