@@ -7,7 +7,7 @@ tags:
 ---
 2024 has been one of the years I’ve read the most long texts. In previous years, I spent a lot of time reading tweets, blog posts, and newsletters. At the end of 2023, I decided to quit scrolling social media after dinner. Instead, I started picking up books.
 
-At first, I focused heavily on non-fiction. It was amazing because I was learning new concepts I could apply directly to my role. It also sparked ideas about improving my management skills. The problem: it felt like consuming a high dose of caffeine. Instead of relaxing me for sleep, it often had the opposite effect. I became alert and anxious to jot down all the new ideas flooding in.
+At first, I focused heavily on non-fiction. It was amazing because I was learning new concepts I could apply directly to my role. It also sparked ideas about improving my [management](notes/Essential%20Books%20for%20New%20Managers%20in%20Tech.md) skills. The problem: it felt like consuming a high dose of caffeine. Instead of relaxing me for sleep, it often had the opposite effect. I became alert and anxious to jot down all the new ideas flooding in.
 
 So, I adjusted my reading routine. I now start my bedtime reading with a non-fiction book and then switch to fiction. Most nights, I transition when I start to feel drowsy, though sometimes a particularly engaging book keeps me hooked for longer. On those occasions, I found myself struggling to fall asleep or dreaming about work, which left me feeling tired the next morning. Switching to fiction just before sleeping turned out to be a game-changer, it made falling asleep easier and brought me back to enjoying novels.
 
