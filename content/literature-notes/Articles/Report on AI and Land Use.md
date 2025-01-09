@@ -24,3 +24,6 @@ tags:
   5/ Promote knowledge sharing and cross-discipline collaboratio. ([View Highlight](https://read.readwise.io/read/01jh5gvz18jspxbap0q6q03hyq))
 
 
+## New highlights added January 9, 2025 at 2:33 PM
+- LLMs, for example, are not very good at geography (there is a reason why the second L is not a G!). Before we jump in and take them off-the-self, we think there is work to do to develop the “Geography curriculum” we’d like these models to know when they help folks on spatial domains. And others seem more obvious than they actually are. Suggesting in 2024 that satellite data be used for land use change may cause unreparable eye-rolls among land use experts who’ve been doing this in an academic context for several decades. Yet there is still very little of it that has made it into “production” at scale, particularly in non environmental and physical domains such as cities and society. So think twice before sending your eyes upwards. ([View Highlight](https://read.readwise.io/read/01jh5gwjkf6674gx28g9tmst2p))
+
