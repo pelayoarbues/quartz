@@ -8,7 +8,6 @@ tags:
 ---
 
 Desde junio de 2020 cada semana trato de tener una conversación con personas desconocidas que me contactan para charlar conmigo sobre distintos temas relacionados con el mundo de los datos. La mayoría de las charlas son con perfiles junior que no tienen claro cómo empezar/formarse o que quieren empezar/hacer la transición a un puesto de Ciencia de datos.
-
   
 Estas conversaciones me aportan mucho pero sobre todo me han ayudado a ser más sensible a la distinta velocidad a la que va el mercado de Data Scientists según la experiencia del candidato. Según testimonios sacados de estas conversaciones, y de otras mantenidas con gente de mi red, entre los años 2015 y 2019 un Data Scientist sin apenas experiencia lograba encontrar y aterrizar en posiciones abiertas sin mucha dificultad. A partir de ese año empiezo a observar que el proceso de entrar a un primer empleo comienza a ser algo más difícil. Esto se debe principalmente a la proliferación de formaciones en Data Science que han dado lugar a una bolsa grande de aspirantes que compiten de manera intensa por su primera posición.
 
