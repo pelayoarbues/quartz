@@ -13,11 +13,11 @@ Initially, I wasn't certain if anyone would be interested in speaking with me. H
 
 Since then, up until September 2024, I've had over 90 conversations with people I've never met. Most of these individuals wished to discuss one of the following topics:
 
-- Career advice: [What to study to become a data professional](writing/Data%20Science%20Fundamentals.md), the data roles market, [how to build a strategy to land your first data job](Buscas%20tu%20primer%20empleo%20de%20Ciencia%20de%20Datos.md) , recommendations about companies/sectors, moving to management from a technical role...
+- Career advice: [What to study to become a data professional](writing/Data%20Science%20Fundamentals.md), the data roles market, [how to build a strategy to land your first data job](notes/Strategies%20for%20Landing%20Your%20First%20Job%20in%20Data%20Science.md) , recommendations about companies/sectors, moving to management from a technical role...
 
 - Dataholic Anonymous meetings with individuals who have a similar level of experience. It's great to share pain points and challenges with others. It's quite a relief to realize that you're not the only one experiencing certain issues and to feel understood by a peer.
 
-- Team management: [The difficulties of expanding a team](Como%20contratar%20DS%20y%20no%20desesperar%20en%20el%20intento.md), explaining the ROI to the board, selecting battles to fight, and more.
+- Team management: [The difficulties of expanding a team](notes/How%20to%20Hire%20Data%20Scientists%20Without%20Losing%20Your%20Mind.md), explaining the ROI to the board, selecting battles to fight, and more.
 
 - Data product management: [How to uncover opportunities](Make'em%20talk%20with%20prototypes.md), [working with other roles](Data%20teamwork%20as%20a%20transport%20service.md), [managing data projects](Agile%20for%20Data%20Science.md), and more.
 
