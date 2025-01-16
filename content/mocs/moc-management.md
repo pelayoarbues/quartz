@@ -13,7 +13,7 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 
 - [Radical Candor and Crucial Conversations](Radical%20Candor%20and%20Crucial%20Conversations.md)
 - [Glue work](Glue%20work.md)
-- [Como contratar DS y no desesperar en el intento](Como%20contratar%20DS%20y%20no%20desesperar%20en%20el%20intento.md)
+- [How to Hire Data Scientists Without Losing Your Mind](notes/How%20to%20Hire%20Data%20Scientists%20Without%20Losing%20Your%20Mind.md)
 - [Mentoring as a form of leverage](Mentoring%20as%20a%20form%20of%20leverage.md)
 - [Different managerial styles](Different%20managerial%20styles.md)
 
@@ -58,7 +58,7 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [Write well to solve problems](Write%20well%20to%20solve%20problems.md)
 - [Understanding low level data science](Understanding%20low%20level%20data%20science.md)
 - [Career advice on skill acquisition](Career%20advice%20on%20skill%20acquisition.md)
-- [Buscas tu primer empleo de Ciencia de Datos](Buscas%20tu%20primer%20empleo%20de%20Ciencia%20de%20Datos.md)
+- [Strategies for Landing Your First Job in Data Science](notes/Strategies%20for%20Landing%20Your%20First%20Job%20in%20Data%20Science.md)
 - [My failure resume](My%20failure%20resume.md)
 
 # Data Strategy
