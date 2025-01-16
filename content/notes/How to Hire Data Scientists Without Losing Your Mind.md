@@ -21,7 +21,7 @@ If you take this approach, you might overlook whether this person truly fits you
 
 Take the time to identify upcoming projects, future opportunities, your team’s strengths/weaknesses in key skills, and how different personalities or experiences could enhance problem-solving diversity.
 
-Through this exercise, you may realize that what you need isn’t a DS at all—it might be a Data Engineer (or two). Or perhaps your team already has enough white male economists. Maybe what you really need is a DS with more engineering skills ([Type B](https://medium.com/@jamesdensmore/there-are-two-types-of-data-scientists-and-two-types-of-problems-to-solve-a149a0148e64)) rather than analytical skills (Type A).
+Through this exercise, you may realize that what you need isn’t a DS at all, it might be a Data Engineer (or two). Or perhaps your team already has enough white male economists. Maybe what you really need is a DS with more engineering skills ([Type B](https://medium.com/@jamesdensmore/there-are-two-types-of-data-scientists-and-two-types-of-problems-to-solve-a149a0148e64)) rather than analytical skills (Type A).
 
 ## Make the Hiring Process Memorable
 
