@@ -37,7 +37,7 @@ Similarly, LLMs and Large Vision Models (LVMs) have significantly lowered the ba
 
 Currently, the high computational costs of combining different LLMs limit such applications. However, with ongoing investments in infrastructure and the historical trend of decreasing computational costs, we can expect the cost of runing inference on multi-agent architectures to drop rapidly. If this happens, we will likely see a shift toward more compute-intensive algorithms, even at the expense of classical solutions that require greater expertise to implement.
 
-In the end, we may not need ultra-powerful LLMs. Binary trees are a simple tool but have proven to be incredibly effective when combined intelligently. Perhaps the future lies in combining weak LLMs and ensembling them in a bagging or boosting fashion. 
+In the end, we may not need ultra-powerful LLMs. Binary trees are a simple tool but have proven to be incredibly effective when combined intelligently. Perhaps the future lies in turning weak LLMs into strong learners by ensembling them in a bagging or boosting fashion.
 
 Are these agents truly intelligent? No. Does that matter? Not entirely. Have we ever considered binary trees to be “smart”? Probably not, because we don’t interact with them conversationally. Yet they’ve always been part of what we call Artificial Intelligence. Don’t be surprised if, in the coming years, we see a surge in pooling, averaging, or ensembling agents powered by “dumb” LLMs.
 
